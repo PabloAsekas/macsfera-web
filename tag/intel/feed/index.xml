@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Intel &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/intel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:51:16 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</title>
+		<link>https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 03 Apr 2018 07:38:31 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[ARM]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Marc Gurman]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Procesadores]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16818</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a></p>
+<p>Agarrémonos bien fuerte porque vienen curvas. Mark Gurman e Ian King han publicado un adelanto de los planes de futuro de Apple</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a></p>
+<div id="attachment_16820" style="width: 2506px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/04/03092528/Steve-Jobs-y-Paul-Otellini-Apple-Intel.jpeg"><img aria-describedby="caption-attachment-16820" src="https://cdn.macsfera.com/wp-content/uploads/2018/04/03092528/Steve-Jobs-y-Paul-Otellini-Apple-Intel.jpeg" alt="Steve Jobs y Paul Otellini Apple Intel" width="2496" height="1664" class="size-full wp-image-16820" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/04/03092528/Steve-Jobs-y-Paul-Otellini-Apple-Intel.jpeg 2496w, https://cdn.macsfera.com/wp-content/uploads/2018/04/03092528/Steve-Jobs-y-Paul-Otellini-Apple-Intel.jpeg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/04/03092528/Steve-Jobs-y-Paul-Otellini-Apple-Intel.jpeg 1024w" sizes="(max-width: 2496px) 100vw, 2496px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-16820" class="wp-caption-text">Imagen de <a href="https://flic.kr/p/8wr4c" target="_blank" rel="noopener noreferrer">JD Lasica</a></p></div>
+<p>Agarrémonos bien fuerte porque vienen curvas. <a target="_blank" href="https://www.bloomberg.com/news/articles/2018-04-02/apple-is-said-to-plan-move-from-intel-to-own-mac-chips-from-2020" rel="noopener noreferrer">Mark Gurman e Ian King han publicado</a> un adelanto de <strong>los planes de futuro de Apple en los que pretende abandonar Intel para reemplazarlos por sus propios procesadores.</strong></p>
+<blockquote class="enlace">
+<p>La iniciativa, llamada internamente Kalamata, está todavía en su fase inicial de desarrollo, pero forma parte de una estrategia mayor para hacer que todos los dispositivos de Apple – incluyendo Macs, iPhones y iPads – trabajen de una forma más similar y sin roces juntos, [&#8230;]. El proyecto, aprobado por los ejecutivos de la empresa, probablemente dará como resultado en una transición de varios pasos.</p>
+</blockquote>
+<p>Así es, la idea pues es reemplazar los procesadores Intel por procesadores diseñados por Apple que cumplan exactamente con sus exigencias y peticiones. Esto ya ocurre a día de hoy con los procesadores del iPhone, <a target="_blank" title="Nuevo iPad compatible con Apple Pencil" href="www.macsfera.com/resumen-y-opinion-de-la-keynote-lets-take-a-field-trip/?#nuevo-ipad-compatible-con-apple-pencil" rel="noopener noreferrer">iPad</a> y Apple Watch, y es que Apple buscaría exactamente lo mismo: <strong>controlar lo máximo posible el desarrollo y diseño del producto, al igual que hace con su software.</strong></p>
+<p>La parte bonita de este movimiento está muy clara: al no depender de Intel y poseer el control total sobre uno de los componentes más importantes de un ordenador, podemos obtener ventajas como: <strong>velocidad, eficiencia, eficacia, etc.</strong> Que a su vez nos podrían aportar mejoras de diseño, más rendimiento de la batería, más vida útil por equipo, etc.</p>
+<p>La parte menos bonita, y la que más me aterra, <strong>es ver cómo se gestiona la transición para con los desarrolladores.</strong> Un ordenador son sus aplicaciones, de nada nos sirve tener el equipo más rápido del mundo si las herramientas que usamos día a día no están adaptadas a la nueva arquitectura <sup class="modern-footnotes-footnote ">1</sup>. Todo esto son especulaciones, por supuesto, pero es un factor a tener muy en cuenta y que va a estar rondando por ahí hasta que Apple arroje más luz a este hecho.</p>
+<p><strong>Apple ha hecho un excelente trabajo a la hora de desarrollar sus propios procesadores,</strong> el resultado de dicho desarrollo se puede ver claramente en la ventaja potencial que presentan algunos iPad frente a algunos modelos de Mac. Y aunque no es lo mismo producir un procesador móvil que uno de un ordenador profesional, en ese sentido no hay porqué dudar de la compañía, pero hay otros muchos factores que sí que catalogan este movimiento como delicado cuanto menos.</p>
+<p>Puede que sea pronto aún, pero tal vez en <a target="_blank" title="La WWDC18 se celebrará del 4 al 8 de junio en San José" href="www.macsfera.com/la-wwdc18-se-celebrara-del-4-al-8-de-junio-en-san-jose/" rel="noopener noreferrer">la keynote de la WWDC’18</a> tengamos algunas noticias al respecto.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Por no hablar de otras implicaciones más profesionales a las que, como usuarios, no siempre llegamos a contemplar.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La gama MacBook vuelve a Apple con este nuevo modelo</title>
+		<link>https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 09 Mar 2015 22:45:59 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[AirDrop]]></category>
+		<category><![CDATA[AirPlay]]></category>
+		<category><![CDATA[AirPrint]]></category>
+		<category><![CDATA[Batería]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Diseño]]></category>
+		<category><![CDATA[Force Touch]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Intel Core M]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Nuevo]]></category>
+		<category><![CDATA[Personal Hotspot]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<category><![CDATA[Turbo Boost]]></category>
+		<category><![CDATA[USB C]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10276</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a></p>
+<p>En el evento del 9 de marzo, Apple ha revivido la gama MacBook con un nuevo Mac que va a reinventar el</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/14234750/MacBook.jpg" rel="attachment wp-att-13627"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/14234750/MacBook.jpg" alt="MacBook" width="1088" height="623" class="aligncenter size-full wp-image-13627" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/14234750/MacBook.jpg 1088w, https://cdn.macsfera.com/wp-content/uploads/2016/03/14234750/MacBook.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/14234750/MacBook.jpg 1024w" sizes="(max-width: 1088px) 100vw, 1088px" /></a></p>
+<p>En el evento del 9 de marzo, <strong>Apple ha revivido la gama MacBook con un nuevo Mac que va a reinventar el concepto de ordenador portátil</strong> según la empresa.</p>
+<p><span id="more-10276"></span></p>
+<h2>Diseño</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163346/Diseño-MacBook.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163346/Diseño-MacBook.jpeg" alt="Diseño MacBook" class="aligncenter size-full wp-image-10280" /></a></p>
+<p>Sin lugar a duda, esto es lo que más llama la atención del nuevo MacBook. <strong>Es un portátil ultra fino</strong> que en su lado más grueso mide 13,1 milímetros. Esta enorme reducción de grosor viene acompañado con un decremento del <strong>peso que pasa a ser de 0,9 Kg.</strong> A pesar de los grosores, <strong>equipa una pantalla de 12 pulgadas.</strong></p>
+<h3><a name="teclado">Teclado</a></h3>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163331/Teclado-MacBook.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163331/Teclado-MacBook.jpeg" alt="Teclado MacBook" class="aligncenter size-full wp-image-10285" /></a></p>
+<p>El MacBook <strong>incorpora un teclado de tamaño completo retroiluminado.</strong> Y para conseguir reducir lo máximo posible el grosor del dispositivo, Apple ha inventado un nuevo método de anclaje y pulsación de las teclas <strong>llamado mecanismo de mariposa</strong>, a su vez también ha rediseñado el grosor y tamaño de las teclas.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163333/sistema-tecla-mariposa.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163333/sistema-tecla-mariposa.gif" alt="sistema tecla mariposa" class="aligncenter size-full wp-image-10284" /></a></p>
+<p>En los modelos convencionales de Apple, los teclados usan un sistema llamado <em>tijera</em>, este mecanismo pierde precisión con el paso del tiempo y pueden hacer que cuando pulsemos una tecla en la esquina, la pulsación no se registre. Con el mecanismo de mariposa, no solo consiguen reducir el grosor, sino que <strong>aportan estabilidad a la pulsación y precisión en toda la superficie de la tecla.</strong></p>
+<p>Las teclas han reducido un 40% el grosor y han ampliado un 17% su anchura para facilitar la escritura. Además, el sistema de iluminado también ha sido rediseñado. Antes se iluminaba toda la fila de teclas, ahora se ha colocado un LED en cada una de las piezas para conseguir una iluminación homogénea.</p>
+<h3>Pantalla</h3>
+<p>No podía ser de otra forma, <strong>la pantalla que equipa el nuevo MacBook es Retina.</strong> Tiene una resolución de 2304&#215;1440 píxeles y un tamaño de 12 pulgadas. Para hacerla tan fina han tenido que crear un proceso nuevo de fabricación para dar forma al vidrio de tan solo 0,5 milímetros de grosor.</p>
+<p>Los píxeles también han sufrido cambios, su apertura es más grande y dejan pasar más luz consumiendo un 30% menos que cualquier otro Mac portátil.</p>
+<h3>Trackpad Force Touch</h3>
+<p><center><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163325/Trackpad-MacBook.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163325/Trackpad-MacBook.jpg" alt="Trackpad MacBook" class="aligncenter size-full wp-image-10290" /></a></center></p>
+<p>El trackpad es otro de los componentes que ha sufrido cambios. Todo Mac cuenta con uno y en este caso es uno especial: <strong>el trackpad Force Touch.</strong> La principal diferencia es que han reducido mucho su grosor, tanto que han perdido el click mecánico que tienen todos los modelos anteriores. Para suplir esta carencia, Apple <strong>ha inventado un sistema llamado <em>Taptic Engine</em></strong> que emite pequeñas vibraciones que emulan ese golpe mecánico.</p>
+<p>De esta manera sabremos cuando el sistema detecta el click, aunque físicamente no podamos diferenciarlo. Como el sistema es diferente al usado hasta ahora, podemos hacer click en cualquier parte que lo captará sin problema —los trackpads convencionales no pueden captar pulsaciones a medida que vas acercando el dedo al teclado por el sistema que usan.</p>
+<h3>Componentes</h3>
+<p>La placa base del MacBook es muy pequeña. Esto facilita el minúsculo diseño pero podría plantear problemas a la hora de genera calor ya que <strong>el portátil carece de ventiladores</strong> para la refrigeración —el primer Mac en no contar con ellos. La base es de grafito asinotrópico que ayuda a dispersar el calor generado por el procesador, el cual también está diseñado para consumir poco.</p>
+<h3>Batería</h3>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163353/Bateria-MacBook.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163353/Bateria-MacBook.jpeg" alt="Bateria MacBook" class="aligncenter size-full wp-image-10277" /></a></p>
+<p>La batería es uno de los componentes más importantes en un dispositivo portátil, por eso Apple dedica prácticamente toda la totalidad del espacio a una batería. Además, y como novedad, <strong>han conseguido que su <a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163327/bateria-escalonada-macbook.jpg" title="Batería escalonada MacBook" target="_blank" rel="noopener noreferrer">batería sea escalonada</a> para aprovechar al máximo el espacio</strong> y poder brindar 9 horas de navegación web y 10 horas de vídeos en iTunes.</p>
+<h3>Un puerto para dominarlos a todos</h3>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163336/Puerto-USB-C-MacBook.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163336/Puerto-USB-C-MacBook.jpeg" alt="Puerto USB C MacBook" class="aligncenter size-full wp-image-10283" /></a></p>
+<p><strong>El MacBook cuenta con un solo puerto USB de tipo C y con una entrada jack de 3,5 mm.</strong> Esta es la apuesta más radical que ha hecho Apple con este modelo y con el que quieren cambiar la forma en la que la gente entiende los ordenadores portátiles.</p>
+<p>Con este tipo de USB podremos <strong>cargar el ordenador, transferir archivos de forma rápida por USB 3.0 y compartir nuestra pantalla por HDMI, VGA y Mini DisplayPort.</strong> Apple ha apostado por la tecnología sin cables y pone al alcance de todos herramientas que nos facilitan la cooperación entre dispositivos de forma inalámbrica:</p>
+<ul>
+<li><strong>AirDrop</strong> para compartir archivos entre dispositivos siempre y cuando se encuentren cerca</li>
+<li><strong>iCloud</strong> para compartir y almacenar tus archivos en la nube estando siempre accesibles desde tus dispositivos</li>
+<li><strong>Bluetooth</strong> para conectar dispositivos inalámbricos como cascos o altavoces</li>
+<li><strong>AirPlay</strong> para compartir nuestra pantalla de forma inalámbrica con cualquier televisor</li>
+<li><strong>Hotspot</strong> para compartir el Internet de nuestro iPhone allá donde estemos</li>
+<li><strong>AirPrint</strong> para imprimir documentos con impresoras compatibles que estén en nuestra misma Wi-Fi</li>
+<li><strong>Time Machine</strong> para realizar copias de seguridad vía Wi-Fi usando las bases AirPort o Airport Time Capsule</li>
+</ul>
+<p>Todavía es pronto para poder disfrutar al 100% de este nuevo puerto USB C, por ello, Apple pone a la venta diferentes accesorios para pode utilizar un USB 3.0 o un cable VGA.</p>
+<h3>Colores</h3>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163351/Colores-MacBook.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163351/Colores-MacBook.jpeg" alt="Colores MacBook" class="aligncenter size-full wp-image-10278" /></a></p>
+<p>Por primera vez en un Mac, <strong>el MacBook viene disponible en tres colores.</strong> Los mismos tres colores que hay en dispositivos iOS: <strong>Plateado, Oro y Gris espacial.</strong></p>
+<h2>Hardware</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163329/hardware-MacBook.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163329/hardware-MacBook.jpg" alt="hardware MacBook" class="aligncenter size-full wp-image-10287" /></a></p>
+<p>El nuevo MacBook no está pensado para todos los públicos —eso es así— y si bien <strong>cuenta de base con 8GB de memoria Ram y 256GB de disco duro SSD,</strong> su nuevo procesador <strong>Intel Core M</strong> es limitado para según que tareas.</p>
+<p>Este nuevo procesador va desde los 1,1 GHz con Turbo Boost de hasta 2,4 GHz en su modelo inicial hasta los 1,2 GHz con Turbo Boost de hasta los 2,6 GHz pudiendo ampliarse a los 1,3 GHz con Turbo Boost de hasta 2,9 GHz.</p>
+<p>También cuenta con una gráfica Intel HD Graphics 5300, las últimas versiones de conexión Wi-Fi y Bluetooth, una cámara FaceTime a 480p, doble micrófono y altavoces estéreo.</p>
+<h2>Precio y disponibilidad</h2>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163343/MacBook-Dorado-y-gris-espacial.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163343/MacBook-Dorado-y-gris-espacial.jpeg" alt="MacBook Dorado y gris espacial" class="aligncenter size-full wp-image-10281" /></a></p>
+<p>El precio <strong>oscila entre los 1500€ en su modelo base y 1800 en su modelo más avanzado</strong> y estará disponible a partir del 10 de abril.</p>
+<h2>Objetivo fijado</h2>
+<p>Apple ha mostrado así su <a href="www.macsfera.com/apple-el-diseno-y-sus-adaptadores/" title="Apple, el diseño y sus adaptadores" target="_blank" rel="noopener noreferrer">deseo de continuar con la eliminación de puertos</a> y apostar por la tecnología inalámbrica. Además, <strong>demuestra todo su potencial con un increíble diseño y unas características nada despreciables.</strong> En un futuro trataré con más detalle el público al que está orientado este nuevo dispositivo.</p>
+<p>Más info | <a href="http://www.apple.com/es/macbook/" target="_blank" rel="noopener noreferrer">Apple</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fallos en Rosetta tras la actualización de seguridad de Snow Leopard</title>
+		<link>https://www.MacSfera.com/fallos-en-rosetta-tras-la-actualizacion-de-seguridad-de-snow-leopard/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2012 19:23:36 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización de Seguridad]]></category>
+		<category><![CDATA[Adobe Photoshop]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Fallo]]></category>
+		<category><![CDATA[FileMarker 7]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Microsoft Office 2004]]></category>
+		<category><![CDATA[Microsoft Office X]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Snow Leopard]]></category>
+		<category><![CDATA[Power PC]]></category>
+		<category><![CDATA[Quicke]]></category>
+		<category><![CDATA[Rosetta]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6297</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fallos-en-rosetta-tras-la-actualizacion-de-seguridad-de-snow-leopard/">Fallos en Rosetta tras la actualización de seguridad de Snow Leopard</a></p>
+<p>El pasado miércoles, junto con la actualización de OS X Lion, los usuarios de Snow Leopard recibieron una actualización del sistema clasificada</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fallos-en-rosetta-tras-la-actualizacion-de-seguridad-de-snow-leopard/">Fallos en Rosetta tras la actualización de seguridad de Snow Leopard</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fallos-en-rosetta-tras-la-actualizacion-de-seguridad-de-snow-leopard/">Fallos en Rosetta tras la actualización de seguridad de Snow Leopard</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/Rosetta.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/Rosetta.jpg" alt="" title="Rosetta" width="550" height="214" class="aligncenter size-full wp-image-6298" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/Rosetta.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/Rosetta-300x117.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>El pasado miércoles, junto con la <strong><a href="https://www.MacSfera.com/os-x-lion-10-7-3-disponible-con-solucion-de-errores-safari-5-1-3-y-traduccion-en-catalan/" title="Actualización de OS X Lion a la versión 10.7.3" target="_blank" rel="noopener noreferrer">actualización de OS X Lion</a></strong>, los usuarios de <strong>Snow Leopard</strong> recibieron una actualización del sistema clasificada como Actualización de Seguridad que provoca fallos en la aplicación Rosetta.</p>
+<p><span id="more-6297"></span></p>
+<p>Esta actualización corrige varios errores encontrados en <strong>OS X</strong> sobre la seguridad de este, aunque también <strong>provoca una series de fallos con aquellas aplicaciones Power PC que queramos correr gracias a Rosetta.</strong></p>
+<p>Algunos usuarios <strong>anuncian problemas en la aplicación</strong> incluyendo fallos al intentar utilizar los comandos para ejecutar los menús desplegables. <strong>Se reportan fallos en aplicaciones como Microsoft Office X y 2004, las versiones anteriores de Adobe Photoshop, Quicke, FileMarker 7 y otras aplicaciones.</strong></p>
+<p>Recordemos que <strong>Rosetta</strong> es una aplicación muy compleja y potente diseñada por <strong>Apple</strong> que permitía <strong>ejecutar programas y aplicaciones diseñadas para los modelos de Mac Power PC antes de dar el salto a Intel.</strong> <strong>Apple</strong> decidió no instalar <strong>Rosetta</strong> en <strong>Lion</strong> pero dejó la posibilidad de <strong><a href="www.macsfera.com/tag/snow-leopard" title="Snow Leopard" target="_blank" rel="noopener noreferrer">Snow Leopard</a></strong> y aunque pueda parecer raro sigue siendo muy usado.</p>
+<p>Tal y como se <a href="https://discussions.apple.com/thread/3706348" target="_blank" rel="noopener noreferrer">reportan</a> en los <strong>foros de Apple</strong>, un usuario está trabajando en el problema y <strong>ha conseguido crear un parche que solventa el problema, aunque por desgracia no funciona para todas las aplicaciones compatibles con Rosetta.</strong></p>
+<p>Los usuarios que se han puesto en contacto con el servicio técnico han obtenido distintas respuestas, una de ellas es que no saben cual es el problema, otra es que no hay problema y otra respuesta es que <strong>Rosetta</strong> ha dejado de lado su suporte en <strong>Snow Leopard</strong> pero <strong>esta última se descarta porque es una actualización de seguridad menor.</strong></p>
+<p>Vía | <a href="http://www.macrumors.com/2012/02/03/snow-leopard-security-update-kills-powerpc-apps-using-rosetta/" target="_blank" rel="noopener noreferrer">MacRumors</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fallos-en-rosetta-tras-la-actualizacion-de-seguridad-de-snow-leopard/">Fallos en Rosetta tras la actualización de seguridad de Snow Leopard</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Se encuentran acuerdos entre Apple, Google, Adobe, Intel y otras empresas para no robarse empleados</title>
+		<link>https://www.MacSfera.com/se-encuentran-acuerdos-entre-apple-google-adobe-intel-y-otras-empresas-para-no-robarse-empleados/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2012 16:01:01 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Acuerdo]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Demandas]]></category>
+		<category><![CDATA[Departamento de Justicia]]></category>
+		<category><![CDATA[Departamentos]]></category>
+		<category><![CDATA[Empleados]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Intuit]]></category>
+		<category><![CDATA[Lucasfilm]]></category>
+		<category><![CDATA[Pixar]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6252</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/se-encuentran-acuerdos-entre-apple-google-adobe-intel-y-otras-empresas-para-no-robarse-empleados/">Se encuentran acuerdos entre Apple, Google, Adobe, Intel y otras empresas para no robarse empleados</a></p>
+<p>El Departamento de Justicia de los Estados Unidos ha confirmado la existencia de un acuerdo informal entre Apple, Google, Adobe, Intel, Pixar,</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/se-encuentran-acuerdos-entre-apple-google-adobe-intel-y-otras-empresas-para-no-robarse-empleados/">Se encuentran acuerdos entre Apple, Google, Adobe, Intel y otras empresas para no robarse empleados</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/se-encuentran-acuerdos-entre-apple-google-adobe-intel-y-otras-empresas-para-no-robarse-empleados/">Se encuentran acuerdos entre Apple, Google, Adobe, Intel y otras empresas para no robarse empleados</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/01/Demanda-acuerdos-entre-Apple-y-Google.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/01/Demanda-acuerdos-entre-Apple-y-Google.jpg" alt="" title="Demanda acuerdos entre Apple y Google" width="550" height="371" class="aligncenter size-full wp-image-6253" srcset="https://www.MacSfera.com/wp-content/uploads/2012/01/Demanda-acuerdos-entre-Apple-y-Google.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/01/Demanda-acuerdos-entre-Apple-y-Google-300x202.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>El Departamento de Justicia de los Estados Unidos ha confirmado la existencia de un acuerdo informal entre <a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a>, Google, Adobe, Intel, Pixar, Lucasfilm e Intuit por los cuales no se podían robar a los empleados.</strong></p>
+<p><span id="more-6252"></span></p>
+<p>La alarma saltó en 2009 entre Google y <strong>Apple</strong>, pero <strong>no había constancia de una investigación alguna hasta el pasado 19 de enero.</strong> Según el documento oficial, estas empresas <strong>habían alcanzado acuerdos para evitar contratar a los empleados de unas u otras franquicias y para evitar luchar por una persona que fuese a ser contratada por otra compañía.</strong></p>
+<p>De esta forma se evitarían ofrecer más dinero a los empleados y <strong>limitar la capacidad de estos para negociar salarios más elevados.</strong>  Se han encontrado emails enviados, entre otros, a <strong><a href="www.macsfera.com/tag/steve-jobs" title="Steve Jobs" target="_blank" rel="noopener noreferrer">Steve Jobs</a></strong> por el CEO de Adobe en 2005. En una misiva escrita por el vicepresidente de recursos humanos explicaba que «Bruce Chizen y Steve Jobs tienen un acuerdo por el que no podemos cortejar a NINGÚN empleado de Apple y viceversa».</p>
+<p>Conversaciones similares se han encontrado por parte de la empresa Pixar. Para el Departamento de Justicia, estos mensajes indican «<strong>fuertes evidencias de que las compañías conocían los acuerdos expresos del resto, creando sus propios acuerdos a imitación de los mismos y siguiéndolos junto a los demás para conseguir el mismo objetivo</strong>«.</p>
+<p>A pesar de que el Departamento de Justicia llegó a un acuerdo extrajudicial por el cual dichas compañías debían abandonar estas prácticas sin la necesidad de aceptar la culpabilidad. <strong>Esta semana llegará a los tribunales una demanda colectiva presentada por antiguos empleados que buscan solventar las pérdidas económicas que les habrían provocado las empresas.</strong></p>
+<p>Vía | <a href="http://es.engadget.com/2012/01/20/la-justifica-de-eeuu-revela-los-acuerdos-entre-google-apple-ad/" target="_blank" rel="noopener noreferrer">Engadget</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/se-encuentran-acuerdos-entre-apple-google-adobe-intel-y-otras-empresas-para-no-robarse-empleados/">Se encuentran acuerdos entre Apple, Google, Adobe, Intel y otras empresas para no robarse empleados</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple se opone a la ley SOPA</title>
+		<link>https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/</link>
+					<comments>https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 26 Nov 2011 11:01:03 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[BSA]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Leyes]]></category>
+		<category><![CDATA[Linkedin]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Mozilla]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Oposición]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5699</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/">Apple se opone a la ley SOPA</a></p>
+<p>En un principio la organización que agrupa a empresas como Apple, Intel o Microsoft, la BSA, había aprobado un borrador de la</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/">Apple se opone a la ley SOPA</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/">Apple se opone a la ley SOPA</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/11/Censurado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/11/Censurado.jpg" alt="" title="Censurado" width="550" height="300" class="aligncenter size-full wp-image-5702" srcset="https://www.MacSfera.com/wp-content/uploads/2011/11/Censurado.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/11/Censurado-300x164.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En un principio la organización que agrupa a empresas como <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong>, Intel o Microsoft, la BSA, <strong>había aprobado un borrador de la ley SOPA que intenta regular la piratería en Internet.</strong> <strong>Apple</strong>, entre otras, <strong>ha dicho que no está de acuerdo.</strong></p>
+<p><span id="more-5699"></span></p>
+<p>Esta ley, de salir adelante, <strong>daría poder de bloqueo de las DNS</strong> para evitar que la gente acceda a sitios web y permitiría a las compañías <strong>rastrear la actividad de sus usuarios.</strong></p>
+<p>Han defendido finalmente que están de acuerdo con que se intente controlar el flujo de webs que distribuyan contenido sin permiso, pero <strong>consideran que las medidas que se tomen han de ser ajustadas.</strong></p>
+<blockquote><p>El objetivo es impedir que los piratas saquen provecho de sus robos pero la libertad de expresión y la privacidad son derechos que no pueden ser comprometidos.</p></blockquote>
+<p>En el artículo publicado dicen que <strong>una ley que persiga la piratería es fundamental</strong> para seguir con el <strong>progreso</strong> y promover la <strong>creatividad</strong>. Si hoy la gente saca provecho de lo que creas y tú no, se te quitan las ganas de innovar.</p>
+<p>Entre las empresas que se oponen a esta ley en concreto (no al fin que busca) se encuentran <strong>Google, Facebook, Microsoft, Twitter, Linkedin y Mozilla.</strong> De aprobarse, la libertad de expresión estaría más limitada, los buscadores tendrían que filtrar mucho contenido, se perseguirían a las webs infractoras y hasta a los que contengan enlaces hacia ellas.</p>
+<p>Vía | <a href="http://www.123.cl/adm_cont/tecnologia/actualidad/articulo_13933_a.html" target="_blank" rel="noopener noreferrer">El País</a><br />
+Imagen | <a href="http://www.losmashablados.com/2011/¿por-que-facebook-google-yahoo-y-mas-se-oponen-a-la-ley-sopa/9735/internet-2/" target="_blank" rel="noopener noreferrer">Los + Hablados</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/">Apple se opone a la ley SOPA</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple está probando el chip A5 en MacBook Air</title>
+		<link>https://www.MacSfera.com/apple-esta-probando-el-chip-a5-en-macbook-air/</link>
+		
+		<dc:creator><![CDATA[Samuel Prudencio]]></dc:creator>
+		<pubDate>Fri, 27 May 2011 14:33:05 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[AMD]]></category>
+		<category><![CDATA[ARM]]></category>
+		<category><![CDATA[Chip A5]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Thunderbolt]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2484</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-esta-probando-el-chip-a5-en-macbook-air/">Apple está probando el chip A5 en MacBook Air</a></p>
+<p>Y es que Apple es así, no se conforma con ponerle 1,4 o 1,6 gigaherzios de potencia a sus MacBook Air, sino</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-esta-probando-el-chip-a5-en-macbook-air/">Apple está probando el chip A5 en MacBook Air</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-esta-probando-el-chip-a5-en-macbook-air/">Apple está probando el chip A5 en MacBook Air</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/05/MacBook-Air-con-procesador-A5.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/05/MacBook-Air-con-procesador-A5.jpg" alt="" title="MacBook Air con procesador A5" width="425" height="289" class="aligncenter size-full wp-image-4240" srcset="https://www.MacSfera.com/wp-content/uploads/2011/05/MacBook-Air-con-procesador-A5.jpg 425w, https://www.MacSfera.com/wp-content/uploads/2011/05/MacBook-Air-con-procesador-A5-300x204.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" /></a></p>
+<p>Y es que <strong><a href="www.macsfera.com/" title="Apple">Apple</a></strong> es así, <strong>no se conforma con ponerle 1,4 o 1,6</strong> gigaherzios de potencia a sus <strong><a href="www.macsfera.com/tag/macbook-air/" title="MacBook Air">MacBook Air</a>,</strong> sino que ahora<strong> busca la eficiencia y el ahorro energético</strong> que proporciona el <strong><a href="http://www.macsfera/tag/chip-a5/" title="Chip A5">chip A5</a></strong> del <strong>iPad 2.</strong></p>
+<p><span id="more-2484"></span></p>
+<p>Por un lado  el<strong> Core 2 Duo</strong> de<strong> Intel se queda cortito en algunos procesos de Mac OS X</strong>, pero por otro lado le da una velocidad de vértigo, llegando a superar en velocidad de encendido o apertura de aplicaciones a algunos <strong>iMac.</strong> Pero, ¿qué sentido tiene ponerle un procesador de una tablet a un portátil en toda regla? Muy sencillo, el <strong>Core 2 Duo</strong> actual <strong>no es ni lo más rápido ni lo más eficiente</strong> (energéticamente hablando) que existe, pero el <strong>A5</strong> con sus <strong>2 núcleos</strong> y su <strong>1Ghz</strong> (que sin duda se puede mejorar a cambio de algo más de consumo), gasta una cuarta parte de lo que lo hace el chip de <strong>Intel</strong>, consiguiendo las mismas velocidades y menor temperatura.</p>
+<p><strong>Apple</strong><strong>,</strong> en esta prueba no solo ha probado con el hardware actual del <strong>MacBook Air</strong><strong>,</strong> sino que le ha añadido <strong><a href="www.macsfera.com/tag/thunderbolt/" title="Thunderbolt">Thunderbolt</a></strong><strong>,</strong> y al parecer ha dado muy buenos resultados. No olvidemos que <strong>Thunderbolt</strong> es un puerto muy serio, que alcanza velocidades de <strong>más de 10 Gb/S </strong>y no cualquier procesador es capaz de controlar, de hecho <strong>un Pentium D, que es el predecesor del Core 2 Duo no es capaz de controlarlo, a pesar de tener 3Ghz.</strong></p>
+<p>Todo esto apunta a que <strong>ARM</strong> sea la sustituta de Intel, y es que lejos de ser una compañía de segunda, ha sido siempre una de las más punteras en procesadores de dispositivos móviles, y en raras ocasiones se ha visto en ordenadores convencionales, pero con la experiencia de <strong>ARM</strong>, es muy posible que consiguiera productos muy eficientes para las siguientes generaciones de <strong>Mac</strong>, pero tampoco debemos olvidar que esto es solo una especulación, ya que <strong>AMD</strong> sigue siendo puntera en tecnologías de bajo consumo y altas velocidades, como está demostrando en algunos laptops y algunos netbooks.</p>
+<p><strong>¿Será esta prueba en un <strong>MacBook Air</strong> el inicio del fin de la era Intel, qué opináis?</strong></p>
+<p>Fuente | <a href="http://www.macrumors.com/2011/05/27/apple-testing-an-arm-a5-powered-macbook-air/" target="_blank" rel="noopener noreferrer">MacRumors</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-esta-probando-el-chip-a5-en-macbook-air/">Apple está probando el chip A5 en MacBook Air</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

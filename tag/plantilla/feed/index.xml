@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Plantilla &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/plantilla/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Tue, 15 Mar 2016 22:56:15 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>¡Bienvenidos al nuevo MacSfera!</title>
+		<link>https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera/</link>
+					<comments>https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 10:29:46 +0000</pubDate>
+				<category><![CDATA[MacSfera]]></category>
+		<category><![CDATA[Diseño]]></category>
+		<category><![CDATA[Plantilla]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10416</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera/">¡Bienvenidos al nuevo MacSfera!</a></p>
+<p>Han pasado dos años desde que MacSfera estrenó su último rediseño, esa plantilla trajo muy buenas funciones al blog, aunque nada es</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera/">¡Bienvenidos al nuevo MacSfera!</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera/">¡Bienvenidos al nuevo MacSfera!</a></p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2016/03/14234058/nuevo-MacSfera.png" rel="attachment wp-att-13624"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2016/03/14234058/nuevo-MacSfera.png" alt="Nuevo MacSfera" width="800" height="400" class="aligncenter size-full wp-image-13624" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/14234058/nuevo-MacSfera.png 800w, https://cdn.macsfera.com/wp-content/uploads/2016/03/14234058/nuevo-MacSfera.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>Han pasado dos años desde que MacSfera <a href="www.macsfera.com/bienvenidos-al-nuevo-macsfera-antiguo/" title="Bienvenidos al nuevo MacSfera" target="_blank">estrenó su último rediseño</a>, esa plantilla trajo muy buenas funciones al blog, aunque nada es permanente y por ello <strong>hoy me gustaría presentaros el nuevo MacSfera.</strong></p>
+<p>Aquí tenéis el nuevo diseño del blog, una interfaz que <strong>se centra únicamente en el contenido principal.</strong> Como podréis notar, la plantilla es muy simple, he reducido notablemente las distracciones eliminando distintos elementos como puede ser la barra lateral. He centrado el contenido para que sea lo más importante y sobre todo, <strong>he dotado a la plantilla de distintos estilos para presentar la información,</strong> de este modo podré transmitir mucho mejor todo lo que quiera comunicar.</p>
+<p><span id="more-10416"></span></p>
+<p>Otro cambio importante es que ya no se trata de un blog sobre Apple, <strong>ahora es mi blog sobre Apple.</strong> Siempre había tratado a MacSfera como un blog al margen de sus editores, pero ahora renuncio a esa organización y lo hago mío. De esta forma, los artículos serán más personales y se tratará la <a href="www.macsfera.com/category/opinion" target="_blank" title="Opinión">opinión</a> como una categoría más.</p>
+<p>Esto no quiere decir que sólo yo vaya a escribir, no para nada, ahora <strong>estoy más abierto a colaboraciones</strong> por parte de cualquier amigo que quiera dedicar sus escritos al blog.</p>
+<p>Cabe destacar que la plantilla la he realizado enteramente yo, esto tiene sus cosas positivas y sus cosas negativas. Pero como he visto más cosas positivas que negativas, me lancé a ello. Esta es la primera versión, hay que tratar muchas cosas y no todo se puede probar en un localhost, de modo que lo más probable es que haya algún que otro fallo. Con el tiempo iré solucionando esos errores a la par que mejorando todas las funciones y características actuales, además, me centraré en ir añadiendo algunas nuevas para que el blog sea lo más funcional posible.</p>
+<p>Sin más, acabo <strong>dándoos de nuevo la bienvenida al nuevo MacSfera,</strong> con el que espero transmitir mucho mejor mis conocimientos y opiniones sobre el mundo Apple.</p>
+<p>Gracias por seguir ahí y por darme un motivo para que este proyecto no decaiga.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera/">¡Bienvenidos al nuevo MacSfera!</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>¡Bienvenidos al nuevo MacSfera!</title>
+		<link>https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera-antiguo/</link>
+					<comments>https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera-antiguo/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 06 May 2013 07:31:21 +0000</pubDate>
+				<category><![CDATA[MacSfera]]></category>
+		<category><![CDATA[Diseño]]></category>
+		<category><![CDATA[Plantilla]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9258</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera-antiguo/">¡Bienvenidos al nuevo MacSfera!</a></p>
+<p>¡Hoy es un gran día para MacSfera! Estrenamos nueva plantilla después de meses trabajando por buscar una interfaz simple, bonita, adaptable y</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera-antiguo/">¡Bienvenidos al nuevo MacSfera!</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera-antiguo/">¡Bienvenidos al nuevo MacSfera!</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/05/MacSfera.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/05/MacSfera.png" alt="MacSfera" width="710" height="447" class="aligncenter size-full wp-image-9259" srcset="https://www.MacSfera.com/wp-content/uploads/2013/05/MacSfera.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/05/MacSfera-300x189.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>¡Hoy es un gran día para <a href="www.macsfera.com/" title="MacSfera" target="_blank">MacSfera</a>! Estrenamos nueva plantilla después de meses trabajando por buscar una interfaz simple, bonita, adaptable y que nos permitiese transmitir todo lo que os queremos contar de la mejor forma posible.</strong></p>
+<p><span id="more-9258"></span></p>
+<p>El nuevo diseño <strong>tiene un toque más moderno,</strong> es el más adecuado a estos tiempos que corren por Internet, y está mejor adaptado ya que es responsive design, es decir, <strong>se adapta según el tamaño de la pantalla desde la que se visite.</strong> De ese modo se puede ver sin problemas desde un dispositivo de escritorio, una tablet o un móvil.</p>
+<p>Hemos decidido cambiar el formato de la Home. Hemos apostado por la reducción del número de últimas entradas que os mostramos, pero a cambio <strong>os damos muchísima más información</strong> sobre el resto de categorías para que estéis 100% informados de lo que ocurre en el mundo de la manzana.</p>
+<p>Otra de las ventajas de esta nueva plantilla es que, en el sidebar (barra lateral), <strong>os podemos mostrar información en función de la categoría en la que estéis.</strong> De ese modo, podemos ofreceros el mejor contenido que guarda relación con lo que estáis leyendo.</p>
+<p>El ancho del apartado de los artículos ahora es más grande, creemos que de esta forma va a ser más fácil leer la información y disfrutar del contenido visual que añadamos. Las imágenes de los post publicados anteriormente tendrán un tamaño reducido, pero los nuevos vendrán con contenido más grande siempre que sea posible.</p>
+<p><strong>Hemos añadido una página de <a href="www.macsfera.com/licencia" title="Licencia" target="_blank">licencia</a>,</strong> para que todos sepáis cómo trabajamos y cómo podéis usar nuestras creaciones, de esa manera evitaremos futuros malentendidos. También tenemos una <strong>nueva página de <a href="www.macsfera.com/contacto" title="Contacto" target="_blank">contacto</a></strong> y otra de <strong><a href="www.macsfera.com/publicidad" title="Publicidad" target="_blank">publicidad</a></strong>, para todo aquel que quiera anunciarse en el blog que cada día crece más.</p>
+<p>Acabamos de instalar la plantilla y no sabemos si tiene muchos errores. Nosotros ya hemos localizado algunos que en las pruebas no se mostraron, de modo que los iremos corrigiendo todo con el tiempo. También <strong>iremos implementando todas las nuevas funciones de personalización que nos ofrece esta nueva interfaz</strong> poco a poco para que podáis disfrutar al 100% de las funcionalidades.</p>
+<p><strong>Muchas gracias por estar con nosotros y vivir este cambio que tanto esperábamos y con tanta ilusión os hemos traído.</strong> Os agradeceríamos que nos comentaseis que os parece este nuevo rediseño y, si encontráis algún error, por favor, <strong>comunicádnoslo.</strong></p>
+<p><strong>¡Muchas gracias por hacer de MacSfera lo que es hoy!</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera-antiguo/">¡Bienvenidos al nuevo MacSfera!</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/bienvenidos-al-nuevo-macsfera-antiguo/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

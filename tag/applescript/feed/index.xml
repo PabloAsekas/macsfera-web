@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AppleScript &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/applescript/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:24:15 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Cómo añadir función nativa a OS X para traducir textos mediante un AppleScript</title>
+		<link>https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/</link>
+					<comments>https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2011 16:32:14 +0000</pubDate>
+				<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[AppleScript]]></category>
+		<category><![CDATA[Automator]]></category>
+		<category><![CDATA[Funciones]]></category>
+		<category><![CDATA[Google Translate]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Rápido]]></category>
+		<category><![CDATA[Script]]></category>
+		<category><![CDATA[Traducir textos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5568</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/">Cómo añadir función nativa a OS X para traducir textos mediante un AppleScript</a></p>
+<p>En este tutorial os vamos a enseñar cómo añadir de forma nativa la función de traducir textos usando la herramienta on-line Google</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/">Cómo añadir función nativa a OS X para traducir textos mediante un AppleScript</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/">Cómo añadir función nativa a OS X para traducir textos mediante un AppleScript</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/11/Cómo-traducir-textos-de-forma-rapida.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/11/Cómo-traducir-textos-de-forma-rapida.png" alt="" title="Cómo traducir textos de forma rapida" width="550" height="344" class="aligncenter size-full wp-image-5583" srcset="https://www.MacSfera.com/wp-content/uploads/2011/11/Cómo-traducir-textos-de-forma-rapida.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/11/Cómo-traducir-textos-de-forma-rapida-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En este tutorial os vamos a enseñar <strong>cómo añadir de forma nativa la función de traducir textos</strong> usando la herramienta on-line Google Translate con un simple <strong>AppleScript</strong> en <strong><a href="www.macsfera.com/tag/automator" title="Automator" target="_blank">Automator</a></strong>.</p>
+<p><span id="more-5568"></span></p>
+<p>El funcionamiento es muy sencillo:</p>
+<ol>
+<li>Abrimos <strong>Automator</strong> y elegimos <strong>Servicio</strong>.</li>
+<li>En el buscador de la izquierda vamos a poner <strong>AppleScript</strong>, y arrastramos el resultado «<strong>Ejecutar Apple Script</strong>» a la columna de la derecha.</li>
+<li>Borramos el código que nos aparece e insertamos el siguiente:<br />
+<blockquote><p>on run {input, parameters}<br />
+set theURL to «http://www.google.com/translate_t?langpair=en%7es&#038;text=» &#038; input<br />
+tell application «Safari» to make new document with properties {URL:theURL}<br />
+end run</p></blockquote>
+<p><strong>Atención</strong>: Cuando copies el código a <strong>Automator</strong>, <strong>borra las comillas</strong> del enlace y ponlas de nuevo, haz lo mismo donde pone Safari.</li>
+<li><strong>Guardamos el script</strong> poniendo un nombre identificativo como Traducir o algo similar.</li>
+</ol>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/11/AppleScript-traducir-textos.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/11/AppleScript-traducir-textos.png" alt="" title="AppleScript traducir textos" width="550" height="262" class="aligncenter size-full wp-image-5588" srcset="https://www.MacSfera.com/wp-content/uploads/2011/11/AppleScript-traducir-textos.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/11/AppleScript-traducir-textos-300x143.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Ahora cada vez que vayamos a un texto podremos traducirlo seleccionando la opción que nos aparecerá si hacemos <strong>click secundario</strong> sobre dicho texto. En el menú podremos elegir que se ejecute el <strong>script</strong> según el nombre que le hayamos dado. Se abrirá una ventana nueva de <strong><a href="www.macsfera.com/tag/safari" title="Safari" target="_blank">Safari</a></strong> directamente con Google Translate y la traducción hecha (<a href="https://www.MacSfera.com/wp-content/uploads/2011/11/Opción-Traducir-en-OS-X-Lion.png" title="Opción de Traducir en OS X Lion" target="_blank">imagen</a>).</p>
+<p>He notado que si cambiamos el navegador hay fallos. Con <strong>Chrome</strong> no lo detecta (aún poniendo Google Chrome) y en <strong>Firefox</strong> sólo abre la <strong>app</strong>, no abre la pestaña con la traducción.</p>
+<p>Espero que os sirva de ayuda y os facilite la navegación y compresión por la web con vuestro <strong><a href="www.macsfera.com/" title="Mac" target="_blank">Mac</a></strong>.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/">Cómo añadir función nativa a OS X para traducir textos mediante un AppleScript</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Añade la función Devolver a Mail 5.0</title>
+		<link>https://www.MacSfera.com/anade-la-funcion-devolver-a-mail-5-0/</link>
+					<comments>https://www.MacSfera.com/anade-la-funcion-devolver-a-mail-5-0/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 03 Sep 2011 10:30:11 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[AppleScript]]></category>
+		<category><![CDATA[Automator]]></category>
+		<category><![CDATA[Mail]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4800</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/anade-la-funcion-devolver-a-mail-5-0/">Añade la función Devolver a Mail 5.0</a></p>
+<p>Una función poco conocida de Mail era la de Devolver, muy útil si recibes email en cadena que son muy molestos, pero</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/anade-la-funcion-devolver-a-mail-5-0/">Añade la función Devolver a Mail 5.0</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/anade-la-funcion-devolver-a-mail-5-0/">Añade la función Devolver a Mail 5.0</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/Volver-a-añadir-la-función-Devolver-a-Mail.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/Volver-a-añadir-la-función-Devolver-a-Mail.png" alt="" title="Volver a añadir la función Devolver a Mail" width="550" height="344" class="aligncenter size-full wp-image-4806" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/Volver-a-añadir-la-función-Devolver-a-Mail.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/09/Volver-a-añadir-la-función-Devolver-a-Mail-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Una función poco conocida de <strong><a href="www.macsfera.com/tag/mail" title="Mail" target="_blank" rel="noopener noreferrer">Mail</a></strong> era la de <strong>Devolver</strong>, muy útil si recibes email en cadena que son muy molestos, pero en <strong>Mail 5.0</strong>, <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> decidió suprimir esta función. En este tutorial aprenderás a poner de nuevo esta función.<br />
+<span id="more-4800"></span><br />
+Con esta función lo que conseguimos es que al usuario que te ha mandado el correo le llegue un mensaje diciendo que tu email tiene errores. Como los típicos que te llegan cuando lo envías un correo a una dirección que no existe.</p>
+<p>Lo que vamos a utilizar es <strong>Automator</strong> y si bien no va a quedar de la misma manera que antes <strong>si que podrás ejercer bien la función</strong> siguiendo los siguientes pasos:</p>
+<ol>
+<li>Lanzamos <strong>Automator</strong> y elegimos la opción <strong>Servicio</strong>.</li>
+<li>En «<strong>El servicio recibe</strong>» elegimos <strong>Sin datos de entrada</strong> y luego elegimos la aplicación <strong>Mail</strong> (<a href="https://www.MacSfera.com/wp-content/uploads/2011/09/Como-poner-la-función-Devolver-en-Mail.png" title="Como poner la función Devolver en Mail " target="_blank" rel="noopener noreferrer">imagen</a>).</li>
+<li>Ahora, en <strong>Biblioteca</strong> seleccionamos <strong>Mail</strong> y arrastramos «<strong>Obtener los ítems de Mail seleccionados</strong>» a la ventana de acción.</li>
+<li>En <strong>Biblioteca</strong> de nuevo elegimos <strong>Utilidades</strong> y arrastramos <strong>Ejecutar AppleScript</strong> a la ventana de acción debajo de <strong>Obtener los mensajes de Mail Seleccionados</strong> (el del paso anterior, es que cambia de nombre) (<a href="https://www.MacSfera.com/wp-content/uploads/2011/09/Como-poner-la-función-Devolver-en-Mail3.png" title="Como poner la función Devolver en Mail" target="_blank" rel="noopener noreferrer">imagen</a>). En la ventana, borramos el código que viene por defecto e insertamos lo siguiente:<br />
+<blockquote><p>on run {input, parameters}<br />
+          tell application «Mail»<br />
+                         repeat with eachMessage in input<br />
+            bounce eachMessage<br />
+                         end repeat<br />
+          end tell<br />
+end run</p></blockquote>
+<p><strong>Atención</strong>: deberéis modificar las comillas que hay en «Mail» (segunda línea), tan solo pegad en Automator todo el código, borrad las comillas y escribidlas de nuevo, de ese modo no habrá errores.
+</li>
+<li>El siguiente paso es guardar todo el proceso. Elegimos <strong>Guardar</strong> y le damos un nombre como por ejemplo <strong>Devolver</strong>.</li>
+</ol>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/Como-poner-la-función-Devolver-en-Mail1.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/Como-poner-la-función-Devolver-en-Mail1.png" alt="" title="Como poner la función Devolver en Mail" width="550" height="228" class="aligncenter size-full wp-image-4802" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/Como-poner-la-función-Devolver-en-Mail1.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/09/Como-poner-la-función-Devolver-en-Mail1-300x124.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>El proceso ya está creado y ahora veremos como ejecutarlo usando <strong>Mail</strong>. Cuando recibimos el email y queremos devolverlo tan solo deberemos ir a la barra de menús, pulsar en <strong>Mail</strong>, luego en <strong>Servicios</strong> y ahí deberá aparecer la opción con el nombre elegido.</p>
+<p>Una vez ejecutado no se verá nada, ningún mensaje ni nada por el estilo, pero a los pocos segundos el receptor <strong>recibirá un error parecido al de abajo</strong> (por no decir igual).</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/Como-poner-la-función-Devolver-en-Mail2.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/Como-poner-la-función-Devolver-en-Mail2.png" alt="" title="Como poner la función Devolver en Mail" width="550" height="302" class="aligncenter size-full wp-image-4803" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/Como-poner-la-función-Devolver-en-Mail2.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/09/Como-poner-la-función-Devolver-en-Mail2-300x165.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Vía | <a href="https://discussions.apple.com/message/15845969#15845969" target="_blank" rel="noopener noreferrer">Soporte de Apple</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/anade-la-funcion-devolver-a-mail-5-0/">Añade la función Devolver a Mail 5.0</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/anade-la-funcion-devolver-a-mail-5-0/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

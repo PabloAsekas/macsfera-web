@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2016/03/Teclado-MacBook.jpg?simply_static_page=262675">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2016/03/Teclado-MacBook.jpg?simply_static_page=262675";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2016/03/Teclado-MacBook.jpg?simply_static_page=262675">https://www.macsfera.com/wp-content/uploads/2016/03/Teclado-MacBook.jpg?simply_static_page=262675</a></p>
+	</body>
+</html>

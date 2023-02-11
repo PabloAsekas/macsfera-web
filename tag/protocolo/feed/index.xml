@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Protocolo &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/protocolo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:29:07 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</title>
+		<link>https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 08 Aug 2012 10:29:05 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Contraseñas]]></category>
+		<category><![CDATA[Cuenta]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[Hackers]]></category>
+		<category><![CDATA[ID de Apple]]></category>
+		<category><![CDATA[Mat Honan]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Periodista]]></category>
+		<category><![CDATA[Protocolo]]></category>
+		<category><![CDATA[Restablecimiento]]></category>
+		<category><![CDATA[Suspensión]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7170</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a></p>
+<p>Apple ha decidido suspender de forma cautelar el restablecimiento de contraseñas de iCloud por vía telefónica, esta suspensión sería de 24 horas</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/08/Cuenta-de-iCloud-hackeada.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/08/Cuenta-de-iCloud-hackeada.jpg" alt="Cuenta de iCloud hackeada" title="Cuenta de iCloud hackeada" width="550" height="294" class="aligncenter size-full wp-image-7171" srcset="https://www.MacSfera.com/wp-content/uploads/2012/08/Cuenta-de-iCloud-hackeada.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/08/Cuenta-de-iCloud-hackeada-300x160.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Apple ha decidido suspender de forma cautelar el restablecimiento de contraseñas de <a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a> por vía telefónica,</strong> esta suspensión sería de 24 horas al menos.</p>
+<p><span id="more-7170"></span></p>
+<p>Todo esto viene por la historia que os contamos ayer del <strong><a href="www.macsfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/" title="Hackeada la cuenta de iCloud de un periodista que detalla el proceso" target="_blank" rel="noopener noreferrer">reportero Mat Honan el cual sufrió un hackeo de su cuenta de iCloud</a></strong> con la que pudieron borrar toda la información de sus dispositivos, acceder a Gmail y a su cuenta de Twitter.</p>
+<p><strong>El proceso se hizo por teléfono sabiendo la dirección de facturación y los últimos cuatro dígitos de su tarjeta de crédito</strong> (obtenidos a través de Amazon). Un trabajador anónimo de la empresa comentó que, en efecto, se había suspendido este procedimiento <strong>para que Apple analizase cuales eran las políticas de seguridad a cambiar.</strong></p>
+<p>Algo más preocupante que la facilidad con la que consiguieron el acceso a la cuenta es el hecho de que <strong>no se siguió bien el protocolo</strong> para restablecer la contraseña, con lo que <strong>Apple</strong> tiene un problema más. En un futuro veremos la decisión que toman respecto al tema.</p>
+<p>Vía | <a href="http://www.wired.com/gadgetlab/2012/08/apple-icloud-password-freeze/" target="_blank" rel="noopener noreferrer">Wired</a><br />
+Imagen | Flickr de <a href="http://www.flickr.com/photos/thebusinessmakers/" target="_blank" rel="noopener noreferrer">TheBusinessMakers</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

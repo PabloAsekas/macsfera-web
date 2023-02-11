@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Instalar &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/instalar/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:59:04 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Cómo instalar OS X Mavericks Beta</title>
+		<link>https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/</link>
+					<comments>https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 14 Jun 2013 12:27:20 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Instalar]]></category>
+		<category><![CDATA[Mac OS Plus (con registro)]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9706</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/">Cómo instalar OS X Mavericks Beta</a></p>
+<p>Hoy os traemos un tutorial en el que os vamos a enseñar a instalar la beta de OS X Mavericks, el nuevo</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/">Cómo instalar OS X Mavericks Beta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/">Cómo instalar OS X Mavericks Beta</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Instalar-la-beta-de-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Instalar-la-beta-de-OS-X-Mavericks.jpg" alt="Instalar la beta de OS X Mavericks" width="710" height="435" class="aligncenter size-full wp-image-9723" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Instalar-la-beta-de-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Instalar-la-beta-de-OS-X-Mavericks-300x184.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Hoy os traemos un tutorial en el que os <strong>vamos a enseñar a instalar la beta de <a href="www.macsfera.com/tag/os-x-mavericks" title="OS X Mavericks" target="_blank" rel="noopener noreferrer">OS X Mavericks</a>, el nuevo sistema operativo de <a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a>.</strong></p>
+<p><span id="more-9706"></span></p>
+<p>El proceso puede parecer complejo pero en realidad es muy sencillo <strong>siempre que sigáis los pasos y tengáis paciencia.</strong> En nuestro caso la instalación la haremos en un disco duro externo, vosotros la podéis hacer tanto en el disco duro interno como en el externo.</p>
+<p>Nuestra recomendación es que <strong>no alteréis vuestro actual sistema</strong> porque la que vamos a instalar es la primera beta pública, la cual no está exenta de errores y fallos. Por lo tanto os damos unos breves pasos para configurar cualquier disco duro en el formato adecuado:</p>
+<ul>
+<li>Conectamos el disco duro externo (en caso de que tengamos)</li>
+<li>Abrimos <strong>Utilidad de discos</strong> y aquí podemos hacer dos cosas:
+<ul>
+<li>Formatear todo el disco duro. Para ello deberemos ir a la pestaña <strong>Borrar</strong>, elegir el formato <strong>Mac OS Plus (con registro)</strong>, modificar el nombre y aplicar los cambios.</li>
+<li>Hacer una partición de nuestro disco actual. Para ello deberemos ir a la pestaña <strong>Particiones</strong>, pinchar en el botón de más (<strong>+</strong>), elegir el tamaño y aplicar los cambios).
+</li>
+</ul>
+</li>
+<li>En ambos casos, el disco duro debe estar en formato <strong>Mac OS Plus (con registro)</strong>.</li>
+</ul>
+<p>Una vez elegido y configurado donde queremos instalar <strong>Mavericks</strong>, vamos con los pasos:</p>
+<ul>
+<li>Ejecutar el archivo <strong>.dmg</strong> y seguir los pasos</li>
+<li>Cuando nos pregunte donde queremos instalar el sistema, le damos a <strong>Mostrar todos los discos</strong> y elegimos el disco duro que deseemos</li>
+<li>Aceptamos los distintos acuerdos y procedemos a la instalación</li>
+</ul>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks.jpg" alt="Modelos compatibles con Mavericks" width="710" height="427" class="aligncenter size-full wp-image-9709" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks-300x180.jpg 300w, https://www.MacSfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks-220x132.jpg 220w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Al acabar los pasos de arriba empezará una preparación de todo el proceso, dicha preparación <strong>dura entre 2 y 5 minutos,</strong> en ese tiempo os recomendamos que cerréis todas las aplicaciones y los archivos que tengáis puesto que al acabar el ordenador se reiniciará. <strong>Una vez reiniciado empezará la instalación completa que durará entre 20 minutos y 30 minutos.</strong></p>
+<p>Al acabar la instalación procederemos a la configuración de nuestra cuenta con el nombre, contraseña, detalles del teclado, etc. Y una vez finalizada la configuración, <strong>podremos toquetear todo lo que queramos de las <a href="www.macsfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/" title="OS X Mavericks, la nueva versión del sistema operativo" target="_blank" rel="noopener noreferrer">novedades presentadas</a>.</strong></p>
+<p>Por si acaso puede surgir alguna duda, os dejamos este vídeo que hemos preparado explicándolo, tenéis la sección más abajo (tanto del post como en YouTube) para que preguntéis lo que podáis, nosotros intentaremos ayudaros.</p>
+<p><center><iframe width="709" height="399" src="http://www.youtube.com/embed/orWoCQtzwnA" frameborder="0" allowfullscreen></iframe></center></p>
+<p>Beta | <a href="http://dlbeta.com/os-x-betas/" target="_blank" rel="noopener noreferrer">dlBeta</a> | <a href="http://imzdl.com/osx.php" target="_blank" rel="noopener noreferrer">iMZDL</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/">Cómo instalar OS X Mavericks Beta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/feed/</wfw:commentRss>
+			<slash:comments>16</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dos formas de instalar OS X Mountain Lion</title>
+		<link>https://www.MacSfera.com/dos-formas-de-instalar-os-x-mountain-lion/</link>
+					<comments>https://www.MacSfera.com/dos-formas-de-instalar-os-x-mountain-lion/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 25 Jul 2012 13:33:17 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Instalar]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6994</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-instalar-os-x-mountain-lion/">Dos formas de instalar OS X Mountain Lion</a></p>
+<p>OS X Mountain Lion ya está disponible para descarga al público y os vamos a decir dos métodos para instalarlo. Instalar Mountain</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-instalar-os-x-mountain-lion/">Dos formas de instalar OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-instalar-os-x-mountain-lion/">Dos formas de instalar OS X Mountain Lion</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Mountain-Lion-animal.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Mountain-Lion-animal.jpg" alt="Mountain Lion animal" width="710" height="481" class="aligncenter size-full wp-image-10157" srcset="https://www.MacSfera.com/wp-content/uploads/2012/07/Mountain-Lion-animal.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2012/07/Mountain-Lion-animal-300x203.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong><a href="www.macsfera.com/os-x-mountain-lion-ya-disponible-desde-la-mac-app-store" title="OS X Mountain Lion ya disponible desde la Mac App Store" target="_blank" rel="noopener noreferrer">OS X Mountain Lion ya está disponible para descarga</a></strong> al público y os vamos a decir dos métodos para instalarlo.</p>
+<p><span id="more-6994"></span></p>
+<h2>Instalar Mountain Lion encima de Snow Leopard o Lion</h2>
+<p>El primer método suele ser el más usado y <strong>consiste en instalar el sistema encima del que tengáis en el momento,</strong> o Snow Leopard o Lion. Basta con descargar el instalador desde la <strong><a href="www.macsfera.com/tag/mac-app-store" title="Mac App Store" target="_blank" rel="noopener noreferrer">Mac App Store</a></strong> y ejecutarlo. Tendremos que elegir el disco duro que estemos usando en ese momento y el solo detectará que ya hay otro sistema y se instalará encima.</p>
+<p>Lo bueno de este método es que todas las configuraciones, todos los archivos y todas las aplicaciones se mantienen, <strong>no hay que reinstalar nada</strong> (salvo que la aplicación no sea compatible que puede ser borrada).</p>
+<p>La pega de este método es que puede dar algún error que otro, pero con hacer un par de trucos de mantenimiento se pueden solucionar.</p>
+<h2>Instalar Mountain Lion desde cero</h2>
+<p>Este método es más lioso y lo utilizan las personas que quieren tener todo limpio. <strong>Consiste en formatear completamente el disco duro a través del instalador e instalar <a href="www.macsfera.com/tag/os-x-mountain-lion" title="Mountain Lion" target="_blank" rel="noopener noreferrer">Mountain Lion</a> como un sistema completamente nuevo.</strong></p>
+<p>Más detalladamente sería descargar el instalador, abrir la carpeta aplicaciones, encontrar el icono de dicho instalador, clic secundario sobre él y darle a <strong>Mostrar contenido del paquete</strong>, seguidamente ir a <strong>Contents/SharedSupport</strong> y quemar en un DVD o en un Pen Drive el archivo <strong>InstallESD.dmg</strong>. Una vez hecho reiniciar el ordenador en ese DVD o Pen Drive (<strong>Preferencias del Sistema/Discos de Arranque, seleccionamos el disco y le damos a Reiniciar&#8230;</strong>).</p>
+<p>Una vez reiniciado en ese modo podremos formatear la unidad donde se encuentra nuestro actual sistema operativo haciendo uso de <strong>Utilidad de discos</strong>. Al acabar el formateo iremos a la opción para instalar y allí elegiremos la parte formateada.</p>
+<p>Al finalizar tendremos que configurar todo de nuevo e instalar las aplicaciones que tuviésemos o bien reinstalar una copia de seguridad.</p>
+<p><strong><a href="www.macsfera.com/como-salvar-os-x-lion-en-un-dvd-o-pen-drive/" title="Cómo salvar OS X Lion en un DVD o pen drive" target="_blank" rel="noopener noreferrer">Tutorial detallado del proceso</a></strong> para saber los formatos de Pen Drive (sirve tanto para Lion como para Mountain Lion).</p>
+<p>En los dos métodos os recomendamos guardar una copia del sistema por si algo va mal y porque ayudará mucho a reinstalar las cosas si usáis el segundo método.</p>
+<p>En MacSfera | <strong><a href="www.macsfera.com/os-x-mountain-lion-ya-disponible-desde-la-mac-app-store/" title="OS X Mountain Lion ya disponible desde la Mac App Store" target="_blank" rel="noopener noreferrer">OS X Mountain Lion ya disponible desde la Mac App Store</a></strong> </p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-instalar-os-x-mountain-lion/">Dos formas de instalar OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/dos-formas-de-instalar-os-x-mountain-lion/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cómo instalar la beta de OS X Mountain Lion</title>
+		<link>https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/</link>
+					<comments>https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 19 Feb 2012 16:11:21 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Descargas]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[Instalar]]></category>
+		<category><![CDATA[Mac OS Plus (con registro)]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Particionar]]></category>
+		<category><![CDATA[Sistema Operativo]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6397</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/">Cómo instalar la beta de OS X Mountain Lion</a></p>
+<p>En este tutorial de hoy os vamos a enseñar a instalar la beta del nuevo sistema operativo de Apple, Mountain Lion. Una</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/">Cómo instalar la beta de OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/">Cómo instalar la beta de OS X Mountain Lion</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/Cómo-instalar-OS-X-Mountain-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/Cómo-instalar-OS-X-Mountain-Lion.png" alt="" title="Cómo instalar OS X Mountain Lion" width="550" height="344" class="aligncenter size-full wp-image-6401" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/Cómo-instalar-OS-X-Mountain-Lion.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/Cómo-instalar-OS-X-Mountain-Lion-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En este tutorial de hoy <strong>os vamos a enseñar a instalar la beta del nuevo sistema operativo de Apple,</strong> <strong><a href="www.macsfera.com/tag/os-x-mountain-lion" title="Mountain Lion" target="_blank" rel="noopener noreferrer">Mountain Lion</a></strong>.</p>
+<p><span id="more-6397"></span></p>
+<p>Una de las formas sería en una máquina virtual y otra mediante un disco duro externo,<strong> pero no creemos que ninguna de las dos sean óptimas al 100% ya que no se obtienen los resultados siempre deseados.</strong></p>
+<p>La mejor solución que hemos encontrado es <strong>instalarla en nuestro propio disco duro,</strong> pero manteniendo paralelamente el sistema operativo que estemos ocupando en estos momentos, para ello debemos seguir los siguientes pasos.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/OS-X-Mountain-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/OS-X-Mountain-Lion.png" alt="" title="OS X Mountain Lion" width="550" height="443" class="aligncenter size-full wp-image-6400" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/OS-X-Mountain-Lion.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/OS-X-Mountain-Lion-300x242.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<ol>
+<li>Acceder a la aplicación <strong>Utilidad de discos</strong> y particionar nuestro disco duro. Recordad dejarlo en formato <strong>Mac OS Plus (con registro)</strong>.</li>
+<li>Ejecutar la imagen que contenga el instalador de la beta del sistema operativo y, cuando nos pregunte, <strong>elegir la parte del disco duro que hemos creado.</strong></li>
+<li>Disfrutar de las novedades de esta beta.</li>
+</ol>
+<p>Como vemos <strong>los pasos son muy sencillos,</strong> esto principalmente nos servirá para tantear las nuevas características que traiga el sistema. Por nuestra parte, hemos encontrado unos cuantos errores, pero es algo normal, hasta finales de verano queda bastante y mucho trabajo de por medio.</p>
+<p>Os dejamos también un vídeo explicativo por si os es más fácil:</p>
+<p><iframe width="550" height="335" src="http://www.youtube.com/embed/QqxupGwJsEk" frameborder="0" allowfullscreen></iframe></p>
+<p>El proceso es largo, tanto en la partición como en la instalación se puede emplear una hora más o menos, pero al ser tan sencillo se pasa rápido. El enlace de descarga del <strong><a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank" rel="noopener noreferrer">OS X</a></strong> lo tenéis en la descripción del vídeo.</p>
+<p>Vídeo | <a href="http://youtu.be/QqxupGwJsEk" title="Instalar OS X Mountain Lion" target="_blank" rel="noopener noreferrer">YouTube</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/">Cómo instalar la beta de OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cómo instalar Xcode gratis de la Mac App Store en Snow Leopard</title>
+		<link>https://www.MacSfera.com/como-instalar-xcode-gratis-de-la-mac-app-store-en-snow-leopard/</link>
+					<comments>https://www.MacSfera.com/como-instalar-xcode-gratis-de-la-mac-app-store-en-snow-leopard/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2011 18:51:15 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Finder]]></category>
+		<category><![CDATA[Instalar]]></category>
+		<category><![CDATA[OS X Snow Leopard]]></category>
+		<category><![CDATA[SystemVersion.plist]]></category>
+		<category><![CDATA[Xcode]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4967</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-xcode-gratis-de-la-mac-app-store-en-snow-leopard/">Cómo instalar Xcode gratis de la Mac App Store en Snow Leopard</a></p>
+<p>Actualmente Xcode está disponible de forma gratuita en la Mac App Store pero solo pueden descargarlo e instalarlo aquellas personas que tuvieran</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-xcode-gratis-de-la-mac-app-store-en-snow-leopard/">Cómo instalar Xcode gratis de la Mac App Store en Snow Leopard</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-xcode-gratis-de-la-mac-app-store-en-snow-leopard/">Cómo instalar Xcode gratis de la Mac App Store en Snow Leopard</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/Instalar-xCode-en-Snow-Leopard.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/Instalar-xCode-en-Snow-Leopard.png" alt="" title="Instalar xCode en Snow Leopard" width="550" height="344" class="aligncenter size-full wp-image-4969" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/Instalar-xCode-en-Snow-Leopard.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/09/Instalar-xCode-en-Snow-Leopard-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Actualmente <strong>Xcode</strong> está disponible de forma gratuita en la <strong>Mac App Store</strong> pero solo pueden descargarlo e instalarlo aquellas personas que tuvieran <strong><a href="www.macsfera.com/tag/os-x-lion" title="Lion" target="_blank" rel="noopener noreferrer">Lion</a></strong>. Si bien porque tienes un <strong>Mac</strong> que no es compatible con el nuevo <strong><a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank" rel="noopener noreferrer">OS X</a></strong> o que te parece que es mejor la versión actual, <strong>en este tutorial descubrirás como instalar la app para desarrollar en Snow Leopard.</strong><br />
+<span id="more-4967"></span><br />
+Los pasos a seguir son para engañar al sistema y aparentar tener <strong>Lion</strong> para que no nos de error en la descarga. Para eso tenemos que hacer lo siguiente:</p>
+<ol>
+<li><strong>Abrir una ventana de Finder</strong> y buscar el archivo <strong>SystemVersion.plist</strong> de la siguiente ruta: <strong>System/Library/CoreServices/SystemVersion.plist</strong></li>
+<li>Abrimos el documento que contiene unos caracteres, tendremos que <strong>localizar el número de nuestra versión,</strong> es ahí cuando lo vamos a cambiar. Debemos sustituir lo que ponga por 10.7 pero <strong>quedaos con qué ponía antes.</strong></li>
+<li>Cuando lo hayamos cambiado tan solo tendremos que guardar el archivo.</li>
+<li>Ejecutamos el Terminal y ponemos el siguiente código para que surja efecto:<br />
+<blockquote><p>killall Finder</p></blockquote>
+</li>
+<li>Acudimos a la <strong>Mac App Store</strong> y elegimos descargar <strong>Xcode</strong>.</li>
+<li>Una vez descargado <strong>vamos a volver todo a su estado normal.</strong> Repetimos el proceso 1, 2 y 3 pero <strong>en vez de poner 10.7 ponemos lo que ponía antes de cambiarlo.</strong></li>
+</ol>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/SystemVersions.plist_.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/SystemVersions.plist_.png" alt="" title="SystemVersions.plist" width="550" height="508" class="aligncenter size-full wp-image-4970" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/SystemVersions.plist_.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/09/SystemVersions.plist_-300x277.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>De ese modo <strong>conseguiremos instalar el Xcode</strong> y luego no alterar más el sistema, además tendremos el programa instalado como una <strong>aplicación</strong> más en vez de bajarte todos los archivos desde la web oficial.</p>
+<p>Gracias <a href="http://www.twitter.com/alvarofranco7" target="_blank" rel="noopener noreferrer">Álvaro</a> por la información.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-xcode-gratis-de-la-mac-app-store-en-snow-leopard/">Cómo instalar Xcode gratis de la Mac App Store en Snow Leopard</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/como-instalar-xcode-gratis-de-la-mac-app-store-en-snow-leopard/feed/</wfw:commentRss>
+			<slash:comments>19</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

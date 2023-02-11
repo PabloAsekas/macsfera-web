@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WWDC17 &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/wwdc17/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:28:21 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Resumen y opinión de la keynote de la WWDC17</title>
+		<link>https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 09 Jun 2017 13:08:09 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[HomePod]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[iMac Pro]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 11]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPad Pro]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[macOS High Sierra]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Resumen]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC17]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
+<p>Esta semana ha sido la keynote de la WWDC, el anual evento de desarrolladores que organiza Apple en el que presenta el</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg" alt="Tim Cook WWDC17" width="2500" height="1089" class="aligncenter size-full wp-image-16610" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Esta semana ha sido <a target="_blank" title="La WWDC17 se celebrará del 5 al 9 de junio en San José" href="www.macsfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/" rel="noopener noreferrer">la keynote de la WWDC</a>, el anual evento de desarrolladores que organiza Apple en el que presenta el futuro de los sistemas operativos de la empresa, entre otras cosas.</p>
+<p>El evento fue uno de los más largos que recuerdo, más de dos horas de información en la que no hubo tiempo ni para analizar lo que estaban diciendo. Muchísimos datos, muchísimos detalles, muchas novedades y unos cuantos lanzamientos.</p>
+<p><span id="more-16607"></span></p>
+<p>Este año me vais a perdonar, lejos de hacer un artículo detallado con todas las novedades y luego un resumen con mi opinión, <strong>voy a hacer sólo el resumen y opinión.</strong> El tiempo no me da para más, por ello en este artículo vais a encontrar más opinión que datos o novedades. Aún así, os enlazaré a otras webs que traten bien esas novedades para que sepáis exactamente qué es todo lo nuevo <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<p>Así que sin más, <strong>vamos con las 6 novedades que presentaron ayer.</strong></p>
+<h2>Nuevo tvOS</h2>
+<p>La única novedad que incluye esta versión es que <strong>Amazon Prime Now,</strong> el servicio de vídeo bajo demanda de Amazon, <strong>se incorpora al Apple TV.</strong></p>
+<p>Hubo una referencia a más cambios en el sistema de cara al futuro, cosa que no me gustó porque bueno, porque estamos en un evento en el que los protagonistas son los sistemas operativos.</p>
+<p>Supongo que ese futuro coincidirá con el lanzamiento de la nueva versión del Apple TV, pero aún así.</p>
+<p><a href="https://www.applesfera.com/apple-tv/wwdc17-amazon-prime-video-llegara-al-apple-tv" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo watchOS 4</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg" alt="watchOS 4" width="2500" height="1085" class="aligncenter size-full wp-image-16611" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La nueva versión de watchOS, la versión 4, <strong>hace mucho énfasis en la incorporación de Siri en todo el sistema.</strong></p>
+<p>El asistente tiene ahora su propia esfera, una en la que la información se muestra de forma ordenada e inteligente para que tengamos todo lo que necesitamos a mano.</p>
+<p><strong>A través del aprendizaje automático, el reloj es capaz de averiguar la información más útil que ha de mostrar, consiguiendo tener en la muñeca todo lo necesario a un solo golpe de corona.</strong></p>
+<p>Hubo presentaciones de nuevas esferas, pero seguimos sin tener una forma oficial de desarrollo de esferas por parte de terceros. Sinceramente, esto es lo que más echo en falta en el Apple Watch.</p>
+<p>Como es habitual, si Apple lanza un nuevo Apple Watch este año, habrá más novedades en todo el sistema.</p>
+<p><a href="https://www.applesfera.com/apple-watch/todas-las-novedades-de-watchos-4-en-la-wwdc17" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo macOS High Sierra</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg" alt="macOS High Sierra" width="2500" height="1500" class="aligncenter size-full wp-image-16612" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Al igual que pasó en el <a target="_blank" title="Nuevo OS X El Capitan" href="www.macsfera.com/nuevo-os-x-el-capitan/" rel="noopener noreferrer">salto de Yosemite a El Capitan</a>, High Sierra es una versión perfeccionada y optimizada de Sierra. </p>
+<p><strong>Que Apple File System llegue de forma definitiva es una gran noticia,</strong> en iOS ha venido muy bien, así que en Mac pasará más de lo mismo. Además, los estándares de compresión de vídeo nuevos ayudarán mucho al usuario final.</p>
+<p>Metal 2 no es más que un pequeño escalón más por dotar al Mac de potencia de procesamiento gráfico, <strong>y parece que ha funcionado por la compatibilidad que va a traer con la realidad virtual.</strong> Por fin Apple nos dota de una herramienta capaz de crear contenido en condiciones para esta nueva tecnología que está captando mucho nuestra atención.</p>
+<p>Y si eso fuera poco, ahora trae compatibilidad nativa con hardware externo, básicamente podremos hacer que un MacBook Pro utilice tarjetas gráficas externas sin complicación para procesar todo tipo de contenido gráfico. Este componente hace que los equipos más antiguos puedan estar a la altura de la realidad virtual, por ejemplo.</p>
+<p>Ha habido un leve rediseño en algunas aplicaciones, adaptándose a la guía que hay en Apple Music para iOS. También ha habido mejoras en aplicaciones, estoy deseando probar esa nueva versión de Fotos y de Safari, y la nueva propiedad de compartir archivos de iCloud.</p>
+<p>Por último, <strong>destacar los esfuerzos que está haciendo Apple por dotar de inteligencia artificial a los sistemas,</strong> veremos a ver si finalmente tiene resultado, pero es algo que ha estado muy presente en toda la keynote y que me llama mucho la atención.</p>
+<p>En un futuro, como ha pasado otros años, <strong>puede que veamos más mejoras,</strong> pero de momento no ha habido un gran cambio, sino una perfección de lo ya existente.</p>
+<p><a href="http://www.faq-mac.com/2017/06/macos-sera-en-septiembre-macos-high-sierra/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Renovación de los Mac</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg" alt="Nuevos iMac y MacBook Pro" width="1856" height="1056" class="aligncenter size-full wp-image-16613" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg 1856w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg 1024w" sizes="(max-width: 1856px) 100vw, 1856px" /></a></p>
+<p><strong>Dar el salto a la séptima generación de los procesadores de Intel siempre es una buena noticia,</strong> y que haya una pequeña actualización de componentes también. Por eso, todos los modelos de iMac, MacBook Pro y MacBook han visto actualizados los componentes internos.</p>
+<p>Mejores procesadores, mejores SSDs, mejores pantallas, mejores gráficas y nuevos puertos.</p>
+<p><strong>En el terreno de los iMac me hubiese gustado algún pequeño rediseño,</strong> en lo que a marcos se refiere sobre todo. Llevo meses mirando mi iMac y pensando que tiene un diseño frontal basado en una tendencia pasada y me hubiera encantado que Apple hubiese hecho algo al respecto, pero no ha sido así, sólo ha sido una actualización de componentes.</p>
+<p>Apple ha dejado claro que quiere que sus equipos sean potentes, y así lo ha demostrado.</p>
+<p><a href="http://www.faq-mac.com/2017/06/apple-actualiza-el-imac-macbook-macbook-air-y-macbook-pro/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo iMac Pro</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg" alt="iMac Pro" width="2500" height="1582" class="aligncenter size-full wp-image-16614" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La empresa nos sorprendió con un nuevo iMac, <strong>el iMac Pro, un equipo cuya potencia supera a la del actual Mac Pro y que promete ser una alternativa de escritorio digna de profesionales.</strong></p>
+<p>Digo que nos sorprendió, no porque <a target="_blank" title="El futuro del Mac Pro, el iMac y las pantallas de Apple" href="www.macsfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/" rel="noopener noreferrer">no supiésemos que iban a sacar un iMac para profesionales</a>, que sí lo sabíamos, <strong>sino porque lo hicieron más pronto que tarde,</strong> y eso no suele ser habitual en Apple.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/a38_qR-S8Yo" frameborder="0" allowfullscreen></iframe></p>
+<p>El ordenador es una máquina increíble, potencia pura para procesar lo que le eches encima, y más. Es un gran equipo para el sector profesional y que puede ser expandido en un futuro con accesorios externos gracias a la compatibilidad de macOS High Sierra.</p>
+<p>Este no va a ser un ordenador que muchos de nosotros compremos, pero que Apple vuelva a poner sobre la mesa <sup class="modern-footnotes-footnote ">2</sup> un equipo destinado al público profesional, <strong>creo que ayudará mucho a que el Mac se implante en entornos de trabajo.</strong></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/XPIrnAcmCSk" frameborder="0" allowfullscreen></iframe></p>
+<p><a href="https://www.applesfera.com/sobremesa/apple-presenta-el-imac-pro-una-autentica-bestia-para-los-mas-exigentes-wwdc17" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo iOS 11</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg" alt="iOS 11" width="2500" height="744" class="aligncenter size-full wp-image-16615" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Llegamos a uno de los puntos clave del evento, la presentación del nuevo sistema operativo móvil, <strong>iOS 11.</strong> No os voy a engañar, me encantó todo lo que vi. </p>
+<ul>
+<li>Aplicación Archivos (incluso para servicios en la nube de terceros)</li>
+<li>Nuevo dock en el iPad</li>
+<li>Multitarea mejorada</li>
+<li>Arrastrar y soltar</li>
+<li>Teclado implementado</li>
+<li>Más opciones para las Live Photos</li>
+<li>Rediseños generales de aplicaciones</li>
+</ul>
+<p>Veo que se siguen rompiendo los moldes y estamos empezando a ver cosas útiles que se saltan el esquema de lo más intuitivo, cosas para gente más avanzada. <strong>Para los que realmente las necesiten.</strong></p>
+<p>No es que antes no estuvieran, pero había que liarla un poco para conseguirlas. <strong>Ahora todo es más sencillo una vez que se conoce el mecanismo.</strong> Es menos intuitivo, pero más útil. Por suerte contamos con 7 años de experiencia en interfaces gráficas táctiles como para que no suponga tanto esfuerzo.</p>
+<p>El mejor ejemplo de esto es el arrastrar y soltar, por fin lo tenemos nativo, antes podíamos transferir archivos entre aplicaciones, pero era todo más complejo. <strong>Ahora es fácil, sencillo y potente,</strong> como <a target="_blank" href="#" rel="noopener noreferrer">el que implementó Readdle hace poco</a>.</p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg" alt="Multitarea iOS 11" width="2348" height="1348" class="aligncenter size-full wp-image-16616" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg 2348w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg 1024w" sizes="(max-width: 2348px) 100vw, 2348px" /></a></p>
+<p>Al igual que <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/" rel="noopener noreferrer">con iOS 10</a> el gran beneficiado fue el iPhone, <strong>con iOS 11 el gran beneficiado ha sido el iPad,</strong> sin lugar a dudas.</p>
+<p>Estoy deseando que salgan las betas públicas para poder usarlo y trastear con esa nueva multitarea, el dock y demás propiedades.</p>
+<p>Estoy muy contento con el trabajo realizado, y eso que no hemos visto ni la mitad de las novedades que esta versión trae, y traerá.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/Yy1JEyxRzIc" frameborder="0" allowfullscreen></iframe></p>
+<p>Este vídeo muestra un repaso por todas esas novedades que se han ido descubriendo con el paso de los días y la beta de desarrolladores número 1.</p>
+<p><a href="http://www.faq-mac.com/2017/06/ios-11-presenta-nuevas-y-potentes-funciones-para-iphone-y-ipad-este-otono/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevos iPad Pro</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg" alt="Nuevo iPad Pro 10,5 pulgadas" width="2320" height="666" class="aligncenter size-full wp-image-16617" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg 2320w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg 1024w" sizes="(max-width: 2320px) 100vw, 2320px" /></a></p>
+<p>Después de iOS <sup class="modern-footnotes-footnote ">3</sup>, <strong>presentaron los nuevos iPad Pro: el modelo de 12,9” y uno nuevo de 10,5”</strong> que sustituye <a target="_blank" title="iPad Pro: lo que esperaba, y mucho más" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/" rel="noopener noreferrer">al de 9,7”</a>.</p>
+<p>Mejores pantallas (con mayor ratio de refresco y mayor luminosidad), más potencia gracias al chip A10X, cámaras mejoradas y Touch ID de segunda generación. Son solo algunas de las novedades de estos nuevos equipos.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/UR5ODc5Wbbo" frameborder="0" allowfullscreen></iframe></p>
+<p>Eliminar el equipo de 9,7” pulgadas no me parece una mala jugada, <strong>sobre todo si han reducido los bordes ya que el aumento de tamaño no es tan descarado.</strong></p>
+<p>Celebro la subida de espacio que ha habido (de 32GB a 64GB), aunque el nuevo dispositivo lleva consigo también una subida de precio respecto al Pro de 9,7”.</p>
+<p><a href="http://www.faq-mac.com/2017/06/nuevos-ipad-pro-de-105-pulgadas-y-129-pulgadas/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo HomePod</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg" alt="Nuevo HomePod" width="1808" height="1596" class="aligncenter size-full wp-image-16618" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg 1808w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg 227w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg 1024w" sizes="(max-width: 1808px) 100vw, 1808px" /></a></p>
+<p>Y llegamos a la última gran presentación de la WWDC17, <strong>el HomePod.</strong></p>
+<p><strong>El HomePod es un altavoz inteligente que está diseñado para ponernos música y emitirla de forma inteligente.</strong> Siri está presente en el sistema y es la única forma de interactuar con el altavoz <sup class="modern-footnotes-footnote ">4</sup>.</p>
+<p>Sólo funcionará con Apple Music (hasta donde sabemos) y puede realizar las labores de asistente virtual. <strong>Siri ha sido modificada para entender un montón de frases relacionadas con el ámbito de la música pero también para dar información y realizar esas tareas comunes</strong> que realiza en el resto de dispositivos.</p>
+<p>Personalmente, este es uno de los productos que menos gracia me han hecho. <strong>No me gustan los asistentes virtuales del hogar,</strong> me parecen poco útiles y que violan nuestra privacidad de una manera de la que no somos conscientes, para el beneficio que aportan <sup class="modern-footnotes-footnote ">5</sup>.</p>
+<p>Aún así, <strong>Apple lo vende principalmente como un altavoz inalámbrico,</strong> no como un asistente del hogar. Dentro de lo malo, al menos lo han dotado de buenas características para reproducir audio, que es algo que la competencia no tiene.</p>
+<p>Digamos que es el mismo producto, pero potenciando características distintas.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/1hw9skL-IXc" frameborder="0" allowfullscreen></iframe></p>
+<p>He de destacar que sí hay una cosa que me ha encantado, y es <strong>la escucha local que realiza el dispositivo.</strong> Como cualquier asistente, responde a un comando de voz para que empiece a funcionar. Para ello, el asistente tiene que escuchar y procesar todo lo que oye con el fin de encontrar el patrón de palabras clave <sup class="modern-footnotes-footnote ">6</sup>.</p>
+<p>Otros asistentes hacen esa comprobación de palabras en los servidores de sus fabricantes, es decir, escuchan todo lo que les llega, lo envían a la compañía y (como poco) lo procesan <sup class="modern-footnotes-footnote ">7</sup>. </p>
+<p><strong>El HomePod no hace eso,</strong> para garantizar nuestra privacidad, <strong>el HomePod es capaz de analizar esas palabras en local, sin necesidad de enviar nada fuera.</strong> Cuando detecta que se han dicho las palabras adecuadas, ya sí que inicia la conexión con los servidores de Apple con el objetivo de procesar la petición del usuario.</p>
+<p>Es un gran gesto por parte de Apple el limitar las escuchas que realiza, <strong>garantizando al usuario que va a meter un micrófono en su casa que estará 24/7 escuchando, de que no va a escuchar nada que no deba.</strong></p>
+<p>Desconozco si esta medida se habrá implementado en los demás dispositivos <sup class="modern-footnotes-footnote ">8</sup>, pero sin duda es algo que debería pasar si no está ya.</p>
+<p><a href="http://www.faq-mac.com/2017/06/homepod-reinventa-la-musica-en-el-hogar/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<hr />
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/FC0pT9xg1oI" frameborder="0" allowfullscreen></iframe></p>
+<p><strong>Y así es como terminamos la keynote de presentación de la WWDC17,</strong> un evento que, <a target="_blank" href="http://www.faq-mac.com/2017/06/una-keynote-para-consumo/" rel="noopener noreferrer">como dice Carlos Burges</a>, ha sido más para el público que para los desarrolladores.</p>
+<p>Han presentado demasiadas cosas, han ido demasiado rápido y, de lo importante <sup class="modern-footnotes-footnote ">9</sup>, <strong>se han dejado mucha información en el tintero.</strong></p>
+<p>No critico que el evento haya sido como ha sido, simplemente critico que hay infinidad de aspectos técnicos interesantes que no se han comentado. Prueba de ello son los distintos descubrimientos que se están haciendo según se prueban las versiones beta.</p>
+<p>En cualquier caso, <strong>Apple se ha puesto las pilas en muchos de los campos más demandados y más importantes para los usuarios.</strong> Ha incluido muchas novedades que hace 2-3 años hubiesen sido impensables y lo ha hecho de una forma muy natural.</p>
+<p>Todos los usuarios hemos salido muy beneficiados de esta keynote, el futuro pinta muy bien y estoy deseando ver más.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Os podría enlazar a la propia web de Apple pero como la van cambiando, no serviría de referencia para el futuro, así que prefiero enlazaros a artículos que sé que no van a desaparecer y que mantienen la información independientemente del año en que se consulte.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Y no solo con palabras.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Y antes de presentar las propiedades exclusivas del sistema para el iPad.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Salvo para controlar el volumen y poner o pausar la canción.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;Salvo que se padezca alguna discapacidad que dificulte la relación con los dispositivos informáticos tal y como los conocemos hoy.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;<em>”Oye Siri”</em> es la frase en español.</div><div>7&nbsp;&nbsp;&nbsp;&nbsp;Vete tú a saber si a parte de procesarlo lo almacenan, buscan patrones de comportamiento, pronunciación, etc.</div><div>8&nbsp;&nbsp;&nbsp;&nbsp;Los compatibles con <em>“Oye Siri”</em>.</div><div>9&nbsp;&nbsp;&nbsp;&nbsp;Los sistemas operativos y las tecnologías detrás de ellos.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La WWDC17 se celebrará del 5 al 9 de junio en San José</title>
+		<link>https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 16 Feb 2017 13:44:18 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC17]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16359</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a></p>
+<p>Apple acaba de anunciar que la WWDC17, la conferencia de desarrolladores anual de la empresa, se celebrará del 5 al 9 de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/02/16144354/WWDC17.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/02/16144354/WWDC17.jpg" alt="WWDC17" width="2500" height="908" class="aligncenter size-full wp-image-16362" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/02/16144354/WWDC17.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/02/16144354/WWDC17.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/02/16144354/WWDC17.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Apple acaba de anunciar que la WWDC17,</strong> la <a href="www.macsfera.com/tag/wwdc" title="WWDC" target="_blank" rel="noopener noreferrer">conferencia de desarrolladores anual de la empresa</a>, <strong>se celebrará del 5 al 9 de junio en San José, California.</strong></p>
+<p>El evento, que siempre trae mucha expectación por parte de los desarrolladores y usuarios  que siguen a la empresa, <strong>siempre trae consigo la presentación de las nuevas versiones de los sistemas operativos de Apple.</strong></p>
+<p><span id="more-16359"></span></p>
+<p>Así que <strong>el día 5 de junio habrá una keynote en la que se anunciará el futuro de macOS, iOS, tvOS y watchOS,</strong> con posible sorpresa incluida.</p>
+<blockquote>
+<p>La tecnología sola no es suficiente.<br />
+La tecnología debe ser la intersección de las artes liberales y humanidades, para crear nuevas ideas y experiencias que hagan que la sociedad avance. Este verano juntamos a miles de mentes brillantes que representan diversas perspectivas, pasiones, y talentos para ayudarnos a cambiar el mundo.</p>
+</blockquote>
+<p>Como <a href="www.macsfera.com/la-wwdc-del-2014-se-celebrara-del-2-al-6-de-junio-y-habra-asignacion-aleatoria-de-entradas/" title="La WWDC del 2014 se celebrará del 2 al 6 de junio y habrá asignación aleatoria de entradas" target="_blank" rel="noopener noreferrer">desde hace un tiempo</a>, <strong>la asignación de entradas será de forma aleatoria para todos los desarrolladores.</strong> La inscripción en el sorteo <strong>se abrirá el 27 de marzo a las 10:00 horario del pacífico,</strong> que coincide con las 19:00 en España. Para apuntarse es necesario tener una cuenta de desarrollador de Apple.</p>
+<p>Y nuevamente, <strong>los estudiantes que quieran ir podrán ser becados por Apple para acudir al evento de forma gratuita.</strong> Por ahora no hay información de qué tendrán que hacer para optar a una de estas becas, pero viendo lo que se pedía el año pasado, probablemente tengan que demostrar sus conocimientos creando aplicaciones.</p>
+<p>En el evento, a parte de presentarse el futuro de los sistemas operativos de Apple, habrá sesiones, consultas, invitados y formación sobre los sistemas operativos, y en particular sobre los sistemas operativos recién presentados.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://developer.apple.com/wwdc/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

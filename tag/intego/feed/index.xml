@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Intego &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/intego/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:59:44 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Nuevo malware para OS X camuflado como Adobe Flash</title>
+		<link>https://www.MacSfera.com/nuevo-malware-para-os-x-camuflado-como-adobe-flash/</link>
+					<comments>https://www.MacSfera.com/nuevo-malware-para-os-x-camuflado-como-adobe-flash/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 27 Sep 2011 14:33:27 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Flashback]]></category>
+		<category><![CDATA[Intego]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Lion]]></category>
+		<category><![CDATA[OS X Snow Leopard]]></category>
+		<category><![CDATA[Troyanos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5019</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-malware-para-os-x-camuflado-como-adobe-flash/">Nuevo malware para OS X camuflado como Adobe Flash</a></p>
+<p>La empresa de seguridad Intengo dedicada al descubrimiento y análisis de malware o virus para ordenador ha dado a conocer un nuevo</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-malware-para-os-x-camuflado-como-adobe-flash/">Nuevo malware para OS X camuflado como Adobe Flash</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-malware-para-os-x-camuflado-como-adobe-flash/">Nuevo malware para OS X camuflado como Adobe Flash</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/Flashback.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/Flashback.png" alt="" title="Flashback" width="550" height="409" class="aligncenter size-full wp-image-5020" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/Flashback.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/09/Flashback-300x223.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>La empresa de seguridad Intengo dedicada al descubrimiento y análisis de malware o virus para ordenador<strong> ha dado a conocer un nuevo troyano que afecta al <a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank" rel="noopener noreferrer">OS X</a> llamado <strong>Flashback</strong>.</strong> En este caso viene <strong>camuflado como un installer del conocido Flash</strong> de la marca Adobe.<br />
+<span id="more-5019"></span><br />
+El troyano <strong>tiene un parecido muy similar al de la mayoría de los instaladores de OS X</strong> y el hecho de que tengan logos oficiales del plugin hace que sea más difícil encontrarlo. Este malware <strong>lo que hace es crear un archivo en nuestra libraría que conecta nuestro Mac con un servidor al que pasa todo tipo de información</strong> referente a nuestro <strong><a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a></strong>.</p>
+<p>La forma de instalarlo es mediante una serie de páginas maliciosas que te ofrecen el instalador. Además, ahora, como en <strong>Lion</strong> no viene instalado de serie, <strong>es más fácil caer en la trama</strong> e instalarlo por otros medios y así contaminarnos.</p>
+<p>El archivo es un <strong>.dylb</strong> y se aloja en la siguiente ruta: <strong>Usuario/Librería/Preferencias/Preferences.dylb</strong> El método de instalarlo, según usuarios, es que primero te pide el teléfono y luego te lo descargas.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/flashback-vs-Flash.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/flashback-vs-Flash.png" alt="" title="flashback vs Flash" width="514" height="201" class="aligncenter size-full wp-image-5021" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/flashback-vs-Flash.png 514w, https://www.MacSfera.com/wp-content/uploads/2011/09/flashback-vs-Flash-300x117.png 300w" sizes="(max-width: 514px) 100vw, 514px" /></a></p>
+<p>Yo ayer recibí una actualización de Flash, algo que me pareció raro porque nunca me saltaban, pero lo actualicé. <strong>ESTO NO ES EL VIRUS,</strong> el virus es instalarlo de cero desde páginas no oficiales, además, tal y como dice <a href="http://reviews.cnet.com/8301-13727_7-20111639-263/another-os-x-trojan-imitates-adobe-flash-installer/" target="_blank" rel="noopener noreferrer">CNET</a> la ventana oficial es distinta a las normales.</p>
+<p>Sin dudarlo, si queréis descargar el programa hacezlo desde la web oficial de <a href="http://adobe.com/" target="_blank" rel="noopener noreferrer">Adobe</a>.</p>
+<p>Vía | <a href="http://www.macworld.com/article/162496/2011/09/intego_malware_masquerades_as_flash_installer.html#lsrc.rss_main" target="_blank" rel="noopener noreferrer">MacWorld</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-malware-para-os-x-camuflado-como-adobe-flash/">Nuevo malware para OS X camuflado como Adobe Flash</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/nuevo-malware-para-os-x-camuflado-como-adobe-flash/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

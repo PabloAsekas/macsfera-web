@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Open Source &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/open-source/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sat, 16 Oct 2021 13:12:32 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Bienvenidos a Swift.org</title>
+		<link>https://www.MacSfera.com/bienvenidos-a-swift-org/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2015 22:37:47 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Swift]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12612</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-a-swift-org/">Bienvenidos a Swift.org</a></p>
+<p>Swift, el nuevo lenguaje de programación de Apple, ya es open source. Estamos entusiasmados por este nuevo capítulo en la historia de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-a-swift-org/">Bienvenidos a Swift.org</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-a-swift-org/">Bienvenidos a Swift.org</a></p>
+<div id="attachment_12614" style="width: 1742px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/12/03233346/Swift-de-Apple-es-Open-Source.jpg" rel="attachment wp-att-12614"><img aria-describedby="caption-attachment-12614" src="https://cdn.macsfera.com/wp-content/uploads/2015/12/03233346/Swift-de-Apple-es-Open-Source.jpg" alt="Swift de Apple es Open Source" width="1732" height="1012" class="size-full wp-image-12614" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/12/03233346/Swift-de-Apple-es-Open-Source.jpg 1732w, https://cdn.macsfera.com/wp-content/uploads/2015/12/03233346/Swift-de-Apple-es-Open-Source.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/12/03233346/Swift-de-Apple-es-Open-Source.jpg 1024w" sizes="(max-width: 1732px) 100vw, 1732px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-12614" class="wp-caption-text">Imagen de <a href="http://thenextweb.com/apple/2014/06/03/developers-apples-swift-huge-potential/" target="_blank" rel="noopener noreferrer">The Next Web</a></p></div>
+<p><a href="https://swift.org/" target="_blank" rel="noopener noreferrer">Swift</a>, el nuevo lenguaje de programación de Apple, ya es open source.</p>
+<blockquote class="enlace">
+<p>Estamos entusiasmados por este nuevo capítulo en la historia de Swift. Después de que Apple presentase el lenguaje de programación Swift, rápidamente se convirtió en uno de los lenguajes que más rápido ha crecido en la historia. Swift hace sencillo el escribir software con un diseño increíblemente rápido y seguro. Ahora que Swift es open source, puedes ayudar a hacer que el mejor lenguaje de programación esté disponible en cualquier lugar.</p>
+</blockquote>
+<p>En la <a title="WWDC" href="www.macsfera.com/tag/wwdc" target="_blank" rel="noopener noreferrer">WWDC</a> de hace dos años se anunció Swift. A la vez se dijo que iba a ser Open Source, algo muy celebrado por toda la comunidad. Y hoy ha sido el momento en el que realmente se ha llevado a cabo.</p>
+<p>Apple ha publicado la web de Swift y <a href="https://swift.org/blog/welcome/" target="_blank" rel="noopener noreferrer">un artículo en el blog</a> de dicha web en el que anunciaba todos los cambios y progresos del proyecto.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-a-swift-org/">Bienvenidos a Swift.org</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

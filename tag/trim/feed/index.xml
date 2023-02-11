@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TRIM &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/trim/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:35 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>OS X El Capitan podría tener soporte TRIM para SSDs de terceros</title>
+		<link>https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2015 13:57:22 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[Soporte]]></category>
+		<category><![CDATA[SSD]]></category>
+		<category><![CDATA[TRIM]]></category>
+		<category><![CDATA[Trim enabler]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=11054</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a></p>
+<p>En las dos primeras betas de OS X El Capitan se ha descubierto un comando de terminal que habilitaría el soporte TRIM</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/25145411/Funcion-TRIM-nativa-en-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/25145411/Funcion-TRIM-nativa-en-El-Capitan.jpg" alt="Funcion TRIM nativa en El Capitan" width="860" height="478" class="aligncenter size-full wp-image-11058" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/25145411/Funcion-TRIM-nativa-en-El-Capitan.jpg 860w, https://cdn.macsfera.com/wp-content/uploads/2015/06/25145411/Funcion-TRIM-nativa-en-El-Capitan.jpg 300w" sizes="(max-width: 860px) 100vw, 860px" /></a></p>
+<p><strong>En las dos primeras <a href="www.macsfera.com/como-instalar-os-x-el-capitan-beta/" title="Cómo instalar OS X El Capitan beta" target="_blank" rel="noopener noreferrer">betas de OS X El Capitan</a> se ha descubierto un comando de terminal que habilitaría el soporte TRIM para todo tipo de SSDs,</strong> sean de Apple o de terceros.</p>
+<p>Hasta ahora, sólo los discos SSD puestos por Apple disfrutaban de esa compatibilidad. El resto de SSDs que pusiésemos los usuarios no dispondrían de forma nativa de dicha compatibilidad, por eso <strong>éramos nosotros los que teníamos que <a href="www.macsfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/" title="Habilita la orden TRIM si has instalado un SSD" target="_blank" rel="noopener noreferrer">activar TRIM</a> a través de otras herramientas</strong> ajenas a Apple.</p>
+<p><span id="more-11054"></span></p>
+<p>Recordemos que la orden TRIM sirve para que el sistema se comunique con el disco SSD para saber qué bloques de datos del disco duro están en uso y cuáles no, pudiéndose así borrar o sobrescribir los no usados. <strong>La función es beneficiosa porque hay un menor desgaste en la unidad, la velocidad se mantiene y aumenta la vida del dispositivo.</strong></p>
+<p>Esta compatibilidad nativa vendría muy bien puesto que <strong>al activarla con herramientas de terceros el sistema puede fallar,</strong> la función hay veces que se desactiva con una actualización del sistema por mínima que sea, hay que modificar ficheros que no deberían tocarse y por regla general es más engorroso.</p>
+<p>El propio creador de Trim Enabler <a href="https://www.cindori.org/trim-in-os-x-el-capitan/" target="_blank" rel="noopener noreferrer">comenta</a> que es una ventaja muy positiva para los usuarios y que adaptará sus software para hacerlo compatible con este nuevo método que se realiza por Terminal y con permisos de administrador.</p>
+<p>El uso de un SSD por parte de un usuario suele ser para dar un poco de velocidad extra al equipo, es un proceso que viene muy bien para <a href="http://www.mylaif.es/post/99937760140/ya-he-recibido-el-ssd-que-compre-para-mi-mbp" title="Disco duro SSD en MacBook Pro" target="_blank" rel="noopener noreferrer">alargar la vida útil de tu Mac</a> en caso de que este empiece a ser un poco antiguo y queramos seguir sacándole partido. <strong>Es una gran noticia que esperamos que Apple no remueva en la versión final de <a href="www.macsfera.com/tag/el-capitan" title="El Capitan" target="_blank" rel="noopener noreferrer">El Capitan</a>.</strong></p>
+<p><span class="source">Vía</span> <span class="via"><a href="http://www.macrumors.com/2015/06/12/os-x-el-capitan-trim-support/" target="_blank" rel="noopener noreferrer">MacRumors</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Habilita la orden TRIM si has instalado un SSD</title>
+		<link>https://www.MacSfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/</link>
+					<comments>https://www.MacSfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2014 13:29:22 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[SSD]]></category>
+		<category><![CDATA[TRIM]]></category>
+		<category><![CDATA[Trim enabler]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10242</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/">Habilita la orden TRIM si has instalado un SSD</a></p>
+<p>Con la salida de OS X Yosemite puede que te hayas planteado cambiar el disco duro de tu Mac por un SSD.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/">Habilita la orden TRIM si has instalado un SSD</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/">Habilita la orden TRIM si has instalado un SSD</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2014/10/disco-duro-ssd.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2014/10/disco-duro-ssd.png" alt="disco duro ssd" width="710" height="533" class="aligncenter size-full" /></a></p>
+<p>Con la salida de <strong>OS X Yosemite</strong> puede que te hayas planteado cambiar el disco duro de tu <strong><a href="www.macsfera.com/" title="Mac" target="_blank">Mac</a></strong> por <a href="http://amzn.to/1CDQ69E" target="_blank">un SSD</a>. Si es así, <strong>te interesará saber como habilitar TRIM y el porqué.</strong></p>
+<p><span id="more-10242"></span></p>
+<h2>¿Qué es la orden TRIM?</h2>
+<p><strong>La orden TRIM habilita la función del sistema operativo que le comunica a un disco de estado sólido (SSD) que bloques de datos están en uso y cuales no.</strong> De esta forma, el controlador del SSD sabe que bloques puede eliminar y cuales no porque su información sigue siendo útil.</p>
+<p>Esto se produce cuando borramos información en nuestro sistema, ya que en realidad no se borra, se marcan como memoria libre y permanecen ahí toda la información hasta que otros datos nuevos son los que se escriben en esos bloques de memoria.</p>
+<h2>¿Para qué me sirve habilitar TRIM?</h2>
+<p>La orden TRIM tiene el propósito de mantener la velocidad inicial del SSD y alargar su vida útil. Antes se escribían todos y cada uno de los bloques del SSD al menos una vez, ahora es posible evitarlo gracias a la orden. Al marcar que bloques se pueden borrar porque ya no están en uso, esos bloques, aunque ya han sido escritos, se sobrescribirán con nueva información, en vez de almacenar esa información en bloques no usados.</p>
+<h2>¿Por qué tengo que activar TRIM?</h2>
+<p><a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank">OS X</a> si que soporta TRIM, el problema es que solo los SSD de Apple se benefician de ello de forma nativa, el resto de SSD tienen que habilitarlo manualmente. Por suerte existen aplicaciones que lo hacen de manera muy sencilla.</p>
+<h2>Trim Enabler para habilitar la orden TRIM</h2>
+<p><strong>Con la aplicación gratuita <a href="https://a.paddle.com/click?said=41&#038;aaid=144&#038;link_id=63&#038;chk=38eb40d286224cbca35ad58cb8d34af4&#038;redir=aHR0cHM6Ly93d3cuY2luZG9yaS5vcmcvc29mdHdhcmUvdHJpbWVuYWJsZXI=" target="_blank">Trim Enabler</a> podremos habilitar la orden TRIM en nuestros SSD de manera muy sencilla.</strong> Nos bajamos la aplicación, la ejecutamos y seguimos los pasos:</p>
+<ol>
+<li>Indicamos que queremos habilitar TRIM en el SSD</li>
+<li>Deberemos dar permiso para deshabilitar la firma Kext, un nuevo driver en Yosemite que revisa que el resto de drivers no están modificados por una tercera persona (*)</li>
+<li>Reiniciamos el sistema</li>
+<li>Lanzamos Trim Enabler de nuevo y habilitamos TRIM en el SSD</li>
+<li>Por último, reiniciamos de nuevo</li>
+</ol>
+<blockquote>
+<p>*Este paso es solo válido si el sistema que estáis usando es Yosemite</p>
+</blockquote>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2014/10/Activar-orden-TRIM.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2014/10/Activar-orden-TRIM.png" alt="Activar orden TRIM" width="710" height="520" class="aligncenter size-full" /></a></p>
+<p>Para comprobar si se ha habilitado la orden deberemos ir a la Manzana del menú, Acerca de este Mac, Informe del sistema…, SATA/SATA Express y revisar que en el apartado <em>Compatibilidad con TRIM</em> pone Sí.</p>
+<p><strong>Con esto estaremos mejorando mucho las condiciones de nuestro SSD impidiendo que se degrade la velocidad y haciendo que su vida dure más.</strong></p>
+<p><span class="source">Descarga Trim Enabler</span> <span class="via"><a href="https://a.paddle.com/click?said=41&#038;aaid=144&#038;link_id=63&#038;chk=38eb40d286224cbca35ad58cb8d34af4&#038;redir=aHR0cHM6Ly93d3cuY2luZG9yaS5vcmcvc29mdHdhcmUvdHJpbWVuYWJsZXI=" target="_blank">Cindori</a></span></p>
+<p><span class="source">Disco SSD</span> <span class="via"><a href="http://amzn.to/1CDQ69E" target="_blank">Amazon</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/">Habilita la orden TRIM si has instalado un SSD</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

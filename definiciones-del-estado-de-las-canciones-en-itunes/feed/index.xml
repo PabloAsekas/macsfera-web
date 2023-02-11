@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Definiciones del estado de las canciones en iTunes	</title>
+	<atom:link href="https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:24:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: PabloAsekas		</title>
+		<link>https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/?#comment-893</link>
+
+		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
+		<pubDate>Mon, 14 Mar 2016 19:55:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5612#comment-893</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/?#comment-886&quot;&gt;Vania&lt;/a&gt;.
+
+pues no sabría decirte, lo lamento, nunca he usado iTunes Match.]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/?#comment-886">Vania</a>.</p>
+<p>pues no sabría decirte, lo lamento, nunca he usado iTunes Match.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Vania		</title>
+		<link>https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/?#comment-886</link>
+
+		<dc:creator><![CDATA[Vania]]></dc:creator>
+		<pubDate>Fri, 11 Mar 2016 18:20:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5612#comment-886</guid>
+
+					<description><![CDATA[Hola!
+Si ya no quiero iTunes Match,como le hago para tener  la música en mi compu,la ultima vez no podía tener acceso a casi toda mi música.
+Gracias.]]></description>
+			<content:encoded><![CDATA[<p>Hola!<br />
+Si ya no quiero iTunes Match,como le hago para tener  la música en mi compu,la ultima vez no podía tener acceso a casi toda mi música.<br />
+Gracias.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

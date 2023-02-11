@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Privacidad diferencial &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/privacidad-diferencial/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sat, 18 Jun 2016 10:47:27 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Apple mantiene su compromiso de privacidad</title>
+		<link>https://www.MacSfera.com/apple-mantiene-compromiso-privacidad/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2016 10:47:27 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Cifrado]]></category>
+		<category><![CDATA[Craig Federighi]]></category>
+		<category><![CDATA[Datos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 10]]></category>
+		<category><![CDATA[Privacidad]]></category>
+		<category><![CDATA[Privacidad diferencial]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC16]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14971</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-mantiene-compromiso-privacidad/">Apple mantiene su compromiso de privacidad</a></p>
+<p>Un año más, la WWDC trajo un nuevo sistema operativo para el iPhone y el iPad, iOS 10 en este caso, y</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-mantiene-compromiso-privacidad/">Apple mantiene su compromiso de privacidad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-mantiene-compromiso-privacidad/">Apple mantiene su compromiso de privacidad</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18123442/Privacy-WWDC16.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18123442/Privacy-WWDC16.jpg" alt="Privacy WWDC16" width="2500" height="782" class="aligncenter size-full wp-image-14973" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18123442/Privacy-WWDC16.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18123442/Privacy-WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18123442/Privacy-WWDC16.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Un año más, la WWDC trajo un nuevo sistema operativo para el iPhone y el iPad, <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/">iOS 10</a> en este caso, <strong>y viene repleto de novedades inteligentes que a muchos nos preocuparían por temas de privacidad.</strong></p>
+<p>El año pasado, <a target="_blank" title="Nuevo iOS 9" href="www.macsfera.com/nuevo-ios-9/">iOS 9</a> pegó el gran salto en inteligencia que jamás se había visto en el sistema operativo. Y al presentar las novedades, Craig Federighi ya <a target="_blank" title="Apple y su compromiso con la privacidad" href="www.macsfera.com/apple-y-su-compromiso-con-la-privacidad/">nos aclaró la política de privacidad de Apple</a> en ese momento.</p>
+<p><span id="more-14971"></span></p>
+<p>Este año, <strong>iOS ha demostrado ser más potente,</strong> hacer más cosas, sugerir información más personal y más sensible y, en definitiva, <strong>hacer saltar las alarmas a las personas que nos interesamos por la privacidad individual en la informática.</strong></p>
+<p>Pero nuevamente, <strong>Federighi acabó la presentación dedicándose por completo a la privacidad y a cómo Apple había trabajado para mantenerla:</strong></p>
+<blockquote>
+<p>Nosotros creemos que deberíais tener buenas características y buena privacidad. Lo habéis exigido y nosotros nos estamos esforzando para traerlo.</p>
+</blockquote>
+<p>Para conseguirlo, se han basado en cuatro pilares:</p>
+<h2>Cifrado de punto a punto</h2>
+<div id="attachment_14974" style="width: 2050px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18123644/Cifrado-punto-a-punto-Apple-WWDC16.jpg"><img aria-describedby="caption-attachment-14974" src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18123644/Cifrado-punto-a-punto-Apple-WWDC16.jpg" alt="Cifrado punto a punto Apple WWDC16" width="2040" height="1360" class="size-full wp-image-14974" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18123644/Cifrado-punto-a-punto-Apple-WWDC16.jpg 2040w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18123644/Cifrado-punto-a-punto-Apple-WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18123644/Cifrado-punto-a-punto-Apple-WWDC16.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14974" class="wp-caption-text">Imagen de <a href="https://live.theverge.com/apple-wwdc-2016-keynote-live-blog/" target="_blank">TheVerge</a></p></div>
+<p>Como muchos otros servicios, <strong>Apple ha implementado el cifrado de punto a punto en muchas partes de sus aplicaciones y servicios.</strong> Las llamadas por FaceTime, los mensajes mandados por iMessages o el control de nuestros accesorios por la nueva aplicación Home, son un ejemplo de los sistemas que irán encriptados por la red para que nuestra privacidad se vea reforzada.</p>
+<p>Esto nos permitirá comunicaciones más seguras y, lo que yo más temía cuando dijeron que la aplicación Home podría funcionar desde fuera de casa, <strong>más seguridad en el entorno del hogar.</strong> A nadie le gustaría que estando fuera de casa, y con un par de técnicas avanzadas, se pudiese obtener los detalles de la cámara de vídeo que tenemos instalada, o que tuviese la posibilidad de encender o apagar electrodomésticos inteligentes.</p>
+<h2>Inteligencia local</h2>
+<div id="attachment_14975" style="width: 2050px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18123817/Inteligencia-local-WWDC16.jpg"><img aria-describedby="caption-attachment-14975" src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18123817/Inteligencia-local-WWDC16.jpg" alt="Inteligencia local WWDC16" width="2040" height="1360" class="size-full wp-image-14975" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18123817/Inteligencia-local-WWDC16.jpg 2040w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18123817/Inteligencia-local-WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18123817/Inteligencia-local-WWDC16.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14975" class="wp-caption-text">Imagen de <a href="https://live.theverge.com/apple-wwdc-2016-keynote-live-blog/" target="_blank">TheVerge</a></p></div>
+<p>Hemos visto cómo iOS 10 es mucho más inteligente, no solo a la hora de sugerir palabras o información, <strong>también analiza constantemente el contexto de las conversaciones</strong> para sugerir eventos o incluso analiza todas las imágenes para componer recuerdos en base a una temática o persona. Pues para garantizar toda esa privacidad, <strong>Apple ha trabajado para que esas características se realicen siempre en local, nunca fuera del terminal.</strong></p>
+<p>De esta forma, toda la información se crea y se muestra en el dispositivo, sin necesidad de viajar a través de Internet para crearse en un servidor externo, etc.</p>
+<h2>Sin vinculación al individuo</h2>
+<div id="attachment_14976" style="width: 2050px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18124032/Sin-vinculacion-al-individuo.jpg"><img aria-describedby="caption-attachment-14976" src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18124032/Sin-vinculacion-al-individuo.jpg" alt="Sin vinculacion al individuo" width="2040" height="1360" class="size-full wp-image-14976" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18124032/Sin-vinculacion-al-individuo.jpg 2040w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18124032/Sin-vinculacion-al-individuo.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18124032/Sin-vinculacion-al-individuo.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14976" class="wp-caption-text">Imagen de <a href="https://live.theverge.com/apple-wwdc-2016-keynote-live-blog/" target="_blank">TheVerge</a></p></div>
+<p>Hay sistemas y características que no funcionarían sin Internet, eso supone hacer consultas a los servidores de Apple (para Siri, Spotlight, Mapas, etc.) y ellos lo saben, <strong>por eso se comprometen a no vincular ninguna búsqueda con el individuo que la realiza.</strong></p>
+<p>Es decir, no se crea ningún perfil que vincula esa búsqueda con la persona que la ha realizado, <strong>simplemente se guarda la búsqueda realizada para que en futuras ocasiones sepan cómo la gente en general usa su servicio y pueden mejorarlo de cara al usuario,</strong> pero nunca vinculándolo esas búsquedas con el individuo.</p>
+<h2>Privacidad diferencial</h2>
+<div id="attachment_14977" style="width: 2050px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18124134/Privacidad-diferencial-WWDC16.jpg"><img aria-describedby="caption-attachment-14977" src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18124134/Privacidad-diferencial-WWDC16.jpg" alt="Privacidad diferencial WWDC16" width="2040" height="1360" class="size-full wp-image-14977" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18124134/Privacidad-diferencial-WWDC16.jpg 2040w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18124134/Privacidad-diferencial-WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18124134/Privacidad-diferencial-WWDC16.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14977" class="wp-caption-text">Imagen de <a href="https://live.theverge.com/apple-wwdc-2016-keynote-live-blog/" target="_blank">TheVerge</a></p></div>
+<p><strong>La privacidad diferencial es un concepto de las estadísticas y de la información analítica que usa matemáticas, muestreos e inyección de ruido para conseguir que la información individual pase a ser información colectiva</strong> permitiendo a la empresa analizar cierta información en grupo manteniendo la privacidad del individuo.</p>
+<p>Básicamente, Apple recolecta cierta información de los individuos para que algunos de sus sistemas funcionen correctamente. Pero en vez de tratarla de forma individual, lo que hace es que, matemáticamente, <strong>la combina para que el resultado sea información de grupo y así poder analizarla como si de una población se tratase y no una persona en particular.</strong></p>
+<p>Gracias a la privacidad diferencial, los servicios de búsqueda, Quicktype, etc. pueden funcionar con mucha más precisión sin vulnerar la privacidad del individuo.</p>
+<hr />
+<p><strong>Me gusta usar los servicios de Apple porque mi privacidad está asegurada.</strong> Eso es lo que me lleva a tener el correo con ellos, <a target="_blank" title="¿Por qué iCloud es mi servicio en la nube favorito?" href="www.macsfera.com/por-que-icloud-es-mi-servicio-en-la-nube-favorito/">a usar su servicio en la nube</a>, a usar sus mapas y a usar, en definitiva, la mayoría de cosas que me ofrecen que garantizan mi privacidad por su simple uso.</p>
+<p>Estamos en una época en la que la información mueve mucho dinero y hay empresas que ofrecen un producto gratuito a cambio de esa recolección de información, e incluso hay usuarios que aceptan gratamente que se trate así su información <sup class="modern-footnotes-footnote ">1</sup>. <strong>Pero para los que,</strong> como yo, <strong>no queremos que nuestros hábitos y usos sean analizados y comercializados</strong> (más allá de la mejora de la plataforma) <strong>nunca está demás que la empresa que usas salga,</strong> de nuevo, <strong>a decir que ellos no se dedican a eso.</strong></p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/es/privacy/" target="_blank">Apple</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Cosa que no está nada mal siempre y cuando lo acepten a sabiendas.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-mantiene-compromiso-privacidad/">Apple mantiene su compromiso de privacidad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

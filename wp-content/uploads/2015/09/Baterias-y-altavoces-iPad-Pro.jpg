@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2015/09/Baterias-y-altavoces-iPad-Pro.jpg?simply_static_page=262762">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2015/09/Baterias-y-altavoces-iPad-Pro.jpg?simply_static_page=262762";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2015/09/Baterias-y-altavoces-iPad-Pro.jpg?simply_static_page=262762">https://www.macsfera.com/wp-content/uploads/2015/09/Baterias-y-altavoces-iPad-Pro.jpg?simply_static_page=262762</a></p>
+	</body>
+</html>

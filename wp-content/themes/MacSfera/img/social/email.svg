@@ -1,0 +1,14 @@
+<svg viewBox="0 0 42 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Created by PabloAsekas</desc>
+	<defs></defs>
+	<g id="close-envelope" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Capa_1" fill="#FFFFFF">
+			<g id="Group">
+				<path d="M21,21 L15.804,16.452 L0.948,29.187 C1.488,29.688 2.217,30 3.021,30 L38.979,30 C39.78,30 40.506,29.688 41.043,29.187 L26.196,16.452 L21,21 Z" id="Shape"></path>
+				<path d="M41.052,0.813 C40.512,0.309 39.786,0 38.979,0 L3.021,0 C2.22,0 1.494,0.312 0.954,0.819 L21,18 L41.052,0.813 Z" id="Shape"></path>
+				<polygon id="Shape" points="0 2.634 0 27.558 14.499 15.237"></polygon>
+				<polygon id="Shape" points="27.501 15.237 42 27.558 42 2.625"></polygon>
+			</g>
+		</g>
+	</g>
+</svg>

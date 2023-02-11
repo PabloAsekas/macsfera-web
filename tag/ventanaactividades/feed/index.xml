@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ventana/Actividades &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/ventanaactividades/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 13 Mar 2016 23:05:50 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</title>
+		<link>https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/</link>
+					<comments>https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 21 Feb 2011 13:20:21 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Descargas]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[QuickTime Player]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Ventana/Actividades]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[VLC]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[YouTube Video Downloader for Safari]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1162</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a></p>
+<p>Normalmente cuando vemos un vídeo en YouTube y nos gusta, puede que lo queramos tener entre nuestros vídeos, sobre todo cuando es</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari.png" alt="" title="Descargar vídeos de YouTube con Safari" width="550" height="344" class="aligncenter size-full wp-image-3926" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Normalmente cuando vemos un vídeo en YouTube y nos gusta, puede que lo queramos tener entre nuestros vídeos, sobre todo cuando es un videoclip o algo por el estilo. Hasta ahora tenemos infinidad de programas para descargarlo, también hay páginas que permiten la descarga on-line. Pero aquí <strong>os traigo dos maneras sencillas de descargar un vídeo desde <strong><a href="www.macsfera.com/tag/safari">Safari</a></strong>,</strong> sin utilizar ningún programa.<br />
+<span id="more-1162"></span><br />
+<strong>La primera de todas es siguiendo unos pasos:</strong></p>
+<ul>
+<li>Accedemos a YouTube y nos metemos en el vídeo que queramos descargar.</li>
+<li>En la barra de menús seleccionamos <strong>Ventana/actividades</strong>.</li>
+<li>Aparecerá una ventana con las actividades del navegador y deberemos buscar la que salga cargando (3,1 de 36,2 MB en caso de la imagen), hacemos doble click y empezará una descarga (imagen 1).</li>
+<li>Cuando esta acabe podréis disfrutar del vídeo con <strong>VLC</strong> (<strong>Quick Time Player</strong> no reproduce el formato).</li>
+</ul>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube.png" alt="" title="Descargar vídeo de YouTube" width="514" height="294" class="aligncenter size-full wp-image-3425" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube.png 514w, https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube-300x172.png 300w" sizes="(max-width: 514px) 100vw, 514px" /></a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1.png" alt="" title="Descargar vídeo de YouTube" width="550" height="374" class="aligncenter size-full wp-image-3424" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1-300x204.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>La segunda opción es descargando e instalando un plugin gratuito para <strong>Safari</strong> <strong>llamado <strong>YouTube Video Downloader for Safari</strong></strong> que es un plugin muy discreto que no vas a notar su presencia cuando esté instalado y <strong>se adapta perfectamente a la interfaz gráfica de YouTube.</strong></p>
+<p>Este plugin añade la opción Download al lado del botón de Suscribirse y si lo pulsamos nos aparecen <strong>distintos formatos para descargar dicho vídeo</strong> entre los que se incluye el de 720p o 1080p si el vídeo está en dichos formatos.<br />
+El plugin lo podéis descargar desde <a href="https://github.com/jonathanboom/YouTube-video-downloader-for-Safari">aquí</a>.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari.png" alt="" title="YouTube Video Downloader for Safari" width="401" height="35" class="aligncenter size-full wp-image-3426" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari.png 401w, https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari-300x26.png 300w" sizes="(max-width: 401px) 100vw, 401px" /></a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1.png" alt="" title="YouTube Video Downloader for Safari" width="490" height="60" class="aligncenter size-full wp-image-3427" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1.png 490w, https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1-300x37.png 300w" sizes="(max-width: 490px) 100vw, 490px" /></a></p>
+<p>A mi parecer la segunda opción es la mejor puesto que permite descargar el vídeo en distintos formatos y en distintas calidades y da más juego, todo es más sencillo.</p>
+<p>Pero si no quieres instalar ningún plugin ahí tienes la primera opción que aunque es más engorrosa es muy eficaz.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

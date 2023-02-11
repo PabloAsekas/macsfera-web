@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: «Mi vecino Steve Jobs»	</title>
+	<atom:link href="https://www.MacSfera.com/mi-vecino-steve-jobs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/mi-vecino-steve-jobs/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:53:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: PabloAsekas		</title>
+		<link>https://www.MacSfera.com/mi-vecino-steve-jobs/?#comment-299</link>
+
+		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
+		<pubDate>Thu, 01 Sep 2011 21:15:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4769#comment-299</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/mi-vecino-steve-jobs/?#comment-298&quot;&gt;BerPod&lt;/a&gt;.
+
+Era una anécdota que queríamos poner porque es muy curiosa.
+
+Un saludo.]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="https://www.MacSfera.com/mi-vecino-steve-jobs/?#comment-298">BerPod</a>.</p>
+<p>Era una anécdota que queríamos poner porque es muy curiosa.</p>
+<p>Un saludo.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: BerPod		</title>
+		<link>https://www.MacSfera.com/mi-vecino-steve-jobs/?#comment-298</link>
+
+		<dc:creator><![CDATA[BerPod]]></dc:creator>
+		<pubDate>Thu, 01 Sep 2011 16:16:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4769#comment-298</guid>
+
+					<description><![CDATA[Gracias por el Post muy bueno]]></description>
+			<content:encoded><![CDATA[<p>Gracias por el Post muy bueno</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

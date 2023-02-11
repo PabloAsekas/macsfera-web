@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LaunchPad &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/launchpad/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:59:45 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>OS X Lion 10.7.2 ya está con iCloud y Safari 5.1.1 incluido</title>
+		<link>https://www.MacSfera.com/os-x-lion-10-7-2-ya-esta-con-icloud-y-safari-5-1-1-incluido/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2011 17:49:11 +0000</pubDate>
+				<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Active Directory]]></category>
+		<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Find my Mac]]></category>
+		<category><![CDATA[ID de Apple]]></category>
+		<category><![CDATA[LaunchPad]]></category>
+		<category><![CDATA[Mission Control]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Lion]]></category>
+		<category><![CDATA[OS X Lion 10.7.2]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<category><![CDATA[VoiceOver]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5248</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-10-7-2-ya-esta-con-icloud-y-safari-5-1-1-incluido/">OS X Lion 10.7.2 ya está con iCloud y Safari 5.1.1 incluido</a></p>
+<p>Apple acaba de lanzar OS X Lion 10.7.2 al público para descarga gratuita y así tener la máxima implementación con iCloud que</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-10-7-2-ya-esta-con-icloud-y-safari-5-1-1-incluido/">OS X Lion 10.7.2 ya está con iCloud y Safari 5.1.1 incluido</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-10-7-2-ya-esta-con-icloud-y-safari-5-1-1-incluido/">OS X Lion 10.7.2 ya está con iCloud y Safari 5.1.1 incluido</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/10/Actualización-de-Software.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/10/Actualización-de-Software.png" alt="" title="Actualización de Software" width="514" height="274" class="aligncenter size-full wp-image-5250" srcset="https://www.MacSfera.com/wp-content/uploads/2011/10/Actualización-de-Software.png 514w, https://www.MacSfera.com/wp-content/uploads/2011/10/Actualización-de-Software-300x160.png 300w" sizes="(max-width: 514px) 100vw, 514px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> acaba de lanzar <strong>OS X Lion 10.7.2</strong> al público para descarga gratuita y así <strong>tener la máxima implementación con <a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a> que <a href="https://www.MacSfera.com/icloud-com-abierta-a-todo-el-mundo/" title="iCloud.com sale de su fase beta" target="_blank" rel="noopener noreferrer">ha salido de su fase beta</a> esta mañana.</strong></p>
+<p><span id="more-5248"></span></p>
+<p>La actualización soluciona errores generales del sistema mejorando la estabilidad, compatibilidad y seguridad del <strong>Mac</strong>. Se ha vuelto compatible con <strong>iCloud</strong> que tiene las siguientes características:</p>
+<ul>
+<li><strong>iCloud</strong> guarda sus mensajes de correo electrónico, calendarios, contactos, favoritos de Safari y lista de lectura de Safari y los envía a todos sus dispositivos.</li>
+<li><strong>Back to my Mac</strong> proporciona acceso remoto a su <strong>Mac</strong> desde otro <strong>Mac</strong> a través de Internet.</li>
+<li><strong>Find my Mac</strong> le ayuda a encontrar un Mac ubicándolo en un mapa y bloquearlo o borrar todos los datos remotamente.</li>
+</ul>
+<p>Al acabar la instalación y reiniciar se abrirá un panel para configurar <strong>iCloud</strong> en el <strong>Mac</strong>, solo necesitamos nuestra <strong><a href="www.macsfera.com/tag/id-de-apple" title="ID de Apple" target="_blank" rel="noopener noreferrer">Apple ID</a></strong>.</p>
+<p><strong>Safari</strong> también recibe una actualización y el sistema no cesa ahí sus mejoras:</p>
+<ul>
+<li>Permite reordenar los espacios del escritorio y las <strong>aplicaciones</strong> a pantalla completa en <strong>Mission Control</strong>.</li>
+<li>Permite arrastrar archivos entre espacios del escritorio y <strong>aplicaciones</strong> a pantalla completa.</li>
+<li>Soluciona un error que provocaba que la barra de menús no apareciera en las <strong>aplicaciones</strong> a pantalla completa.</li>
+<li>Mejora la compatibilidad con la sincronización de los contactos de Google en <strong>Agenda</strong>.</li>
+<li>Soluciona un problema que provocaba que <strong>Keynote</strong> dejara de responder temporalmente.</li>
+<li>Mejora la compatibilidad de <strong>VoiceOver</strong> con <strong>Launchpad</strong>.</li>
+<li>Soluciona un problema que provocaba tardanza en acceder a la red tras el reposo.</li>
+<li>Permite el arranque en modo de recuperación de <strong>Lion</strong> desde un disco de copia de seguridad de <strong>Time Machine</strong> conectado localmente.</li>
+<li>Soluciona un problema que provocaba que el zoom de pantalla dejara de funcionar.</li>
+<li>Mejora la integración con <strong>Active Directory</strong>.</li>
+</ul>
+<p>Como vemos repletito de mejoras y novedades que esperemos callen todas las voces del mercado que nos quejábamos de que el sistema no era óptimo con muchos fallos y errores. La actualización es pesada pero con paciencia todo se consigue.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-10-7-2-ya-esta-con-icloud-y-safari-5-1-1-incluido/">OS X Lion 10.7.2 ya está con iCloud y Safari 5.1.1 incluido</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OS X Lion ya está entre nosotros. Proceso de instalacción</title>
+		<link>https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/</link>
+					<comments>https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 20 Jul 2011 17:09:59 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Facetime]]></category>
+		<category><![CDATA[Finder]]></category>
+		<category><![CDATA[LaunchPad]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Magic Mouse]]></category>
+		<category><![CDATA[Magic Trackpad]]></category>
+		<category><![CDATA[Mail]]></category>
+		<category><![CDATA[Mission Control]]></category>
+		<category><![CDATA[OS X Lion]]></category>
+		<category><![CDATA[Photo Booth]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Scroll]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=3858</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/">OS X Lion ya está entre nosotros. Proceso de instalacción</a></p>
+<p>Hace no mucho os hemos avisado de que OS X Lion ya estaba disponible en la Mac App Store y ahora os</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/">OS X Lion ya está entre nosotros. Proceso de instalacción</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/">OS X Lion ya está entre nosotros. Proceso de instalacción</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Captura-de-pantalla-2011-07-20-a-las-19.02.20.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Captura-de-pantalla-2011-07-20-a-las-19.02.20.png" alt="" title="OS X Lion" width="550" height="309" class="aligncenter size-full wp-image-3859" srcset="https://www.MacSfera.com/wp-content/uploads/2011/07/Captura-de-pantalla-2011-07-20-a-las-19.02.20.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/07/Captura-de-pantalla-2011-07-20-a-las-19.02.20-300x169.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Hace no mucho os hemos avisado de que <strong><a href="www.macsfera.com/tag/os-x-lion" title="OS X Lion">OS X Lion</a></strong> ya estaba disponible en la <strong>Mac App Store</strong> y ahora os contamos como ha ido la instalación.<br />
+<span id="more-3858"></span><br />
+La descarga ha tardado bastante, teniendo en cuenta que nos hemos puesto miles de maqueros a descargarlo no lo veo raro. Una vez descargado se nos abrirá el instalador y nos pedirá seleccionar en que disco duro queremos instalarlo, una vez seleccionado procederemos a la instalación propiamente dicha.</p>
+<p>En mi caso ha tardado de unos 40 a 50 min más o menos y luego a iniciado sesión, puesto que he decidido actualizar y no instalar de 0 me viene mi dock igual aunque incluye 4 iconos más, el de <strong><a href="www.macsfera.com/tag/launchpad" title="Launchpad">Launchpad</a></strong>, <strong><a href="www.macsfera.com/tag/mission-control" title="Mission Control">Mission Control</a></strong>, <strong>Mac App Store</strong> y <strong>FaceTime</strong>. Todos los archivos están donde estaban antes y todo igual.</p>
+<p>Un pequeño aviso, si queréis poder instalar luego el SO de 0 <strong>GUARDAD EL ARCHIVO QUE OS HABÉIS BAJADO</strong> porque luego no tienes ese archivo por ningún lado, si no tendrás que volver a bajártelo de nuevo con el tiempo que ello supone.</p>
+<p>Cuando estés en tu usuario te saltarán un par de actualizaciones, además <strong>Spotlight</strong> tendrá que indexar todo el contenido, que le llevará más o menos tiempo en función de tus archivos. Una cosa que me ha encantado del sistema es la fluidez de los movimientos que hace.</p>
+<p>Tanto <strong>Mission Control</strong> como <strong>Launchpad</strong> molan bastante aunque no he pillado del todo los controles de <strong>Mission Control</strong> (Me sale Escritorio 1, 3 y 2.) y en <strong>Launchpad</strong> estaría bien poder eliminar aplicaciones y que siguieras teniéndolas pero sin estar ahí.</p>
+<p>Una cosa nueva es la del control del scroll o los movimientos con dos o tres dedos, el scroll es invertido, como el del iPhone vamos y con lo de los movimientos pues en algunas aplicaciones que retrocedías un paso (en Snow Leopard se hace con dos dedos) aquí no se puede hacer, en <strong>Safari</strong> es solo con un dedo (en caso del <strong>Magic Mouse</strong>).</p>
+<p>Recomendamos 100% la compra del <strong>Magic Trackpad</strong>, es 100% compatible, con el <strong>Magic Mouse</strong> no. Todo cobra mucho aspecto a iOS, <strong>Finder</strong> se actualiza con nuevos iconos y nuevas configuraciones, cuando pasa un rato, lo que no me ha gustado es que borra <strong>apps</strong> que no son compatibles.</p>
+<p>El <strong>Mail</strong> es una pasada pero no me gusta que los mismos correos que vienen que son prácticamente iguales los apile con el nuevo sistema (por ejemplo, te envía la misma persona un comentario, pues en vez de mostrarte dos correos te muestra uno con los dos mensajes), prefiero dos mensajes y si respondo uno que salte el nuevo sistema.</p>
+<p>Por último, <strong>Photo booth</strong> y sus nuevos efectos son una pasada, es impresionante como te reconoce la cara y los ejecuta, muy logrado.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/">OS X Lion ya está entre nosotros. Proceso de instalacción</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OS X Lion con muchas novedades para Julio. 23&#8217;99€</title>
+		<link>https://www.MacSfera.com/mac-os-x-lion-con-muchas-novedades-para-julio-30/</link>
+					<comments>https://www.MacSfera.com/mac-os-x-lion-con-muchas-novedades-para-julio-30/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 06 Jun 2011 20:39:08 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[AirDrop]]></category>
+		<category><![CDATA[Facetime]]></category>
+		<category><![CDATA[Gestos Multitouch]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[LaunchPad]]></category>
+		<category><![CDATA[Mail]]></category>
+		<category><![CDATA[Mission Control]]></category>
+		<category><![CDATA[OS X Lion]]></category>
+		<category><![CDATA[Photo Booth]]></category>
+		<category><![CDATA[Versions]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2647</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mac-os-x-lion-con-muchas-novedades-para-julio-30/">OS X Lion con muchas novedades para Julio. 23&#8217;99€</a></p>
+<p>La keynote de Apple ya ha acabado y ahora una de las noticias que tenemos es OS X Lion, con más de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mac-os-x-lion-con-muchas-novedades-para-julio-30/">OS X Lion con muchas novedades para Julio. 23&#8217;99€</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mac-os-x-lion-con-muchas-novedades-para-julio-30/">OS X Lion con muchas novedades para Julio. 23&#8217;99€</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/06/OS-X-Lion-conferencia-de-desarrolladores.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/06/OS-X-Lion-conferencia-de-desarrolladores.jpg" alt="" title="OS X Lion conferencia de desarrolladores" width="550" height="366" class="aligncenter size-full wp-image-3731" srcset="https://www.MacSfera.com/wp-content/uploads/2011/06/OS-X-Lion-conferencia-de-desarrolladores.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/06/OS-X-Lion-conferencia-de-desarrolladores-300x200.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>La <strong>keynote</strong> de <strong><a href="www.macsfera.com/" title="Apple">Apple</a></strong> ya ha acabado y ahora una de las noticias que tenemos es <strong><a href="www.macsfera.com/tag/os-x/" title="OS X Lion">OS X Lion</a></strong>, <strong>con más de 250 funcionalidades nuevas por tan solo 23&#8217;99€ a partir de Julio</strong>.<br />
+<span id="more-2647"></span></p>
+<h2>Gestos multitouch</h2>
+<p>Al estilo de <strong>iOS</strong>: con todos los gestos podremos hacer scroll (desaparecen las scrollbars), un gesto te lleva al escritorio cuando una <strong>app</strong> está en pantalla completa, además seguro que tenemos más implementación cuando podamos testarla.</p>
+<h2>Mission Control</h2>
+<p>Podrás ver todas las ventanas que tienes abiertas, es una mezcla entre <strong>Expose</strong> y <strong>Spaces</strong>.</p>
+<h2>PhotoBooth</h2>
+<p>Ahora reconoce tu cara y tiene divertidos efectos como el de agrandar los ojos en el acto, también muestra animaciones en 3D.</p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/06/PhotoBooth-OS-X-Lion-pájaros.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/06/PhotoBooth-OS-X-Lion-pájaros.jpg" alt="" title="PhotoBooth OS X Lion pájaros" width="550" height="366" class="aligncenter size-full wp-image-3732" srcset="https://www.MacSfera.com/wp-content/uploads/2011/06/PhotoBooth-OS-X-Lion-pájaros.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/06/PhotoBooth-OS-X-Lion-pájaros-300x200.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<h2>LaunchPad</h2>
+<p>Tirando de interfaz similar a <strong>iOS</strong>, te muestra todas las <strong>aplicaciones</strong> que tienes instaladas en una cuadrícula de forma ordenada y limpia, da gusto navegar por ella, está disponible desde la primera beta y funciona muy bien.</p>
+<h2>Versions</h2>
+<p>Es una nueva utilidad de <strong>OS X Lion</strong> que permite restaurar una <strong>aplicación</strong> tal y como la dejamos al cerrarla, también nos permite reiniciar el <strong>Mac</strong> y este se iniciará con todas las <strong>aplicaciones</strong> que tengamos abiertas antes de hacer el proceso. Viene muy bien implementado con <strong>iWork</strong> como hemos visto en las demos de la <strong>keynote</strong>.</p>
+<h2>Auto guardado</h2>
+<p>Una nueva función que hará que no tengas que guardar ningún documento ya que lo hace todo automáticamente pudiendo navegar por los diferentes formatos guardados que tengamos, estilo <strong>Time Machine</strong>.</p>
+<h2>AirDrop</h2>
+<p><strong>AirDrop</strong> también es una nueva funcionalidad de <strong>OS X Lion</strong> que permite crear una infraestructuras de diferentes <strong>Mac</strong> e intercambiar archivos entre ellos con tan solo arrastrarlos. De la manera más sencilla que imaginemos.</p>
+<h2>Mail</h2>
+<p>Ahora tenemos una nueva versión de <strong>Mail</strong> mucho más mejorada que se asemeja al <strong>Mail</strong> del <strong>iPad</strong>. Destaca el nuevo buscador más rápido y mejor implementado con Autor, Fecha y Tema, para encontrar todo. Además también dispone de una nueva función de Conversación en la que nos muestra las conversaciones que hemos hecho con un mismo usuario de una forma ordenada y no de la forma en la que lo tienen hasta ahora.</p>
+<p><strong>Apple</strong> ha dejado a los desarrolladores más de <strong>3.000 APIs para que implementen con el sistema</strong> y esté lo mejor enlazado posible. Incluye <strong>FaceTime</strong> y <strong>SOLO estará disponible desde la</strong> <strong>Mac App Store</strong> <strong>por tan solo 23&#8217;99€.</strong> Basta con comprar una vez y podrás instalarlo cuantas veces quieras, tan solo tendrá un peso de 4GB.</p>
+<p>Seguro que se nos pasa algún detalle, ya entraremos en más detalle cuando dispongamos de una versión para probar.</p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/06/Características-OS-X-Lion.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/06/Características-OS-X-Lion.jpg" alt="" title="Características OS X Lion" width="550" height="366" class="aligncenter size-full wp-image-3733" srcset="https://www.MacSfera.com/wp-content/uploads/2011/06/Características-OS-X-Lion.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/06/Características-OS-X-Lion-300x200.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mac-os-x-lion-con-muchas-novedades-para-julio-30/">OS X Lion con muchas novedades para Julio. 23&#8217;99€</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/mac-os-x-lion-con-muchas-novedades-para-julio-30/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OS X Lion, gestos multitouch</title>
+		<link>https://www.MacSfera.com/os-x-lion-gestos-multitouch/</link>
+		
+		<dc:creator><![CDATA[Samuel Prudencio]]></dc:creator>
+		<pubDate>Sun, 27 Feb 2011 17:08:29 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[LaunchPad]]></category>
+		<category><![CDATA[Lion]]></category>
+		<category><![CDATA[Mission Control]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1371</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-gestos-multitouch/">OS X Lion, gestos multitouch</a></p>
+<p>Tras haber sido liberada la beta del OS X Lion han destacado notablemente, y así se han hecho eco muchas páginas de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-gestos-multitouch/">OS X Lion, gestos multitouch</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-gestos-multitouch/">OS X Lion, gestos multitouch</a></p>
+<p style="text-align: center;"><iframe title="YouTube video player" width="550" height="335" src="http://www.youtube.com/embed/HdkdmI9LXiM?rel=0" frameborder="0" allowfullscreen></iframe></p>
+<p>Tras haber sido liberada <strong>la beta del <a title="OS X Lion" href="www.macsfera.com/tag/os-x-lion">OS X Lion</a></strong> han destacado notablemente, y así se han hecho eco muchas páginas de ello, su nuevo fondo de pantalla, y <strong>sobre todo los nuevos gestos Multitouch que se incluyen en este nuevo SO</strong>. Como bien dijo Jobs en la presentación-avance de Lion, es un <strong>Back To The Mac</strong> clarísimo, <strong>añadiendo gestos de iOS muy simples pero necesarios</strong> como el zoom con un solo clic con el dedo.<br />
+<span id="more-1371"></span></p>
+<ul>
+<li><strong><a title="Launchpad" href="www.macsfera.com/tag/launchpad">Launchpad</a></strong>: se activa con los cinco dedos realizando un gesto de pellizco con ellos</li>
+<li><strong>Aplicación</strong> a pantalla completa: usando dos o tres dedos deslizándose hacia un lado</li>
+<li><strong>Mission Control</strong>: desplazando tres dedos hacia arriba en el trackpad</li>
+<li>Doble clic con dos dedos para aumentar alguna zona del documento tal como sucede en iOS</li>
+<li>Pellizcar hacia afuera o hacia adentro para ampliar o reducir a nuestro antojo parecido al gesto en iOS</li>
+<li>Deslizar dos dedos hacia los lados para cambiar de pestaña en <strong>Safari</strong></li>
+</ul>
+<p>Fuente y vídeo | <a href="http://appleweblog.com/">Appleweblog</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-gestos-multitouch/">OS X Lion, gestos multitouch</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OS X Lion, nuevo sistema operativo para Mac</title>
+		<link>https://www.MacSfera.com/os-x-lion-nuevo-sistema-operativo-para-mac/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 30 Oct 2010 21:28:00 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Back to the Mac]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[LaunchPad]]></category>
+		<category><![CDATA[Lion]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Mission Control]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Lion]]></category>
+		<category><![CDATA[OS X Snow Leopard]]></category>
+		<category><![CDATA[Pantalla completo]]></category>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/10/mac-os-x-lion/</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-nuevo-sistema-operativo-para-mac/">OS X Lion, nuevo sistema operativo para Mac</a></p>
+<p>Otra de las novedades de la keynote Back to the Mac fue la del próximo lanzamiento de su sistema operativo el OS</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-nuevo-sistema-operativo-para-mac/">OS X Lion, nuevo sistema operativo para Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-nuevo-sistema-operativo-para-mac/">OS X Lion, nuevo sistema operativo para Mac</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2010/10/Mac-OS-X-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2010/10/Mac-OS-X-Lion.png" alt="" title="Mac OS X Lion" width="550" height="282" class="aligncenter size-full wp-image-3245" srcset="https://www.MacSfera.com/wp-content/uploads/2010/10/Mac-OS-X-Lion.png 550w, https://www.MacSfera.com/wp-content/uploads/2010/10/Mac-OS-X-Lion-300x154.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Otra de las novedades de la <a href="www.macsfera.com/keynote-20-de-octubre"><strong>keynote Back to the Mac</strong></a> fue la del próximo lanzamiento de su sistema operativo el <strong>OS X Lion</strong>, que sucederá al actual <strong>Snow Leopard</strong>.<br />
+<span id="more-183"></span><br />
+Esta acción la han visto algo innecesaria bastantes usuarios porque todavía no se ha aprovechado bien <strong>Snow Leopard</strong>, no ha llegado ni a la mitad de los ciclos que solían hacerse normalmente (10.6.4). Pero bueno, la decisión está tomada y <strong>OS X Lion</strong> nos podrá acompañar en el verano de 2011 cuando salga a la venta. De momento no se sabe el precio ni una fecha fija, pero si que tenemos varias novedades.</p>
+<h2>LaunchPad</h2>
+<p>Podemos acceder a todas nuestras <strong>apps</strong> que se colocarían como en el escritorio de un <strong>iPad</strong>, lógicamente podemos alterar el orden de dichas aplicaciones y poder colocarlas hasta en carpetas, como en los dispositivos <strong>iOS</strong>.</p>
+<h2>Pantalla completa</h2>
+<p>Ahora podremos ajustar todas las <strong>aplicaciones</strong> a pantalla completa, por ahora, eso solo lo podemos hacer con <strong>iPhoto</strong>, pero en <strong>Lion</strong> ya veremos si se adaptan todas o solo las de <strong>Apple</strong>.</p>
+<h2>Mission control</h2>
+<p>Es una mezcla de <strong>Exposé</strong>, <strong>Spaces</strong> y <strong>Dashboard</strong> que permite ver las <strong>aplicaciones</strong> que tenemos abiertas y las que tenemos abiertas y minimizadas organizándolas por <strong>apps</strong> y pudiendo acceder a distintos <strong>Spaces</strong> en el momento.</p>
+<h2>Mac App Store</h2>
+<p>Faltaría más, la nueva <strong><a href="www.macsfera.com/mac-app-store/">Mac App Store</a></strong> también estará presente en el nuevo sistema operativo.</p>
+<p>Esas son básicamente todas las novedades que nos enseñaron en la <strong>keynote</strong>, seguro que no son todas, ni mucho menos, hasta el verano que viene puede que <strong>Apple</strong> haga mas <strong>keynotes</strong> donde pueda meter un poco de información sobre este SO. Por no se sabe nada referente al precio ni a la fecha exacta, pero todo estará por ver.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-nuevo-sistema-operativo-para-mac/">OS X Lion, nuevo sistema operativo para Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Resumen keynote 20 de octubre</title>
+		<link>https://www.MacSfera.com/resumen-keynote-20-de-octubre-2/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 20 Oct 2010 19:17:00 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Dashboard]]></category>
+		<category><![CDATA[Exposé]]></category>
+		<category><![CDATA[Facetime]]></category>
+		<category><![CDATA[GarageBand]]></category>
+		<category><![CDATA[iMovie]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[iPod Touch]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[LaunchPad]]></category>
+		<category><![CDATA[Mail]]></category>
+		<category><![CDATA[One More Thing]]></category>
+		<category><![CDATA[OS X Lion]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Spaces]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<category><![CDATA[StoryBoard]]></category>
+		<category><![CDATA[Unibody]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/10/keynote-20-de-octubre/</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-20-de-octubre-2/">Resumen keynote 20 de octubre</a></p>
+<p>La keynote del 20 de octubre acaba de finalizar y la verdad es que tenemos algunas sorpresas, pero que ya se sabían.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-20-de-octubre-2/">Resumen keynote 20 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-20-de-octubre-2/">Resumen keynote 20 de octubre</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2010/10/keynote-Back-to-the-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  class="aligncenter size-full wp-image-3207" title="keynote Back to the Mac" src="http://cdn.MacSfera.com/wp-content/uploads/2010/10/keynote-Back-to-the-Mac.jpg" alt="" width="550" height="365" srcset="https://www.MacSfera.com/wp-content/uploads/2010/10/keynote-Back-to-the-Mac.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2010/10/keynote-Back-to-the-Mac-300x199.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>La <strong><a href="www.macsfera.com/tag/keynote">keynote</a></strong> del 20 de octubre acaba de finalizar y la verdad es que tenemos algunas sorpresas, pero que ya se sabían. Se empezaron hablando de las impresionantes cifras y bueno, es el mejor trimestre fiscal de <strong>Apple</strong>, han conseguido vender lo no vendido y con mucha clase. Han actualizado <strong>iLife</strong> con nuevas funciones en todos sus productos.<br />
+<span id="more-177"></span></p>
+<h2>iPhoto</h2>
+<p>Ahora <a href="www.macsfera.com/tag/iphoto">iPhoto</a> se puede poner en pantalla completa e incluye un montón de funciones nuevas como nuevas formas de ver las fotos, de clasificarlas según el lugar, ver una animación estilo <strong>iPad</strong> y enviarlas de una manera sencilla. La nueva forma de enviarlo por <strong>Mail</strong>, pero sin hacer uso directo de <strong>Mail</strong>, y con diferentes plantillas de creación para que te adaptes a lo mejor. Se puede ejecutar un panel de control donde informa sobre las Caras que tiene esa foto, el lugar donde se tomó, en que redes sociales se ha compartido, etc&#8230; al igual que su versión anterior puede crear libros fotográficos de una manera realmente sencilla y automática, si algo no te gusta, lo mueves y punto. También puedes crear postales navideñas y según el proceso empleado para su traslación a papel, tienen muy buena calidad.</p>
+<p>Tanto las postales como los libros se pueden ver de una manera sencillo estilo <strong>iBooks</strong> en <strong>iOS</strong>.</p>
+<h2>iMovie</h2>
+<p><a href="www.macsfera.com/tag/iMovie">iMovie</a> se puede controlar el volumen de los click de una manera sencilla, se pueden incorporar efectos de sonido en el vídeo como por ejemplo, la voz que pone un robot. Ahora se puede alterar la velocidad del vídeo de una manera más simple y podemos meter otros efectos estilo Hollyboow,. Incorpora nuevos temas que hacen que la película que quieras editar sea una gran producción. Se incluye una nueva función llamada <strong>StoryBoard</strong> que permite meter pequeños fragmentos de vídeo en la presentación de una película, y que se pone de forma automática, claro ejemplo el del estreno de una nueva película que pone imágenes de corta duración y las intercala con texto (actúa Nicolas Cage, Verano 2010, etc&#8230;). Ahora se puede también con Facebook y Vimeo (entre otros) (YouTube ya estaba disponible en la versión anterior).</p>
+<h2>GarageBand</h2>
+<p>Esta nueva edición de <a href="www.macsfera.com/tag/garageband">GarageBand</a> viene cargadita de buenas mejoras, incluyen nuevos clips de guitarras y pianos, si algún instrumento queda desfasado de tiempo, con un doble click podemos acceder a un menú en el cual podemos modificar parámetros de una manera muy simple. Las lecciones ahora están en HD y vienen más para distintos tipos de guitarras y de pianos. En el apartado de practicar, con un instrumento externo, podemos saber cuando nos equivocamos de nota o nos desfasamos en el tiempo, luego, podemos ver los errores y corregirlos.</p>
+<p><strong><a href="www.macsfera.com/tag/ilife">iLife</a></strong> será gratuito para todos los nuevos usuarios de <strong>OS X</strong> y tendrá un precio de <strong>49$</strong> para los antiguos usuarios.</p>
+<p>Tal y como se esperaba, <strong>Steve Jobs</strong> a permitido <strong>FaceTime</strong> entre los <strong>Mac</strong>, los <strong>iPod Touch 4G</strong> y los <strong>iPhone 4</strong>. La interfaz es muy sencilla y tiene muy buena pinta, cuando el dispositivo <strong>iOS</strong> cambia su orientación, en el <strong>Mac</strong> se produce una transición muy sencilla que hace el mismo giro. Podemos descargarnos la versión beta desde <a href="http://apple.com/mac/facetime">Apple</a></p>
+<h2>OS X</h2>
+<p><strong>Jobs</strong> descarta un posible acceso multitáctil al sistema. Para empezar el diseño de <strong>App Store</strong> para <strong>Mac</strong>, igual que la de <strong>iOS</strong> pero con todas las funciones trasladadas a <strong>Mac</strong>, puede que haya crítica por parte de los usuarios al ver que el control total por parte de <strong>Apple</strong> en un ordenador no puede ser bueno, esperemos que se siga manteniendo la forma de instalar <strong>aplicaciones</strong> como hasta ahora.</p>
+<p>Una nueva función se incorpora, la de <strong>Launchpad</strong> que mezcla <strong><a href="www.macsfera.com/lo-primero-que-hay-que-hacer-cuando-enciendes-tu-mac-parte-2/">Exposé, Dashboard y Spaces</a></strong> en uno además de incorporar una nueva función de poner todas las ventanas en pantalla completa. La aplicación también permite ver todas las <strong>apps</strong> que tenemos instaladas en <strong><a href="www.macsfera.com/tag/os-x">OS X</a></strong> estilo <strong>iOS</strong>, con escritorios y la forma de interactuar entre ellas y entre las <strong>aplicaciones</strong> abiertas está muy bien. Todo esto se incorpora en el nuevo <strong>OS X Lion</strong> que estará disponible en verano del 2011.</p>
+<h2>One More Thing</h2>
+<p>Por último entramos en el <strong><a href="www.macsfera.com/tag/one-more-thing">One More Thing</a></strong> de esta <strong>keynote</strong> con la presentación espectacular del nuevo <strong><a href="www.macsfera.com/tag/macbook-air">MacBook Air</a></strong>, con un diseño COMPLETO unibody, muy delgado y muy ligero. Tiene una pantalla de 13&#8243; con una resolución de 1440&#215;900, la misma que el <strong>MacBook Pro</strong> de 15&#8243;. Su batería dura hasta 7 horas conectado en internet (aunque está en fase de pruebas) y en reposo la friolera de 30 días. Ahora mismo están disponibles con un procesador Core 2 Duo a 1,4 o 1,86GHz, 2 GB de RAM, tarjeta gráfica GeForze 320M de NVIDIA y emplea el almacenamiento en memorias flash en vez de en discos rígidos. Hay desde 64Gb hasta los 256 Gb, el más barato, de 11&#8243; cuesta 999€ hasta los 1599€ disponible desde hoy en <a href="http://www.apple.com/es/macbookair/">Apple</a></p>
+<p>Eso ha sido todo, que no poco de una <strong>keynote</strong> muy bien hecha, aunque he tenido que actualizar la página una vez por que se trababa. Un 10 para los nuevos productos de <strong>Apple</strong>, un 10 para <strong>Steve Jobs</strong> y un 10 para las nuevas <strong>aplicaciones</strong> y el nuevo sistema operativo, la <strong>App Store</strong> es un tema pendiente y debido al día de la semana en el que nos encontramos no puedo profundizar más, pero, este fin de semana sí y os pondré al día con todas las funciones posibles en post divididos.</p>
+<p style="text-align: center;"><iframe width="550" height="335" src="http://www.youtube.com/embed/1y7G1T9ktxg" frameborder="0" allowfullscreen></iframe></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-20-de-octubre-2/">Resumen keynote 20 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

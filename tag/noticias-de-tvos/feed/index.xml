@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Noticias de tvOS &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/noticias-de-tvos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 17 Oct 2021 11:36:08 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Nueva versión de tvOS</title>
+		<link>https://www.MacSfera.com/nueva-version-tvos/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2016 14:06:28 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[HomeKit]]></category>
+		<category><![CDATA[Noticias de tvOS]]></category>
+		<category><![CDATA[Siri]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC16]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14904</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a></p>
+<p>Continuando con las novedades de la WWDC, Apple presentó la siguiente versión del sistema operativo del Apple TV, tvOS. Esta versión no</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155102/tvOS-nuevo.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155102/tvOS-nuevo.jpg" alt="tvOS nuevo" width="2106" height="1274" class="aligncenter size-full wp-image-14906" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155102/tvOS-nuevo.jpg 2106w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14155102/tvOS-nuevo.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14155102/tvOS-nuevo.jpg 1024w" sizes="(max-width: 2106px) 100vw, 2106px" /></a></p>
+<p>Continuando con <a target="_blank" title="WWDC16" href="www.macsfera.com/tag/wwdc16" rel="noopener noreferrer">las novedades de la WWDC</a>, <strong>Apple presentó la siguiente versión del sistema operativo del Apple TV, tvOS.</strong></p>
+<p>Esta versión no tiene muchas novedades, pues el gran salto se dio al presentarse el <a target="_blank" title="Nuevo Apple TV" href="www.macsfera.com/nuevo-apple-tv-2/" rel="noopener noreferrer">Apple TV 4</a>, pero incluye algunas mejoras muy interesantes:</p>
+<p><span id="more-14904"></span></p>
+<h2>Más presencia de Siri</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14160037/Siri-tvOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14160037/Siri-tvOS.jpg" alt="Siri tvOS" width="1598" height="104" class="aligncenter size-full wp-image-14911" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14160037/Siri-tvOS.jpg 1598w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14160037/Siri-tvOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14160037/Siri-tvOS.jpg 1024w" sizes="(max-width: 1598px) 100vw, 1598px" /></a></p>
+<p>Siri entró con fuerza en el Apple TV con su último lanzamiento pero ahora se vuelve mejor. <strong>Ahora podemos preguntarle para que busque películas con distintos parámetros de búsqueda,</strong> podemos <strong>hacer que busque en todo YouTube</strong> y podemos centrarnos más en los resultados gracias a la mejora en la interpretación de la voz.</p>
+<h2>Inicia sesión una vez</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155820/Instalar-apps-iPhone-y-Apple-TV-a-la-vez.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155820/Instalar-apps-iPhone-y-Apple-TV-a-la-vez.jpg" alt="Instalar apps iPhone y Apple TV a la vez" width="2500" height="1201" class="aligncenter size-full wp-image-14910" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155820/Instalar-apps-iPhone-y-Apple-TV-a-la-vez.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14155820/Instalar-apps-iPhone-y-Apple-TV-a-la-vez.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14155820/Instalar-apps-iPhone-y-Apple-TV-a-la-vez.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Un problema que existía al contratar canales privados consistía en iniciar sesión en ellos, había que meter un código en un navegador, autorizar la retransmisión, etc, y todo ello uno por uno. Ahora <strong>Apple ha diseñado un sistema por el cual puedes iniciar sesión una sola vez y obtener acceso a todas las aplicaciones que vengan incluidas en el paquete pagado.</strong></p>
+<p>Fuera de EEUU tiene poco sentido, pero está muy bien que se vaya preparando el terreno para cuando el resto de sistemas quieran entrar en el Apple TV.</p>
+<h2>Modo noche</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155338/Modo-noche-tvOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155338/Modo-noche-tvOS.jpg" alt="Modo noche tvOS" width="1954" height="1172" class="aligncenter size-full wp-image-14907" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155338/Modo-noche-tvOS.jpg 1954w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14155338/Modo-noche-tvOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14155338/Modo-noche-tvOS.jpg 1024w" sizes="(max-width: 1954px) 100vw, 1954px" /></a></p>
+<p>Y como no, <strong>que mejor que adaptar esa bonita interfaz a un modo noche,</strong> perfecto para situaciones en las que haya poca luz y no queramos quedarnos ciegos buscando contenido nuevo para reproducir.</p>
+<h2>Fotos como nunca antes</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155404/Fotos-memorias-tvOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155404/Fotos-memorias-tvOS.jpg" alt="Fotos memorias tvOS" width="1906" height="1084" class="aligncenter size-full wp-image-14908" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155404/Fotos-memorias-tvOS.jpg 1906w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14155404/Fotos-memorias-tvOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14155404/Fotos-memorias-tvOS.jpg 1024w" sizes="(max-width: 1906px) 100vw, 1906px" /></a></p>
+<p>Ver fotos en el Apple TV es una gozada, pero con la nueva propiedad llamada Memorias, <strong>el Apple TV será capaz de generar pequeños álbumes de fotos basadas en una memoria</strong> (con un lugar y una fecha comunes) y las mostrará con animaciones, música, etc.</p>
+<p>Ahora ver fotos es mejor que antes gracias a las composiciones automáticas para revivir los recuerdos.</p>
+<h2>Apple Music rediseñado</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155539/Apple-Music-tvOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155539/Apple-Music-tvOS.jpg" alt="Apple Music tvOS" width="1954" height="1172" class="aligncenter size-full wp-image-14909" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14155539/Apple-Music-tvOS.jpg 1954w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14155539/Apple-Music-tvOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14155539/Apple-Music-tvOS.jpg 1024w" sizes="(max-width: 1954px) 100vw, 1954px" /></a></p>
+<p><strong>La aplicación ha sufrido un rediseño como en iOS 10,</strong> ahora es más fácil encontrar lo que deseas y nuevo contenido para ti. La interfaz, mucho más amigable, busca hacer que la máxima preocupación sea escuchar música.</p>
+<h2>Nueva aplicación de control remoto</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14160554/Apple-TV-Remote-app.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14160554/Apple-TV-Remote-app.jpg" alt="Apple TV Remote app" width="1098" height="1076" class="aligncenter size-full wp-image-14914" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14160554/Apple-TV-Remote-app.jpg 1098w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14160554/Apple-TV-Remote-app.jpg 204w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14160554/Apple-TV-Remote-app.jpg 1024w" sizes="(max-width: 1098px) 100vw, 1098px" /></a></p>
+<p><strong>Apple ha presentado una nueva aplicación para controlar de forma remota con el iPhone el Apple TV.</strong> Se dieron cuenta de que el iPhone tenía las mismas propiedades que el Apple TV Remote y por ello han sacado la aplicación, por si perdemos de vista o extraviamos el mando original.</p>
+<p><strong>Y sí, sirve para realizar todas las opciones:</strong> jugar, buscar contenido y controlar la reproducción.</p>
+<p>Y ya que estamos hablando del iPhone, también os comento que ahora si bajamos una aplicación universal en nuestro dispositivo iOS, <strong>esta aparecerá directamente en el Apple TV sin necesidad de tocar nada.</strong></p>
+<h2>Apple TV como centro inteligente</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14160215/Apple-TV-como-centro-de-control.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14160215/Apple-TV-como-centro-de-control.jpg" alt="Apple TV como centro de control" width="2500" height="1242" class="aligncenter size-full wp-image-14912" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14160215/Apple-TV-como-centro-de-control.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14160215/Apple-TV-como-centro-de-control.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14160215/Apple-TV-como-centro-de-control.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Y por último, <strong>tvOS le dará al Apple TV el toque que le faltaba permitiendo controlar los distintos accesorios que tengamos conectados a HomeKit.</strong></p>
+<p><em>“Apaga las luces”</em>, <em>“Cambia la temperatura”</em>, <em>“Abre la puerta”</em>, etc. podremos controlar lo que queramos que esté metido en el entorno de control de Apple, que con iOS 10 se vuelve más potente.</p>
+<hr />
+<p>Al igual que el resto, la beta está disponible hoy mientras que <strong>la versión final llegará en otoño.</strong></p>
+<p>Está muy bien que implementen mejoras en el Apple TV, aunque de momento sea algo pequeño que tenga que crecer más en usuarios y en contenido, algo que con las apps seguro que pasa.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/tvos-preview/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

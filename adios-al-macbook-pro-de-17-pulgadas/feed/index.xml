@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Adiós al MacBook Pro de 17 pulgadas	</title>
+	<atom:link href="https://www.MacSfera.com/adios-al-macbook-pro-de-17-pulgadas/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/adios-al-macbook-pro-de-17-pulgadas/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 17 Oct 2021 12:53:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: PabloAsekas		</title>
+		<link>https://www.MacSfera.com/adios-al-macbook-pro-de-17-pulgadas/?#comment-471</link>
+
+		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
+		<pubDate>Wed, 20 Jun 2012 15:28:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6849#comment-471</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/adios-al-macbook-pro-de-17-pulgadas/?#comment-470&quot;&gt;Alberto Fray-Gómez&lt;/a&gt;.
+
+Intenté grabar todas las novedades varias veces pero, como ScreenFlow (el programa que uso para grabar los tutoriales de Mac) no es compatible todavía con Mountain Lion, tuve que hacerlo con QuickTime y resulta que cuando estaba guardando los archivos se bloqueaba el sistema y no guardaba el vídeo, lo intenté como cinco veces y visto que me tiraba media hora hablando para que luego no sirviese pues tuve que desistir.
+
+Un saludo!]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="https://www.MacSfera.com/adios-al-macbook-pro-de-17-pulgadas/?#comment-470">Alberto Fray-Gómez</a>.</p>
+<p>Intenté grabar todas las novedades varias veces pero, como ScreenFlow (el programa que uso para grabar los tutoriales de Mac) no es compatible todavía con Mountain Lion, tuve que hacerlo con QuickTime y resulta que cuando estaba guardando los archivos se bloqueaba el sistema y no guardaba el vídeo, lo intenté como cinco veces y visto que me tiraba media hora hablando para que luego no sirviese pues tuve que desistir.</p>
+<p>Un saludo!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alberto Fray-Gómez		</title>
+		<link>https://www.MacSfera.com/adios-al-macbook-pro-de-17-pulgadas/?#comment-470</link>
+
+		<dc:creator><![CDATA[Alberto Fray-Gómez]]></dc:creator>
+		<pubDate>Wed, 20 Jun 2012 09:43:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6849#comment-470</guid>
+
+					<description><![CDATA[Podrías hacer un review largo en video para aticoMaquero de OS X Mountain Lion? ]]></description>
+			<content:encoded><![CDATA[<p>Podrías hacer un review largo en video para aticoMaquero de OS X Mountain Lion? </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

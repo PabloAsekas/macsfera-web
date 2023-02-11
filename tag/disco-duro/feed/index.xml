@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Disco Duro &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/disco-duro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:59:44 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>OS X El Capitan podría tener soporte TRIM para SSDs de terceros</title>
+		<link>https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2015 13:57:22 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[Soporte]]></category>
+		<category><![CDATA[SSD]]></category>
+		<category><![CDATA[TRIM]]></category>
+		<category><![CDATA[Trim enabler]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=11054</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a></p>
+<p>En las dos primeras betas de OS X El Capitan se ha descubierto un comando de terminal que habilitaría el soporte TRIM</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/25145411/Funcion-TRIM-nativa-en-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/25145411/Funcion-TRIM-nativa-en-El-Capitan.jpg" alt="Funcion TRIM nativa en El Capitan" width="860" height="478" class="aligncenter size-full wp-image-11058" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/25145411/Funcion-TRIM-nativa-en-El-Capitan.jpg 860w, https://cdn.macsfera.com/wp-content/uploads/2015/06/25145411/Funcion-TRIM-nativa-en-El-Capitan.jpg 300w" sizes="(max-width: 860px) 100vw, 860px" /></a></p>
+<p><strong>En las dos primeras <a href="www.macsfera.com/como-instalar-os-x-el-capitan-beta/" title="Cómo instalar OS X El Capitan beta" target="_blank" rel="noopener noreferrer">betas de OS X El Capitan</a> se ha descubierto un comando de terminal que habilitaría el soporte TRIM para todo tipo de SSDs,</strong> sean de Apple o de terceros.</p>
+<p>Hasta ahora, sólo los discos SSD puestos por Apple disfrutaban de esa compatibilidad. El resto de SSDs que pusiésemos los usuarios no dispondrían de forma nativa de dicha compatibilidad, por eso <strong>éramos nosotros los que teníamos que <a href="www.macsfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/" title="Habilita la orden TRIM si has instalado un SSD" target="_blank" rel="noopener noreferrer">activar TRIM</a> a través de otras herramientas</strong> ajenas a Apple.</p>
+<p><span id="more-11054"></span></p>
+<p>Recordemos que la orden TRIM sirve para que el sistema se comunique con el disco SSD para saber qué bloques de datos del disco duro están en uso y cuáles no, pudiéndose así borrar o sobrescribir los no usados. <strong>La función es beneficiosa porque hay un menor desgaste en la unidad, la velocidad se mantiene y aumenta la vida del dispositivo.</strong></p>
+<p>Esta compatibilidad nativa vendría muy bien puesto que <strong>al activarla con herramientas de terceros el sistema puede fallar,</strong> la función hay veces que se desactiva con una actualización del sistema por mínima que sea, hay que modificar ficheros que no deberían tocarse y por regla general es más engorroso.</p>
+<p>El propio creador de Trim Enabler <a href="https://www.cindori.org/trim-in-os-x-el-capitan/" target="_blank" rel="noopener noreferrer">comenta</a> que es una ventaja muy positiva para los usuarios y que adaptará sus software para hacerlo compatible con este nuevo método que se realiza por Terminal y con permisos de administrador.</p>
+<p>El uso de un SSD por parte de un usuario suele ser para dar un poco de velocidad extra al equipo, es un proceso que viene muy bien para <a href="http://www.mylaif.es/post/99937760140/ya-he-recibido-el-ssd-que-compre-para-mi-mbp" title="Disco duro SSD en MacBook Pro" target="_blank" rel="noopener noreferrer">alargar la vida útil de tu Mac</a> en caso de que este empiece a ser un poco antiguo y queramos seguir sacándole partido. <strong>Es una gran noticia que esperamos que Apple no remueva en la versión final de <a href="www.macsfera.com/tag/el-capitan" title="El Capitan" target="_blank" rel="noopener noreferrer">El Capitan</a>.</strong></p>
+<p><span class="source">Vía</span> <span class="via"><a href="http://www.macrumors.com/2015/06/12/os-x-el-capitan-trim-support/" target="_blank" rel="noopener noreferrer">MacRumors</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Programa de sustitución para iMacs con disco duro de 3 TB</title>
+		<link>https://www.MacSfera.com/programa-de-sustitucion-para-imacs-con-disco-duro-de-3-tb/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 20 Jun 2015 16:56:24 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Programa de sustitución]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10983</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/programa-de-sustitucion-para-imacs-con-disco-duro-de-3-tb/">Programa de sustitución para iMacs con disco duro de 3 TB</a></p>
+<p>Apple ha anunciado un programa de sustitución para iMacs que tengan un disco duro de 3 TB porque puede tener fallos en</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/programa-de-sustitucion-para-imacs-con-disco-duro-de-3-tb/">Programa de sustitución para iMacs con disco duro de 3 TB</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/programa-de-sustitucion-para-imacs-con-disco-duro-de-3-tb/">Programa de sustitución para iMacs con disco duro de 3 TB</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/20175013/iMac-27-pulgadas.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/20175013/iMac-27-pulgadas.jpg" alt="iMac 27 pulgadas" width="2000" height="1334" class="aligncenter size-full wp-image-10985" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/20175013/iMac-27-pulgadas.jpg 2000w, https://cdn.macsfera.com/wp-content/uploads/2015/06/20175013/iMac-27-pulgadas.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/20175013/iMac-27-pulgadas.jpg 1024w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></p>
+<p><strong>Apple ha anunciado un <a href="www.macsfera.com/tag/programa-de-sustitucion/" target="_blank" title="Programa de sustitución" rel="noopener noreferrer">programa de sustitución</a> para iMacs</strong> que tengan un disco duro de 3 TB porque puede tener fallos en determinadas condiciones.</p>
+<p>Por ello, Apple se ha dispuesto a hacer un cambio masivo de todos estos discos duros que afectan a ciertos modelos <strong>de los <a href="www.macsfera.com/tag/imac" target="_blank" rel="noopener noreferrer">iMacs</a> de 27” vendidos entre noviembre de 2012 y septiembre de 2013.</strong> Si bien se ha intentado contactar con todos los afectados, hay un formulario de contacto que permite identificar si nuestro equipo está afectado a través del número de serie.</p>
+<p><span id="more-10983"></span></p>
+<p>Si somos uno de los afectados, <strong>podemos llevar nuestro equipo a una Apple Store pidiendo cita previamente en la Genius Bar, a un distribuidor oficial o al servicio técnico de Apple.</strong> Ellos se encargarán de sustituir el disco duro de forma gratuita.</p>
+<p>En caso de que ya hayamos pagado por una reparación por disco duro, habría que comunicarlo puesto que Apple nos haría una devolución del importe pagado.</p>
+<p>Como la reparación consiste en sustituir el disco duro, antes de entregar el ordenador <strong>hay que hacer una copia de seguridad</strong> de todos nuestros datos puesto que después de la reparación tendremos un ordenador de fábrica y habrá que configurarlo todo de nuevo.</p>
+<p><strong>El programa será válido hasta el 19 de diciembre del 2015 o hasta 3 años después de haber comprado el equipo,</strong> lo que caduque después. Por eso, si tienes un iMac de 27” con 3 TB de capacidad, te aconsejo que compruebes que tu disco duro no está afectado, por si tienes que hacer el cambio.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://www.apple.com/es/support/imac-harddrive-3tb/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p><span class="source">Vía</span> <span class="via"><a href="http://9to5mac.com/2015/06/19/imac-replacement-program/" target="_blank" rel="noopener noreferrer">9To5Mac</a></span></p>
+<p><span class="source">Imgaen</span> <span class="via"><a href="https://flic.kr/p/d9GBLX" target="_blank" rel="noopener noreferrer">Manny Rosas</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/programa-de-sustitucion-para-imacs-con-disco-duro-de-3-tb/">Programa de sustitución para iMacs con disco duro de 3 TB</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fusion Drive: Nuevo sistema de almacenamiento para los iMac</title>
+		<link>https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2012 16:35:27 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Fusion Drive]]></category>
+		<category><![CDATA[HDD]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[SSD]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7757</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/">Fusion Drive: Nuevo sistema de almacenamiento para los iMac</a></p>
+<p>En el día de ayer Apple presentó los nuevos iMac que, aparte de llevar un diseño más moderno y acorde al estilo</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/">Fusion Drive: Nuevo sistema de almacenamiento para los iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/">Fusion Drive: Nuevo sistema de almacenamiento para los iMac</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/10/Fusion-Drive.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/10/Fusion-Drive.png" alt="Fusion Drive" title="Fusion Drive" width="550" height="375" class="aligncenter size-full" /></a></p>
+<p>En el día de ayer <strong><a href="www.macsfera.com/imac-de-2012-su-diseno-al-detalle/" title="iMac de 2012. Su diseño al detalle" target="_blank" rel="noopener noreferrer">Apple presentó los nuevos iMac</a></strong> que, aparte de llevar un diseño más moderno y acorde al estilo actual de la empresa, incluían mejoras en el hardware, una de ellas es <strong>Fusion Drive</strong>.</p>
+<p><span id="more-7757"></span></p>
+<p><strong><a href="www.macsfera.com/tag/fusion-drive" title="Fusion Drive" target="_blank" rel="noopener noreferrer">Fusion Drive</a></strong> es la definición que ha aportado <strong>Apple</strong> a un concepto ya inventado pero que éstos han decidido modificar un poco. <strong>Consiste en unir dos tipos distintos de almacenamiento para explotar lo mejor de cada uno como si de una sola unidad se tratase.</strong> En concreto buscan mezclar las memorias flash con los discos duros tradicionales.</p>
+<p>Bien es sabido que las memorias flash <strong>son sumamente rápidas</strong> pero, como es algo novedoso, su precio es elevado y por el momento solo se producen unidades con poca capacidad para abaratar el coste final del producto. Por otro lado tenemos los corrientes HDD, unidades más económicas, <strong>con más capacidad</strong> y más lentas.</p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> lo que ha hecho ha sido unir por software estos dos tipos de memorias simulando que son un único disco. ¿El objetivo? <strong>Aportar la velocidad de las memorias flash</strong> a nuestros procesos de lectura y escritura y <strong>añadir extra de capacidad</strong> sin incrementar en gran medida los costes gracias a los HDD.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/10/Velocidad-Fusion-Drive.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/10/Velocidad-Fusion-Drive.png" alt="Velocidad Fusion Drive" title="Velocidad Fusion Drive" width="550" height="266" class="aligncenter size-full" /></a></p>
+<p>No solo se han conformado con eso sino que <strong>le han dado inteligencia</strong> para hacernos la vida un poco más sencilla. <strong>Las aplicaciones se almacenan en la unidad flash y los archivos en el HDD</strong> de forma general, pero si el sistema detecta que usamos con más frecuencia unos que otros <strong>los pasará a la memoria flash</strong> para que todo vaya más rápido. Por supuesto, la memoria flash tiene límites y cuando no quepan más aplicaciones empezará a guardarlas según la preferencia.</p>
+<p><strong>La velocidad lograda no supera a la que consiguen las memorias flash,</strong> pero si que se incrementa en gran medida gracias a ese software que ordena por orden de preferencia.</p>
+<p><strong>Las memorias flash son de 128 GB</strong> y <strong>el HDD aumentaría la capacidad en 1 TB.</strong> Esta nueva característica solo está disponible en ciertos modelos y, por supuesto, podemos ampliar las capacidades.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/">Fusion Drive: Nuevo sistema de almacenamiento para los iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cómo hacer que Spotlight indexe de nuevo tu disco duro</title>
+		<link>https://www.MacSfera.com/como-hacer-que-spotlight-indexe-de-nuevo-tu-disco-duro/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 26 Mar 2012 14:54:43 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[Finder]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Preferencias del Sistema]]></category>
+		<category><![CDATA[Privacidad]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6599</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-spotlight-indexe-de-nuevo-tu-disco-duro/">Cómo hacer que Spotlight indexe de nuevo tu disco duro</a></p>
+<p>En este sencillo tutorial aprenderemos como hacer que Spotlight indexe de nuevo nuestro disco duro en caso de haber errores. La cosa</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-spotlight-indexe-de-nuevo-tu-disco-duro/">Cómo hacer que Spotlight indexe de nuevo tu disco duro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-spotlight-indexe-de-nuevo-tu-disco-duro/">Cómo hacer que Spotlight indexe de nuevo tu disco duro</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/03/Hacer-que-Spotlight-indexe-de-nuevo-el-disco-duro.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/03/Hacer-que-Spotlight-indexe-de-nuevo-el-disco-duro.png" alt="" title="Hacer que Spotlight indexe de nuevo el disco duro" width="550" height="344" class="aligncenter size-full wp-image-6601" srcset="https://www.MacSfera.com/wp-content/uploads/2012/03/Hacer-que-Spotlight-indexe-de-nuevo-el-disco-duro.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/03/Hacer-que-Spotlight-indexe-de-nuevo-el-disco-duro-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En este sencillo <a href="www.macsfera.com/tag/tutoriales" title="Tutoriales" target="_blank">tutorial</a> <strong>aprenderemos como hacer que Spotlight indexe de nuevo nuestro disco duro</strong> en caso de haber errores.</p>
+<p><span id="more-6599"></span></p>
+<p>La cosa es que <strong><a href="www.macsfera.com/tag/spotlight" title="Spotlight" target="_blank">Spotlight</a></strong> en ocasiones puede tener errores y una forma de solucionarlo es <strong>provocando que indexe el contenido de nuestro disco duro de nuevo,</strong> para esto vamos a seguir los siguientes pasos:</p>
+<ol>
+<li>Acceder a <strong>Preferencias del Sistema</strong>.</li>
+<li>Ir al apartado de <strong>Spotlight</strong> y luego a la pestaña de <strong>Privacidad</strong>.</li>
+<li>Abrimos una ventana de <strong>Finder</strong> y arrastramos el <strong>Macintosh HD</strong> (puede que tu disco duro tenga otro nombre) (<a href="https://www.MacSfera.com/wp-content/uploads/2012/03/Hacer-que-Spotlight-no-indexe-el-disco-duro.png" title="Hacer que Spotlight no indexe el disco duro" target="_blank">imagen de ayuda</a>) al cuadro blanco de <strong>Preferencias del Sistema</strong> y le damos a <strong>Aceptar</strong> al siguiente mensaje que nos aparezca. (<a href="https://www.MacSfera.com/wp-content/uploads/2012/03/Mensaje-de-aviso-sobre-Spotlight.png" title="Mensaje de aviso de Spotlight" target="_blank">imagen de ayuda</a>)</li>
+<li>Cuando salga el disco duro en el cuadrado blanco lo seleccionamos y le damos al botón <strong>&#8211;</strong> para eliminarlo. (<a href="https://www.MacSfera.com/wp-content/uploads/2012/03/Borrar-disco-duro-de-la-lista-de-Spotlight.png" title="Borrar disco duro de la lista de Spotlight" target="_blank">imagen de ayuda</a>)</li>
+</ol>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/03/Spotlight-indexando.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/03/Spotlight-indexando.png" alt="" title="Spotlight indexando" width="518" height="240" class="aligncenter size-full wp-image-6606" srcset="https://www.MacSfera.com/wp-content/uploads/2012/03/Spotlight-indexando.png 518w, https://www.MacSfera.com/wp-content/uploads/2012/03/Spotlight-indexando-300x139.png 300w" sizes="(max-width: 518px) 100vw, 518px" /></a></p>
+<p>Para que entendamos un poco lo que hacemos, <strong>primero le denegamos el acceso al disco duro,</strong> de ese modo «olvida» todo lo que ha indexado, posteriormente, al borrar el disco duro de la lista <strong>le volvemos a dar permiso para que encuentre archivos de ahí.</strong> Por eso volverá a indexar todo el contenido.</p>
+<p>Al acabar el proceso tendremos de nuevo todo el contenido indexado. Hemos de aclarar que puesto que va a investigar por todo el ordenador, <strong>lo más probable es que notéis que vaya lento</strong> pero una vez acabado ese proceso ya irá todo como antes.</p>
+<p>Vía | <a href="http://www.cultofmac.com/152173/make-spotlight-work-again-os-x-tips/" target="_blank">Cult Of Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-spotlight-indexe-de-nuevo-tu-disco-duro/">Cómo hacer que Spotlight indexe de nuevo tu disco duro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cómo instalar la beta de OS X Mountain Lion</title>
+		<link>https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/</link>
+					<comments>https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 19 Feb 2012 16:11:21 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Descargas]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[Instalar]]></category>
+		<category><![CDATA[Mac OS Plus (con registro)]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Particionar]]></category>
+		<category><![CDATA[Sistema Operativo]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6397</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/">Cómo instalar la beta de OS X Mountain Lion</a></p>
+<p>En este tutorial de hoy os vamos a enseñar a instalar la beta del nuevo sistema operativo de Apple, Mountain Lion. Una</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/">Cómo instalar la beta de OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/">Cómo instalar la beta de OS X Mountain Lion</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/Cómo-instalar-OS-X-Mountain-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/Cómo-instalar-OS-X-Mountain-Lion.png" alt="" title="Cómo instalar OS X Mountain Lion" width="550" height="344" class="aligncenter size-full wp-image-6401" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/Cómo-instalar-OS-X-Mountain-Lion.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/Cómo-instalar-OS-X-Mountain-Lion-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En este tutorial de hoy <strong>os vamos a enseñar a instalar la beta del nuevo sistema operativo de Apple,</strong> <strong><a href="www.macsfera.com/tag/os-x-mountain-lion" title="Mountain Lion" target="_blank" rel="noopener noreferrer">Mountain Lion</a></strong>.</p>
+<p><span id="more-6397"></span></p>
+<p>Una de las formas sería en una máquina virtual y otra mediante un disco duro externo,<strong> pero no creemos que ninguna de las dos sean óptimas al 100% ya que no se obtienen los resultados siempre deseados.</strong></p>
+<p>La mejor solución que hemos encontrado es <strong>instalarla en nuestro propio disco duro,</strong> pero manteniendo paralelamente el sistema operativo que estemos ocupando en estos momentos, para ello debemos seguir los siguientes pasos.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/OS-X-Mountain-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/OS-X-Mountain-Lion.png" alt="" title="OS X Mountain Lion" width="550" height="443" class="aligncenter size-full wp-image-6400" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/OS-X-Mountain-Lion.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/OS-X-Mountain-Lion-300x242.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<ol>
+<li>Acceder a la aplicación <strong>Utilidad de discos</strong> y particionar nuestro disco duro. Recordad dejarlo en formato <strong>Mac OS Plus (con registro)</strong>.</li>
+<li>Ejecutar la imagen que contenga el instalador de la beta del sistema operativo y, cuando nos pregunte, <strong>elegir la parte del disco duro que hemos creado.</strong></li>
+<li>Disfrutar de las novedades de esta beta.</li>
+</ol>
+<p>Como vemos <strong>los pasos son muy sencillos,</strong> esto principalmente nos servirá para tantear las nuevas características que traiga el sistema. Por nuestra parte, hemos encontrado unos cuantos errores, pero es algo normal, hasta finales de verano queda bastante y mucho trabajo de por medio.</p>
+<p>Os dejamos también un vídeo explicativo por si os es más fácil:</p>
+<p><iframe width="550" height="335" src="http://www.youtube.com/embed/QqxupGwJsEk" frameborder="0" allowfullscreen></iframe></p>
+<p>El proceso es largo, tanto en la partición como en la instalación se puede emplear una hora más o menos, pero al ser tan sencillo se pasa rápido. El enlace de descarga del <strong><a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank" rel="noopener noreferrer">OS X</a></strong> lo tenéis en la descripción del vídeo.</p>
+<p>Vídeo | <a href="http://youtu.be/QqxupGwJsEk" title="Instalar OS X Mountain Lion" target="_blank" rel="noopener noreferrer">YouTube</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/">Cómo instalar la beta de OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/como-instalar-la-beta-de-os-x-mountain-lion/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nuevos MacBook Pro con un aumento de disco y procesador</title>
+		<link>https://www.MacSfera.com/nuevos-macbook-pro-con-un-aumento-de-disco-y-procesador/</link>
+					<comments>https://www.MacSfera.com/nuevos-macbook-pro-con-un-aumento-de-disco-y-procesador/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2011 13:59:15 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Procesador]]></category>
+		<category><![CDATA[Tarjeta gráfica]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5362</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevos-macbook-pro-con-un-aumento-de-disco-y-procesador/">Nuevos MacBook Pro con un aumento de disco y procesador</a></p>
+<p>Apple ha hecho una actualización silenciosa de los MacBook Pro con un aumento de disco duro, de procesador y de gráfica. Por</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevos-macbook-pro-con-un-aumento-de-disco-y-procesador/">Nuevos MacBook Pro con un aumento de disco y procesador</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevos-macbook-pro-con-un-aumento-de-disco-y-procesador/">Nuevos MacBook Pro con un aumento de disco y procesador</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/10/Nuevos-MacBook-Pro-finales-2011.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/10/Nuevos-MacBook-Pro-finales-2011.png" alt="" title="Nuevos MacBook Pro finales 2011" width="550" height="285" class="aligncenter size-full wp-image-5364" srcset="https://www.MacSfera.com/wp-content/uploads/2011/10/Nuevos-MacBook-Pro-finales-2011.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/10/Nuevos-MacBook-Pro-finales-2011-300x155.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> ha hecho una actualización silenciosa de los <strong><a href="www.macsfera.com/tag/macbook-pro" title="MacBook Pro" target="_blank" rel="noopener noreferrer">MacBook Pro</a></strong> con un <strong>aumento de disco duro, de procesador y de gráfica.</strong></p>
+<p><span id="more-5362"></span></p>
+<p>Por lo general <strong>han subido 0.1 GHz en los procesadores de los dos modelos base de 13</strong> pulgadas y <strong>0,2GHz en los tres restantes de 15 y 17 pulgadas</strong>. Los discos duros de los modelos de <strong>13&#8243; han sido aumentados 180GB y 250GB</strong> siendo la menor subida para el menor de los portátiles.</p>
+<p><strong>Las gráficas también se han visto incrementadas,</strong> el<strong> modelo más bajo de de 15&#8243;</strong> cuenta ahora con una AMD Radeon HD 6750M con 500 MB GDDR5 frente a la misma gráfica pero con 6490M y 250 MB que llevaba el modelo anterior. <strong>El segundo modelo de 15&#8243;</strong> tiene una AMD Radeon HD 6770M con 1GB de GDDR5 frente a la misma gráfica con 6750M del modelo anterior. <strong>El modelo de 17&#8243;</strong> tiene el mismo cambio que el segundo modelo de 15&#8243;.</p>
+<p>Una actualización con <strong>incrementos positivos en el hardware interno</strong> de cada ordenador que sigue <strong>manteniendo su precio</strong> respecto a los anteriores portátiles.</p>
+<p>Vía | <a href="http://9to5mac.com/2011/10/24/apple-quietly-updates-macbook-pros-with-faster-processors-and-bumped-specs/" target="_blank" rel="noopener noreferrer">9To5Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevos-macbook-pro-con-un-aumento-de-disco-y-procesador/">Nuevos MacBook Pro con un aumento de disco y procesador</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/nuevos-macbook-pro-con-un-aumento-de-disco-y-procesador/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Qué hacer si tu iMac es uno de los afectados por el disco duro</title>
+		<link>https://www.MacSfera.com/que-hacer-si-tu-imac-es-uno-de-los-afectados-por-el-disco-duro/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 27 Jul 2011 10:00:44 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Seagate]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4144</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/que-hacer-si-tu-imac-es-uno-de-los-afectados-por-el-disco-duro/">Qué hacer si tu iMac es uno de los afectados por el disco duro</a></p>
+<p>Ya comentamos que Apple había detectado un fallo en los discos duros de 1TB Seagate, ahora os vamos a explicar que has</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/que-hacer-si-tu-imac-es-uno-de-los-afectados-por-el-disco-duro/">Qué hacer si tu iMac es uno de los afectados por el disco duro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/que-hacer-si-tu-imac-es-uno-de-los-afectados-por-el-disco-duro/">Qué hacer si tu iMac es uno de los afectados por el disco duro</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Que-hacer-si-tu-iMac-tiene-el-disco-duro-defectuoso.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Que-hacer-si-tu-iMac-tiene-el-disco-duro-defectuoso.png" alt="" title="Que hacer si tu iMac tiene el disco duro defectuoso" width="550" height="344" class="aligncenter size-full wp-image-4145" srcset="https://www.MacSfera.com/wp-content/uploads/2011/07/Que-hacer-si-tu-iMac-tiene-el-disco-duro-defectuoso.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/07/Que-hacer-si-tu-iMac-tiene-el-disco-duro-defectuoso-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Ya comentamos que <strong><a href="www.macsfera.com/problemas-en-los-discos-duros-de-1tb-de-los-imac-de-mayo-a-julio/?#more-4139" title="Apple ha detectado un fallo en los discos duros de 1TB Seagate">Apple</strong> había detectado un fallo en los <strong>discos duros de 1TB Seagate</strong></a>, ahora os vamos a explicar que has de hacer si tu <strong><a href="www.macsfera.com/tag/iMac" title="iMac">iMac</a></strong> está en ese grupo.<br />
+<span id="more-4144"></span><br />
+<strong>Apple</strong> ha empezado una campaña de sustitución para no dejar que a sus usuarios con ese disco duro que está defectuoso. Recordamos que la campaña no aumenta la garantía del producto, es totalmente gratuita, válida hasta el 23 de julio de 2012 y <strong>Apple</strong> no se encarga de gestionar tu información.</p>
+<p>Para continuar deberás confirmar que tu <strong>iMac</strong> es uno de los afectados, eso se mira en la página que ha puesto <strong>Apple</strong> para comprobarlo (<a href="http://www.apple.com/es/support/imac-harddrive/">enlace</a>). Luego podrás hacer tres cosas para cambiarlo.</p>
+<ul>
+<li><strong>Ir a una tienda oficial</strong>: Te has de acercar a una <strong>Apple Store</strong> de las dos que disponemos pero <strong>hay que pedir cita antes de ir,</strong> una vez que llegues y le expliques tu problema, ellos se quedarán con tu <strong>iMac</strong> para hacerle un cambio de disco duro sin coste alguno.</li>
+<li><strong>Acudir a un centro autorizado de Apple</strong>: Esta opción está más abierta para el público puesto que no todos viven en Madrid o Barcelona. <strong>Apple</strong> te brinda con la posibilidad de encontrar uno según tu zona y una vez encontrado acudes a él contándole tu problema. Pero yo antes de nada <strong>miraría si tienen página web y si hay alguna condición para acudir ante el servicio técnico,</strong> puede pasar que sea como <strong>Apple</strong> y tengas que pedir cita.</li>
+<li><strong>Soporte técnico:</strong> Con esta opción te pones en contacto con ellos (normalmente por teléfono) y ellos te asesoran lo mejor que pueden, tal vez te deriven a una de las dos opciones que hemos comentado o tal vez te envíen un mensajero para recogértelo y llevártelo, según lo que ellos consideren.</li>
+</ul>
+<p>Esas son las tres opciones que te da <strong>Apple</strong> para que cambies el disco duro defectuoso de tu <strong>iMac</strong>. Creo que están bien estructurado porque te ofrece distintas opciones. De otra manera nadie te asegura que el cambio sea de buena calidad o de la manera correcta ni te asegura que no te vayan a cobrar.</p>
+<p>Más información | <a href="http://www.apple.com/es/support/imac-harddrive/">Apple</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/que-hacer-si-tu-imac-es-uno-de-los-afectados-por-el-disco-duro/">Qué hacer si tu iMac es uno de los afectados por el disco duro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Problemas en los discos duros de 1TB de los iMac de mayo a julio</title>
+		<link>https://www.MacSfera.com/problemas-en-los-discos-duros-de-1tb-de-los-imac-de-mayo-a-julio/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 26 Jul 2011 14:25:41 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Programa de sustitución]]></category>
+		<category><![CDATA[Seagate]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4139</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/problemas-en-los-discos-duros-de-1tb-de-los-imac-de-mayo-a-julio/">Problemas en los discos duros de 1TB de los iMac de mayo a julio</a></p>
+<p>Apple ha detectado un problema en los discos duros de los iMac de 21,5 y 27 pulgadas vendidos entre mayo y julio</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/problemas-en-los-discos-duros-de-1tb-de-los-imac-de-mayo-a-julio/">Problemas en los discos duros de 1TB de los iMac de mayo a julio</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/problemas-en-los-discos-duros-de-1tb-de-los-imac-de-mayo-a-julio/">Problemas en los discos duros de 1TB de los iMac de mayo a julio</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/05/iMac-2011.png"><img src="http://cdn.MacSfera.com/wp-content/uploads/2011/05/iMac-2011.png" alt="iMac 2011" title="iMac 2011" width="550" height="345" class="size-full wp-image-3552" srcset="https://www.MacSfera.com/wp-content/uploads/2011/05/iMac-2011.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/05/iMac-2011-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple">Apple</a></strong> ha detectado un problema en los discos duros de los <strong><a href="www.macsfera.com/tag/imac" title="iMac">iMac</a></strong> de 21,5 y 27 pulgadas vendidos entre mayo y julio de 2011.<br />
+<span id="more-4139"></span><br />
+El problema reside en los <strong>discos duros de 1TB de Seagate</strong> que están defectuosos. Como hemos dicho, <strong>los modelos afectados son de 21,5 y 27 pulgadas vendidos entre mayo y julio de 2011</strong> pero lo bueno es que Apple ha empezado una campaña de sustitución totalmente gratuita.</p>
+<p>Para saber si tu <strong>iMac</strong> necesita ser sustituido debes mirar su <strong>número de serie</strong> e insertarlo en una web que ponen a nuestro alcance, allí te dirá si es necesario el cambio o no. Hay que decir que este cambio <strong>no ampliará tu garantía</strong> y que <strong>Apple</strong> no se encargará ni de guardar ni de traspasar tus archivos, de modo que la copia de tus datos la has de hacer tú.</p>
+<p>Esta iniciativa ya está puesta en marcha y <strong>Apple</strong> ha empezado a contactar con los dueños, se preveé que dure hasta el <strong>23 de julio de 2012</strong>.</p>
+<p>Comprobar tu <strong>iMac</strong> | <a href="http://www.apple.com/es/support/imac-harddrive/">Apple</a></p>
+<p>Vía | <a href="http://www.elpais.com/articulo/tecnologia/Apple/sustituye/cantidad/pequena/iMac/defectuosos/elpeputec/20110725elpeputec_2/Tes">El País</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/problemas-en-los-discos-duros-de-1tb-de-los-imac-de-mayo-a-julio/">Problemas en los discos duros de 1TB de los iMac de mayo a julio</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DaisyDisk, todos tus archivos bien visibles</title>
+		<link>https://www.MacSfera.com/daisydisk-todos-tus-archivos-bien-visibles/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 26 Jun 2011 21:08:15 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Archivos]]></category>
+		<category><![CDATA[DaisyDisk]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[macOS]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=3992</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/daisydisk-todos-tus-archivos-bien-visibles/">DaisyDisk, todos tus archivos bien visibles</a></p>
+<p>DaisyDisk es una aplicación que te muestra todos los archivos de tu disco duro muy bien ordenados. Esta aplicación crea una especie</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/daisydisk-todos-tus-archivos-bien-visibles/">DaisyDisk, todos tus archivos bien visibles</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/daisydisk-todos-tus-archivos-bien-visibles/">DaisyDisk, todos tus archivos bien visibles</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/07/DaisyDisk.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/07/DaisyDisk.png" alt="" title="DaisyDisk" width="550" height="467" class="aligncenter size-full wp-image-3993" srcset="https://www.MacSfera.com/wp-content/uploads/2011/07/DaisyDisk.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/07/DaisyDisk-300x255.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>DaisyDisk</strong> es una <strong><a href="www.macsfera.com/tag/aplicaciones/" title="Aplicación">aplicación</a></strong> que <strong>te muestra todos los archivos de tu disco duro muy bien ordenados</strong>. Esta <strong>aplicación</strong> crea una especie de gráfico de sectores con subsectores exteriores de tal modo que los sectores más cercanos al centro de la circunferencia son las carpetas y las exteriores son los archivos dentro de las carpetas.<br />
+<span id="more-3992"></span><br />
+Nada más que ejecutas la <strong>aplicación</strong> te muestra los discos duros conectados y tras un análisis (que puede variar de tiempo según la capacidad y lo que estés haciendo) <strong>te muestra todas las carpetas clasificadas por colores con una pequeña leyenda a la derecha que te dice el nombre de cada archivo y el color asignado.</strong> Si seleccionamos un archivo y pulsamos la barra espaciadora podemos ejecutar la vista previa para salir de duda en caso de querer borrarlo.</p>
+<p>Cada vez que pinchamos sobre un color, el resto de archivos que no estén dentro de esa carpeta desaparecen y volvemos a ver una circunferencia con las carpetas o archivos que estén dentro del seleccionado. Otra de las propiedades de esta <strong>app</strong> es que <strong>nos permite eliminar los archivos arrastrándolos a un icono que tiene.</strong></p>
+<p>En general la <strong>aplicación</strong> pinta muy bien y hace su cometido con total normalidad con una <strong>interfaz gráfica muy buena y sencilla y un rendimiento positivo</strong> aunque si que es verdad que he encontrado un par de cosas negativas. El tamaño de los rectángulos que representan los archivos varía en función de su capacidad y <strong>si hay muchos archivos, estos se ven muy pequeños y para seleccionar uno específico es complicado</strong>, se necesita de bastante precisión.</p>
+<p>El otro punto negativo es que en las Preferencias, en el apartado Update, hay una opción que dice Enviar nuestro perfil de sistema de forma anónima. <strong>Esta opción aparece activada de forma predeterminada y a mi particularmente no me gusta nada que se trafique con mi información sin yo saberlo,</strong> por muy anónimo que sea.</p>
+<p>Esta aplicación está disponible desde la <strong><a href="www.macsfera.com/tag/mac-app-store" title="Mac App Store">Mac App Store</a></strong> por un precio de <strong>7,99€</strong> y posee tres calificaciones con 5 estrellas y 2 con 4 estrellas.</p>
+<p>Descarga | <a href="http://itunes.apple.com/es/app/daisydisk/id411643860?mt=12">DaisyDisk</a><br />
+Página oficial | <a href="http://www.daisydiskapp.com/">DaisyDiskApp</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/daisydisk-todos-tus-archivos-bien-visibles/">DaisyDisk, todos tus archivos bien visibles</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Solución para cambiar el disco duro a los iMac de 2011</title>
+		<link>https://www.MacSfera.com/solucion-para-cambiar-el-disco-duro-a-los-imac-de-2011/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 28 May 2011 09:11:49 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[cBreeze]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[iMac]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2506</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/solucion-para-cambiar-el-disco-duro-a-los-imac-de-2011/">Solución para cambiar el disco duro a los iMac de 2011</a></p>
+<p>Un fabricante alemán inventa un controlador que le permite cambiar los discos duros de los iMac de 2011. Y es que todos</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/solucion-para-cambiar-el-disco-duro-a-los-imac-de-2011/">Solución para cambiar el disco duro a los iMac de 2011</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/solucion-para-cambiar-el-disco-duro-a-los-imac-de-2011/">Solución para cambiar el disco duro a los iMac de 2011</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/05/cBreeze.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/05/cBreeze.jpg" alt="" title="cBreeze" width="450" height="299" class="aligncenter size-full wp-image-3663" srcset="https://www.MacSfera.com/wp-content/uploads/2011/05/cBreeze.jpg 450w, https://www.MacSfera.com/wp-content/uploads/2011/05/cBreeze-300x199.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
+<p>Un fabricante alemán <strong>inventa un controlador que le permite cambiar los discos duros de los</strong> <strong><a href="www.macsfera.com/tag/imac/" title="iMac">iMac</a></strong><strong> de 2011.</strong><br />
+<span id="more-2506"></span><br />
+Y es que todos sabemos cual fue la decisión que tomó <strong>Apple</strong> que <strong><a href="www.macsfera.com/apple-impide-sustituir-el-disco-duro-de-los-nuevos-imac-por-los-de-otra-marca/" title="Apple impide sustituir el disco duro de los nuevos iMac">impedía cambiar el disco duro de los iMac de 2011</a></strong> provocando una aceleración violenta de los ventiladores y un error. Ahora disponemos de un dispositivo llamado <strong>cBreeze</strong> que puede sustituir al sensor que viene en el disco duro original engañando así a los ventiladores para evitar que se revolucionen y funcionen con total normalidad.</p>
+<p>La instalación no es del todo elegante y precisa, el chip va enganchado ahí, en el interior del equipo sin ninguna ciencia o meticulosidad, pero siempre y cuando funcione y haya una mínima esperanza que te de la opción de cambiar tu disco duro estará bien, aunque yo particularmente creo que es mejor recurrir al <strong>SAT</strong> si tu equipo está en garantía que no tener que instalar eso y comprar tu nuevo disco duro.</p>
+<p>Por ahora no hay fecha prevista pero se estima que para junio y tampoco hay un precio fijo, es por eso por lo que tendremos que esperar si el chip coge un valor importante en el mercado o por el contrario pasa desapercibido por un precio erroneamente escogido.</p>
+<p>Fuente | <a href="http://www.hardmac.com/news/2011/05/18/an-easy-solution-to-replace-the-hard-drive-in-a-2011-imac">HardMac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/solucion-para-cambiar-el-disco-duro-a-los-imac-de-2011/">Solución para cambiar el disco duro a los iMac de 2011</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple impide sustituir el disco duro de los nuevos iMac por los de otra marca</title>
+		<link>https://www.MacSfera.com/apple-impide-sustituir-el-disco-duro-de-los-nuevos-imac-por-los-de-otra-marca/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 12 May 2011 21:12:33 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2168</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-impide-sustituir-el-disco-duro-de-los-nuevos-imac-por-los-de-otra-marca/">Apple impide sustituir el disco duro de los nuevos iMac por los de otra marca</a></p>
+<p>Los nuevos iMac ya anunciados, a parte de sus muy buenas características vienen con una que ha quedado oculta. No soportan discos</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-impide-sustituir-el-disco-duro-de-los-nuevos-imac-por-los-de-otra-marca/">Apple impide sustituir el disco duro de los nuevos iMac por los de otra marca</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-impide-sustituir-el-disco-duro-de-los-nuevos-imac-por-los-de-otra-marca/">Apple impide sustituir el disco duro de los nuevos iMac por los de otra marca</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/05/Apple-impide-el-cambio-de-disco-duro-en-iMac.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/05/Apple-impide-el-cambio-de-disco-duro-en-iMac.jpeg" alt="" title="Apple impide el cambio de disco duro en iMac" width="550" height="413" class="aligncenter size-full wp-image-3580" srcset="https://www.MacSfera.com/wp-content/uploads/2011/05/Apple-impide-el-cambio-de-disco-duro-en-iMac.jpeg 550w, https://www.MacSfera.com/wp-content/uploads/2011/05/Apple-impide-el-cambio-de-disco-duro-en-iMac-300x225.jpeg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Los nuevos <strong><a href="www.macsfera.com/tag/imac" title="iMac">iMac</a></strong> ya anunciados, a parte de sus muy buenas características vienen con una que ha quedado oculta. <strong>No soportan discos duros de otros fabricantes</strong><br />
+<span id="more-2168"></span><br />
+Una práctica muy usada entre la gente que se compra un <strong><a href="www.macsfera.com/" title="Mac">Mac</a></strong> es comprarlo con un disco duro de una capacidad media y luego, en el caso de que quieran más o quieran sustituir el que tienen porque se ha roto, compran uno de una empresa que le puede salir más barato y lo cambian ellos mismos para ahorrarse tanto el coste de la mano de obra por parte de <strong>Apple</strong> como parte del dinero que les costaría un disco duro «oficial».</p>
+<p><strong>Apple</strong> lo sabe y por eso, con esta nueva versión de <strong>iMac</strong> lo ha impedido de una manera eficaz.</p>
+<p>Nosotros adquirimos el disco duro «no oficial» y lo instalamos por nuestra cuenta, al iniciar el ordenador funcionará mal y esto es debido a que el <strong>Apple Hardware Test da error</strong> y hace que <strong>los ventiladores se pongan al máximo sonando mucho.</strong></p>
+<p>Esto pasa por dos razones: una de ellas es porque los discos duros <strong>vienen con un firmware especial</strong> y el otro es que en vez de tener la <strong>conexión de SATA convencional de 4 pines</strong> tienen una de <strong>7 pines,</strong> esto hace que aunque pongas un disco duro de 7 pines que no sea el «oficial» no funcione porque no detecta el <strong>firmware.</strong></p>
+<p>La forma más común de ver esto es claramente que <strong>Apple</strong> quiere que si compras un <strong>iMac</strong> te gastes el dinero y no toques el interior, también le interesa que si por algún motivo tu disco duro se rompe lo envies a reparar a un punto oficial.</p>
+<p>Pero claro, también está el punto de que <strong>Apple</strong> no quiere responsabilizarse de que si tú abres tu <strong>iMac</strong><strong>,</strong> toques algo que no debes y lo rompas puedas tirar de garantía o algo similar y hacer que paguen ellos.</p>
+<p>Yo lo veo más bien como una mezcla, pero me molesta mucho que te impidan instalar lo que tu quieras, sobre todo porque puedes encontrar hardware que a lo mejor ellos no comercializan pero a ti te interesa tenerlo.</p>
+<p>Fuete | <a href="http://blog.macsales.com/10146-apple-further-restricts-upgrade-options-on-new-imacs">OWC Blog</a><br />
+Imagen | <a href="http://www.ifixit.com/Teardown/iMac-Intel-21-5-Inch-EMC-2428-Teardown/5485/1">iFixt</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-impide-sustituir-el-disco-duro-de-los-nuevos-imac-por-los-de-otra-marca/">Apple impide sustituir el disco duro de los nuevos iMac por los de otra marca</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

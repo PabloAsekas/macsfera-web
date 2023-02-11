@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Accidental Tech Podcast &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/accidental-tech-podcast/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:53:22 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Entrevista a Chris Lattner tras dejar Apple</title>
+		<link>https://www.MacSfera.com/entrevista-chris-lattner-tras-dejar-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2017 14:24:38 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Accidental Tech Podcast]]></category>
+		<category><![CDATA[Chris Lattner]]></category>
+		<category><![CDATA[Entrevistas]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Swift]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16228</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/entrevista-chris-lattner-tras-dejar-apple/">Entrevista a Chris Lattner tras dejar Apple</a></p>
+<p>La pasada semana, el creador del lenguaje Swift Chris Lattner dejó Apple para unirse a Tesla para trabajar en su sistema Autopilot.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/entrevista-chris-lattner-tras-dejar-apple/">Entrevista a Chris Lattner tras dejar Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/entrevista-chris-lattner-tras-dejar-apple/">Entrevista a Chris Lattner tras dejar Apple</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/20152040/Chris-Lattner-entrevista-Accidental-Tech-Podcast.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/20152040/Chris-Lattner-entrevista-Accidental-Tech-Podcast.jpeg" alt="Chris Lattner entrevista Accidental Tech Podcast" width="2048" height="1130" class="aligncenter size-full wp-image-16230" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/20152040/Chris-Lattner-entrevista-Accidental-Tech-Podcast.jpeg 2048w, https://cdn.macsfera.com/wp-content/uploads/2017/01/20152040/Chris-Lattner-entrevista-Accidental-Tech-Podcast.jpeg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/20152040/Chris-Lattner-entrevista-Accidental-Tech-Podcast.jpeg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>La pasada semana, el creador del lenguaje Swift <a target="_blank" title="Chris Lattner, creador de Swift, deja Apple para unirse a Tesla" href="www.macsfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/" rel="noopener noreferrer">Chris Lattner dejó Apple para unirse a Tesla</a> para trabajar en su sistema Autopilot.</p>
+<p>Esta semana, el podcast <em>Accidental Tech Podcast</em> <strong><a target="_blank" href="http://atp.fm/episodes/205" rel="noopener noreferrer">ha podido hablar</a> durante 2 horas con Lattner y han hecho un resumen de la creación de Swift, qué es trabajar en Apple, porqué se va a Tesla y un poco de la historia de Lattner como programador.</strong></p>
+<p>Si os interesa el mundo de la programación, <a target="_blank" title="Swift" href="www.macsfera.com/tag/swift" rel="noopener noreferrer">Swift</a> y la historia detrás de uno de los mejores programadores en Apple, el podcast os gustará.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/entrevista-chris-lattner-tras-dejar-apple/">Entrevista a Chris Lattner tras dejar Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

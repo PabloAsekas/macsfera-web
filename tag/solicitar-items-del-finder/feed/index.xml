@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Solicitar ítems del Finder &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/solicitar-items-del-finder/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Tue, 15 Mar 2016 15:54:01 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Automator: Cómo cambiar el tamaño de las fotos automáticamente</title>
+		<link>https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/</link>
+					<comments>https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 06 Sep 2012 16:44:50 +0000</pubDate>
+				<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Archivos]]></category>
+		<category><![CDATA[Automático]]></category>
+		<category><![CDATA[Automator]]></category>
+		<category><![CDATA[Cambiar]]></category>
+		<category><![CDATA[Carpetas]]></category>
+		<category><![CDATA[Escalar]]></category>
+		<category><![CDATA[Flujo de trabajo]]></category>
+		<category><![CDATA[Fotos]]></category>
+		<category><![CDATA[Imágenes]]></category>
+		<category><![CDATA[Scale Images]]></category>
+		<category><![CDATA[Solicitar ítems del Finder]]></category>
+		<category><![CDATA[Tamaño]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7364</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/">Automator: Cómo cambiar el tamaño de las fotos automáticamente</a></p>
+<p>Hoy os traemos un nuevo tutorial en el que usaremos Automator para cambiar el tamaño de todas las imágenes que queramos de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/">Automator: Cómo cambiar el tamaño de las fotos automáticamente</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/">Automator: Cómo cambiar el tamaño de las fotos automáticamente</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/09/Automator-Cambia-el-tamaño-de-las-imágenes.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/09/Automator-Cambia-el-tamaño-de-las-imágenes.jpg" alt="Automator Cambia el tamaño de las imágenes" title="Automator Cambia el tamaño de las imágenes" width="550" height="300" class="aligncenter size-full wp-image-7365" srcset="https://www.MacSfera.com/wp-content/uploads/2012/09/Automator-Cambia-el-tamaño-de-las-imágenes.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/09/Automator-Cambia-el-tamaño-de-las-imágenes-300x164.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Hoy os traemos un nuevo tutorial en el que <strong>usaremos Automator para cambiar el tamaño de todas las imágenes que queramos de forma automática.</strong></p>
+<p><span id="more-7364"></span></p>
+<p>Lo primero es abrir la <strong><a href="www.macsfera.com/tag/aplicaciones" title="Aplicaciones" target="_blank">aplicación</a></strong> y seguir los pasos:</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/09/Cambia-el-tamaño-de-las-imágenes-con-Automator.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/09/Cambia-el-tamaño-de-las-imágenes-con-Automator.png" alt="Cambia el tamaño de las imágenes con Automator" title="Cambia el tamaño de las imágenes con Automator" width="550" height="314" class="aligncenter size-full wp-image-7366" srcset="https://www.MacSfera.com/wp-content/uploads/2012/09/Cambia-el-tamaño-de-las-imágenes-con-Automator.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/09/Cambia-el-tamaño-de-las-imágenes-con-Automator-300x171.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<ol>
+<li>Al abrir <strong>Automator</strong> elegimos <strong>Aplicación</strong> en la ventana emergente.</li>
+<li>En las acciones vamos a elegir <strong>Archivos y carpetas</strong> y buscamos <strong>Ask for Finder Items</strong> o <strong>Solicitar ítems del Finder</strong> (según os aparezca) y la arrastramos al flujo de trabajo.</li>
+<li>De vuelta a las acciones elegimos <strong>Fotos</strong> y buscamos una que se llama <strong>Scale Images</strong> o <strong>Ajustar tamaño de las imágenes</strong> y lo volvemos a arrastrar al flujo de trabajo.</li>
+<li>Nos aparecerá un mensaje preguntándonos si queremos añadir una variable para que copie los ítems y los modifique para que no perdamos los archivos originales. Podéis aceptar o rechazar la propuesta según vuestros intereses.</li>
+<li>Ahora queda configurar el tamaño que queremos dar a las fotografías.</li>
+<li>Le damos al botón ejecutar, se abrirá una ventana emergente que nos pedirá seleccionar las imágenes. Para poder elegir muchas fotos o una carpeta hay que configurarlo en la acción de <strong>Solicitar ítems del Finder.</strong> Si todo va bien se cumplirá el proceso.</li>
+<li>Ahora que sabemos que funciona vamos a ir a <strong>Archivo/Guardar…</strong> y elegiremos la ubicación y el nombre.</li>
+</ol>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/09/Escalar-imágenes-usando-Automator.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/09/Escalar-imágenes-usando-Automator.png" alt="Escalar imágenes usando Automator" title="Escalar imágenes usando Automator" width="550" height="303" class="aligncenter size-full wp-image-7367" srcset="https://www.MacSfera.com/wp-content/uploads/2012/09/Escalar-imágenes-usando-Automator.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/09/Escalar-imágenes-usando-Automator-300x165.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Una vez guardado podremos ejecutarlo siempre que queramos desde el icono creado. De esta manera podremos escalar imágenes de una manera sencilla y rápida si el tamaño no varía y ahorrarnos un montón de trabajo con diversos programas de edición fotográfica.</p>
+<p>En MacSfera | <strong><a href="www.macsfera.com/tag/automator" title="Automator" target="_blank">Tutoriales de Automator</a></strong><br />
+Fuente | <a href="http://www.arturogoga.com/2010/08/04/tutorial-aprendiendo-automator-cmo-cambiar-el-tamao-de-imgenes-os-x/" target="_blank">ArturoGoga</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/">Automator: Cómo cambiar el tamaño de las fotos automáticamente</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

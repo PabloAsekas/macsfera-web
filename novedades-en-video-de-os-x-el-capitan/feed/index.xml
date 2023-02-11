@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Novedades en vídeo de OS X El Capitan	</title>
+	<atom:link href="https://www.MacSfera.com/novedades-en-video-de-os-x-el-capitan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/novedades-en-video-de-os-x-el-capitan/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: PabloAsekas		</title>
+		<link>https://www.MacSfera.com/novedades-en-video-de-os-x-el-capitan/?#comment-808</link>
+
+		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2015 12:54:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=11029#comment-808</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/novedades-en-video-de-os-x-el-capitan/?#comment-807&quot;&gt;Miguel de la Fuente&lt;/a&gt;.
+
+Es una beta, no recomiendo más que su instalación para probar las novedades y sólo si es de forma segura (&lt;a href=&quot;www.macsfera.com/como-instalar-os-x-el-capitan-beta/&quot; rel=&quot;nofollow&quot;&gt;www.macsfera.com/como-instalar-os-x-el-capitan-beta/&lt;/a&gt;) para no perder el sistema actual.
+
+En cuanto a los modelos compatibles, son exactamente los mismos que desde Mavericks (&lt;a href=&quot;www.macsfera.com/como-instalar-os-x-el-capitan-beta/&quot; rel=&quot;nofollow&quot;&gt;www.macsfera.com/como-instalar-os-x-el-capitan-beta/&lt;/a&gt;, por eso no he dicho nada, porque no ha cambiado la cosa, aunque tal vez si debería comentarlo.
+
+Un saludo!]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="https://www.MacSfera.com/novedades-en-video-de-os-x-el-capitan/?#comment-807">Miguel de la Fuente</a>.</p>
+<p>Es una beta, no recomiendo más que su instalación para probar las novedades y sólo si es de forma segura (<a href="www.macsfera.com/como-instalar-os-x-el-capitan-beta/" rel="nofollow">www.macsfera.com/como-instalar-os-x-el-capitan-beta/</a>) para no perder el sistema actual.</p>
+<p>En cuanto a los modelos compatibles, son exactamente los mismos que desde Mavericks (<a href="www.macsfera.com/como-instalar-os-x-el-capitan-beta/" rel="nofollow">www.macsfera.com/como-instalar-os-x-el-capitan-beta/</a>, por eso no he dicho nada, porque no ha cambiado la cosa, aunque tal vez si debería comentarlo.</p>
+<p>Un saludo!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Miguel de la Fuente		</title>
+		<link>https://www.MacSfera.com/novedades-en-video-de-os-x-el-capitan/?#comment-807</link>
+
+		<dc:creator><![CDATA[Miguel de la Fuente]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2015 11:55:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=11029#comment-807</guid>
+
+					<description><![CDATA[Para los que tenemos el Macbook pro, (med 2012) recomiendas esta instalacion? Mejorará la capacidad de trabajo o lo relentizara algo? Cuales son las especificaciones minimas para la instacion, si las tiene?]]></description>
+			<content:encoded><![CDATA[<p>Para los que tenemos el Macbook pro, (med 2012) recomiendas esta instalacion? Mejorará la capacidad de trabajo o lo relentizara algo? Cuales son las especificaciones minimas para la instacion, si las tiene?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

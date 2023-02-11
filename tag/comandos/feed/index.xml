@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Comandos &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/comandos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:59:02 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Configura un comando de teclado para mostrar el centro de notificaciones</title>
+		<link>https://www.MacSfera.com/configura-un-comando-de-teclado-para-mostrar-el-centro-de-notificaciones/</link>
+					<comments>https://www.MacSfera.com/configura-un-comando-de-teclado-para-mostrar-el-centro-de-notificaciones/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 26 Jul 2012 07:41:15 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Centro de Notificaciones]]></category>
+		<category><![CDATA[Comandos]]></category>
+		<category><![CDATA[Mission Control]]></category>
+		<category><![CDATA[Mostrar]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Preferencias del Sistema]]></category>
+		<category><![CDATA[Teclado]]></category>
+		<category><![CDATA[Trackpad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7120</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/configura-un-comando-de-teclado-para-mostrar-el-centro-de-notificaciones/">Configura un comando de teclado para mostrar el centro de notificaciones</a></p>
+<p>En este tutorial os enseñaremos como configurar un comando de teclado para que podáis mostrar el Centro de notificaciones de manera muy</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/configura-un-comando-de-teclado-para-mostrar-el-centro-de-notificaciones/">Configura un comando de teclado para mostrar el centro de notificaciones</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/configura-un-comando-de-teclado-para-mostrar-el-centro-de-notificaciones/">Configura un comando de teclado para mostrar el centro de notificaciones</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Configurar-comando-para-mostrar-Centro-de-notificaciones.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Configurar-comando-para-mostrar-Centro-de-notificaciones.png" alt="Configurar comando para mostrar Centro de notificaciones" title="Configurar comando para mostrar Centro de notificaciones" width="550" height="344" class="aligncenter size-full wp-image-7121" srcset="https://www.MacSfera.com/wp-content/uploads/2012/07/Configurar-comando-para-mostrar-Centro-de-notificaciones.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/07/Configurar-comando-para-mostrar-Centro-de-notificaciones-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En este tutorial os enseñaremos <strong>como configurar un comando de teclado para que podáis mostrar el Centro de notificaciones de manera muy rápida y sencilla.</strong></p>
+<p><span id="more-7120"></span></p>
+<p>Con la llegada de <strong><a href="www.macsfera.com/tag/os-x-mountain-lion" title="OS X Mountain Lion" target="_blank" rel="noopener noreferrer">OS X Mountain Lion</a></strong> hemos descubierto el centro de notificaciones que <strong>Apple</strong> ha extrapolado del iPhone/iPad al <strong>Mac</strong> y la función tiene muy buena pinta. ¿Cuál es el fallo? <strong>Hay que usar el cursor para acceder a él</strong> (si se carece de trackpad).</p>
+<p>Os vamos a enseñar a como configurar su visualización con un comando en tres sencillos pasos.</p>
+<ul>
+<li>Acceded a <strong>Preferencias del Sistema</strong> e id al apartado <strong>Teclado</strong>.</li>
+<li>Allí id a la pestaña <strong>Funciones rápidas de teclado</strong> y elegid <strong>Mission Control</strong>.</li>
+<li>Si os fijáis hay una opción llamada <strong>Mostrar centro de notificacione</strong>s que está sin marcar, basta con marcarla y elegir el comando que queráis.</li>
+</ul>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Configurar-comando-de-teclado-para-mostrar-Centro-de-notificaciones.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Configurar-comando-de-teclado-para-mostrar-Centro-de-notificaciones.png" alt="Configurar comando de teclado para mostrar Centro de notificaciones" title="Configurar comando de teclado para mostrar Centro de notificaciones" width="550" height="221" class="aligncenter size-full wp-image-7122" srcset="https://www.MacSfera.com/wp-content/uploads/2012/07/Configurar-comando-de-teclado-para-mostrar-Centro-de-notificaciones.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/07/Configurar-comando-de-teclado-para-mostrar-Centro-de-notificaciones-300x121.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En nuestro caso hemos utilizado <strong>Alt+Espacio</strong> porque Cmd+Espacio está asignado a Spotlight y porque Ctrl+Espacio está asignado a Alfred.</p>
+<p>Esto nos sirve sobretodo si no tenemos trackpad puesto que con el trackpad basta con desplazar dos dedos desde fuera del cuadrado hacia la izquierda. De este modo <strong>ganaréis más agilidad a la hora de moveros por vuestro entorno.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/configura-un-comando-de-teclado-para-mostrar-el-centro-de-notificaciones/">Configura un comando de teclado para mostrar el centro de notificaciones</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/configura-un-comando-de-teclado-para-mostrar-el-centro-de-notificaciones/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</title>
+		<link>https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 06 Apr 2012 10:51:28 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Actualización de Software]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Comandos]]></category>
+		<category><![CDATA[Cupertino]]></category>
+		<category><![CDATA[Eliminar]]></category>
+		<category><![CDATA[Flashback]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Terminal]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6639</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a></p>
+<p>El malware Flashback ha infectado más de 600.000 Mac según el analista Ivan Sorokin. Entre estos ordenadores hay un total de 274</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/04/Actualización-de-Java-Flashback.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/04/Actualización-de-Java-Flashback.png" alt="Actualización de Java Flashback" title="Actualización de Java Flashback" width="550" height="271" class="aligncenter size-full wp-image-6641" srcset="https://www.MacSfera.com/wp-content/uploads/2012/04/Actualización-de-Java-Flashback.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/04/Actualización-de-Java-Flashback-300x148.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>El malware <strong><a href="www.macsfera.com/tag/flashback" title="Flashback" target="_blank" rel="noopener noreferrer">Flashback</a></strong> <strong>ha infectado más de 600.000 Mac según el analista Ivan Sorokin.</strong> Entre estos ordenadores hay un total de 274 que provienen de <strong>Cupertino</strong>.</p>
+<p><span id="more-6639"></span></p>
+<p>Ya vimos que <strong><a href="www.macsfera.com/nuevo-malware-para-os-x-camuflado-como-adobe-flash/" title="Nuevo malware para OS X camuflado como Adobe Flash" target="_blank" rel="noopener noreferrer">no es la primera vez que Flashback ataca</a></strong> y en su día <strong>Apple</strong> lanzó una actualización de seguridad para prevenir sus equipos pero el malware <strong>ha seguido encontrando la manera de atacar e infectar nuevos ordenadores.</strong></p>
+<p>Recordemos que <strong>la manera de infectarse es instalarlo</strong> puesto que no es un virus. Intentará conseguir nuestro <strong>usuario y contraseña</strong> y a partir de ahí puede hacer lo que quiera: modificar archivos del sistema, enviar y recibir información, comprometer nuestra seguridad, etc.</p>
+<p>Para evitar este asunto, <strong>Apple ha lanzado una nueva actualización de Java</strong> que nos protegerá de este tipo de situaciones. Para saber si tenemos <strong>Flashback</strong> vamos a seguir estos pasos:</p>
+<ol>
+<li>Abrir <strong>Terminal</strong> y meter estos códigos</li>
+<ul>
+<li>defaults read /Applications/Safari.app/Contents/Info DYLD_INSERT_LIBRARIES</li>
+<li>defaults read /Applications/Firefox.app/Contents/Info DYLD_INSERT_LIBRARIES</li>
+</ul>
+<li>En el supuesto de que <strong>Terminal</strong> nos diga en ambos casos «<strong>doesn&#8217;t exist</strong>» es que no estamos infectados, pero si nos pone algo distinto debemos ejecutar el siguiente comando para borrarlo:
+<p>sudo defaults delete /Applications/%browser%.app/Contents/Info LSEnvironmentsudo chmod 644 /Applications/%browser%.app/Contents/Info.plist
+</li>
+</ol>
+<p>De esa manera <strong>sabremos si estamos infectados o no y de como eliminarlo.</strong> Para prevenir también este tipo de situaciones recordad que si algo se ejecuta solo, nos pide la contraseña porque si y no sabemos de donde proviene, analizadlo, investigad de donde ha salido, y si no os cuadra no se la deis.</p>
+<p>Vía | <a href="http://www.macrumors.com/2012/04/06/apple-releases-second-update-to-java-in-two-days/" target="_blank" rel="noopener noreferrer">MacRumors</a> | <a href="http://pastebin.com/48X4ZDrL" target="_blank" rel="noopener noreferrer">Pastebin</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

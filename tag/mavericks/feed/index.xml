@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mavericks &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/mavericks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:47 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Dos formas de ver vídeos Picture in Picture antes de que llegue macOS Sierra</title>
+		<link>https://www.MacSfera.com/dos-formas-de-ver-videos-picture-in-picture-antes-de-que-llegue-macos-sierra/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 16 Aug 2016 10:34:33 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Fluid]]></category>
+		<category><![CDATA[Helium]]></category>
+		<category><![CDATA[macOS Sierra]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Navegadores]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Picture in Picture]]></category>
+		<category><![CDATA[Sierra]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15178</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-ver-videos-picture-in-picture-antes-de-que-llegue-macos-sierra/">Dos formas de ver vídeos Picture in Picture antes de que llegue macOS Sierra</a></p>
+<p>Con la presentación del nuevo macOS Sierra, Apple introdujo una característica llamada Picture in Picture que ya presentó en iOS 9 para</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-ver-videos-picture-in-picture-antes-de-que-llegue-macos-sierra/">Dos formas de ver vídeos Picture in Picture antes de que llegue macOS Sierra</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-ver-videos-picture-in-picture-antes-de-que-llegue-macos-sierra/">Dos formas de ver vídeos Picture in Picture antes de que llegue macOS Sierra</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122100/Helium-para-ver-Picture-in-Picture-en-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122100/Helium-para-ver-Picture-in-Picture-en-macOS.jpg" alt="Helium para ver Picture in Picture en macOS" width="2500" height="1667" class="aligncenter size-full wp-image-15180" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122100/Helium-para-ver-Picture-in-Picture-en-macOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122100/Helium-para-ver-Picture-in-Picture-en-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122100/Helium-para-ver-Picture-in-Picture-en-macOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Con la presentación del <a target="_blank" title="Nuevo macOS Sierra" href="www.macsfera.com/nuevo-macos-sierra/">nuevo macOS Sierra</a>, <strong>Apple introdujo una característica llamada Picture in Picture</strong> que ya presentó en <a target="_blank" title="iOS 9 para iPad" href="www.macsfera.com/nuevo-ios-9/">iOS 9 para el iPad</a>.</p>
+<p>Esta propiedad <strong>permite sacar cualquier vídeo de una página web o una aplicación compatible y dejarlo flotando en distintos lugares del escritorio.</strong> Picture in Picture significa “Imagen en imagen”, lo que resume muy bien la propiedad: el vídeo (primera imagen) sobre el escritorio (segunda imagen).</p>
+<p><span id="more-15178"></span></p>
+<p>En definitiva, permite reproducir un vídeo y dejarlo permanentemente en el aire independiente de lo que estemos haciendo. <a target="_blank" href="https://twitter.com/PabloAsekas/status/718175021089308674">Adoro esta propiedad</a> en <a target="_blank" title="Review del iPad Pro" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/">el iPad Pro</a>, y que venga al Mac de forma nativa para mí es una gran noticia.</p>
+<p>Pero claro, <strong>macOS Sierra no va a salir hasta otoño</strong> <sup class="modern-footnotes-footnote ">1</sup>, de modo que ahora mismo no podemos disfrutar de los vídeos flotantes en El Capitan o versiones anteriores, por lo menos de forma nativa.</p>
+<p><strong>Aquí es donde entran las aplicaciones de terceros y las dos elecciones que os traigo para que podáis tener vídeos en Picture in Picture sin tener instalado macOS Sierra.</strong></p>
+<h2>Fluid Browser</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122131/Fluid-browser-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122131/Fluid-browser-para-Mac.jpg" alt="Fluid browser para Mac" width="1200" height="700" class="aligncenter size-full wp-image-15181" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122131/Fluid-browser-para-Mac.jpg 1200w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122131/Fluid-browser-para-Mac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122131/Fluid-browser-para-Mac.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<p><strong>Fluid</strong> es un navegador completamente funcional que se mantendrá siempre presente. Podemos insertar cualquier dirección web, añadir favoritos e incluso abrir distintos archivos que tengamos guardados en local.</p>
+<p><strong>Todo lo que se abra en el navegador permanecerá presente en pantalla independientemente de lo que estemos haciendo.</strong></p>
+<p>Además, permite elegir la transparencia de la ventana para que se camufle mejor en el entorno de trabajo y podamos entrever lo que hay debajo para no estar moviendo la ventana todo el rato de un lado a otro.</p>
+<p>Si bien muchas de sus características son buenas, hay una pega bastante grande, y es que <strong>la aplicación no puede estar presente con aplicaciones a pantalla completa.</strong> Sólo estará flotando encima de todo en los escritorios.</p>
+<h2>Helium</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122205/Helium-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122205/Helium-para-Mac.jpg" alt="Helium para Mac" width="1000" height="550" class="aligncenter size-full wp-image-15182" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122205/Helium-para-Mac.jpg 1000w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122205/Helium-para-Mac.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p><strong>Helium</strong> es una herramienta complemento de nuestros navegadores que nos permite abrir cualquier página web en Picture in Picture.</p>
+<p>Si bien permite abrir URLs independientemente, la mejor forma de invocarlo es a través del menú Compartir nativo de macOS.</p>
+<p>Es capaz de abrir enlaces, archivos, ajustar su transparencia y lo más importante: <strong>es capaz de permanecer flotando incluso en aplicaciones a pantalla completa.</strong></p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122226/Helium-Picture-in-Picture-para-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122226/Helium-Picture-in-Picture-para-macOS.jpg" alt="Helium Picture in Picture para macOS" width="2500" height="1667" class="aligncenter size-full wp-image-15183" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122226/Helium-Picture-in-Picture-para-macOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122226/Helium-Picture-in-Picture-para-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122226/Helium-Picture-in-Picture-para-macOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ambas aplicaciones están disponibles en la Mac App Store. <strong>Fluid <a target="_blank" href="https://geo.itunes.apple.com/es/app/fluid-browser-transparent/id1077036385?mt=12&amp;at=1010l9LC">está disponible</a> por 3€</strong> (aunque ahora tiene descuento por una actualización mayor). <strong>Helium <a target="_blank" href="https://geo.itunes.apple.com/es/app/helium/id1054607607?mt=12&amp;at=1010l9LC">está disponible</a> de forma gratuita.</strong></p>
+<p>De entre las dos opciones, <strong>yo me decanto por Helium.</strong> No porque sea gratuita sino porque creo que funciona mejor que Fluid para lo que yo necesito.</p>
+<p>Helium funciona en pantalla completa, puedes ajustar la opacidad de la ventana, e incluso configurarla para que reaccione al paso del cursor, y la forma nativa de invocarla es muy cómoda.</p>
+<p><strong>Aún así os comparto las dos aplicaciones por si alguna de ellas os cuadra más que la otra,</strong> que las opciones siempre bien.</p>
+<p>Ya sabéis, si no queréis esperar a <strong><a target="_blank" title="macOS Sierra" href="www.macsfera.com/tag/sierra">macOS Sierra</a></strong> para poder ver vídeos que estén siempre flotando independientemente de lo que tengamos debajo, <strong>Helium y Fluid son dos aplicaciones que os ayudarán a ello.</strong></p>
+<p><span class="source">Mac App Store</span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/fluid-browser-transparent/id1077036385?mt=12&amp;at=1010l9LC" target="_blank">Fluid</a></span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/helium/id1054607607?mt=12&amp;at=1010l9LC" target="_blank">Helium</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Puede ser a principios, mediados o finales, no se sabe.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-ver-videos-picture-in-picture-antes-de-que-llegue-macos-sierra/">Dos formas de ver vídeos Picture in Picture antes de que llegue macOS Sierra</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Historia ilustrada de Mac OS X</title>
+		<link>https://www.MacSfera.com/historia-ilustrada-de-mac-os-x/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2015 19:42:14 +0000</pubDate>
+				<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Lion]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[OS X Lion]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[OS X Snow Leopard]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12387</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/historia-ilustrada-de-mac-os-x/">Historia ilustrada de Mac OS X</a></p>
+<p>Bonita recopilación de todas las versiones de OS X desde la 10.0 hasta la 10.11 lanzada hace pocas semanas. Con la lista</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/historia-ilustrada-de-mac-os-x/">Historia ilustrada de Mac OS X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/historia-ilustrada-de-mac-os-x/">Historia ilustrada de Mac OS X</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/10/19203707/Historia-ilustrada-de-Mac-OS-X.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/10/19203707/Historia-ilustrada-de-Mac-OS-X.png" alt="Historia ilustrada de Mac OS X" width="1600" height="580" class="aligncenter size-full wp-image-12388" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/10/19203707/Historia-ilustrada-de-Mac-OS-X.png 1600w, https://cdn.macsfera.com/wp-content/uploads/2015/10/19203707/Historia-ilustrada-de-Mac-OS-X.png 300w, https://cdn.macsfera.com/wp-content/uploads/2015/10/19203707/Historia-ilustrada-de-Mac-OS-X.png 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /></a></p>
+<p><strong>Bonita <a href="http://www.git-tower.com/blog/history-of-osx/">recopilación</a> de todas las versiones de OS X desde la 10.0 hasta <a href="www.macsfera.com/nuevo-os-x-el-capitan/" title="Nuevo OS X El Capitan">la 10.11</a> lanzada <a href="www.macsfera.com/os-x-el-capitan-disponible-para-descarga/" title="OS X El Capitan disponible para descarga">hace pocas semanas</a>.</strong></p>
+<p>Con la lista en sí, acompaña una divertida ilustración haciendo referencia al nombre de la versión y una breve descripción comentando las novedades del sistema.</p>
+<p>De esta forma, podemos ver fácil y superficialmente la historia del sistema operativo que lleva entre nosotros más de 10 años.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/historia-ilustrada-de-mac-os-x/">Historia ilustrada de Mac OS X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Resumen de la keynote del 22 de octubre</title>
+		<link>https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/</link>
+					<comments>https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2013 21:13:22 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Craig Federighi]]></category>
+		<category><![CDATA[Eddy Cue]]></category>
+		<category><![CDATA[GarageBand]]></category>
+		<category><![CDATA[iLife]]></category>
+		<category><![CDATA[iMovie]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 7]]></category>
+		<category><![CDATA[iPad Air]]></category>
+		<category><![CDATA[iPad Mini]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[iTunes Radio]]></category>
+		<category><![CDATA[iWork]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[MacBook Pro Retina]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Numbers]]></category>
+		<category><![CDATA[Octubre]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[Pages]]></category>
+		<category><![CDATA[Phil Schiller]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10093</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a></p>
+<p>Ayer se celebró la keynote del 22 de octubre en San Francisco y estuvo repleta de presentaciones, aquí tenéis un breve resumen</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/We-still-have-a-lot-to-cover.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/We-still-have-a-lot-to-cover.jpg" alt="We still have a lot to cover" width="710" height="507" class="aligncenter size-full wp-image-10094" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/We-still-have-a-lot-to-cover.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/We-still-have-a-lot-to-cover-300x214.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Ayer se celebró la <strong><a href="www.macsfera.com/keynote-de-apple-el-22-de-octubre/" title="Keynote de Apple el 22 de octubre" target="_blank" rel="noopener noreferrer">keynote del 22 de octubre</a></strong> en San Francisco y estuvo repleta de presentaciones, <strong>aquí tenéis un breve resumen de todos los puntos tratados.</strong></p>
+<p><span id="more-10093"></span></p>
+<p>Como cada keynote, <strong>Tim Cook hizo un repaso por los datos más relevantes de la empresa.</strong> Empezamos con los nueve millones de iPhones vendidos en un solo fin de semana, el 64% de los dispositivos iOS ya tiene la última versión iOS 7 y <strong>iTunes Radio</strong> ya cuenta con veinte millones de usuarios que han escuchado mil millones de canciones en EE.UU. La App Store ya tiene un millón de aplicaciones que han sido descargadas sesenta mil millones de veces aportando trece mil millones de dólares a los desarrolladores.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-disponible-gratuitamente.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-disponible-gratuitamente.png" alt="OS X Mavericks disponible gratuitamente" width="710" height="354" class="aligncenter size-full wp-image-10095" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-disponible-gratuitamente.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-disponible-gratuitamente-300x150.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Craigh Federighi subió al escenario para perfilar <a href="www.macsfera.com/tag/os-x-mavericks" title="OS X Mavericks" target="_blank" rel="noopener noreferrer">OS X Mavericks</a>,</strong> la última versión de OS X que ahorra una hora de batería, potencia la eficiencia y reduce el uso de los componentes con el fin de que todo vaya más rápido. <strong>Podéis ver <a href="www.macsfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/" title="OS X Mavericks, la nueva versión del sistema operativo" target="_blank" rel="noopener noreferrer">todas las novedades</a> en el artículo que preparamos hace unos meses.</strong> La noticia del evento fue que <strong><a href="www.macsfera.com/os-x-mavericks-disponible-hoy-y-gratis/" title="OS X Mavericks disponible hoy y gratis" target="_blank" rel="noopener noreferrer">Mavericks ya está disponible de forma gratuita</a>.</strong></p>
+<p><strong>Phil Schiller relevó el show presentando los <a href="www.macsfera.com/nuevos-macbook-pro-mas-finos-ligeros-rapidos-y-baratos/" title="Nuevos MacBook Pro más finos, ligeros, rápidos y baratos" target="_blank" rel="noopener noreferrer">nuevos modelos del MacBook Pro Retina</a></strong> con procesadores Haswell, reducción de peso y tamaño, aumento de batería y reducción de precio. También se dio <strong><a href="www.macsfera.com/los-mac-pro-disponibles-en-diciembre-empezando-en-2999-dolares/" title="Los Mac Pro disponibles en diciembre empezando en 2999 dólares (3.049 euros)" target="_blank" rel="noopener noreferrer">precio final y fecha aproximada de salida</a> al nuevo y rediseñado Mac Pro</strong> que será en diciembre por 3.049 euros en el modelo más básico.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/Nuevas-versiones-iLife-y-iWork.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/Nuevas-versiones-iLife-y-iWork.png" alt="Nuevas versiones iLife y iWork" width="710" height="115" class="aligncenter size-full wp-image-10097" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/Nuevas-versiones-iLife-y-iWork.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/Nuevas-versiones-iLife-y-iWork-300x49.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Eddy Cue salió a presentar las renovadas versiones de <a href="www.macsfera.com/nueva-version-de-ilife-totalmente-redisenada-y-gratis-para-nuevos-usuarios/" title="Nueva versión de iLife totalmente rediseñada y gratis para nuevos usuarios" target="_blank" rel="noopener noreferrer">iLife</a></strong> (iPhoto, iMovie y GarageBand) <strong>y <a href="www.macsfera.com/nueva-version-de-iwork-con-rediseno-incluido-y-nuevas-funcionalidades/" title="Nueva versión de iWork con rediseño incluido y nuevas funcionalidades" target="_blank" rel="noopener noreferrer">iWork</a></strong> (Pages, Numbers y Keynote). Esta renovación no solo incluye un cambio de diseño, también incorporan nuevas funcionalidades que nos agradarán a todos.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/iPad-Air.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/iPad-Air.png" alt="iPad Air" width="710" height="399" class="aligncenter size-full wp-image-10098" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/iPad-Air.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/iPad-Air-300x169.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Por último, <strong>Tim Cook volvió al escenario para presentar las nuevas generaciones del iPad.</strong> El iPad Air, la quinta versión del iPad de 9,7 pulgadas estrena nuevo diseño con reducción de marco lateral, tamaño y peso, incluye el nuevo procesador A7 de 64 bits y está disponible en blanco, plateado, gris espacial y negro. El iPad mini por fin adapta la tecnología retina en su pantalla y el chip A7.</p>
+<p>Como vemos, una keynote repleta de novedades tanto de software como de hardware que <strong>probablemente cierre el año de eventos en Apple.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OS X Mavericks disponible hoy y gratis</title>
+		<link>https://www.MacSfera.com/os-x-mavericks-disponible-hoy-y-gratis/</link>
+					<comments>https://www.MacSfera.com/os-x-mavericks-disponible-hoy-y-gratis/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 22 Oct 2013 17:53:26 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Gratis]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10051</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-disponible-hoy-y-gratis/">OS X Mavericks disponible hoy y gratis</a></p>
+<p>Apple ha anunciado que su nuevo sistema operativo OS X Mavericks estará disponible desde ya y será una actualización gratuita. Las novedades</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-disponible-hoy-y-gratis/">OS X Mavericks disponible hoy y gratis</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-disponible-hoy-y-gratis/">OS X Mavericks disponible hoy y gratis</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-ya-disponible.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-ya-disponible.png" alt="OS X Mavericks ya disponible" width="710" height="406" class="aligncenter size-full wp-image-10075" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-ya-disponible.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-ya-disponible-300x172.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Apple ha anunciado que su nuevo sistema operativo OS X Mavericks estará disponible desde ya y será una actualización gratuita.</strong></p>
+<p><span id="more-10051"></span></p>
+<p><strong>Las <a href="www.macsfera.com/video-mostrando-las-novedades-de-os-x-mavericks/" title="Vídeo mostrando las novedades de OS X Mavericks" target="_blank" rel="noopener noreferrer">novedades de este nuevo sistema</a> son</strong> la mejora de eficiencia y rendimiento que aportan mayor velocidad, mejora de la batería, mejora el soporte para usuarios con dos pantallas, nuevas aplicaciones como Mapas o iBooks y más interacción con iCloud.</p>
+<p>De modo que a partir de que acabe la keynote,<strong> OS X Mavericks estará disponible</strong> para todos los iMac y MacBook Pro desde el 2007, los MacBook, MacBook Air y Mac Pro desde el 2008 y los Mac Mini desde el 2009. <strong>La descarga será desde la Mac App Store, el archivo tiene un peso de .</strong>5,3 GB y como hemos dicho, es totalmente gratuito.</p>
+<p>Descarga | <a href="https://itunes.apple.com/es/app/os-x-mavericks/id675248567?mt=12" target="_blank" rel="noopener noreferrer">Mac App Store</a></p>
+<p><span class="source">Fuente</span> <span class="via"><a href="http://www.theverge.com/2013/10/22/4865858/os-x-10-9-mavericks-release-date-price" target="_blank" rel="noopener noreferrer">TheVerge</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-disponible-hoy-y-gratis/">OS X Mavericks disponible hoy y gratis</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/os-x-mavericks-disponible-hoy-y-gratis/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vídeo mostrando las novedades de OS X Mavericks</title>
+		<link>https://www.MacSfera.com/video-mostrando-las-novedades-de-os-x-mavericks/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 21 Jun 2013 10:30:19 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Novedades]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9777</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/video-mostrando-las-novedades-de-os-x-mavericks/">Vídeo mostrando las novedades de OS X Mavericks</a></p>
+<p>Hoy os traemos un pequeño vídeo en el que hacemos un repaso por todas las novedades de OS X Mavericks. Hemos estado</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/video-mostrando-las-novedades-de-os-x-mavericks/">Vídeo mostrando las novedades de OS X Mavericks</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/video-mostrando-las-novedades-de-os-x-mavericks/">Vídeo mostrando las novedades de OS X Mavericks</a></p>
+<p><center><iframe width="709" height="399" src="http://www.youtube.com/embed/HUFt7z5Wmtc" frameborder="0" allowfullscreen></iframe></center></p>
+<p><strong>Hoy os traemos un pequeño vídeo en el que hacemos un repaso por todas las <a href="www.macsfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/" title="OS X Mavericks, la nueva versión del sistema operativo" target="_blank" rel="noopener noreferrer">novedades de OS X Mavericks</a></strong>.</p>
+<p><span id="more-9777"></span></p>
+<p>Hemos estado trasteando con la primera beta pública y <strong>la verdad es que el sistema no pinta nada mal,</strong> hay algunas funciones como la de múltiples pantallas que están realmente bien y otras que se agradecen un montón como <strong>las pestañas en Finder o el incremento de velocidad.</strong></p>
+<p><strong>En el vídeo os mostramos todas las que están disponibles,</strong> la aplicación iBooks no la hemos podido probar puesto que Apple no la ha incluido en la beta para que no podamos comprar libros ni nada por el estilo, probablemente podremos hacer uso de ella con la versión final del sistema y no antes.</p>
+<p>Por supuesto, <strong>les queda mucho trabajo respecto al resultado final,</strong> pero creo que esta versión va a marcar una diferencia respecto a Lion y a Mountain Lion.</p>
+<p>En MacSfera | <strong><a href="www.macsfera.com/como-instalar-os-x-mavericks-beta/" title="Cómo instalar OS X Mavericks Beta" target="_blank" rel="noopener noreferrer">Cómo instalar OS X Mavericks Beta</a></strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/video-mostrando-las-novedades-de-os-x-mavericks/">Vídeo mostrando las novedades de OS X Mavericks</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cómo instalar OS X Mavericks Beta</title>
+		<link>https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/</link>
+					<comments>https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 14 Jun 2013 12:27:20 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Instalar]]></category>
+		<category><![CDATA[Mac OS Plus (con registro)]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9706</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/">Cómo instalar OS X Mavericks Beta</a></p>
+<p>Hoy os traemos un tutorial en el que os vamos a enseñar a instalar la beta de OS X Mavericks, el nuevo</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/">Cómo instalar OS X Mavericks Beta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/">Cómo instalar OS X Mavericks Beta</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Instalar-la-beta-de-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Instalar-la-beta-de-OS-X-Mavericks.jpg" alt="Instalar la beta de OS X Mavericks" width="710" height="435" class="aligncenter size-full wp-image-9723" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Instalar-la-beta-de-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Instalar-la-beta-de-OS-X-Mavericks-300x184.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Hoy os traemos un tutorial en el que os <strong>vamos a enseñar a instalar la beta de <a href="www.macsfera.com/tag/os-x-mavericks" title="OS X Mavericks" target="_blank" rel="noopener noreferrer">OS X Mavericks</a>, el nuevo sistema operativo de <a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a>.</strong></p>
+<p><span id="more-9706"></span></p>
+<p>El proceso puede parecer complejo pero en realidad es muy sencillo <strong>siempre que sigáis los pasos y tengáis paciencia.</strong> En nuestro caso la instalación la haremos en un disco duro externo, vosotros la podéis hacer tanto en el disco duro interno como en el externo.</p>
+<p>Nuestra recomendación es que <strong>no alteréis vuestro actual sistema</strong> porque la que vamos a instalar es la primera beta pública, la cual no está exenta de errores y fallos. Por lo tanto os damos unos breves pasos para configurar cualquier disco duro en el formato adecuado:</p>
+<ul>
+<li>Conectamos el disco duro externo (en caso de que tengamos)</li>
+<li>Abrimos <strong>Utilidad de discos</strong> y aquí podemos hacer dos cosas:
+<ul>
+<li>Formatear todo el disco duro. Para ello deberemos ir a la pestaña <strong>Borrar</strong>, elegir el formato <strong>Mac OS Plus (con registro)</strong>, modificar el nombre y aplicar los cambios.</li>
+<li>Hacer una partición de nuestro disco actual. Para ello deberemos ir a la pestaña <strong>Particiones</strong>, pinchar en el botón de más (<strong>+</strong>), elegir el tamaño y aplicar los cambios).
+</li>
+</ul>
+</li>
+<li>En ambos casos, el disco duro debe estar en formato <strong>Mac OS Plus (con registro)</strong>.</li>
+</ul>
+<p>Una vez elegido y configurado donde queremos instalar <strong>Mavericks</strong>, vamos con los pasos:</p>
+<ul>
+<li>Ejecutar el archivo <strong>.dmg</strong> y seguir los pasos</li>
+<li>Cuando nos pregunte donde queremos instalar el sistema, le damos a <strong>Mostrar todos los discos</strong> y elegimos el disco duro que deseemos</li>
+<li>Aceptamos los distintos acuerdos y procedemos a la instalación</li>
+</ul>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks.jpg" alt="Modelos compatibles con Mavericks" width="710" height="427" class="aligncenter size-full wp-image-9709" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks-300x180.jpg 300w, https://www.MacSfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks-220x132.jpg 220w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Al acabar los pasos de arriba empezará una preparación de todo el proceso, dicha preparación <strong>dura entre 2 y 5 minutos,</strong> en ese tiempo os recomendamos que cerréis todas las aplicaciones y los archivos que tengáis puesto que al acabar el ordenador se reiniciará. <strong>Una vez reiniciado empezará la instalación completa que durará entre 20 minutos y 30 minutos.</strong></p>
+<p>Al acabar la instalación procederemos a la configuración de nuestra cuenta con el nombre, contraseña, detalles del teclado, etc. Y una vez finalizada la configuración, <strong>podremos toquetear todo lo que queramos de las <a href="www.macsfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/" title="OS X Mavericks, la nueva versión del sistema operativo" target="_blank" rel="noopener noreferrer">novedades presentadas</a>.</strong></p>
+<p>Por si acaso puede surgir alguna duda, os dejamos este vídeo que hemos preparado explicándolo, tenéis la sección más abajo (tanto del post como en YouTube) para que preguntéis lo que podáis, nosotros intentaremos ayudaros.</p>
+<p><center><iframe width="709" height="399" src="http://www.youtube.com/embed/orWoCQtzwnA" frameborder="0" allowfullscreen></iframe></center></p>
+<p>Beta | <a href="http://dlbeta.com/os-x-betas/" target="_blank" rel="noopener noreferrer">dlBeta</a> | <a href="http://imzdl.com/osx.php" target="_blank" rel="noopener noreferrer">iMZDL</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/">Cómo instalar OS X Mavericks Beta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/como-instalar-os-x-mavericks-beta/feed/</wfw:commentRss>
+			<slash:comments>16</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Modelos de Mac compatibles con OS X Mavericks</title>
+		<link>https://www.MacSfera.com/modelos-de-mac-compatibles-con-os-x-mavericks/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 13 Jun 2013 13:24:16 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Actualizaciones]]></category>
+		<category><![CDATA[Características mínimas]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Mac Mini]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Modelos compatibles]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9708</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/modelos-de-mac-compatibles-con-os-x-mavericks/">Modelos de Mac compatibles con OS X Mavericks</a></p>
+<p>Ya sabemos que con la llegada de nuevo software, algunos equipos antiguos pueden quedar obsoletos y por eso Apple decide no darles</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/modelos-de-mac-compatibles-con-os-x-mavericks/">Modelos de Mac compatibles con OS X Mavericks</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/modelos-de-mac-compatibles-con-os-x-mavericks/">Modelos de Mac compatibles con OS X Mavericks</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks.jpg" alt="Modelos compatibles con Mavericks" width="710" height="427" class="aligncenter size-full wp-image-9709" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks-300x180.jpg 300w, https://www.MacSfera.com/wp-content/uploads/2013/06/Modelos-compatibles-con-Mavericks-220x132.jpg 220w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Ya sabemos que con la llegada de <strong><a href="www.macsfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/" title="OS X Mavericks, la nueva versión del sistema operativo" target="_blank" rel="noopener noreferrer">nuevo software</a></strong>, algunos equipos antiguos pueden quedar obsoletos y por eso <strong>Apple decide no darles soporte con sus nuevas creaciones.</strong> A continuación veremos una lista de los equipos que serán compatibles con <strong><a href="www.macsfera.com/tag/os-x-mavericks" title="OS X Mavericks" target="_blank" rel="noopener noreferrer">OS X Mavericks</a></strong>.</p>
+<p><span id="more-9708"></span></p>
+<p>Estamos de enhorabuena,<strong> puesto que los equipos que serán compatibles con Mavericks son los mismos que <a href="www.macsfera.com/modelos-compatibles-y-caracteristicas-minimas-para-actualizar-a-mountain-lion/" title="Modelos compatibles y características mínimas para actualizar a Mountain Lion" target="_blank" rel="noopener noreferrer">lo son con Mountain Lion</a>:</strong></p>
+<ul>
+<li><strong>iMac</strong> desde mediados de 2007 en adelante</li>
+<li><strong>MacBook</strong> desde finales de 2008 de aluminio o de principios de 2009 en adelante</li>
+<li><strong>MacBook Pro</strong> desde mediados o finales de 2007 en adelante</li>
+<li><strong>Xserve</strong> desde principios de 2009</li>
+<li><strong>MacBook Air</strong> desde finales de 2008 en adelante</li>
+<li><strong>Mac Mini</strong> desde principios de 2009 en adelante</li>
+<li><strong>Mac Pro</strong> desde principios de 2007 en adelante</li>
+</ul>
+<p>Estos no son datos oficiales puesto que Apple de momento no se ha pronunciado, <strong>es una estimación hecha por la versión beta de desarrolladores.</strong> En un futuro <strong>Apple</strong> podría cambiar las cosas y excluir algún equipo. El hecho de que los equipos sean compatibles <strong>no significa que puedan disponer de todas sus funciones,</strong> probablemente algunas de las novedades más recientes queden excluidas en los equipos más antiguos por carencias en el hardware.</p>
+<p>Las características mínimas de un equipo a día de hoy para poder usar <strong>Mavericks</strong> son un <strong>procesador Intel a 64 bits</strong> que ejecute Snow Leopard en su versión 10.6.7, <strong>8 GB de espacio en el disco duro y un mínimo de 4 GB de RAM.</strong></p>
+<p><span class="source">Fuente</span> <span class="via"><a href="http://www.faq-mac.com/noticias/podre-instalar-os-x-109-mavericks-mi-mac/50101" target="_blank" rel="noopener noreferrer">Faq-Mac</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/modelos-de-mac-compatibles-con-os-x-mavericks/">Modelos de Mac compatibles con OS X Mavericks</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Todas las mejoras de eficiencia y rendimiento de OS X Mavericks</title>
+		<link>https://www.MacSfera.com/todas-las-mejoras-de-eficiencia-y-rendimiento-de-os-x-mavericks/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 13 Jun 2013 08:46:30 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[App Nap]]></category>
+		<category><![CDATA[Compressed Memory]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[Rendimiento]]></category>
+		<category><![CDATA[Safari Power Saver]]></category>
+		<category><![CDATA[Timer Coalescing]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9687</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/todas-las-mejoras-de-eficiencia-y-rendimiento-de-os-x-mavericks/">Todas las mejoras de eficiencia y rendimiento de OS X Mavericks</a></p>
+<p>El pasado 10 de junio, supimos que Apple estaba preparando una nueva versión del sistema operativo OS X, dicha versión se llama</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/todas-las-mejoras-de-eficiencia-y-rendimiento-de-os-x-mavericks/">Todas las mejoras de eficiencia y rendimiento de OS X Mavericks</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/todas-las-mejoras-de-eficiencia-y-rendimiento-de-os-x-mavericks/">Todas las mejoras de eficiencia y rendimiento de OS X Mavericks</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Mejoras-de-eficiencia-y-rendimiento-de-OS-X-Mavericks.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Mejoras-de-eficiencia-y-rendimiento-de-OS-X-Mavericks.png" alt="Mejoras de eficiencia y rendimiento de OS X Mavericks" width="710" height="402" class="aligncenter size-full wp-image-9694" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Mejoras-de-eficiencia-y-rendimiento-de-OS-X-Mavericks.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Mejoras-de-eficiencia-y-rendimiento-de-OS-X-Mavericks-300x170.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>El pasado 10 de junio, supimos que <strong>Apple estaba preparando una <a href="www.macsfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/" title="OS X Mavericks, la nueva versión del sistema operativo" target="_blank" rel="noopener noreferrer">nueva versión del sistema operativo OS X</a>,</strong> dicha versión se llama <strong><a href="www.macsfera.com/tag/os-x-mavericks" title="OS X Mavericks" target="_blank" rel="noopener noreferrer">Mavericks</a></strong> y entre sus nuevas características encontramos unas <strong>mejoras muy significativas de eficiencia y rendimiento</strong> que repasaremos ahora mismo.</p>
+<p><span id="more-9687"></span></p>
+<p>Una de esas novedades es <strong>App Nap</strong>, un método que permite que <strong>el sistema sepa que aplicaciones están realmente abiertas y cuales están en segundo plano,</strong> de tal modo que pueda centrar la potencia en las que de verdad estamos usando y no malgastar energía y recursos en las que tenemos minimizadas o están «tapadas» por otra ventana más grande. No tenemos que preocuparnos por aquellas aplicaciones que estén descargando contenido, reproduciendo música o haciendo un proceso ya que <strong>Mavericks</strong> sabrá en todo momento si es relevante o no a pesar de estar oculto.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Timer-Coalescing.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Timer-Coalescing.jpg" alt="Timer Coalescing" width="710" height="231" class="aligncenter size-full wp-image-9695" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Timer-Coalescing.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Timer-Coalescing-300x98.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Timer Coalescing</strong> es otro de esos métodos que ayuda a ahorrar energía, hasta un 72% en concreto. Actualmente, cuando el sistema trabaja, su CPU genera picos de rendimiento que aumentan y disminuyen, todo eso genera un gasto de energía importante. <strong>La misión de Timer Coalescing es sincronizar o unificar la mayoría de esos procesos para que pasen con mucha menos frecuencia y así poder ahorrar energía.</strong></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Safari-Power-Saver.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Safari-Power-Saver.png" alt="Safari Power Saver" width="485" height="412" class="aligncenter size-full wp-image-9697" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Safari-Power-Saver.png 485w, https://www.MacSfera.com/wp-content/uploads/2013/06/Safari-Power-Saver-300x255.png 300w" sizes="(max-width: 485px) 100vw, 485px" /></a></p>
+<p><strong>Safari Power Saver</strong> es un ingenioso sistema que <strong>sirve para controlar el uso de recursos del sistema por parte del navegador ante páginas cuyos complementos o plugins piden energía o CPU.</strong> Si <strong>Mavericks</strong> detecta que puedes no estar prestando atención a la web en cuestión, pausa toda la actividad ahorrando energía, cuando vuelves a <strong><a href="www.macsfera.com/tag/safari" title="Safari" target="_blank" rel="noopener noreferrer">Safari</a></strong> toda la actividad se reactiva. Para que <strong>Safari Power Saber</strong> se active basta con ocultar la ventana o con cubrirla parcialmente y, en caso de que estemos disfrutando del contenido pero el sistema lo pause, podemos activarlo de forma manual.</p>
+<p><strong>iTunes HD Playback Efficiency es el método que ha diseñado Apple para poder ver las películas de iTunes en HD sin que se consuma mucha energía,</strong> incluso a pantalla completa y usando la batería. El reproductor es capaz de usar eficientemente los recursos gráficos del sistema y reduce el acceso a disco porque entiende que, al estar viendo una película, no realizas otras tareas. El sistema de audio también ha sido implementado para que ahorre energía. Sumando todo ello, obtenemos un resultado de <strong>un 35% menos de consumo de energía por parte de la CPU,</strong> cosa que viene estupenda cuando no tenemos cargador o enchufe a mano.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Compressed-Memory.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Compressed-Memory.png" alt="Compressed Memory" width="710" height="382" class="aligncenter size-full wp-image-9696" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Compressed-Memory.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Compressed-Memory-300x161.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Cuando hacemos uso de la memoria RAM, parte de ella está activa y ocupada por aplicaciones y procesos y otra parte está inactiva, cuando abrimos una aplicación más, el sistema saca el espacio en memoria de esa parte inactiva, pero suele ser un proceso lento y costoso. <strong>Compressed Memory hace que la parte inactiva de nuestra memoria RAM se reduzca o comprima,</strong> dejando el espacio sobrante libre para que las próximas tareas tengan espacio en memoria RAM al instante. Esto no solo ahorra energía, también hace que el sistema sea <strong>1,4 veces más rápido</strong> que Mountain Lion y 1,5 veces más rápido cuando arrancamos el ordenador o salimos del modo reposo.</p>
+<p>Todas estas técnicas, y más, <strong>van a hacer que Mavericks aproveche mucho mejor los recursos de nuestro ordenador para que, eficientemente, aumente la velocidad y reduzca la energía consumida.</strong></p>
+<p>Más info | <a href="http://www.apple.com/osx/preview/advanced-technologies.html" target="_blank" rel="noopener noreferrer">Apple</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/todas-las-mejoras-de-eficiencia-y-rendimiento-de-os-x-mavericks/">Todas las mejoras de eficiencia y rendimiento de OS X Mavericks</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OS X Mavericks, la nueva versión del sistema operativo</title>
+		<link>https://www.MacSfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2013 20:43:14 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Calendario]]></category>
+		<category><![CDATA[Etiquetas]]></category>
+		<category><![CDATA[Finder]]></category>
+		<category><![CDATA[iBooks]]></category>
+		<category><![CDATA[keychain]]></category>
+		<category><![CDATA[Mapas]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Multiples pantallas]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[Notificaciones]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[Pestañas]]></category>
+		<category><![CDATA[Safari]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9616</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/">OS X Mavericks, la nueva versión del sistema operativo</a></p>
+<p>Apple ha presentado hoy la nueva versión de OS X 10.9 llamada Mavericks, un nuevo sistema operativo que incrementa su rendimiento e</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/">OS X Mavericks, la nueva versión del sistema operativo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/">OS X Mavericks, la nueva versión del sistema operativo</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/OS-X-Mavericks.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/OS-X-Mavericks.png" alt="OS X Mavericks" width="710" height="404" class="aligncenter size-full wp-image-9617" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/OS-X-Mavericks.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/OS-X-Mavericks-300x171.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Apple ha presentado hoy la nueva versión de OS X 10.9 llamada <a href="www.macsfera.com/tag/mavericks" title="OS X Mavericks" target="_blank" rel="noopener noreferrer">Mavericks</a>, un nuevo sistema operativo que incrementa su rendimiento e incorpora mejoras de usabilidad.</strong></p>
+<p><span id="more-9616"></span></p>
+<p>En la <strong><a href="www.macsfera.com/nuevo-logo-de-os-x-en-el-moscone-west-center-de-san-francisco-antes-de-la-wwdc/" title="Nuevo logo de OS X en el Moscone West Center de San Francisco antes de la WWDC" target="_blank" rel="noopener noreferrer">keynote de la WWDC</a></strong> una de las novedades ha sido este nuevo sistema operativo llamado <strong>Mavericks</strong> que hace referencia a la gran ola que se produce en el mar cierto día al año. Han sido varias las novedades y las veremos una a una:</p>
+<h2>iBooks</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/iBooks-en-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/iBooks-en-OS-X-Mavericks.jpg" alt="iBooks en OS X Mavericks" width="710" height="330" class="aligncenter size-full wp-image-9618" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/iBooks-en-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/iBooks-en-OS-X-Mavericks-300x139.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Ahora <strong>OS X incorporará una nueva aplicación de <a href="www.macsfera.com/tag/ibooks" title="iBooks" target="_blank" rel="noopener noreferrer">iBooks</a> con la que podremos disfrutar de todos los libros de la iBooks Store en nuestro Mac como cuando lo hacemos desde nuestro iPhone o iPad.</strong> Cuando descarguemos un ejemplar en un dispositivo iOS este aparecerá automáticamente en el <strong>Mac</strong>.</p>
+<p>Todo lo que hagamos con los libros será guardado y sincronizado por <strong>iCloud</strong> de modo que para los estudiantes será más fácil seguir las distintas lecciones y toma de apuntes entre los dispositivos. También recordará la página en la que estamos de modo que no nos perderemos nunca.</p>
+<h2>Mapas</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Mapas-en-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Mapas-en-OS-X-Mavericks.jpg" alt="Mapas en OS X Mavericks" width="710" height="443" class="aligncenter size-full wp-image-9619" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Mapas-en-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Mapas-en-OS-X-Mavericks-300x187.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>OS X Mavericks incorpora una nueva aplicación de Mapas con la que podremos interactuar tal y como hacemos en iOS.</strong> La aplicación usa la potencia de procesamiento de los ordenadores para hacer que tareas como hacer zoom, cargar entornos 3D, etc. sea mucho más rápida y fluida.</p>
+<p>Nos servirá como punto de información puesto que podremos buscar la información de restaurantes, hoteles, tiendas, etc. Cuando hayamos configurado todo en una pantalla grande <strong>podremos enviar la dirección a nuestro iPhone.</strong> También podemos insertar mapas en aplicaciones como <strong>Mail, Contactos y Calendarios.</strong></p>
+<h2>Calendario</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Calendario-en-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Calendario-en-OS-X-Mavericks.jpg" alt="Calendario en OS X Mavericks" width="710" height="414" class="aligncenter size-full wp-image-9621" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Calendario-en-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Calendario-en-OS-X-Mavericks-300x175.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Calendario estrena un nuevo diseño abandonando el skeumorfismo actual y se centra en potenciar las funcionalidades con un scroll continuo de las semanas y los meses</strong>. De ese modo podemos mirar la última mitad del mes y la primera del siguiente rápidamente.</p>
+<p>Hay un nuevo inspector a la hora de crear eventos, con este nuevo inspector <strong>rellenar dirección es más sencillo porque va prediciéndola, añade automáticamente el tiempo que se tardaría en llegar al destino, una previsualización aérea en forma de mapa y el tiempo local,</strong> esto es posible gracias a la aplicación <strong>Mapas</strong>.</p>
+<h2>Safari</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Safari-Enlaces-compartidos-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Safari-Enlaces-compartidos-OS-X-Mavericks.jpg" alt="Safari Enlaces compartidos OS X Mavericks" width="710" height="454" class="aligncenter size-full wp-image-9622" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Safari-Enlaces-compartidos-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Safari-Enlaces-compartidos-OS-X-Mavericks-300x192.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong><a href="www.macsfera.com/tag/safari" title="Safari" target="_blank" rel="noopener noreferrer">Safari</a> también es una de las nuevas novedades de Mavericks ya que cuenta con más y mejores funciones.</strong> Las principales es una barra de Sidebar que te muestra de forma diferente nuestros favoritos, la lista de lectura y los enlaces compartidos socialmente. Es bastante cómodo porque surge del lateral izquierdo de la pantalla y no como un menú temporal de la barra de menús.</p>
+<p><strong>Safari</strong> incluye el nuevo Nitro Tiered JIT que permite cargar las páginas más rápidamente que antes y no gasta batería con las webs o plugins que tengamos en segundo plano.</p>
+<p>La pestaña de <strong>links compartidos socialmente</strong> muestra los enlaces que han compartido todos tus contactos de las distintas redes que tengas iniciadas sesión en el sistema de modo que puedes verlas y compartirlas todas en un mismo sitio.</p>
+<p>Por supuesto, <strong>Safari es  más rápido a la hora de ejecutar JavaScript  y reduce notablemente el uso de la memoria y de la CPU.</strong> Además, si queda minimizado u oculto por alguna otra pestaña, el proceso se pausa y se liberan todos los recursos que consumía hasta que vuelva a a estar visible.</p>
+<h2>iCloud Keychain</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/iCloud-Keychain-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/iCloud-Keychain-OS-X-Mavericks.jpg" alt="iCloud Keychain OS X Mavericks" width="710" height="330" class="aligncenter size-full wp-image-9623" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/iCloud-Keychain-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/iCloud-Keychain-OS-X-Mavericks-300x139.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Otra nueva característica es que <strong><a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a> podrá almacenar nuestras contraseñas para que no tengamos que estar siempre poniéndolas en nuestros distintos dispositivos.</strong> Dichas contraseñas se almacenan usando un protocolo de encriptado muy potente llamado AES 256-bit de modo que <strong>no nos tenemos que preocupar de que estén a salvo.</strong> Por supuesto, si no se nos ocurren contraseñas, podemos dejar que se generen automáticamente asegurándonos de que son muy fuertes.</p>
+<p><strong>iCloud Keychain</strong> guarda no solo las contraseñas, también los nombres de usuario y la información de tarjetas de crédito a la hora de pagar. Nosotros podremos elegir las webs que podrán guardar la información. Por supuesto, esta información se sincronizará entre los distintos dispositivos que tengamos.</p>
+<h2>Multiples pantallas</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Multiples-pantallas-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Multiples-pantallas-OS-X-Mavericks.jpg" alt="Multiples pantallas OS X Mavericks" width="710" height="375" class="aligncenter size-full wp-image-9624" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Multiples-pantallas-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Multiples-pantallas-OS-X-Mavericks-300x158.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Por fin Apple ha implementado un buen sistema de pantallas múltiples en OS X Mavericks.</strong> Hasta ahora poner una aplicación a pantalla completa era una odisea puesto que perdíamos la totalidad de una de las pantallas, ahora eso no pasará puesto que <strong>se comportan como escritorios independientes.</strong></p>
+<p>Tanto es así que <strong>cada una tiene su propia barra de menús,</strong> podremos tener dos pantallas a pantalla completa, una sola o ninguna. Con <strong>Mission Control</strong> podremos pasar de una lado a otro todas las apps que queramos y, si disponemos de un <strong>Apple TV</strong>, podremos convertir la tele en un escritorio sin cables gracias a <strong>AirPlay Display</strong>.</p>
+<h2>Notificaciones</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Notificaciones-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Notificaciones-OS-X-Mavericks.jpg" alt="Notificaciones OS X Mavericks" width="710" height="264" class="aligncenter size-full wp-image-9625" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Notificaciones-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Notificaciones-OS-X-Mavericks-300x112.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>El sistema de notificaciones ha sido mejorado en <strong>Mavericks</strong>, ahora no solo podremos ver lo que pasa, <strong>también podremos interactuar con ellas sin salir de la aplicación en la que estamos.</strong> De ese modo, contestar mensajes, contestar llamadas o eliminar emails será una tarea que podremos hacer sin hacer uso de la aplicación en concreto, simplemente desde la esquina superior derecha.</p>
+<p>Otra novedad es que <strong>podemos configurar que ciertas páginas nos envíen notificaciones como eBay, páginas de noticias, eventos importantes, etc. incluso si Safari no está abierto.</strong> También podremos ver un resumen de todo lo ocurrido si decidimos ausentarnos y bloquear el <strong><a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a></strong>.</p>
+<h2>Pestañas en Finder</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Finder-con-pestañas-en-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Finder-con-pestañas-en-OS-X-Mavericks.jpg" alt="Finder con pestañas en OS X Mavericks" width="710" height="431" class="aligncenter size-full wp-image-9626" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Finder-con-pestañas-en-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Finder-con-pestañas-en-OS-X-Mavericks-300x182.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong><a href="www.macsfera.com/tag/finder" title="Finder" target="_blank" rel="noopener noreferrer">Finder</a> ahora incorpora pestañas para que podamos tener múltiples ventanas en una sola</strong> tal y como hace la ya conocida aplicación <strong><a href="www.macsfera.com/totalfinder-maneja-varias-ventanas-organizadas-en-pestanas/" title="TotalFinder, maneja varias ventanas organizadas en pestañas" target="_blank" rel="noopener noreferrer">TotalFinder</a></strong>. Para pasar un archivo basta con arrastrarlo a la pestaña y soltarlo e incluso podremos poner Finder en pantalla completa. El tratamiento de cada pestaña es individual de modo que tendremos la capacidad de cambiar la vista, reordenar el contenido y cambiar las pestañas unas por otras.</p>
+<h2>Etiquetas</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Etiquetas-en-Finder-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Etiquetas-en-Finder-OS-X-Mavericks.jpg" alt="Etiquetas en Finder OS X Mavericks" width="710" height="433" class="aligncenter size-full wp-image-9627" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Etiquetas-en-Finder-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Etiquetas-en-Finder-OS-X-Mavericks-300x183.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Ha nacido una nueva forma de organizar documentos en Mavericks, las etiquetas.</strong> Este sistema permite añadir palabras clave a documentos para organizarlos mejor y para encontrarlos mejor. Las aplicaciones <strong>tendrán la capacidad de añadir etiquetas a los archivos y estas se guardarán hasta en iCloud</strong> para que todo sea más sencillo.</p>
+<h2>Mejoras en eficiencia y rendimiento</h2>
+<p><strong>Mavericks trae <a href="www.macsfera.com/todas-las-mejoras-de-eficiencia-y-rendimiento-de-os-x-mavericks/" title="Todas las mejoras de eficiencia y rendimiento de OS X Mavericks" target="_blank" rel="noopener noreferrer">muchas mejoras de eficiencia y rendimiento</a> que aumentan la duración de la batería, el uso de la CPU y GPU, el consumo de RAM y en general los recursos restantes del ordenador de modo que obtenemos más gastando menos.</strong></p>
+<h2>Precio y lanzamiento</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/OS-X-Maverick-disponible-en-otoño.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/OS-X-Maverick-disponible-en-otoño.jpg" alt="OS X Maverick disponible en otoño" width="710" height="469" class="aligncenter size-full wp-image-9628" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/OS-X-Maverick-disponible-en-otoño.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/OS-X-Maverick-disponible-en-otoño-300x198.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Por ahora no hay precio oficial de esta nueva versión aunque si disponemos de una fecha aproximada: <strong>Otoño</strong>. Para aquél que sea desarrollador, puede tener la beta hoy mismo con el fin de que empiece a probarlo y a implementar las aplicaciones.</p>
+<p>Sin duda, <strong>interesantes características en un nuevo sistema operativo que espera revolucionar un poco más la usabilidad en escritorio.</strong> Veremos si en un futuro se presentan más novedades.</p>
+<p>Mas info | <a href="http://www.apple.com/osx/preview/" target="_blank" rel="noopener noreferrer">Apple</a></p>
+<p><span class="source">Imagen</span> <span class="via"><a href="http://live.theverge.com/apple-wwdc-2013-live-blog/" target="_blank" rel="noopener noreferrer">The Verge</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/">OS X Mavericks, la nueva versión del sistema operativo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>10 consejos a la hora de formatear tu Mac</title>
+		<link>https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/</link>
+					<comments>https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 05 Feb 2013 19:08:43 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Archivos]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Consejos]]></category>
+		<category><![CDATA[Copia de seguridad]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Formatear]]></category>
+		<category><![CDATA[Lion]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[OS X Lion]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[OS X Snow Leopard]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Preferencias del Sistema]]></category>
+		<category><![CDATA[Recovery]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<category><![CDATA[Trucos]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8372</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a></p>
+<p>Formatear un Mac es un proceso bastante sencillo y común entre los que suelen notar problemas de rendimiento, pero hay veces que</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2013/02/disco-duro.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2013/02/disco-duro.jpeg" alt="Disco duro" width="710" height="473" class="aligncenter size-full" /></a></p>
+<p><strong>Formatear un <a href="www.macsfera.com/" title="Mac" target="_blank">Mac</a></strong> es un proceso bastante sencillo y común entre los que suelen notar problemas de rendimiento, pero hay veces que se nos puede pasar algo por encima, por eso <strong>os damos estos 10 consejos para que no os suponga ninguna pérdida o quebradero de cabeza el borrar y reinstalar.</strong></p>
+<p><span id="more-8372"></span></p>
+<p>Vamos a partir desde el supuesto de que el formateo e instalación será <strong>sin copia de seguridad.</strong> Algunos lo verán una locura, pero cuando hay problemas de rendimiento es lo que se recomienda ya que puede que con la copia de seguridad arrastremos esos errores.</p>
+<p>Empezamos:</p>
+<ol>
+<li><strong>Salvar todos nuestros archivos:</strong> Es algo obvio, pero hay que tenerlo muy en cuenta sobre todo partiendo de la base de que no vamos a tener copia de seguridad. Registrad las carpetas y salvad todo lo que os sirva.</li>
+<li><strong>Recordar las aplicaciones que tengamos instaladas:</strong> Otra cosa obvia, pero no hay que confiar en nuestra memoria, lo mejor es sacar una captura de nuestra carpeta de aplicaciones y, luego cuando nos toque volver a reinstalar todo, decidir si seguimos queriendo ciertas aplicaciones.</li>
+<li><strong>Recordar los complementos instalados:</strong> Este punto es algo que se descuida más pero que puede ser tan importante como el anterior. Los complementos son pequeños paquetes que instalamos que nos aportan funciones al sistema. Sabremos cuales son si nos fijamos en <strong>Preferencias del sistema.</strong></li>
+<li><strong>Revisar todas las aplicaciones:</strong> Gracias a la nueva funcionalidad de <strong><a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank">OS X</a></strong>, no hace falta guardar un archivo ya que al abrir la aplicación este aparecerá de nuevo tal y como la habíamos dejado. Por eso es importante revisar todas las aplicaciones para saber si nos hemos dejado algo sin guardar.</li>
+<li><strong>Tener en cuenta las configuraciones del sistema y de las aplicaciones:</strong> No estaría demás fijarnos en nuestra propia configuración del sistema para dejarlo todo como lo teníamos. También sería conveniente prestar atención al mismo aspecto de nuestras aplicaciones instaladas, puede que alguna de ellas la hayamos configurado y luego no sepamos exactamente como estaba.</li>
+<li><strong>Observar como están configuradas nuestras cuentas de email:</strong> esto tiene menos importancia si son del tipo Gmail, Yahoo y demás, pero <strong><a href="www.macsfera.com/como-configurar-tu-email-personalizado-en-mail/" title="Cómo configurar tu email personalizado en Mail" target="_blank">si son con dominio personalizado</a></strong> lo mejor será echar un vistazo para saber si hay algo especial que ya no recordemos.</li>
+<li><strong>Guardar los favoritos que tengamos en el navegador:</strong> En función del navegador que uséis, deberéis tener en cuenta guardar la sección de favoritos. En <strong>Safari</strong> basta con ir a la pestaña Archivo y seleccionar Exportar favoritos, en <strong>Chrome</strong> se nos sincroniza con nuestra cuenta de email y en <strong>Firefox</strong> deberemos mostrar todos los marcadores (cmd+shift+B) y elegir la opción de exportar que está en la barra de herramientas.</li>
+<li><strong>Tener cuidado con las copias de seguridad:</strong> Como ya hemos comentado, el uso de copias de seguridad a la hora de formatear por un problema no te garantiza que que se vaya a solucionar ya que puede persistir. Siempre depende de lo que guardemos, pero hay que tener cuidado porque puede que perdamos tiempo y para conseguir lo mismo.</li>
+<li><strong>Utilizar Recovery para el formateo e instalación:</strong> Antes de hacer nada lo mejor es plantear como queremos formatear nuestro disco duro, lo mejor va a ser utilizar el sistema <strong><a href="www.macsfera.com/recovery-o-como-reinstalar-os-x-lion-sin-dvd/" title="Recovery, o como reinstalar OS X Lion sin DVD" target="_blank">Recovery</a></strong>, desde él podremos formatear el disco duro y luego reinstalar el sistema sin ningún problema. Para acceder a este modo basta con pulsar la tecla Alt cuando se está encendiendo el ordenador y seleccionarlo.</li>
+<li><strong>Paciencia:</strong> Parece mentira, pero si, hay que tener paciencia, el proceso de reinstalación si no tenemos CDs es lento, se tiene que descargar el sistema, y luego instalarlo, a parte, la partición Recovery es un poco lenta y si encima le sumas el hecho de que hay que formatear… Es proceso sencillo, puesto que nosotros tenemos que hacer poco, pero es lento, por eso, si lo hacéis, hacedlo con tiempo.</li>
+</ol>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Recovery-de-OS-X-Lion.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Recovery-de-OS-X-Lion.jpg" alt="Recovery de OS X Lion" width="550" height="239" class="aligncenter size-full" /></a></p>
+<p><strong>Esperamos que estos consejos y pasos os sirvan para que vuestra experiencia a la hora de formatear y reinstalar el sistema no sea un caos.</strong> Como ya decimos el proceso es sencillo pero hay que tener ciertos conceptos seguros para evitar errores y recurrir al servicio técnico.</p>
+<p>Por supuesto, siempre hay que ir con cabeza y ante la duda, <strong>buscar ayuda.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

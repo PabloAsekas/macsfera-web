@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Swift &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/swift/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:53:22 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Resumen y opinión de la keynote de la WWDC19</title>
+		<link>https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2019 20:54:44 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[iOS13]]></category>
+		<category><![CDATA[iPadOS]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[macOS Catalina]]></category>
+		<category><![CDATA[Pro Display XDR]]></category>
+		<category><![CDATA[Proyecto Catalyst]]></category>
+		<category><![CDATA[Swift]]></category>
+		<category><![CDATA[Switf UI]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC19]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+<p>Hace justo una semana se celebró la keynote de inauguración de la WWDC19, el evento anual de desarrolladores donde Apple presenta las</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10214927/WWDC19.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10214927/WWDC19.jpg" alt="WWDC19" width="1670" height="1096" class="aligncenter size-full wp-image-17107" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10214927/WWDC19.jpg 1670w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10214927/WWDC19.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10214927/WWDC19.jpg 1024w" sizes="(max-width: 1670px) 100vw, 1670px" /></a></p>
+<p>Hace justo una semana <strong>se celebró la keynote de inauguración de la WWDC19,</strong> el evento anual de desarrolladores donde Apple presenta las novedades que afectan a los distintos sistemas operativos y servicios de la compañía.</p>
+<p>La presentación me gustó mucho, fue larga (2 horas y cuarto) y hubo mucha acción. Se presentaron cosas relevantes a mi modo de ver, no como otros años en los que la movilidad de la caja de búsqueda de Spotlight fue una característica destacada.</p>
+<p><span id="more-17105"></span></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/fa5p19APgd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Así que, sin más dilación, vamos a hacer un repaso de las novedades, centrándonos en lo más importante de cada una.</p>
+<h2 class="review">tvOS</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220301/tvOS-13.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220301/tvOS-13.jpg" alt="tvOS 13" width="2416" height="1360" class="aligncenter size-full wp-image-17109" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220301/tvOS-13.jpg 2416w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10220301/tvOS-13.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10220301/tvOS-13.jpg 1024w" sizes="(max-width: 2416px) 100vw, 2416px" /></a></p>
+<p>tvOS es uno de los sistemas menos destacables de la compañía y se nota en este tipo de presentaciones. Esto se debe a su sencillez funcional, el sistema debe gestionar contenido multimedia usando los servicios de Apple, no hay mucho más donde rascar, y aún así hemos obtenido grandes mejoras.</p>
+<p><strong>Ahora tvOS es multiusuario,</strong> permitiendo que varios usuarios usen el Apple TV como si no lo compartiesen. Además, y con la llegada de Apple Arcade en mente, <strong>Apple ha añadido compatibilidad para poder usar los mandos de la PS4 y de la Xbox,</strong> dos de los más populares mandos de la historia del videojuego.</p>
+<p>Apple Music, Apple TV+, Apple Arcade y mucho más gracias a las aplicaciones de terceros, el Apple TV está luchando por ser un centro multimedia muy completo. Lo único en lo que debería mejorar, bajo mi propio beneficio, <strong>es en la compatibilidad de funcionalidades en el resto de países.</strong></p>
+<h2 class="review">watchOS 6</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10215853/watchOS-6.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10215853/watchOS-6.jpg" alt="watchOS 6" width="1517" height="830" class="aligncenter size-full wp-image-17108" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10215853/watchOS-6.jpg 1517w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10215853/watchOS-6.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10215853/watchOS-6.jpg 1024w" sizes="(max-width: 1517px) 100vw, 1517px" /></a></p>
+<p>El Apple Watch se ha convertido en éxito de ventas en su campo, <strong>y Apple lo está dando todo por mantenerlo ahí arriba, sistema operativo incluido.</strong></p>
+<p>Ahora watchOS 6 incluye nuevas esferas, <strong>nuevas aplicaciones nativas,</strong> su propia App Store, y han mejorado el sistema para que los desarrolladores hagan aplicaciones menos dependientes del iPhone, consiguiendo, un poco más, la deseada independencia que el Apple Watch lleva buscando un tiempo <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<p>Otra nueva novedad es que <strong>watchOS 6 incluye una nueva API de streaming de audio,</strong> lo que significa que empresas como Spotify podrán tener una aplicación 100% funcional en el reloj, en teoría. Veremos si esto se materializa finalmente, las cosas están bastante mal entre las dos empresas, y a mí no habría nada me guste más que ver Spotify en la muñeca. <strong>Soy de los que piensa que si quieres vender tu servicio debes hacerlo por la calidad del propio servicio, no porque dificultes a tus usuarios el uso de la competencia.</strong> Y esto se extrapola a todos los aspectos en los que Apple tiene negocio.</p>
+<p>Por último, la salud y el deporte van ligados con el Apple Watch desde el principio, de modo que no sorprende ver <strong>una serie de agradables mejoras en estos aspectos:</strong></p>
+<ul>
+<li><strong>Mejoras en la forma de guardar y presentar toda la información relativa al ejercicio.</strong> Siempre buscando hacer que el usuario tenga una vida más ejercitada.</li>
+<li><strong>Nueva aplicación que controla el nivel de ruido a nuestro alrededor</strong> y busca informarnos para no desgastar en exceso el oído.</li>
+<li><strong>Nueva aplicación para controlar los periodos menstruales</strong> de la mujer que busca llevar un registro y aportar más información acerca de los días fértiles del mes.</li>
+</ul>
+<p>Sigo pensando que Apple debería permitir crear esferas a desarrolladores de terceros, al menos de una forma controlada. <strong>El goteo que van ofreciendo actualmente de sus diseños no está a la altura de las ventajas de tener una pantalla de la calidad actual y las ganas de los usuarios para tener un reloj distinto cada día.</strong></p>
+<h2 class="review">iOS 13</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220605/iOS-13.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220605/iOS-13.jpg" alt="iOS 13" width="2500" height="906" class="aligncenter size-full wp-image-17110" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220605/iOS-13.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10220605/iOS-13.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10220605/iOS-13.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Y con una pequeña broma sobre su nombre, nos plantamos en uno de los puntos más importantes del evento, <strong>la presentación de iOS 13.</strong></p>
+<p>Al igual que macOS  el año pasado, <strong>iOS ya tiene su propio modo oscuro.</strong> Además ha incorporado la función de escribir en el teclado deslizando el dedo por encima. </p>
+<p>Se incluyen algunas <strong>mejoras de rendimiento:</strong></p>
+<ul>
+<li>FaceID ahora es un 30% más rápido</li>
+<li>Las actualizaciones de apps reducen su peso en hasta un 60%</li>
+<li>Las descargas de las apps reducen su peso en hasta un 50%</li>
+<li>Las apps se abren y cargan el doble de rápido</li>
+</ul>
+<p><strong>La aplicación de Mapas ha recibido una actualización de diseño y funcionalidad,</strong> mostrando más información, de forma más precisa y con un modo similar a Street View de Google. Para Apple son muy importantes los mapas <sup class="modern-footnotes-footnote ">2</sup>, <strong>de modo que me cuesta entender porqué sueltan las novedades año a año.</strong> Entiendo que la dificultad de tener un buen servicio requiere tiempo, pero teniendo competidores que aprietan más que nunca, no sé si compensaría más lanzar novedades de usabilidad y precisión a lo largo del año en un flujo de mejoras constantes, como hace Google con su, más que conocido y usado, Google Maps.</p>
+<div class="galerias grande" data-layout="42" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221356/iOS-13-recordatorios.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222311/iOS-13-Mensajes.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221400/iOS-13-app-Fotos.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221400/iOS-13-Mapas-de-Apple.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221359/iOS-13-mapas.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221357/iOS-13-calendario.jpg" title="" alt="" />
+
+</div>
+<p>Ya sabéis que soy un fan empedernido del esfuerzo que Apple hace para garantizar la seguridad de sus usuarios, <strong>y iOS 13 sigue con esa premisa un poco más.</strong> Se añade la posibilidad de compartir la ubicación con apps <strong>sólo una vez,</strong> de modo que la siguiente vez que usemos la app nos pedirá de nuevo permiso para usar la localización. <strong>Se acabó espiar a la gente con procesos en segundo plano.</strong> <strong>Se acabó usar los recursos de las antenas Wi-Fi y Bluetooth para localizar a las personas.</strong></p>
+<p>Y, dando la sorpresa, <strong>Apple ha creado su propio botón para <em>“Iniciar sesión con Apple”</em> en servicios de terceros.</strong> Con este nuevo método podremos usar aplicaciones sabiendo que se respeta nuestra privacidad. Además, en caso de que el servicio necesite tener nuestro email, <strong>Apple ofrece la posibilidad de crear emails aleatorios que van a ser redirigidos a nuestro email particular de Apple,</strong> de modo que el servicio nunca conoce nuestro email y nosotros podemos seguir usándolo sin problemas. La guinda al pastel viene en que este nuevo mecanismo de login es de <strong>uso obligatorio para todas las apps que quieran poner botones de otros servicios,</strong> y a mí no me pueden doler más las manos de aplaudir.</p>
+<p>Siguiendo con la privacidad y la seguridad, <strong>se han presentado nuevos mecanismos de seguridad para dispositivos compatibles con HomeKit,</strong> sobre todo las cámaras, ofreciendo almacenar las imágenes en la nube privada de Apple de forma temporal con cifrado punto a punto y sin consumir espacio del plan que tenemos contratado en iCloud. Además, se van a empezar a fabricar routers compatibles con HomeKit que sirvan como punto de protección extra para los dispositivos que hay en nuestra casa.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221936/redise%C3%B1o-de-mapas-ios-13.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221936/redise%C3%B1o-de-mapas-ios-13.gif" alt="Rediseño de mapas iOS 13" width="452" height="860" class="aligncenter size-full wp-image-17117" /></a></p>
+<p><strong>La aplicación de Fotos ha sido rediseñada para mostrar los recuerdos adecuados, en el momento adecuado.</strong> Gracias a machine learning, es capaz de elegir la mejor foto entre varias similares y ocultar el resto, además, es capaz de personalizar los recuerdos en base a los días del año y los eventos que van ocurriendo. Disfruto mucho de los recuerdos, hace no mucho os conté mi <a target="_blank" title="Guía para almacenar tus fotos digitales y abandonar Fotos.app" href="www.macsfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/" rel="noopener noreferrer">nueva forma de organizar las fotos en carpetas y con Lightroom</a>, y uno de los motivos fue para poder sincronizar luego sólo las mejores, ya editadas, en mis dispositivos. Gracias a esta nueva característica de la app de Fotos, podré despreocuparme un poco más a la hora de importar y exportar mis capturas porque sabré que por detrás, <strong>la inteligencia de iOS 13,</strong> me estará cubriendo las espaldas.</p>
+<p>Por último, destacar que Siri cambia de voz, obtiene mejoras de compatibilidad con los AirPods, integra atajos y ya podemos disfrutar de handoff en el HomePod.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/E5Jg4Wm9b7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2 class="review">iPadOS</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222650/iPadOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222650/iPadOS.jpg" alt="iPadOS" width="1869" height="1428" class="aligncenter size-full wp-image-17121" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222650/iPadOS.jpg 1869w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10222650/iPadOS.jpg 262w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10222650/iPadOS.jpg 1024w" sizes="(max-width: 1869px) 100vw, 1869px" /></a></p>
+<p>Y a esta altura de la presentación, sin haber visto ninguna imagen de iOS 13 en el iPad, <strong>nos presentan iPadOS,</strong> la versión de iOS 13 adaptada exclusivamente al iPad.</p>
+<p>Esta versión, aparte de todo lo antes dicho, <strong>incluye un rediseño que permite aprovechar mejor toda la pantalla del iPad, mejora enormemente la multitarea y la selección de aplicaciones, permite tener varias instancias de una misma aplicación</strong> (dos ventanas de la misma app), <strong>permite la gestión de discos duros externos, mejora la gestión de ficheros e incluye la posibilidad de compartir carpetas en iCloud.</strong></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222942/iPadOS-modo-oscuro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222942/iPadOS-modo-oscuro.jpg" alt="iPadOS modo oscuro" width="2500" height="1761" class="aligncenter size-full wp-image-17122" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222942/iPadOS-modo-oscuro.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10222942/iPadOS-modo-oscuro.jpg 284w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10222942/iPadOS-modo-oscuro.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Además, Safari ahora cargará las páginas como si de un navegador se tratase, se han añadido muchos más comandos de teclado, compatibilidad con ratones, gestor de descargas, tipos de fuentes para descarga en la App Store, nuevos gestos para realizar aún más rápido la selección de texto/copiar/cortar/pegar/deshacer. <strong>El Apple Pencil ha reducido su latencia de 20ms a 9ms.</strong> Y el sistema, en general, se ha adaptador para una compatibilidad absoluta con el stylus de Apple en cualquier momento.</p>
+<p><strong>Desde la introducción de la multitarea no veía un salto así de importante para el iPad.</strong> Me gustó mucho ver las novedades y el empujón que le da al iPad para <a target="_blank" title="Regala un iPad Pro" href="www.macsfera.com/regala-ipad-pro/" rel="noopener noreferrer">independizarse aún más del ordenador</a>.</p>
+<h2 class="review">Mac Pro</h2>
+<div id="attachment_17123" style="width: 2050px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224026/Mac-Pro-WWDC19.jpg"><img aria-describedby="caption-attachment-17123" src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224026/Mac-Pro-WWDC19.jpg" alt="Mac Pro WWDC19" width="2040" height="1360" class="size-full wp-image-17123" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224026/Mac-Pro-WWDC19.jpg 2040w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224026/Mac-Pro-WWDC19.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224026/Mac-Pro-WWDC19.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-17123" class="wp-caption-text">Imagen de <a href="https://www.theverge.com/2019/6/3/18651148/apple-mac-pro-imac-comparison-specs-cpu-graphics-price" target="_blank" rel="noopener noreferrer">The Verge</a></p></div>
+<p>Hace poco más de dos años supimos por una entrevista con unos pocos medios que <strong><a target="_blank" title="El futuro del Mac Pro, el iMac y las pantallas de Apple" href="www.macsfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/" rel="noopener noreferrer">Apple estaba trabajando ya en el nuevo Mac Pro</a>.</strong> Un equipo modular, con una nueva arquitectura, adaptado al mercado, que fuese una opción real para el mercado profesional. <strong>Ese ordenador ya es una realidad.</strong></p>
+<p>Apple nos sorprendió con todas las características, diseños y precios de entrada del nuevo Mac Pro, <strong>el Mac más potente creado hasta la fecha.</strong></p>
+<p>Es ampliable, modular, repleto de tecnología para dar el mejor rendimiento logrado hasta la fecha, y va muy enfocado al mercado del procesamiento gráfico. </p>
+<p>Hasta 28 núcleos en el procesador Xeon, hasta 1.5 TB de memoria RAM, 8 ranuras de expansión PCIe. Hasta 4 Radeon Pro Vega II a la vez. Acelerador gráfico que es capaz de procesar 3 entradas de vídeo RAW 8K a la vez. Lo que se dice una mala bestia.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/wl4Hg23RQHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Para complementar al Mac Pro, <strong>han creado una pantalla de 32 pulgadas llamada Pro Display XDR.</strong> 20 millones de píxeles, resolución 6K, contraste 1.000.000:1, 1000 nits de brillo, gama cromática P3 a 10 bits. Lo que se vuelve a decir, una mala bestia.</p>
+<p>Estoy deseando que llegue al mercado para que gente con capacidades de aprovechamiento sea capaz de probar lo que Apple ha preparado para ellos. No hablo de los típicos test de cálculo, hablo de la gente para la que este equipo está diseñado, gente cuyo trabajo computacional se nos escapa de las manos.</p>
+<p>Y, aunque resulte gracioso y costoso, <strong>por una vez vamos a dejar de lado los precios que aquí se manejan</strong> <sup class="modern-footnotes-footnote ">3</sup><strong>, esto es un equipo destinado para profesionales, y como tal, juegan en otra liga donde los precios son distintos.</strong></p>
+<h2 class="review">macOS Catalina</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224242/macOS-Catalina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224242/macOS-Catalina.jpg" alt="macOS Catalina" width="2500" height="897" class="aligncenter size-full wp-image-17124" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224242/macOS-Catalina.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224242/macOS-Catalina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224242/macOS-Catalina.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Tras conocer el Mac Pro, entramos en la última presentación de la tarde, <strong>macOS Catalina, la nueva versión de macOS.</strong></p>
+<p><strong>Empezamos la presentación con un adiós, a iTunes.</strong> Apple por fin ha retirado la aplicación como la conocíamos, y en el camino ha reconocido que estaba en decadencia debido a la gran carga de funcionalidades que tenía, dificultando al final su uso y generando un impacto negativo en el usuario. <a target="_blank" title="Apple, acaba con este iTunes ya" href="www.macsfera.com/apple-acaba-con-este-itunes-ya/" rel="noopener noreferrer">Cuatro años llevo pidiendo este momento</a>.</p>
+<p>Como sustituto salen 3 nuevas aplicaciones: <strong>Música, Apple TV y Apple Podcast.</strong> De esta forma separamos las distintas funciones en cada aplicación, simplificando su uso y facilitando al usuario la interacción final. ¿Lo mejor de la jugada?, <strong>el contenido y sincronización con dispositivos externos como el iPhone o el iPad ahora se hará a través de Finder,</strong> como tenía que haber sido desde hace mucho tiempo.</p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224326/Sidecar-iPadOS-macOS-Catalina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224326/Sidecar-iPadOS-macOS-Catalina.jpg" alt="Sidecar iPadOS macOS Catalina" width="1822" height="1048" class="aligncenter size-full wp-image-17125" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224326/Sidecar-iPadOS-macOS-Catalina.jpg 1822w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224326/Sidecar-iPadOS-macOS-Catalina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224326/Sidecar-iPadOS-macOS-Catalina.jpg 1024w" sizes="(max-width: 1822px) 100vw, 1822px" /></a></p>
+<p><strong>Sidecar es una funcionalidad que nos pilló a contra pie,</strong> por lo menos a mí, <strong>y es que Apple ahora permite tener nuestro iPad como segundo monitor del Mac.</strong> Sin cables y con plena compatibilidad con el Apple Pencil. Sí amigos, <strong>nuestro iPad ahora se ha convertido en una tableta gráfica de gran precisión y calidad de imagen para trabajar con los programas más profesionales de la industria.</strong> Me parece increíble y un movimiento fascinante.</p>
+<p>En temas de accesibilidad, <strong>Apple ha mejorado enormemente Voice Control y lo ha integrado en el corazón de macOS permitiendo realizar prácticamente cualquier función con nuestra voz.</strong> Hay <a target="_blank" title="Creemos que la tecnología debe ser accesible a todo el mundo" href="www.macsfera.com/accesibilidad-creemos-que-la-tecnologia-debe-ser-accesible-a-todo-el-mundo/" rel="noopener noreferrer">muchas</a> pruebas de <a target="_blank" title="Cómo Apple me ha salvado la vida" href="www.macsfera.com/apple-me-ha-salvado-la-vida/" rel="noopener noreferrer">cómo</a> Apple <a target="_blank" title="Diseñado para todo el mundo" href="www.macsfera.com/disenado-para-todo-el-mundo/" rel="noopener noreferrer">encabeza la adaptación de su software y su hardware</a> para que todo el mundo pueda usarlos, y ver que no se cansan de seguir innovando y mejorando en este campo me produce gran satisfacción.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/aqoXFCCTfm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>La nueva aplicación Find My mezcla Find My iPhone con Find My Friends. Pero además añade una novedad muy interesante, y es que ahora <strong>se pueden localizar Macs que no están conectados a Internet pero están suspendidos.</strong> Para conseguirlo, Apple utilizará el resto de dispositivos que pertenecen a otros usuarios para crear una gran red de dispositivos y utilizar las conexiones de otra gente para notificar la ubicación. La comunicación entre todos ellos será gracias a las antenas Wi-Fi y Bluetooth siempre que el Mac esté suspendido (y no apagado). Se intercambiarán pequeñas ráfagas de información, y el receptor con conexión a Internet las subirá a iCloud. Debido al pequeño tamaño de la información, Apple garantiza preservar la batería y no consumir los planes de datos. Básicamente es un “hoy por ti, mañana por mí”. </p>
+<p>Como estamos en un evento para desarrolladores, <strong>Apple presentó el framework SwiftUI, una biblioteca para desarrollo de aplicación en Swift que permite simplificar y estandarizar la creación de interfaces gráficas.</strong> En los ejemplos vistos se podía apreciar la velocidad, sencillez y simplicidad con la que se pueden implementar interfaces. Además, la compatibilidad se extiende a los 4 sistemas operativos de Apple. Hubo mucha alegría entre el público al conocer esta noticia.</p>
+<p>No me gustaría obviar el <strong>gran avance que han hecho en temas de procesamiento gráfico 3D y detección de objetos.</strong> iOS lleva unos años experimentando con la realidad aumentada y en estas versiones los avances son significativos: mejor detección del entorno, mejor creación y animación de objetos, mejor detección de humanos… Sólo os diré que, si podéis, veáis la demo de Minecraft porque fue increíble.</p>
+<p>Por último, y para acabar, <strong>hablamos del proyecto Catalyst,</strong> el nombre que Apple ha querido usar para el proyecto en el cual <strong>han sido capaces de transformar aplicaciones para iPad en aplicaciones 100% funcionales de Mac, a golpe de clicks.</strong> Gracias a este avance, Apple conseguirá ampliar el número de aplicaciones disponibles en Mac que hasta ahora no habían llegado debido a que los costes de producción y mantenimiento eran elevados.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224545/Tim-Cook-WWDC19.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224545/Tim-Cook-WWDC19.jpg" alt="Tim Cook WWDC19" width="2500" height="1667" class="aligncenter size-full wp-image-17126" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224545/Tim-Cook-WWDC19.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224545/Tim-Cook-WWDC19.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224545/Tim-Cook-WWDC19.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Como podéis ver, fue una keynote larga, con muchas novedades y presentaciones muy deseadas. Me gustó muchísimo y no puedo esperar a que lleguen las betas públicas para empezar a trastear con todas estas novedades.</p>
+<p>Además, recordaros que siempre quedan novedades en el tintero de cara a la presentación de los nuevos dispositivos que harán uso de estos sistemas operativos, así que esto, siguiendo años pasados, no ha acabado.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/psL_5RIBqnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Lleva buscando, y lleva consiguiendo, no nos olvidemos de que el último modelo ya cuenta con capacidad interna para guardar música, GPS y hasta opción de conectividad móvil.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Fijaos si lo son que las betas públicas existen para que puedan probar muchas mejoras y novedades.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Sí, incluidos los 1000 dólares que pretende cobrar por el pie de la pantalla &#x1f602;.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Entrevista a Chris Lattner tras dejar Apple</title>
+		<link>https://www.MacSfera.com/entrevista-chris-lattner-tras-dejar-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2017 14:24:38 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Accidental Tech Podcast]]></category>
+		<category><![CDATA[Chris Lattner]]></category>
+		<category><![CDATA[Entrevistas]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Swift]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16228</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/entrevista-chris-lattner-tras-dejar-apple/">Entrevista a Chris Lattner tras dejar Apple</a></p>
+<p>La pasada semana, el creador del lenguaje Swift Chris Lattner dejó Apple para unirse a Tesla para trabajar en su sistema Autopilot.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/entrevista-chris-lattner-tras-dejar-apple/">Entrevista a Chris Lattner tras dejar Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/entrevista-chris-lattner-tras-dejar-apple/">Entrevista a Chris Lattner tras dejar Apple</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/20152040/Chris-Lattner-entrevista-Accidental-Tech-Podcast.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/20152040/Chris-Lattner-entrevista-Accidental-Tech-Podcast.jpeg" alt="Chris Lattner entrevista Accidental Tech Podcast" width="2048" height="1130" class="aligncenter size-full wp-image-16230" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/20152040/Chris-Lattner-entrevista-Accidental-Tech-Podcast.jpeg 2048w, https://cdn.macsfera.com/wp-content/uploads/2017/01/20152040/Chris-Lattner-entrevista-Accidental-Tech-Podcast.jpeg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/20152040/Chris-Lattner-entrevista-Accidental-Tech-Podcast.jpeg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>La pasada semana, el creador del lenguaje Swift <a target="_blank" title="Chris Lattner, creador de Swift, deja Apple para unirse a Tesla" href="www.macsfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/" rel="noopener noreferrer">Chris Lattner dejó Apple para unirse a Tesla</a> para trabajar en su sistema Autopilot.</p>
+<p>Esta semana, el podcast <em>Accidental Tech Podcast</em> <strong><a target="_blank" href="http://atp.fm/episodes/205" rel="noopener noreferrer">ha podido hablar</a> durante 2 horas con Lattner y han hecho un resumen de la creación de Swift, qué es trabajar en Apple, porqué se va a Tesla y un poco de la historia de Lattner como programador.</strong></p>
+<p>Si os interesa el mundo de la programación, <a target="_blank" title="Swift" href="www.macsfera.com/tag/swift" rel="noopener noreferrer">Swift</a> y la historia detrás de uno de los mejores programadores en Apple, el podcast os gustará.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/entrevista-chris-lattner-tras-dejar-apple/">Entrevista a Chris Lattner tras dejar Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Chris Lattner, creador de Swift, deja Apple para unirse a Tesla</title>
+		<link>https://www.MacSfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 11 Jan 2017 09:21:45 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Chris Lattner]]></category>
+		<category><![CDATA[Estructura de compilación LLVM]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Swift]]></category>
+		<category><![CDATA[Swift.org]]></category>
+		<category><![CDATA[Ted Kremenek]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16201</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/">Chris Lattner, creador de Swift, deja Apple para unirse a Tesla</a></p>
+<p>Chris Lattner ha sido el máximo responsable de Swift desde que Apple decidió lanzar su propio lenguaje de programación, pero ayer anunció</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/">Chris Lattner, creador de Swift, deja Apple para unirse a Tesla</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/">Chris Lattner, creador de Swift, deja Apple para unirse a Tesla</a></p>
+<div id="attachment_16203" style="width: 2058px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/11101525/Chris-Lattern-creador-de-Swift.jpeg"><img aria-describedby="caption-attachment-16203" src="https://cdn.macsfera.com/wp-content/uploads/2017/01/11101525/Chris-Lattern-creador-de-Swift.jpeg" alt="Chris Lattern creador de Swift" width="2048" height="1248" class="size-full wp-image-16203" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/11101525/Chris-Lattern-creador-de-Swift.jpeg 2048w, https://cdn.macsfera.com/wp-content/uploads/2017/01/11101525/Chris-Lattern-creador-de-Swift.jpeg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/11101525/Chris-Lattern-creador-de-Swift.jpeg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-16203" class="wp-caption-text">Imagen de <a href="https://appadvice.com/post/tesla-hires-swift-creator-chris-lattner-vp" target="_blank" rel="noopener noreferrer">AppAdvice</a></p></div>
+<p>Chris Lattner ha sido el máximo responsable de Swift desde que Apple decidió lanzar su propio lenguaje de programación, <strong>pero ayer anunció que va a dejar su puesto en Apple.</strong></p>
+<p>Lattner, tras más de 10 años trabajando para Apple, <strong>se unirá a Tesla para trabajar en el sistema Autopilot de la empresa</strong> que permitirá a sus coches eléctricos conducir de forma automática sin que nadie tenga que estar pendiente de nada.</p>
+<p><span id="more-16201"></span></p>
+<p>La propia Tesla <a target="_blank" href="https://www.tesla.com/blog/welcome-chris-lattner" rel="noopener noreferrer">ha anunciado</a> este hecho y recalca la labor que ha desempeñado en Apple.</p>
+<p>A parte de Swift, Lattner es bien conocido por ser el autor de la estructura de compilación LLVM utilizada en productos de la propia empresa y en proyectos de investigación.</p>
+<p>Para despedirse de su comunidad, <strong><a href="https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170109/030063.html" target="_blank" rel="noopener noreferrer">ha enviado</a> un mensaje a todos ellos:</strong></p>
+<blockquote>
+<p>Desde que Apple lanzara Swift en la WWDC de 2014, el equipo de Swift ha trabajado cercanamente con nuestra comunidad de desarrolladores. Cuando <a target="_blank" title="Bienvenidos a Swift.org" href="www.macsfera.com/bienvenidos-a-swift-org/" rel="noopener noreferrer">hicimos Swift open source y lanzamos Swift.org</a> pusimos mucho esfuerzo en definir una buena comunidad estructurada. Esta estructura ha permitido a Apple y a la increíble comunidad de Swift trabajar conjuntamente para evolucionar Swift a un lenguaje potente y maduro que alimenta el software de miles de millones de personas.</p>
+<p>Estoy contento de anunciar que Ted Kremenek me sustituirá como «Líder de proyecto» en el proyecto de Swift, asumiendo la responsabilidad administrativa y de liderato para Swift.org. Esto reconoce el increíble esfuerzo que ha estado haciendo dentro del proyecto, y refleja la decisión que he tomado de dejar Apple a finales de mes para buscar una nueva oportunidad en otro lugar. Esta decisión no se ha tomado a la ligera, y quiero haceros saber que estoy completamente comprometido con Swift. Mi intención es la de permanecer como un miembro activo dentro del núcleo del equipo de Swift, a la par que un contribuidor a la lista de email swift-evolution.</p>
+<p>Trabajar con tantos equipos excepcionales en Apple para lanzar Swift ha sido una experiencia única. Apple es un lugar increíble para juntar habilidad, imaginación y disciplina para lanzar algo como esto. Swift está en forma a día de hoy, y Swift 4 va a ser un gran lanzamiento con Ted como Líder de proyecto.</p>
+<p>Sabed que esto no es un cambio en la estructura – sólo quién asume qué papel – así que no esperamos que afecte en el día a día de las operaciones en el núcleo del equipo de Swift en un sentido significativo. Ted y yo queremos haceros saber qué está pasando como parte de nuestro compromiso para mantener la estructura de Swift.org transparente para la comunidad.</p>
+<p>-Chris</p>
+</blockquote>
+<p>De esta forma, <strong>Lattner se retira del equipo de Apple pero seguirá participando en el desarrollo del lenguaje</strong> para que evolucione más, llegue a más personas y sea más competente.</p>
+<p><span class="source">Vía</span> <span class="via"><a href="https://9to5mac.com/2017/01/10/swift-chris-lattner-leaving-apple/" target="_blank" rel="noopener noreferrer">9To5Mac</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/">Chris Lattner, creador de Swift, deja Apple para unirse a Tesla</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Craig Federighi y Phil Schiller hablan de la WWDC16 en The Talk Show</title>
+		<link>https://www.MacSfera.com/craig-federighi-phil-schiller-hablan-la-wwdc16-the-talk-show/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 19 Jun 2016 14:56:24 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Apple File System]]></category>
+		<category><![CDATA[Craig Federighi]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 10]]></category>
+		<category><![CDATA[John Gruber]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[macOS Sierra]]></category>
+		<category><![CDATA[Mensajes]]></category>
+		<category><![CDATA[Phil Schiller]]></category>
+		<category><![CDATA[Sierra]]></category>
+		<category><![CDATA[Swift]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[watchOS 3]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC16]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14995</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/craig-federighi-phil-schiller-hablan-la-wwdc16-the-talk-show/">Craig Federighi y Phil Schiller hablan de la WWDC16 en The Talk Show</a></p>
+<p>John Gruber tiene un podcast llamado The Talk Show, y suele ser costumbre en él hacer un evento en directo el día</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/craig-federighi-phil-schiller-hablan-la-wwdc16-the-talk-show/">Craig Federighi y Phil Schiller hablan de la WWDC16 en The Talk Show</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/craig-federighi-phil-schiller-hablan-la-wwdc16-the-talk-show/">Craig Federighi y Phil Schiller hablan de la WWDC16 en The Talk Show</a></p>
+<p class="medio"><iframe src="https://player.vimeo.com/video/171186055?byline=0&#038;portrait=0" width="860" height="484" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>John Gruber tiene un podcast llamado The Talk Show, y suele ser costumbre en él hacer un evento en directo el día después de la <a target="_blank" title="WWDC" href="www.macsfera.com/tag/wwdc" rel="noopener noreferrer">WWDC</a>. Este año ha traído dos invitados a hablar de las novedades, <strong>Craig Federighi y Phil Schiller estuvieron <a href="https://vimeo.com/171186055" target="_blank" rel="noopener noreferrer">en el evento</a> y ahora podemos disfrutar de la entrevista.</strong></p>
+<p>En el evento, por supuesto, <strong>se habla de <a target="_blank" title="Resumen y opinión de la keynote de la WWDC16" href="www.macsfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/" rel="noopener noreferrer">todas las novedades de la WWDC16</a> y se abordan puntos más profundos en la toma de decisiones de Apple,</strong> sabiendo cómo funcionan algunas de las novedades y porqué son así.</p>
+<p><span id="more-14995"></span></p>
+<p>El episodio dura 1 hora y 20 minutos en la que los temas a tratar son:</p>
+<ul>
+<li><a target="_blank" title="Nuevo iOS 10 - Eliminar apps por defecto" href="www.macsfera.com/nuevo-ios-10/?#eliminar-apps-por-defecto" rel="noopener noreferrer">Eliminación de las apps nativas</a> de <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/" rel="noopener noreferrer">iOS 10</a></li>
+<li><a target="_blank" title="Así será la App Store 2.0" href="www.macsfera.com/asi-sera-la-app-store-2-0/" rel="noopener noreferrer">La App Store 2.0</a></li>
+<li><a target="_blank" title="Apple mantiene su compromiso de privacidad" href="www.macsfera.com/apple-mantiene-compromiso-privacidad/" rel="noopener noreferrer">Privacidad y seguridad</a>, más concretamente de la propiedad de desbloqueo del Mac con el <a target="_blank" title="Apple Watch" href="www.macsfera.com/tag/apple-watch" rel="noopener noreferrer">Apple Watch</a>, de las <a target="_blank" title="Nuevo iOS 10 - Teclados inteligentes" href="www.macsfera.com/nuevo-ios-10/?#teclados-inteligentes" rel="noopener noreferrer">nuevas propiedades inteligentes de iOS 10</a> y de Siri</li>
+<li><a target="_blank" title="Nuevo iOS 10 - los mensajes cambiados al completo" href="www.macsfera.com/nuevo-ios-10/?#los-mensajes-cambiados-al-completo" rel="noopener noreferrer">iMessages y sus extensiones</a>, tratando también alguna toma de decisión de <a target="_blank" title="Nuevo iOS 10 - mejoras en la experiencia de usuario" href="www.macsfera.com/nuevo-ios-10/?#mejoras-en-la-experiencia-de-usuario" rel="noopener noreferrer">la experiencia de usuario de iOS</a></li>
+<li><a target="_blank" title="Nuevo watchOS 3" href="www.macsfera.com/nuevo-watchos-3/" rel="noopener noreferrer">watchOS 3</a> y sus aplicaciones rápidas</li>
+<li><a target="_blank" title="Swift" href="www.macsfera.com/tag/swift" rel="noopener noreferrer">Swift</a> y su futuro</li>
+<li>El nuevo portapapeles unificado de <a target="_blank" title="Nuevo macOS Sierra" href="www.macsfera.com/nuevo-macos-sierra/" rel="noopener noreferrer">macOS Sierra</a> y iOS 10</li>
+<li>Y por último, el <a target="_blank" title="Adiós HFS+, hola Apple File System" href="www.macsfera.com/adios-hfs-hola-apple-file-system/" rel="noopener noreferrer">Apple File System</a>, el nuevo formato que adoptará Apple en todos sus productos</li>
+</ul>
+<p>Insisto, el episodio no repite lo mismo que la presentación de la WWDC, sino que profundiza más con detalles y toma de decisiones.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://daringfireball.net/thetalkshow/2016/06/17/ep-158" target="_blank" rel="noopener noreferrer">Daring Fireball</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/craig-federighi-phil-schiller-hablan-la-wwdc16-the-talk-show/">Craig Federighi y Phil Schiller hablan de la WWDC16 en The Talk Show</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bienvenidos a Swift.org</title>
+		<link>https://www.MacSfera.com/bienvenidos-a-swift-org/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2015 22:37:47 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Swift]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12612</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-a-swift-org/">Bienvenidos a Swift.org</a></p>
+<p>Swift, el nuevo lenguaje de programación de Apple, ya es open source. Estamos entusiasmados por este nuevo capítulo en la historia de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-a-swift-org/">Bienvenidos a Swift.org</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-a-swift-org/">Bienvenidos a Swift.org</a></p>
+<div id="attachment_12614" style="width: 1742px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/12/03233346/Swift-de-Apple-es-Open-Source.jpg" rel="attachment wp-att-12614"><img aria-describedby="caption-attachment-12614" src="https://cdn.macsfera.com/wp-content/uploads/2015/12/03233346/Swift-de-Apple-es-Open-Source.jpg" alt="Swift de Apple es Open Source" width="1732" height="1012" class="size-full wp-image-12614" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/12/03233346/Swift-de-Apple-es-Open-Source.jpg 1732w, https://cdn.macsfera.com/wp-content/uploads/2015/12/03233346/Swift-de-Apple-es-Open-Source.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/12/03233346/Swift-de-Apple-es-Open-Source.jpg 1024w" sizes="(max-width: 1732px) 100vw, 1732px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-12614" class="wp-caption-text">Imagen de <a href="http://thenextweb.com/apple/2014/06/03/developers-apples-swift-huge-potential/" target="_blank" rel="noopener noreferrer">The Next Web</a></p></div>
+<p><a href="https://swift.org/" target="_blank" rel="noopener noreferrer">Swift</a>, el nuevo lenguaje de programación de Apple, ya es open source.</p>
+<blockquote class="enlace">
+<p>Estamos entusiasmados por este nuevo capítulo en la historia de Swift. Después de que Apple presentase el lenguaje de programación Swift, rápidamente se convirtió en uno de los lenguajes que más rápido ha crecido en la historia. Swift hace sencillo el escribir software con un diseño increíblemente rápido y seguro. Ahora que Swift es open source, puedes ayudar a hacer que el mejor lenguaje de programación esté disponible en cualquier lugar.</p>
+</blockquote>
+<p>En la <a title="WWDC" href="www.macsfera.com/tag/wwdc" target="_blank" rel="noopener noreferrer">WWDC</a> de hace dos años se anunció Swift. A la vez se dijo que iba a ser Open Source, algo muy celebrado por toda la comunidad. Y hoy ha sido el momento en el que realmente se ha llevado a cabo.</p>
+<p>Apple ha publicado la web de Swift y <a href="https://swift.org/blog/welcome/" target="_blank" rel="noopener noreferrer">un artículo en el blog</a> de dicha web en el que anunciaba todos los cambios y progresos del proyecto.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bienvenidos-a-swift-org/">Bienvenidos a Swift.org</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuevo OS X El Capitan</title>
+		<link>https://www.MacSfera.com/nuevo-os-x-el-capitan/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2015 20:50:53 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Aplicaciones a pantalla completa]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Fotos]]></category>
+		<category><![CDATA[Lenguaje natural]]></category>
+		<category><![CDATA[Mail]]></category>
+		<category><![CDATA[Mapas]]></category>
+		<category><![CDATA[Metal]]></category>
+		<category><![CDATA[Mission Control]]></category>
+		<category><![CDATA[Notas]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[Rendimiento]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Split View]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<category><![CDATA[Swift]]></category>
+		<category><![CDATA[The epicenter of change]]></category>
+		<category><![CDATA[WWDC15]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10805</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-os-x-el-capitan/">Nuevo OS X El Capitan</a></p>
+<p>Hace escasos momentos que se ha acabado WWDC15 y Apple ha presentado su nuevo sistema operativo para Mac: OS X El Capitan.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-os-x-el-capitan/">Nuevo OS X El Capitan</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-os-x-el-capitan/">Nuevo OS X El Capitan</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/08213911/OS-X-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/08213911/OS-X-El-Capitan.jpg" alt="OS X El Capitan" width="2500" height="1188" class="aligncenter size-full wp-image-10806" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/08213911/OS-X-El-Capitan.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08213911/OS-X-El-Capitan.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08213911/OS-X-El-Capitan.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Hace escasos momentos que se ha acabado <a href="www.macsfera.com/habra-streaming-oficial-de-la-keynote-de-la-wwdc/" title="Habrá streaming oficial de la keynote de la WWDC" target=_blank">la keynote</a> de la <a href="www.macsfera.com/la-wwdc-de-2015-se-celebrara-del-8-al-12-de-junio/" title="www.macsfera.com/la-wwdc-de-2015-se-celebrara-del-8-al-12-de-junio/" target=_blank">WWDC15</a> y <strong>Apple ha presentado su nuevo sistema operativo para Mac: OS X El Capitan.</strong></p>
+<p>Con este curioso nombre, que no hemos traducido, Apple quiere inundar nuestros ordenadores con las novedades y las mejoras. Este sistema se centra principalmente en dos aspectos: <strong>mejorar la experiencia de uso y el rendimiento, carencias de Yosemite que Apple ha querido mejorar.</strong></p>
+<p><span id="more-10805"></span></p>
+<h2><a class="relativo" name="experiencia-de-uso">Experiencia de uso</a></h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214016/Pantalla-dividida-OS-X-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214016/Pantalla-dividida-OS-X-El-Capitan.jpg" alt="Pantalla dividida OS X El Capitan" width="1079" height="617" class="aligncenter size-full wp-image-10807" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214016/Pantalla-dividida-OS-X-El-Capitan.jpg 1079w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214016/Pantalla-dividida-OS-X-El-Capitan.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214016/Pantalla-dividida-OS-X-El-Capitan.jpg 1024w" sizes="(max-width: 1079px) 100vw, 1079px" /></a></p>
+<p>Es algo que la gente ha ido adaptando como bien podía a través de distintas aplicaciones de terceros, <strong>Apple ha visto que esto era lo que la gente quiere y por ello se ha dispuesto a implementarlo nativamente.</strong></p>
+<p>La primera novedad es <strong>Split View,</strong> <a href="www.macsfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/" title="OS X Mavericks, la nueva versión del sistema operativo" target=_blank">desde Mavericks</a> podemos poner aplicaciones a pantalla completa, ahora podremos poner dos aplicaciones a la vez a pantalla completa. De esta forma navegaremos por Safari mientras escribimos en Pages o enviamos mensajes. Una de las bondades es que esas aplicaciones actúan como una sola en pantalla completa, de modo que el resto siguen estando igual.</p>
+<p><strong>Mission Control</strong> también sufre cambios siendo ahora mucho más simple y sencillo de usar. Se eliminan las agrupaciones y ocultaciones, todo está disponible a golpe de click.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214041/Spotlight-en-OS-X-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214041/Spotlight-en-OS-X-El-Capitan.jpg" alt="Spotlight en OS X El Capitan" width="1079" height="617" class="aligncenter size-full wp-image-10808" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214041/Spotlight-en-OS-X-El-Capitan.jpg 1079w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214041/Spotlight-en-OS-X-El-Capitan.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214041/Spotlight-en-OS-X-El-Capitan.jpg 1024w" sizes="(max-width: 1079px) 100vw, 1079px" /></a></p>
+<p><strong>Spotlight ahora</strong> es mucho más versátil. Gracias al lenguaje natural, podremos obtener mucha más información y profundizar en los resultados para buscar exactamente lo que queremos. Además, amplía sus fuentes de información aportando más datos sobre búsquedas cotidianas que antes realizábamos en otros lugares como el tiempo, la bolsa o buscar vídeos en Internet.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214131/Mail-en-OS-X-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214131/Mail-en-OS-X-El-Capitan.jpg" alt="Mail en OS X El Capitan" width="798" height="498" class="aligncenter size-full wp-image-10809" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214131/Mail-en-OS-X-El-Capitan.jpg 798w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214131/Mail-en-OS-X-El-Capitan.jpg 300w" sizes="(max-width: 798px) 100vw, 798px" /></a></p>
+<p><strong>Mail</strong> también sufre un gran cambio en su versión a pantalla completa: Podemos componer varios emails a la vez, ocultar el que estamos escribiendo y navegar por la aplicación con total normalidad e incluso han añadido los gestos de iOS a la versión de escritorio para marcar como leído o borrar un mensaje. A su vez, se vuelve más inteligente y te sugiere añadir eventos al calendario en base al contenido del email, a la par que posibles contactos.</p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214203/Notas-en-OS-X-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214203/Notas-en-OS-X-El-Capitan.jpg" alt="Notas en OS X El Capitan" width="1172" height="481" class="aligncenter size-full wp-image-10810" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214203/Notas-en-OS-X-El-Capitan.jpg 1172w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214203/Notas-en-OS-X-El-Capitan.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214203/Notas-en-OS-X-El-Capitan.jpg 1024w" sizes="(max-width: 1172px) 100vw, 1172px" /></a></p>
+<p>La aplicación <strong>Notas</strong> se vitamina y nos permite crear listas de tareas, añadir fotos, vídeo, URLs, localización a mapas y texto enriquecido. Todos los adjuntos pasan a estar en una nueva localización, de modo que podremos verlos a golpe de click.</p>
+<p>La aplicación <strong>Fotos</strong> permite editar nuestras imágenes con extensiones de terceros, de modo que podemos personalizar esas capturas como queramos gracias a todos estas posibilidades que se abren ante nosotros de la mano de desarrolladores independientes.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214227/Safari-en-OS-X-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214227/Safari-en-OS-X-El-Capitan.jpg" alt="Safari en OS X El Capitan" width="860" height="504" class="aligncenter size-full wp-image-10811" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214227/Safari-en-OS-X-El-Capitan.jpg 860w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214227/Safari-en-OS-X-El-Capitan.jpg 300w" sizes="(max-width: 860px) 100vw, 860px" /></a></p>
+<p><strong>Safari</strong> también incluye nuevas funcionalidades: podemos reducir el tamaño de las pestañas hasta el mínimo de su favicon, de esta forma navegar por ciertas pestañas será muy sencillo. Esta función está pensada para las páginas que realmente visitamos todos los días como redes sociales. Podremos compartir por AirPlay los vídeos que pongamos en el navegador sin necesidad de compartir toda la pantalla gracias al Apple TV. Otra de las novedades es la <strong>detección del ruido en pestañas</strong> <sup class="modern-footnotes-footnote ">1</sup><strong>:</strong> el sistema detecta que pestañas hacen ruido permitiéndote silenciarlas y encontrarlas fácilmente.</p>
+<p><strong>Mapas</strong> también sufre un cambio añadiendo las estructuras de transporte público de ciertas ciudades. Esa vista arroja muchos detalles, no sólo de navegación: detalles de sobre las estaciones, tiempo en ir andando a la parada, en llegar el próximo vehículo, etc.</p>
+<p>Además, como <strong>pequeño protip,</strong> si en algún momento hemos perdido de vista el cursor, si lo agitamos se hará muy grande para que sepamos donde está. Una pequeña funcionalidad graciosa pero que no va más allá.</p>
+<h2>Rendimiento</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214248/Mejora-rendimiento-OS-X-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214248/Mejora-rendimiento-OS-X-El-Capitan.jpg" alt="Mejora rendimiento OS X El Capitan" width="1651" height="485" class="aligncenter size-full wp-image-10812" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214248/Mejora-rendimiento-OS-X-El-Capitan.jpg 1651w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214248/Mejora-rendimiento-OS-X-El-Capitan.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214248/Mejora-rendimiento-OS-X-El-Capitan.jpg 1024w" sizes="(max-width: 1651px) 100vw, 1651px" /></a></p>
+<p>Era una de las cosas que más se decían antes del evento, que <strong>la nueva versión de OS X tendría un gran cambio en su rendimiento.</strong> Si bien Yosemite no va mal, es verdad que hay cosas que no se pueden permitir en un sistema operativo completo, por ello <strong>OS X El Capitan tendrá una gran implementación de rendimiento.</strong></p>
+<p><strong>Metal es una de las nuevas incorporaciones para OS X.</strong> Presentado el año pasado para iOS, Metal es una tecnología que permite aumentar la velocidad de procesamiento de los gráficos. Al incorporarlo el Mac, podremos aumentar la velocidad entre un 40 y un 50 porciento. Además, si bien en iOS sólo estaba disponible para juegos, <strong>en Mac podrán implementarlo cualquier aplicación.</strong> Esto se traduce en aumentar notablemente las velocidades generales de tareas que realizamos todos los días como lanzar aplicaciones, cambiar entre unas y otras y más.</p>
+<p><strong>Swift ahora forma parte también de OS X</strong> dejando la posibilidad a los desarrolladores de implementar sus aplicaciones con la nueva versión del lenguaje de programación creado por Apple. Esto implica que dichas aplicaciones serán más rápidas, seguras y de mejor calidad.</p>
+<h2>Oh capitán mi capitán</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214310/Mission-Control-en-OS-X-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214310/Mission-Control-en-OS-X-El-Capitan.jpg" alt="Mission Control en OS X El Capitan" width="1079" height="617" class="aligncenter size-full wp-image-10813" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/08214310/Mission-Control-en-OS-X-El-Capitan.jpg 1079w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214310/Mission-Control-en-OS-X-El-Capitan.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/08214310/Mission-Control-en-OS-X-El-Capitan.jpg 1024w" sizes="(max-width: 1079px) 100vw, 1079px" /></a></p>
+<p>Tengo muchas ganas de ver todas esas mejoras, hay algunas que pintan muy bien como la pantalla dividida para aplicaciones o la implementación de Mail y Safari. Por no hablar del incremento de velocidad general.</p>
+<p><strong>OS X El Capitan estará disponible en otoño de forma gratuita</strong> y presupongo que todos los modelos compatibles son los mismos que con Yosemite, que da la casualidad que <a href="www.macsfera.com/modelos-de-mac-compatibles-con-os-x-mavericks/" title="Modelos de Mac compatibles con OS X Mavericks" target="_blank" rel="noopener noreferrer">son los mismos de Mavericks</a>. La primera beta está disponible desde hoy mismo y la beta pública estará disponible en julio.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/osx/elcapitan-preview/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Ya lo implementó Chrome, y ahora Apple lo ha adaptado para su navegador.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-os-x-el-capitan/">Nuevo OS X El Capitan</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

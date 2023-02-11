@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bluetooth &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/bluetooth/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:36 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Cómo configurar los AirPods una vez conectados</title>
+		<link>https://www.MacSfera.com/como-configurar-los-airpods-una-vez-conectados/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 02 Feb 2017 15:47:21 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[AirPods]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Cascos]]></category>
+		<category><![CDATA[Procesador W1]]></category>
+		<category><![CDATA[Siri]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16308</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-configurar-los-airpods-una-vez-conectados/">Cómo configurar los AirPods una vez conectados</a></p>
+<p>Los AirPods, a parte de ser muy pequeños y un poco curiosos, tienen un procesador que permite controlar varios sistemas internos y</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-configurar-los-airpods-una-vez-conectados/">Cómo configurar los AirPods una vez conectados</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-configurar-los-airpods-una-vez-conectados/">Cómo configurar los AirPods una vez conectados</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190041/Vinculando-AirPods-con-iPhone.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190041/Vinculando-AirPods-con-iPhone.jpg" alt="Vinculando AirPods con iPhone" width="2500" height="1667" class="aligncenter size-full wp-image-16246" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190041/Vinculando-AirPods-con-iPhone.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190041/Vinculando-AirPods-con-iPhone.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190041/Vinculando-AirPods-con-iPhone.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Los <a target="_blank" title="AirPods" href="www.macsfera.com/tag/airpods">AirPods</a>, a parte de ser muy pequeños y un poco curiosos, tienen un procesador que permite controlar varios sistemas internos y su comunicación con el iPhone. Apple, a su vez, <strong>ha otorgado a los auriculares de cierta personalización.</strong></p>
+<p><strong>Así que vamos a ver cómo configurar los distintos aspectos de los AirPods desde el iPhone para que hagan lo que nosotros queramos dentro de los parámetros disponibles.</strong></p>
+<p><span id="more-16308"></span></p>
+<p>De momento las opciones son un poco limitadas, pero no está de más conocerlas porque de esta forma, y gracias a nuestro toque personal, podremos relacionarnos mejor con los cascos.</p>
+<p>En esta guía, podréis aprender a:</p>
+<ul>
+<li><a title="Cambiar entre Siri y Reproducir/Pausa" href="#cambiar-entre-siri-y-reproducir-pausa">Cambiar entre Siri y Reproducir/Pausa</a></li>
+<li><a title="Cambiar el nombre de los AirPods" href="#cambiar-el-nombre-de-los-airpods">Cambiar el nombre de los AirPods</a></li>
+<li><a title="Activar o desactivar la detección automática de oreja de los AirPods" href="#activar-o-desactivar-la-deteccion-automatica-de-oreja-de-los-airpods">Activar o desactivar la detección automática de oreja de los AirPods</a></li>
+<li><a title="Cambiar detección de micrófono de los AirPods" href="#cambiar-deteccion-de-microfono-de-los-airpods">Cambiar detección de micrófono de los AirPods</a></li>
+<li><a title="Desvincular los AirPods de mi iPhone y iCloud" href="#desvincular-los-airpods-de-mi-iphone-y-icloud">Desvincular los AirPods de mi iPhone y iCloud</a></li>
+<li><a title="Conectar unos AirPods que no son nuevos" href="#conectar-unos-airpods-que-no-son-nuevos">Conectar unos AirPods que no son nuevos</a></li>
+</ul>
+<p>Pinchad en cualquiera de los enlaces superiores y podréis ir directamente al apartado deseado.</p>
+<h2><a name="cambiar-entre-siri-y-reproducir-pausa">Cambiar entre Siri y Reproducir/Pausa</a></h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/02/02162625/Configurar-Siri-o-Reproducir-Pausa-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/02/02162625/Configurar-Siri-o-Reproducir-Pausa-AirPods.jpg" alt="Configurar Siri o Reproducir Pausa AirPods" width="2441" height="1913" class="aligncenter size-full wp-image-16313" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/02/02162625/Configurar-Siri-o-Reproducir-Pausa-AirPods.jpg 2441w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02162625/Configurar-Siri-o-Reproducir-Pausa-AirPods.jpg 255w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02162625/Configurar-Siri-o-Reproducir-Pausa-AirPods.jpg 1024w" sizes="(max-width: 2441px) 100vw, 2441px" /></a></p>
+<p>Los AirPods tienen una propiedad que al realizar dos toques sobre ellos podemos realizar una acción. En concreto, <strong>podemos invocar a Siri o reproducir/pausar una canción.</strong></p>
+<p>Por defecto, la opción que viene es la de Siri, de modo que puede darse el caso de que queramos cambiarlo (como me pasó a mí).</p>
+<p>Así que vamos a ver <strong>cómo cambiar a Siri cuando pulsamos dos veces sobre los AirPods:</strong></p>
+<ol>
+<li>Accedemos a <em>Ajustes</em></li>
+<li>Accedemos al menú <em>Bluetooth</em></li>
+<li>Con los cascos conectados, pinchamos en la flecha que acompaña al nombre de nuestros auriculares</li>
+<li>Dentro de las configuraciones generales, buscamos el apartado <em>«Pulsar AirPods dos veces»</em> <strong>y ahí podremos elegir la respuesta de los cascos cuando les damos dos toques</strong></li>
+</ol>
+<p>Y así, la siguiente vez que demos dos toques sobre cada uno de los cascos, podremos hacer lo que hemos elegido.</p>
+<h2><a name="cambiar-el-nombre-de-los-airpods">Cambiar el nombre de los AirPods</a></h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/02/02162845/Cambiar-nombre-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/02/02162845/Cambiar-nombre-AirPods.jpg" alt="Cambiar nombre AirPods" width="2441" height="1913" class="aligncenter size-full wp-image-16314" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/02/02162845/Cambiar-nombre-AirPods.jpg 2441w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02162845/Cambiar-nombre-AirPods.jpg 255w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02162845/Cambiar-nombre-AirPods.jpg 1024w" sizes="(max-width: 2441px) 100vw, 2441px" /></a></p>
+<p>Los AirPods, al ser un dispositivo Bluetooth, <strong>pueden tener nombre para identificarlos más fácilmente en la lista de dispositivos disponibles o enlazados.</strong></p>
+<p>Por defecto, el nombre de los AirPods es <em>«AirPods de <strong>XXXX</strong>«</em> siendo <strong>XXXX</strong> el nombre del dueño del iPhone al que se conectaron por primera vez.</p>
+<p>Pero si queréis cambiar ese nombre por otro que os guste más, lo podéis hacer sin problemas. <strong>Cómo cambiar el nombre de los AirPods:</strong></p>
+<ol>
+<li>Accedemos a <em>Ajustes</em></li>
+<li>Accedemos al menú <em>Bluetooth</em></li>
+<li>Con los cascos conectados, pinchamos en la flecha que acompaña al nombre de nuestros auriculares</li>
+<li>Dentro de las configuraciones generales, buscamos el apartado <em>«Nombre»</em> y pulsamos sobre él</li>
+<li><strong>Elegimos el nuevo nombre y aceptamos</strong></li>
+</ol>
+<p>Una vez cambiado, <strong>ese será el nombre con el que a partir de ahora podréis identificar vuestros cascos</strong> en todos vuestros dispositivos sincronizados con iCloud.</p>
+<h2><a name="activar-o-desactivar-la-deteccion-automatica-de-oreja-de-los-airpods">Activar o desactivar la detección automática de oreja de los AirPods</a></h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163001/Configurar-deteccion-automatica-de-oreja-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163001/Configurar-deteccion-automatica-de-oreja-AirPods.jpg" alt="Configurar deteccion automatica de oreja AirPods" width="2441" height="1913" class="aligncenter size-full wp-image-16315" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163001/Configurar-deteccion-automatica-de-oreja-AirPods.jpg 2441w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02163001/Configurar-deteccion-automatica-de-oreja-AirPods.jpg 255w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02163001/Configurar-deteccion-automatica-de-oreja-AirPods.jpg 1024w" sizes="(max-width: 2441px) 100vw, 2441px" /></a></p>
+<p>Otra de las propiedades de los auriculares es que <strong>cuentan con varios sensores que les permiten detectar si están colocados en la oreja o no.</strong></p>
+<p>Apple, por defecto, utiliza este sensor para activar los auriculares y para pausar una canción si nos quitamos uno de los auriculares, o para reproducirla si nos lo volvemos a poner.</p>
+<p>Pero existe la posibilidad de desactivar esta propiedad. Veamos <strong>cómo activar o desactivar la detección automática de oreja de los AirPods:</strong></p>
+<ol>
+<li>Accedemos a <em>Ajustes</em></li>
+<li>Accedemos al menú <em>Bluetooth</em></li>
+<li>Con los cascos conectados, pinchamos en la flecha que acompaña al nombre de nuestros auriculares</li>
+<li>Dentro de las configuraciones generales, buscamos el apartado <em>«Detección automática de oreja»</em> <strong>y lo activamos o desactivamos según queramos</strong></li>
+</ol>
+<p>A partir de ese momento, <strong>cada vez que nos pongamos los auriculares o nos los quitemos hará lo que le hemos pedido,</strong> o bien detectar que está puesto en una oreja, o bien no hacerlo.</p>
+<h2><a name="cambiar-deteccion-de-microfono-de-los-airpods">Cambiar detección de micrófono de los AirPods</a></h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163030/Cambiar-deteccion-de-microfono-de-los-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163030/Cambiar-deteccion-de-microfono-de-los-AirPods.jpg" alt="Cambiar deteccion de microfono de los AirPods" width="2441" height="1913" class="aligncenter size-full wp-image-16316" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163030/Cambiar-deteccion-de-microfono-de-los-AirPods.jpg 2441w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02163030/Cambiar-deteccion-de-microfono-de-los-AirPods.jpg 255w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02163030/Cambiar-deteccion-de-microfono-de-los-AirPods.jpg 1024w" sizes="(max-width: 2441px) 100vw, 2441px" /></a></p>
+<p><strong>Los cascos cuentan con un micrófono cada uno,</strong> y podemos controlar que la entrada de audio sea automática o forzar que siempre vaya por uno de los micrófonos.</p>
+<p>Así que como tenemos la posibilidad, vamos a ver <strong>cómo cambiar la detección de micrófono de los AirPods:</strong></p>
+<ol>
+<li>Accedemos a <em>Ajustes</em></li>
+<li>Accedemos al menú <em>Bluetooth</em></li>
+<li>Con los cascos conectados, pinchamos en la flecha que acompaña al nombre de nuestros auriculares</li>
+<li>Dentro de las configuraciones generales, buscamos el apartado <em>«Micrófono»</em> y <strong>elegimos la opción deseada</strong></li>
+</ol>
+<p>Si no sabéis muy bien cómo funciona, <strong>dejadla en «Automático» porque así os aseguráis de que en cualquier momento vais a entregar el mejor audio posible independientemente de la situación en la que os encontréis.</strong></p>
+<h2><a name="desvincular-los-airpods-de-mi-iphone-y-icloud">Desvincular los AirPods de mi iPhone y iCloud</a></h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163058/Desvincular-los-AirPods-de-mi-iPhone-y-iCloud.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163058/Desvincular-los-AirPods-de-mi-iPhone-y-iCloud.jpg" alt="Desvincular los AirPods de mi iPhone y iCloud" width="2441" height="1913" class="aligncenter size-full wp-image-16317" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163058/Desvincular-los-AirPods-de-mi-iPhone-y-iCloud.jpg 2441w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02163058/Desvincular-los-AirPods-de-mi-iPhone-y-iCloud.jpg 255w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02163058/Desvincular-los-AirPods-de-mi-iPhone-y-iCloud.jpg 1024w" sizes="(max-width: 2441px) 100vw, 2441px" /></a></p>
+<p>Al conectar por primera vez los AirPods a un iPhone, estos serán renombrados y vinculados automáticamente con todos los dispositivos compatibles de nuestra cuenta de iCloud.</p>
+<p>Si por algún motivo <strong>necesitamos eliminarlos de nuestro iPhone y de nuestra cuenta de iCloud, así es cómo se hace:</strong></p>
+<ol>
+<li>Accedemos a <em>Ajustes</em></li>
+<li>Accedemos al menú <em>Bluetooth</em></li>
+<li>Con los cascos conectados, pinchamos en la flecha que acompaña al nombre de nuestros auriculares</li>
+<li><strong>Pulsamos en la opción de <em>“Omitir dispositivo”</em></strong></li>
+<li>Aceptamos el mensaje que nos aparece advirtiéndonos de que al desvincularlos, éstos serán eliminados de todos nuestros dispositivos de iCloud</li>
+</ol>
+<p>Y así los habremos eliminado de nuestro iPhone y todos los dispositivos asociados a iCloud.</p>
+<h2><a name="conectar-unos-airpods-que-no-son-nuevos">Conectar unos AirPods que no son nuevos</a></h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163212/Conectar-AirPods-que-no-son-nuevos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163212/Conectar-AirPods-que-no-son-nuevos.jpg" alt="Conectar AirPods que no son nuevos" width="2441" height="1913" class="aligncenter size-full wp-image-16318" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/02/02163212/Conectar-AirPods-que-no-son-nuevos.jpg 2441w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02163212/Conectar-AirPods-que-no-son-nuevos.jpg 255w, https://cdn.macsfera.com/wp-content/uploads/2017/02/02163212/Conectar-AirPods-que-no-son-nuevos.jpg 1024w" sizes="(max-width: 2441px) 100vw, 2441px" /></a></p>
+<p>Desconozco el motivo, pero cuando queremos conectar unos AirPods que ya han sido vinculados a otro iPhone, aunque hayan sido desvinculados correctamente, éstos no se van a conectar mágicamente como sí lo harían un par completamente nuevos.</p>
+<p><strong>Esto es lo que hay que hacer para conectar unos AirPods que ya han sido usados a un nuevo iPhone:</strong></p>
+<ol>
+<li>Levantar la tapa de la caja donde están guardados los cascos y acercarlos a nuestro iPhone con el Bluetooth encendido</li>
+<li>El iPhone lo detectará y mostrará un aviso de que esos no son nuestros AirPods. <strong>Le damos al botón de <em>“Conectar”</em></strong></li>
+<li>Seguidamente nos pedirá que dejemos pulsado el botón trasero de la caja durante unos segundos. <strong>Así que eso es lo que haremos</strong></li>
+</ol>
+<p>Y ya estarán conectados a nuestro iPhone y a todos nuestros dispositivos sincronizados por iCloud aunque los auriculares no sean completamente nuevos.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190330/Procesador-W1-de-los-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190330/Procesador-W1-de-los-AirPods.jpg" alt="Procesador W1 de los AirPods" width="2500" height="1667" class="aligncenter size-full wp-image-16249" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190330/Procesador-W1-de-los-AirPods.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190330/Procesador-W1-de-los-AirPods.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190330/Procesador-W1-de-los-AirPods.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Como veis, que unos auriculares tengan un procesador incorporado <strong>nos ha abierto un mundo de posibilidades en su configuración.</strong> Desde el control de acciones hasta el control de sensores.</p>
+<p>De momento esas opciones son un poco limitadas, pero quién sabe si en el futuro será posible controlar más propiedades y cualidades de los auriculares para que se adapten aún más a cada usuario.</p>
+<p>Si queréis saber más, hace poco publiqué <strong>mi <a target="_blank" title="AirPods: mi opinión" href="www.macsfera.com/airpods-mi-opinion/">análisis de los AirPods</a> donde hablo de los pros y los contras de la visión de futuro que tiene Apple de la conectividad inalámbrica.</strong></p>
+<p><span class="source">Compra</span> <span class="via"><a href="http://www.apple.com/es/airpods/" target="_blank">Apple</a></span> <span class="via"><a href="http://bit.ly/2kh4iFP" target="_blank">Macnificos</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-configurar-los-airpods-una-vez-conectados/">Cómo configurar los AirPods una vez conectados</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AirPods: mi opinión</title>
+		<link>https://www.MacSfera.com/airpods-mi-opinion/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 22 Jan 2017 19:13:39 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[AirPods]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Cascos]]></category>
+		<category><![CDATA[Procesador W1]]></category>
+		<category><![CDATA[Siri]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16234</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/airpods-mi-opinion/">AirPods: mi opinión</a></p>
+<p>Desde que me compré mi primer iPod, nunca he dejado de usar los cascos de Apple. Así que cuando la empresa presentó</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/airpods-mi-opinion/">AirPods: mi opinión</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/airpods-mi-opinion/">AirPods: mi opinión</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185333/Opinion-de-los-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185333/Opinion-de-los-AirPods.jpg" alt="Opinion de los AirPods" width="2500" height="1667" class="aligncenter size-full wp-image-16236" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185333/Opinion-de-los-AirPods.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22185333/Opinion-de-los-AirPods.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22185333/Opinion-de-los-AirPods.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Desde que me compré mi primer iPod, <strong>nunca he dejado de usar los cascos de Apple.</strong> Así que cuando la empresa presentó lo que ellos describían como <a target="_blank" title="Nuevos AirPods: La apuesta de Apple por el audio inalámbrico" href="www.macsfera.com/nuevos-airpods-la-apuesta-apple-audio-inalambrico/">su visión de futuro del audio</a> no pude resistirme y probarlos.</p>
+<p><strong>Esta es mi opinión sobre los AirPods, los nuevos cascos inalámbricos de Apple con procesador propio.</strong></p>
+<p><span id="more-16234"></span></p>
+<p>Gracias a los <a target="_blank" title="Beats Solo2 inalámbricos: mi opinión" href="www.macsfera.com/beats-solo2-inalambricos-mi-opinion/">Beats Solo2</a> he podido sumergirme en la tecnología inalámbrica y he de decir que me ha encantado. La libertad que se tiene al no estar atado físicamente a un dispositivo me ha fascinado y eso me ha llevado a ver con otros ojos los dispositivos del mismo tipo.</p>
+<p><strong>Los AirPods no iban a ser menos,</strong> siendo unos auriculares con un diseño que adoro <sup class="modern-footnotes-footnote ">1</sup>, con un sistema de conexión prometedor y una comodidad a la hora de cargarlos nunca antes vista.</p>
+<p>Así que tras probarlos unas semanas en diferentes situaciones y estados, <strong>voy a contaros lo que opino sobre estos cascos.</strong></p>
+<h2 class="review">Diseño de los AirPods</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185416/Diseno-de-los-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185416/Diseno-de-los-AirPods.jpg" alt="Diseño de los AirPods" width="2500" height="1667" class="aligncenter size-full wp-image-16237" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185416/Diseno-de-los-AirPods.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22185416/Diseno-de-los-AirPods.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22185416/Diseno-de-los-AirPods.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Todos nos sorprendimos cuando en la presentación vimos lo pequeños que eran y lo familiares que nos resultaban. Son una variante de <a target="_blank" title="Unboxing y review de los EarPods" href="http://www.mylaif.es/unboxing-y-review-de-los-earpods/">los EarPods</a> un poco más alargada, y no sabéis lo mucho que lo agradezco.</p>
+<p><strong>Adoro este diseño,</strong> es de los pocos auriculares que no me destrozan la oreja o se incrustan en el cerebro y, además, se sujetan bien.</p>
+<p>La forma de los EarPods no es perfecta, no a todo el mundo le sientan bien. <strong>En el caso de los AirPods será igual,</strong> exactamente igual: si los EarPods os quedan bien, los AirPods os quedarán bien. Si por el contrario hay situaciones en las que los EarPods os fallan, <strong>los AirPods os fallarán igual.</strong></p>
+<div class="galerias medio" data-layout="21" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185527/Auricular-AirPods.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185529/Diseno-del-auricular-AirPods.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185530/AirPods-por-debajo.jpg" title="" alt="" />
+
+</div>
+<p>Esto está muy bien porque si tenéis un iPhone sabréis sin problemas, y en un amplio rango de actividades, <strong>cómo os quedarían los AirPods:</strong> si os harían daño, si se os caerían, si os sentarían genial, etc.</p>
+<p>A mí los EarPods me sientan realmente bien así que con los AirPods ha sido exactamente igual. <strong>Pasar largas horas con ellos, tumbarte de lado, salir a correr&#8230;</strong></p>
+<aside class="pquote right">
+<blockquote>
+<p>Pequeños, inalámbricos, cómodos e inteligentes. Los AirPods son mágicos</p>
+</blockquote>
+</aside>
+<p>Como son inalámbricos, hay un factor comodidad añadido que es, precisamente, el de que no tienen cables. Ya lo experimenté con los Beats Solo2 como os he comentado antes, <strong>pero con los AirPods el gusto ha sido mayor porque realmente parece que no llevas nada puesto.</strong> La libertad asociada a no tener cables es insuperable y realmente se disfruta cuando tienes que moverte por alguna zona y no tienes que preocuparte de quedarte enganchado en algún picaporte, que tu iPhone salga volando o que te pegue un tirón el Mac porque te has olvidado de que los llevabas puestos.</p>
+<div class="galerias medio" data-layout="3" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22191540/AirPods-vs-EarPods.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22191541/AirPods-colocados.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22191543/Parte-baja-de-los-AirPods.jpg" title="" alt="" />
+
+</div>
+<p>Además, es lo que os digo, <strong>son realmente pequeños,</strong> algo a lo que todavía no estamos acostumbrados en un dispositivo de esas características. Sigo fascinado por cómo han sido capaces de meter en un espacio tan compacto una tecnología tan potente y útil.</p>
+<p>Sin duda, su diseño es una sus mejores características, aunque no es la única.</p>
+<h2 class="review">La caja de los AirPods</h2>
+<div class="galerias grande" data-layout="3" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185647/Caja-de-los-AirPods.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185649/Caja-abierta-de-los-AirPods.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185650/Diseno-caja-AirPods.jpg" title="" alt="" />
+
+</div>
+<p>Lo que pensaba que podría ser un incordio en un accesorio <strong>ha resultado ser una de las claves del éxito de dicho producto.</strong></p>
+<p>No os podéis imaginar lo útil y necesaria que es la caja de los AirPods hasta que realmente aprecias su funcionamiento y el cometido que tiene.</p>
+<ol>
+<li><strong>Sirve para transportar los AirPods</strong> de forma segura sin que se puedan perder, dañar, etc.</li>
+<li><strong>Sirve como punto de carga portátil</strong> de los auriculares</li>
+<li><strong>Sirve como punto de enlace</strong> con los distintos dispositivos que tengamos</li>
+</ol>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185924/AirPods-conectados-a-iPhone.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185924/AirPods-conectados-a-iPhone.jpg" alt="AirPods conectados a iPhone" width="2500" height="1667" class="aligncenter size-full wp-image-16244" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22185924/AirPods-conectados-a-iPhone.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22185924/AirPods-conectados-a-iPhone.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22185924/AirPods-conectados-a-iPhone.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Gracias a la caja,</strong> tendremos en todo momento los auriculares juntos y protegidos independientemente de si los llevamos en el bolsillo o en la mano. Lo que antes era un revoltijo de cables enredados en el bolsillo o colgando por un extremo de la camiseta, ahora se ha convertido en un paquete de color blanco que podemos guardar hasta en el bolsillo pequeño de los pantalones vaqueros.</p>
+<p>La tapa cuenta con un imán que nos permitirá abrirla y cerrarla con facilidad, previniendo a su vez que se abra por accidente. Imanes es lo que también tiene en el interior para mantener los auriculares fijos en la caja y prevenir que se salgan sin querer del estuche y así perderlos.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190006/AirPods-listos-para-usarse.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190006/AirPods-listos-para-usarse.jpg" alt="AirPods listos para usarse" width="2500" height="1667" class="aligncenter size-full wp-image-16245" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190006/AirPods-listos-para-usarse.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190006/AirPods-listos-para-usarse.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190006/AirPods-listos-para-usarse.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Gracias a la caja,</strong> los AirPods estarán siempre con batería suficiente para su uso, ya que al meterlos dentro empezarán a cargarse con la batería interna de dicha caja. Al principio pensaba que podría ser molesto que se cargasen en todo momento, pero tener la tranquilidad de que los cojas cuando los cojas van a tener batería suficiente para funcionar y de que van a cargarse siempre que los transportes para que al llegar al destino estén disponibles, hace que esta propiedad sea una de las mejores ideas del dispositivo. Además, sabiendo <a target="_blank" title="Sobre las baterías de Apple" href="www.macsfera.com/las-baterias-apple/">cómo son las baterías de Apple</a>, no hay que preocuparse de que se rompan por hacer «malos ciclos».</p>
+<p>Un pequeño led nos servirá de interfaz para averiguar el estado de la carga:</p>
+<ul>
+<li><strong>Si los AirPods están dentro:</strong> indica el nivel de carga de los cascos. Verde para carga completa y naranja para carga incompleta</li>
+<li><strong>Si los AirPods están fuera:</strong> indica el nivel de carga de la batería interna. Verde para asumir una carga completa más de los AirPods y naranja para no poder cargarlos completamente</li>
+</ul>
+<p>La carga rápida ya lo vimos con el <a target="_blank" title="Apple Pencil" href="www.macsfera.com/tag/apple-pencil">Apple Pencil</a> y en la caja de los AirPods se repite, 15 minutos de carga nos valdrá para 3 horas de uso. Me gustó con el Apple Pencil y me gusta por igual en los AirPods.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190041/Vinculando-AirPods-con-iPhone.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190041/Vinculando-AirPods-con-iPhone.jpg" alt="Vinculando AirPods con iPhone" width="2500" height="1667" class="aligncenter size-full wp-image-16246" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190041/Vinculando-AirPods-con-iPhone.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190041/Vinculando-AirPods-con-iPhone.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190041/Vinculando-AirPods-con-iPhone.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<aside class="pquote left">
+<blockquote>
+<p>La caja es gran parte del éxito detrás de los AirPods</p>
+</blockquote>
+</aside>
+<p><strong>Gracias a la caja,</strong> podremos vincular rápidamente los cascos con nuestros dispositivos. Basta con abrirla para que, automáticamente, nuestro iPhone los detecte y, al sacar uno de los cascos y ponérnoslo se hayan emparejado. Esto es gracias al procesador W1 del que os hablaré luego, pero ya os adelanto que es pura magia.</p>
+<p>Si decidimos desvincular los AirPods de nuestra cuenta de iCloud y usarlos en dispositivos con otra cuenta, el botón trasero nos servirá para forzar esa vinculación y configurarlos como nuevos.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22191729/Parte-trasera-caja-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22191729/Parte-trasera-caja-AirPods.jpg" alt="Parte trasera caja AirPods" width="2500" height="1667" class="aligncenter size-full wp-image-16262" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22191729/Parte-trasera-caja-AirPods.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22191729/Parte-trasera-caja-AirPods.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22191729/Parte-trasera-caja-AirPods.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Sí, <strong>la caja es realmente útil,</strong> y su cometido no sólo es esencial para el uso de los AirPods, <strong>sino que es una de las piezas clave para que los AirPods sean lo que son a día de hoy.</strong></p>
+<h2 class="review">Sonido de los AirPods</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190147/Opinion-sonido-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190147/Opinion-sonido-AirPods.jpg" alt="Opinion sonido AirPods" width="2500" height="1667" class="aligncenter size-full wp-image-16247" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190147/Opinion-sonido-AirPods.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190147/Opinion-sonido-AirPods.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190147/Opinion-sonido-AirPods.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>En este apartado los AirPods no salen tan bien parados como en los apartados superiores,</strong> todo hay que decirlo. No es que se oigan mal, es que hay otros auriculares que se oyen mejor y cuya transformación del sonido es más real con unas características físicas similares.</p>
+<p><strong>¿Esto en qué se traduce?</strong> En que si los usamos vamos a poder disfrutar de la música sin problemas y sin pensar que llevamos un vaso atado a una cuerda, pero que si usamos otros cascos nos daremos cuenta de que representan mejor los sonidos, sobre todo en lo relacionado a los bajos.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190247/Sonido-de-los-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190247/Sonido-de-los-AirPods.jpg" alt="Sonido de los AirPods" width="2500" height="1667" class="aligncenter size-full wp-image-16248" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190247/Sonido-de-los-AirPods.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190247/Sonido-de-los-AirPods.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190247/Sonido-de-los-AirPods.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<aside class="pquote right">
+<blockquote>
+<p>Apple tiene que mejorar el sonido de los AirPods</p>
+</blockquote>
+</aside>
+<p>La transmisión del sonido es pura física, por lo que si no hay espacio real, es difícil que el sonido sea el mejor. <strong>Y eso es lo que le ocurre a los AirPods.</strong> Su naturaleza física les impiden ser mejores.</p>
+<p>Insisto, <strong>no es que produzcan un sonido malo,</strong> pero los hay mejores. Y nuevamente, tal y como pasa con los EarPods, si os gusta su sonido os gustará el de los AirPods.</p>
+<p>Yo, personalmente, sabiendo que mi oido no es el mejor del mundo, puedo sacrificar esa pequeña pérdida de calidad en pos del reducido tamaño, la alta conectividad y la carencia de cables.</p>
+<div class="galerias medio" data-layout="21" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22191933/AirPods-y-Netflix.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22191948/AirPods-y-iPhone.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22192006/AirPods-y-Mac.jpg" title="" alt="" />
+
+</div>
+<p>El micrófono no es técnicamente sonido, pero como está relacionado con la entrada de audio, voy a comentarlo aquí.</p>
+<p><strong>Los micrófonos no están a la altura del producto.</strong> Las cosas como son. <strong>El sonido que captan es enlatado y distorsionado haciendo que el resultado final sea el de un producto con una calidad ínfima.</strong> Es una de esas cosas que te chocan porque no comprendes cómo es posible que un componente tan malo esté en un accesorio tan bueno.</p>
+<p>Apple destaca que tienen cancelación de ruido exterior y que eso permite capturar un mejor sonido, pero en mis pruebas se ha notado bastante el salto entre el micrófono de los AirPods, el del propio iPhone y el de los EarPods <sup class="modern-footnotes-footnote ">2</sup>.</p>
+<h2 class="review">El procesador W1</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190330/Procesador-W1-de-los-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190330/Procesador-W1-de-los-AirPods.jpg" alt="Procesador W1 de los AirPods" width="2500" height="1667" class="aligncenter size-full wp-image-16249" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190330/Procesador-W1-de-los-AirPods.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190330/Procesador-W1-de-los-AirPods.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190330/Procesador-W1-de-los-AirPods.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Este pequeño procesador, el primero de su tipo en Apple, <strong>es el motivo por el que la empresa ha creado los AirPods.</strong></p>
+<p>En Cupertino creían que el pareado con dispositivos podría ser mejor <strong>y decidieron idear esta solución para mejorar la experiencia.</strong> Y vaya si lo han conseguido.</p>
+<aside class="pquote left">
+<blockquote>
+<p>El procesador W1 es lo mejor que le ha podido pasar a los cascos Bluetooth y a los AirPods</p>
+</blockquote>
+</aside>
+<p><strong>Gracias al procesador W1</strong> podemos enlazar los cascos con tan solo levantar una tapa. <strong>Gracias al procesador W1</strong> tenemos los AirPods configurados automáticamente en cada uno de los dispositivos vinculados a nuestra cuenta de iCloud. <strong>Gracias al procesador W1</strong> podremos realizar ciertas acciones al golpear los auriculares dos veces, ya bien sea invocar a Siri o pausar y reproducir la canción. <strong>Gracias al procesador W1</strong> los sensores son capaces de detectar si están puestos, cancelar el ruido de fondo de los micrófonos e incluso saber cuándo estamos hablando.</p>
+<p>Cuando al final de los <a target="_blank" title="Nuevos anuncios de los AirPods destacando su magia" href="www.macsfera.com/nuevos-anuncios-airpods-destacando-su-magia/">anuncios de los AirPods</a> aparece un letrero que dice <em>«Prácticamente magia»</em>, <strong>no les falta razón porque el procesador W1 es el encargado de hacer toda esa magia.</strong> Sin él, los auriculares serían un mero accesorio con conexión Bluetooth.</p>
+<div class="galerias medio" data-layout="2" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190425/Elegir-AirPods-en-el-iPad.jpg"/>
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22191119/Elegir-AirPods-en-el-Mac.jpg"/>
+
+</div>
+<p>Si habéis jugado alguna vez con un dispositivo Bluetooth enlazado a varios dispositivos, sabréis lo cansado que puede ser cambiar entre unos y otros para poder usar el accesorio <sup class="modern-footnotes-footnote ">3</sup>. <strong>El procesador W1 nos permite cambiar de dispositivo con total comodidad levantando la tapa o haciendo que los AirPods estén disponibles en las opciones de salida de audio del dispositivo al que los queramos conectar</strong> <sup class="modern-footnotes-footnote ">4</sup>.</p>
+<p><strong>Dotar de cerebro a los AirPods ha sido un acierto total</strong> y es uno de los motivos por los que funcionan tan bien. Este es otro de los ejemplos de todo lo que Apple ha aprendido en la fabricación de procesadores desde que dotara al iPhone con los suyos propios.</p>
+<h2 class="review">Mejoras de los AirPods</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190455/Mejoras-futuras-de-los-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190455/Mejoras-futuras-de-los-AirPods.jpg" alt="Mejoras futuras de los AirPods" width="2500" height="1667" class="aligncenter size-full wp-image-16251" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190455/Mejoras-futuras-de-los-AirPods.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190455/Mejoras-futuras-de-los-AirPods.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190455/Mejoras-futuras-de-los-AirPods.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>A parte del comentario de los micrófonos (los cuales me gustaría que mejorasen) hay otras cosas que me gustaría ver en siguientes versiones de los AirPods.</p>
+<p><strong>Empecemos hablando de la integración con iOS,</strong> sólo en el iPhone se muestra el detalle de la vinculación cuando abrimos la caja, siendo una emparejación a ciegas la que realizamos al intentar conectarlos al Mac o iPad <sup class="modern-footnotes-footnote ">5</sup>. No es tan malo como parece porque los cascos aparecen en la lista de salida de sonido del Centro de Control (en iOS) o en el menú Bluetooth (en macOS) y basta con seleccionarlos, pero puesto que uno de sus fuertes es la conectividad, no estaría de más pulirlo un poco.</p>
+<p><strong>Los gestos no han resultado ser tan satisfactorios como los pintan.</strong> Empezando por la incomodidad que resulta golpear un auricular en la oreja y siguiendo por la limitación de funciones de dicho gesto.</p>
+<p><em>«Podemos invocar a Siri»</em> estaréis pensando muchos. Sí, pero ni Siri está integrada con todas las aplicaciones, ni está disponible a todas horas <sup class="modern-footnotes-footnote ">6</sup>. Eso si no contamos lo incomodó y lento que resulta pedirle a Siri que pase una canción, que cambie de álbum o que retroceda <sup class="modern-footnotes-footnote ">7</sup>.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190533/Invocar-a-Siri-AirPods.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190533/Invocar-a-Siri-AirPods.jpg" alt="Invocar a Siri AirPods" width="2500" height="1667" class="aligncenter size-full wp-image-16252" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190533/Invocar-a-Siri-AirPods.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190533/Invocar-a-Siri-AirPods.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190533/Invocar-a-Siri-AirPods.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<aside class="pquote right">
+<blockquote>
+<p>Un sistema de cambio de canción sería más útil que el Play/Pause</p>
+</blockquote>
+</aside>
+<p>La invocación a Siri se puede cambiar por el Play/Pause <strong>pero creo que no es la mejor solución.</strong> Si queremos pausar la música, los AirPods cuentan con una fantástica propiedad que lo hace en cuanto te quitas uno de los auriculares, de modo que estamos duplicando acciones y encima la que no es nativa es incómoda de realizar.</p>
+<p>Y por desgracia, sólo sirve para pausar o reproducir la música, no tenemos ningún tipo de control como sí lo tenemos con el botón del mando de los EarPods. Ya que te das un golpe en el oído, que menos que poder hacer algo más útil ¿no?</p>
+<p>La implementación podría ser la misma que la de dicho mando y conseguiríamos de forma discreta el control básico de la música sin tener que tocar el teléfono o hablar con Siri.</p>
+<p>No digo que eliminemos a Siri, está bien tenerla a mano y seguro que hay gente a la que le viene bien, pero creo que el uso no está tan extendido como el control por pulsaciones tan útil de los EarPods.</p>
+<p>Si bien son dos pequeñas modificaciones, <strong>creo que ayudarían mucho a que los AirPods se integrasen mejor con los dispositivos que tenemos y con la experiencia que ya hemos acumulado usando productos de Apple.</strong></p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190714/AirPods-y-el-iPhone-7.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190714/AirPods-y-el-iPhone-7.jpg" alt="AirPods y el iPhone 7" width="2500" height="1667" class="aligncenter size-full wp-image-16253" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190714/AirPods-y-el-iPhone-7.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190714/AirPods-y-el-iPhone-7.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/22190714/AirPods-y-el-iPhone-7.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En general, <strong>los AirPods han resultado ser un accesorio mágico.</strong> Gracias a la integración que ha hecho Apple con su ecosistema, ha avanzado un poquito más en la lucha que tenemos por un uso sencillo y fácil de la tecnología inalámbrica.</p>
+<p>Hay cosas que me gustaría ver mejoradas en el futuro, por supuesto, pero aún con ello, creo que han resultado ser algo innovador y que realmente va a trascender en el futuro de la conectividad.</p>
+<div class="galerias grande" data-layout="13" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190848/AirPods-y-el-iPad-Pro.jpg"/>
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190849/Review-de-los-AirPods.jpg"/>
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22190846/Pausar-cancion-AirPods.jpg"/>
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/01/22192116/Cargando-los-AirPods.jpg"/>
+
+</div>
+<p>Fijaos si es así, que ahora cada vez que tengo que conectar el Apple Pencil al iPad odio profundamente el hecho de que haya un dispositivo que haga el pareado de una forma muchísimo más natural y sencilla.</p>
+<p>Aún con eso, <strong>soy optimista y pienso en el bien que este dispositivo hará al resto que están por venir.</strong> Ya hemos visto que Apple siempre aprende de lo que desarrolla en otros departamentos y lo implementa en otros dispositivos a pesar de que no estaban pensados para tal fin. Así que no será raro que en el futuro se extienda mucho más y nuestra relación para con esos dispositivos mejore enormemente.</p>
+<p>Mientras tanto, los AirPods están ahí para comunicarse con nuestro iPhone, iPad y Mac sin cables, sin incomodidades, sin ataduras <strong>y con mucha, mucha magia.</strong></p>
+<p><span class="source">Compra</span> <span class="via"><a href="http://www.apple.com/es/airpods/" target="_blank">Apple</a></span> <span class="via"><a href="http://bit.ly/2kh4iFP" target="_blank">Macnificos</a></span> <span class="via"><a href="http://bit.ly/2kgVbF1" target="_blank">Fnac</a></span></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/RdtHX15sXiU" frameborder="0" allowfullscreen></iframe></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Adoro los EarPods.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Siendo el orden inverso el de mejor calidad: EarPods > micrófono del iPhone > AirPods.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Hay que desvincular el dispositivo, luego acceder a las preferencias del dispositivo al que lo queremos conectar de nuevo, ir al menú de Bluetooth y configurarlo como nuevo o solicitar que se conecte si ya está conectado.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Más abajo sugiero un par de mejoras para que la conectividad sea incluso mejor.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;No tengo un Apple Watch así que no sabría deciros de primera mano cómo funciona con el reloj de Apple.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;Siri sólo funciona con una conexión a Internet, si no la tenemos es como si no tuviéramos nada.</div><div>7&nbsp;&nbsp;&nbsp;&nbsp;Admito que el factor incomodidad es algo personal ya que no me suele gustar hablar con Siri en espacios abiertos.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/airpods-mi-opinion/">AirPods: mi opinión</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Adonit Pixel: stylus Bluetooth para iPad y iPad Pro</title>
+		<link>https://www.MacSfera.com/adonit-pixel-stylus-bluetooth-ipad-y-ipad-pro/</link>
+					<comments>https://www.MacSfera.com/adonit-pixel-stylus-bluetooth-ipad-y-ipad-pro/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 15 Sep 2016 16:33:11 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Adonit]]></category>
+		<category><![CDATA[Adonit Pixel]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[Stylus]]></category>
+		<category><![CDATA[Stylus Bluetooth]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15369</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/adonit-pixel-stylus-bluetooth-ipad-y-ipad-pro/">Adonit Pixel: stylus Bluetooth para iPad y iPad Pro</a></p>
+<p>Hace unos meses, Adonit, la empresa que fabrica stylus para iPad (principalmente) sacó un nuevo modelo de stylus mucho más potente y</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/adonit-pixel-stylus-bluetooth-ipad-y-ipad-pro/">Adonit Pixel: stylus Bluetooth para iPad y iPad Pro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/adonit-pixel-stylus-bluetooth-ipad-y-ipad-pro/">Adonit Pixel: stylus Bluetooth para iPad y iPad Pro</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/15173946/Adonit-Pixel.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/15173946/Adonit-Pixel.jpg" alt="Adonit Pixel" width="2500" height="1667" class="aligncenter size-full wp-image-15371" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/15173946/Adonit-Pixel.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15173946/Adonit-Pixel.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15173946/Adonit-Pixel.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Hace unos meses, Adonit, la empresa que fabrica stylus para iPad (principalmente) sacó un nuevo modelo de stylus mucho más potente y versátil: <strong>el Adonit Pixel.</strong></p>
+<p><strong>El Adonit Pixel es un stylus Bluetooth que se conecta con nuestros dispositivos para ofrecer una de las mejores experiencias a la hora de escribir o pintar en nuestro iPad.</strong></p>
+<p><span id="more-15369"></span></p>
+<p>Hace un año empecé a <a target="_blank" title="Mi experiencia escribiendo a mano en el iPad" href="www.macsfera.com/mi-experiencia-escribiendo-a-mano-en-el-ipad/">tomar apuntes en el iPad</a> y ahí fue dónde observé que había un mundo de posibilidades con los diferentes modelos de stylus disponibles.</p>
+<p>Yo empecé con el <a target="_blank" title="Adonit Jot Pro: un gran stylus para escribir en el iPad" href="www.macsfera.com/adonit-jot-pro-gran-stylus-escribir-ipad/">Adonit Jot Pro</a>, un fantástico y barato stylus que nos permite introducirnos sin problemas en el mundillo para ver qué tal es eso de escribir digitalmente. Sin embargo, cuando probé a fondo el <a target="_blank" title="Apple Pencil: el mejor stylus para el iPad" href="www.macsfera.com/apple-pencil-mejor-stylus-ipad/">Apple Pencil</a>, me di cuenta de que lo realmente bueno eran los stylus pareados con Bluetooth.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/15175534/Adonit-Pixel-y-iPad-mini.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/15175534/Adonit-Pixel-y-iPad-mini.jpg" alt="Adonit Pixel y iPad mini" width="2500" height="1667" class="aligncenter size-full wp-image-15375" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/15175534/Adonit-Pixel-y-iPad-mini.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15175534/Adonit-Pixel-y-iPad-mini.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15175534/Adonit-Pixel-y-iPad-mini.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Pero claro, ahora mismo hay a la venta 5 iPads distintos, y el Apple Pencil sólo funciona con dos de ellos. Uno de ellos es el iPad Pro de 12,7 pulgadas y el otro el <a target="_blank" title="iPad Pro: lo que esperaba, y mucho más" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/">iPad Pro de 9,7 pulgadas</a>. Pero ¿y qué pasa con el resto?, ¿se tienen que quedar sin precisión porque la tecnología de sus pantallas y la exclusividad del Pencil no le permita funcionar? Yo creo que no.</p>
+<p>Ahí es donde Adonit vio la oportunidad de ofrecer un producto de calidad que supliese las necesidades del gran número de personas que no tienen un iPad Pro. Es más, <strong>la cosa ha ido más allá e incluso el Adonit Pixel es compatible con el <a target="_blank" title="Nuevo iPad Pro" href="www.macsfera.com/nuevo-ipad-pro/">iPad Pro de 12,7 pulgadas</a>.</strong></p>
+<h2>Diseño del Adonit Pixel</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/15174249/Diseno-Adonit-Pixel.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/15174249/Diseno-Adonit-Pixel.jpg" alt="Diseño Adonit Pixel" width="2500" height="1667" class="aligncenter size-full wp-image-15372" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/15174249/Diseno-Adonit-Pixel.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15174249/Diseno-Adonit-Pixel.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15174249/Diseno-Adonit-Pixel.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Cuando hablamos del diseño de un stylus no sólo nos referimos al diseño físico, sino a lo bien que se coge, si pesa o no, si está equilibrado y si es cómodo de usar.</p>
+<p>Aún así, siempre me gusta describir el producto físicamente, aunque lo muestre constantemente en fotos, así que vamos a ello:</p>
+<p><strong>El Adonit Pixel se asemeja a todos los stylus,</strong> tiene forma de boli pero debido a la tecnología que esconde en su interior, <strong>es un poquito más gordo.</strong></p>
+<p><strong>Cuenta con una punta sensible a la presión,</strong> 2048 niveles de presión para ser exactos. Por el contrario, no detecta la inclinación.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/15175734/Punta-sensible-Adonit-Pixel.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/15175734/Punta-sensible-Adonit-Pixel.jpg" alt="Punta sensible Adonit Pixel" width="2500" height="1667" class="aligncenter size-full wp-image-15376" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/15175734/Punta-sensible-Adonit-Pixel.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15175734/Punta-sensible-Adonit-Pixel.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15175734/Punta-sensible-Adonit-Pixel.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Si bien el cuerpo es de metal, justo después de la punta <strong>tenemos una superficie de plástico</strong> que asemeja a la goma para poder cogerlo con comodidad y que no se resbale, como le pasa a veces al Apple Pencil.</p>
+<p>Seguidamente, <strong>nos encontraremos dos botones.</strong> Dichos botones permiten realizar tareas con tan solo pulsarlos. Esas tareas dependen exclusivamente de si la aplicación que estamos usando es compatible o no con el Adonit Pixel, pero tranquilos, <strong>en Adonit se encargan de trabajar con desarrolladores para que la compatibilidad sea elevada.</strong></p>
+<p>Tal es el caso, que el Adonit Pixel es compatible, de entrada, con 13 aplicaciones destinadas al dibujo y la escritura en el iPad. Por ejemplo, <a target="_blank" title="GoodNotes: mi iPad convertido en cuaderno" href="www.macsfera.com/goodnotes-mi-ipad-convertido-en-cuaderno/">GoodNotes</a> es compatible y nos permite deshacer o rehacer un cambio.</p>
+<p>Justo encima de los botones <strong>nos encontramos un LED</strong> que sirve para transmitir información sobre el estado del stylus: si está encendido, pareado, buscando, etc.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/15174417/Cargador-Adonit-Pixel.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/15174417/Cargador-Adonit-Pixel.jpg" alt="Cargador Adonit Pixel" width="2500" height="1667" class="aligncenter size-full wp-image-15373" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/15174417/Cargador-Adonit-Pixel.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15174417/Cargador-Adonit-Pixel.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15174417/Cargador-Adonit-Pixel.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Y ya, al final del stylus, <strong>se encuentra el punto de carga del mismo.</strong> Al ser un dispositivo Bluetooth, necesita poder cargarse para funcionar. Y ahí es donde Adonit ha ideado un cargador imantado que se enchufa a una base USB. Dicha base la conectamos a nuestro ordenador y listo, el Adonit Pixel se empieza a cargar.</p>
+<p>En lo que a uso se refiere, <strong>el Adonit Pixel está equilibrado,</strong> de modo que escribiremos de forma natural sin tener que hacer contrapeso en ninguna de las partes <sup class="modern-footnotes-footnote ">1</sup>. Además, gracias a esa superficie de plástico, que el stylus resbale es complicado.</p>
+<p>Los botones no son accesibles al 100%, pero es que es difícil colocar unos botones en un boli. Si los colocas abajo los pulsas por accidente al escribir, si los colocas arriba, no se pulsan bien. <strong>La mejor forma de aprovechar estos botones es orientarlos hacia el pulgar</strong> para que sea más sencillo pulsarlos.</p>
+<p><strong>La punta,</strong> además, <strong>se desliza sin problemas por la pantalla y no es agresiva,</strong> de modo que no hace falta poner ningún tipo de protector. Obtenemos un resultado doble: escritura cómoda y respeto hacia nuestro iPad.</p>
+<p>Además, y esta característica está vinculada ya a la gran mayoría de stylus Bluetooth del mercado, <strong>detecta la palma de la mano,</strong> de modo que apoyarla en la pantalla para escribir o pintar cómodamente no será ningún problema.</p>
+<h2>La mejor alternativa</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/15180348/Adonit-Pixel-cargando.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/15180348/Adonit-Pixel-cargando.jpg" alt="Adonit Pixel cargando" width="2500" height="3750" class="aligncenter size-full wp-image-15378" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/15180348/Adonit-Pixel-cargando.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15180348/Adonit-Pixel-cargando.jpg 133w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15180348/Adonit-Pixel-cargando.jpg 683w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ya sea por su precio <sup class="modern-footnotes-footnote ">2</sup> o por la extensa compatibilidad que tiene, <strong>el Adonit Pixel es la mejor alternativa que se puede comprar hoy en día.</strong></p>
+<p>Funciona sin problemas en la mayoría de iPads y ofrece una muy buena calidad para pintar o escribir. Utiliza bien la tecnología Bluetooth para hacer más cosas y simular mejor un boli normal. Para colmo, se combina con aplicaciones profesionales para sacar el máximo partido a la unión hardware y software.</p>
+<p>Esta disponible en dos colores: <strong><a target="_blank" href="http://amzn.to/2cljMD5">Negro</a> y <a target="_blank" href="http://amzn.to/2cGqORw">dorado</a>.</strong> Y se puede comprar en Amazon <strong>por un precio aproximado de 68€.</strong></p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/15174554/Escribiendo-en-el-iPad-con-Adonit-Pixel.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/15174554/Escribiendo-en-el-iPad-con-Adonit-Pixel.jpg" alt="Escribiendo en el iPad con Adonit Pixel" width="2500" height="1667" class="aligncenter size-full wp-image-15374" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/15174554/Escribiendo-en-el-iPad-con-Adonit-Pixel.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15174554/Escribiendo-en-el-iPad-con-Adonit-Pixel.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/15174554/Escribiendo-en-el-iPad-con-Adonit-Pixel.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>El mundo de los stylus es un mundo sencillo pero a la vez complejo, da miedo adentrarse en él con productos caros porque no sabemos cómo van a aguantar, si les vamos a sacar partido o no, si van a tratar bien nuestras pantallas, etc.</p>
+<p>Por suerte para nosotros, <strong>existen empresas como Adonit que tienen stylus asequibles para principiantes y más profesionales para los que requieren una calidad mayor.</strong> Todo ello con una calidad individual buena y una comunidad detrás que permite el uso completo del hardware desarrollado.</p>
+<p>Y el mejor ejemplo de ello es el Adonit Pixel, el último stylus de la empresa para pintar y dibujar con precisión en nuestros iPads.</p>
+<p><span class="source">Compra en Amazon</span> <span class="via"><a href="http://amzn.to/2cljMD5" target="_blank">Negro</a></span> <span class="via"><a href="http://amzn.to/2cGqORw" target="_blank">Dorado</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Algo que es muy molesto en algunos stylus.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Aunque según lo que busquemos hay alternativas más baratas como el <a target="_blank" title="Adonit Switch: pensamientos generales" href="www.macsfera.com/adonit-switch-pensamientos-generales/">Adonit Switch</a>.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/adonit-pixel-stylus-bluetooth-ipad-y-ipad-pro/">Adonit Pixel: stylus Bluetooth para iPad y iPad Pro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/adonit-pixel-stylus-bluetooth-ipad-y-ipad-pro/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple Pencil: el mejor stylus para el iPad</title>
+		<link>https://www.MacSfera.com/apple-pencil-mejor-stylus-ipad/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2016 11:47:35 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Apple Pencil]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[GoodNotes]]></category>
+		<category><![CDATA[iPad Pro]]></category>
+		<category><![CDATA[Stylus]]></category>
+		<category><![CDATA[Stylus Bluetooth]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15010</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-pencil-mejor-stylus-ipad/">Apple Pencil: el mejor stylus para el iPad</a></p>
+<p>En la historia del iPad, pasó de ser un dispositivo de consumo a un dispositivo en el que poco a poco se</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-pencil-mejor-stylus-ipad/">Apple Pencil: el mejor stylus para el iPad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-pencil-mejor-stylus-ipad/">Apple Pencil: el mejor stylus para el iPad</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133741/Review-del-Apple-Pencil.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133741/Review-del-Apple-Pencil.jpg" alt="Review del Apple Pencil" width="2500" height="1667" class="aligncenter size-full wp-image-15012" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133741/Review-del-Apple-Pencil.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133741/Review-del-Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133741/Review-del-Apple-Pencil.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En la historia del iPad, pasó de ser un dispositivo de consumo a un dispositivo en el que poco a poco se podía crear contenido, <a target="_blank" href="www.macsfera.com/cinco-cosas-prefiero-ipad-vez-mac/" title="Cinco cosas que prefiero hacer en el iPad en vez de en un Mac">hacer cosas</a>. <strong>Una de esas cosas que cogió popularidad fue el hecho de escribir a mano en su gran pantalla.</strong> Y con este deseo nacieron los stylus de precisión.</p>
+<p>Un stylus de precisión había sido diseñado para la escritura manual, no para el manejo de la interfaz. Y a cada iteración del producto veíamos cómo todo mejoraba consiguiendo representaciones más fieles del trazado, más cualidades, etc. Pero llegó un momento en el que se dieron con un muro y no podían mejorar más, <strong>hasta que llegó Apple con su Apple Pencil.</strong></p>
+<p><span id="more-15010"></span></p>
+<p>La llegada del Apple Pencil no sólo supuso el lanzamiento de un nuevo accesorio, no. <strong>También supuso la mejora de un dispositivo cuyos componentes</strong> (pantalla y panel táctil, entre otros) <strong>mejoraban para ser compatibles con un puntero de precisión.</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133802/iPad-Pro-y-Apple-Pencil.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133802/iPad-Pro-y-Apple-Pencil.jpg" alt="iPad Pro y Apple Pencil" width="2500" height="1667" class="aligncenter size-full wp-image-15013" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133802/iPad-Pro-y-Apple-Pencil.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133802/iPad-Pro-y-Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133802/iPad-Pro-y-Apple-Pencil.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Hasta ese momento, los stylus sólo podían mejorar la parte del accesorio, <strong>pero ahora Apple ha mejorado el dispositivo consiguiendo que la unión entre el stylus y el iPad sea mucho más natural</strong> y desaparezcan muchos roces que existían debido al hardware existente en la tablet.</p>
+<p>Siempre me ha parecido una tontería manejar un dispositivo con un stylus. Cuando lo haces con los dedos tienes 10 punteros naturales que funcionarán en cualquier postura y posición, cuando usas un stylus cambias 10 por uno sólo que no te aporta nada nuevo. Sin embargo, los stylus de precisión sí que aportan cosas nuevas.</p>
+<p>Gracias a ellos puedes escribir casi como si lo hicieses en un papel. Empecé a probarlos en septiembre del 2015, cuando decidí <a target="_blank" title="Mi experiencia escribiendo a mano en el iPad" href="www.macsfera.com/mi-experiencia-escribiendo-a-mano-en-el-ipad/">tomar apuntes con el iPad</a>, <strong>y el acercamiento fue tan bueno que ha sido el detonante de la compra del Apple Pencil.</strong></p>
+<p>Pero basta de hablar del pasado, el presente es el Apple Pencil, y el futuro… también, <strong>así vamos a empezar por las presentaciones para conocer un poco mejor este dispositivo.</strong></p>
+<h2>Así es el Apple Pencil</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133824/Diseno-Apple-Pencil.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133824/Diseno-Apple-Pencil.jpg" alt="Diseño Apple Pencil" width="2500" height="1667" class="aligncenter size-full wp-image-15014" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133824/Diseno-Apple-Pencil.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133824/Diseno-Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133824/Diseno-Apple-Pencil.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Con un diseño minimalista, <strong>el Apple Pencil es un dispositivo con un cuerpo de color blanco que se asemeja a lo que declara en el nombre, un lápiz.</strong> Con un tamaño similar, Apple busca que la diferencia entre usar uno real y su nuevo accesorio sea casi nula, facilitando al usuario la migración a un mundo que a alguno le puede crear rechazo desde el principio.</p>
+<p>En el extremo inferior, en vez de tener una punta de metal, grafito, o incluso <a target="_blank" title="Adonit Jot Pro: un gran stylus para escribir en el iPad" href="www.macsfera.com/adonit-jot-pro-gran-stylus-escribir-ipad/">un disco de plástico</a>, <strong>el Apple Pencil tiene una punta de goma intercambiable</strong> que será la que entre en contacto con la pantalla, asegurándonos que la va a tratar de la mejor forma posible.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133846/Puerto-Lightning-Apple-Pencil.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133846/Puerto-Lightning-Apple-Pencil.jpg" alt="Puerto Lightning Apple Pencil" width="2500" height="1667" class="aligncenter size-full wp-image-15015" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133846/Puerto-Lightning-Apple-Pencil.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133846/Puerto-Lightning-Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133846/Puerto-Lightning-Apple-Pencil.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En la parte superior, en vez de tener una goma de borrar, <strong>tiene una tapa magnética que nos revela un puerto Lightning macho.</strong> Este puerto cumplirá dos funciones:</p>
+<ol>
+<li><strong>Cargar el Apple Pencil:</strong> cuando nos quedemos sin batería en el dispositivo, podremos conectarlo a nuestro iPad para cargarlo y seguir trabajando.</li>
+<li><strong>Vincular el Apple Pencil:</strong> como es un dispositivo Bluetooth, necesita parearse con el iPad y en Apple han pensado que la mejor forma de hacerlo es introduciéndolo por el puerto Lightning para que se haga de forma automática.</li>
+</ol>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133912/Cargar-Apple-Pencil.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133912/Cargar-Apple-Pencil.jpg" alt="Cargar Apple Pencil" width="2500" height="1667" class="aligncenter size-full wp-image-15016" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133912/Cargar-Apple-Pencil.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133912/Cargar-Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133912/Cargar-Apple-Pencil.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Podríamos debatir sobre lo ridículo que queda conectar el Apple Pencil al iPad, pero la realidad es que no tener que llevar un cable USB y un adaptador a la corriente es lo mejor que le podría haber pasado a la independencia de este accesorio.</p>
+<p>El resto de propiedades del dispositivo quedan ocultas en su interior: Bluetooth, giroscopio, sensores de presión, etc. Todo lo necesario para que el Apple Pencil reconozca la palma de la mano, detecte la presión con la que escribimos y reaccione al ángulo o la velocidad del dispositivo.</p>
+<h2>Próximas implementaciones</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133930/Mejoras-del-Apple-Pencil.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133930/Mejoras-del-Apple-Pencil.jpg" alt="Mejoras del Apple Pencil" width="2500" height="1667" class="aligncenter size-full wp-image-15017" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133930/Mejoras-del-Apple-Pencil.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133930/Mejoras-del-Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133930/Mejoras-del-Apple-Pencil.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Voy a pasar a hablaros de lo que me gustaría que cambiasen en modelos futuros.</strong> O dicho de otra forma, lo que menos me gusta del dispositivo.</p>
+<p><a target="_blank" title="Apple Pencil: gestión inteligente de la batería" href="www.macsfera.com/apple-pencil-gestion-inteligente-la-bateria/">El sistema de encendido y detección del Apple Pencil es inteligente</a>. Funciona por movimiento y eso hace que tengamos que recurrir a un <a target="_blank" title="Cómo ahorrar batería del Apple Pencil" href="www.macsfera.com/ahorrar-bateria-del-apple-pencil/">truco para ahorrar batería</a>. Ese truco implica tener que conectar físicamente el dispositivo cada vez que queramos hacer uso de él. <strong>En el futuro estaría bien que con sólo elegirlo en el menú de Bluetooth del iPad se conectase,</strong> por ejemplo.</p>
+<p>Si bien el diseño del Apple Pencil es de los más bonitos que recuerdo de Apple, <strong>no es del todo práctico puesto que ese acabado brillante hace que el stylus se nos resbale en más de una ocasión cuando estamos escribiendo.</strong> No hace falta tener la mano sudada, simplemente se va resbalando poco a poco y debemos recolocarlo a medida que avanzamos en la escritura. Es cierto que no es algo que ocurra siempre, pero es molesto, como cuando ocurre en otros bolis.</p>
+<p>Además, hay que sumarle el hecho de que <strong>el dispositivo es capaz de rodar indefinidamente,</strong> algo que multiplica enormemente las posibilidades de que se nos rompa por caerse de la mesa. He visto a un montón de personas que colocan un clip de otro boli en la parte superior precisamente para evitar que ruede por ninguna superficie.</p>
+<p>El diseño es precioso, sí, pero ha de ser útil, y el del Apple Pencil no lo es del todo, no es un error, <strong>pero sí creo que deberían mejorarlo en el futuro.</strong></p>
+<h2>Bondades del Apple Pencil</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133954/Pintando-con-el-Apple-Pencil.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133954/Pintando-con-el-Apple-Pencil.jpg" alt="Pintando con el Apple Pencil" width="2500" height="1667" class="aligncenter size-full wp-image-15018" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30133954/Pintando-con-el-Apple-Pencil.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133954/Pintando-con-el-Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30133954/Pintando-con-el-Apple-Pencil.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Aún así, <strong>el Apple Pencil tiene una serie de bondades que hacen de él el mejor stylus que uno puede comprar para el <a target="_blank" title="iPad Pro: lo que esperaba, y mucho más" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/">iPad Pro</a>.</strong></p>
+<p><strong>El dispositivo es muy fino,</strong> más que los modelos que he probado con Bluetooth de otras marcas. Además, <strong>es firme,</strong> cuando lo tienes en la mano sientes que tienes un boli equilibrado que puedes usar a tu favor cuando escribes.</p>
+<p>A pesar de que hay ocasiones en las que resbala un poco, cuando no lo hace es muy cómodo de usar. Gracias al tamaño que ya tenemos asumido y a su peso, <strong>escribir con él no supone una transformación en nuestra forma natural de escribir.</strong></p>
+<p><strong><em>Precisión</em> es una palabra que debería ir unida al Apple Pencil.</strong> Es el stylus más preciso que existe, y probablemente exista en un futuro próximo. Apenas hay lag entre la punta y la tinta virtual. Se respeta la presión, la inclinación y la velocidad y, curiosamente, da el do de pecho cuando trazamos en documentos con poco nivel de detalle. No sé como lo hacen pero aquí sí se cumple la frase <em>«donde pone el ojo, pone la bala»</em>. La mejor forma de verlo es acercaros a una Apple Store, pedir un ejemplar de prueba y estar cacharreando con él un buen rato. <strong>Os aseguro que la calidad que tiene no es comparable con ningún producto existente hoy en día.</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134014/Apple-Pencil-y-iPad-Pro-Rose-Gold.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134014/Apple-Pencil-y-iPad-Pro-Rose-Gold.jpg" alt="Apple Pencil y iPad Pro Rose Gold" width="2500" height="1667" class="aligncenter size-full wp-image-15019" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134014/Apple-Pencil-y-iPad-Pro-Rose-Gold.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134014/Apple-Pencil-y-iPad-Pro-Rose-Gold.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134014/Apple-Pencil-y-iPad-Pro-Rose-Gold.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Además, <strong>el dispositivo es versátil.</strong> Lo mismo te sirve para escribir a mano, para pintar o para editar fotos. Se adapta perfectamente a todas las situaciones y llega a ser la herramienta perfecta para cada una de ellas.</p>
+<p><strong>Su punta facilita mucho las cosas la verdad.</strong> Se desliza por el cristal de la pantalla con soltura y suavidad, de modo que no se nota que estás escribiendo en un medio distinto al papel. <strong>Apenas hay curva de aprendizaje porque todo está tan trabajado que no notas la diferencia.</strong></p>
+<h2>El Apple Pencil y el software</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134036/Opinion-del-Apple-Pencil.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134036/Opinion-del-Apple-Pencil.jpg" alt="Opinion del Apple Pencil" width="2500" height="1667" class="aligncenter size-full wp-image-15020" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134036/Opinion-del-Apple-Pencil.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134036/Opinion-del-Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134036/Opinion-del-Apple-Pencil.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Una de las ventajas de usar un dispositivo Bluetooth, como os dije en el artículo de tomar apuntes en el iPad, es que hay ciertas funciones en el dispositivo, y en este caso no iba a ser distinto, así que <strong>vamos a ver qué se puede hacer y qué no con el Apple Pencil en cuanto al software,</strong> siempre y cuando éste sea compatible.</p>
+<p>Empecemos hablando de la detección de la mano. El Apple Pencil es capaz de transmitir al iPad cuándo está haciendo un trazo, <strong>de modo que podremos apoyar la palma de la mano sin problemas en la pantalla</strong> sin miedo de que pintemos con ella, activemos cosas, etc.</p>
+<p><strong>También es capaz de emular la presión que ejercemos y la velocidad a la que desplazamos el Apple Pencil por la pantalla.</strong> De esta forma, se simula mucho mejor el trazado real siendo más intenso, más fino, más gordo, etc.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134057/Sombras-con-el-Apple-Pencil.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134057/Sombras-con-el-Apple-Pencil.jpg" alt="Sombras con el Apple Pencil" width="2500" height="1667" class="aligncenter size-full wp-image-15021" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134057/Sombras-con-el-Apple-Pencil.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134057/Sombras-con-el-Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134057/Sombras-con-el-Apple-Pencil.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>La inclinación también afectará al comportamiento virtual del puntero,</strong> consiguiendo los famosos efectos de sombra, o algo un poco más útil como aumentar el tamaño de grosor del puntero a medida que lo inclinamos más y más.</p>
+<p>No todas las aplicaciones son compatibles con las distintas propiedades del Apple Pencil, e incluso si pone que es compatible, no tiene porqué implementar todas ellas.</p>
+<p>Por poner un ejemplo, <a target="_blank" title="GoodNotes: mi iPad convertido en cuaderno" href="www.macsfera.com/goodnotes-mi-ipad-convertido-en-cuaderno/">yo uso GoodNotes</a> y es compatible con algunas propiedades, pero no con todas <sup class="modern-footnotes-footnote ">1</sup>. Si queréis usar una aplicación en particular, <strong>deberéis informaros antes para ver si cumple con todos los requisitos que buscáis</strong> para no malgastar vuestro dinero creyendo algo que no era <sup class="modern-footnotes-footnote ">2</sup>.</p>
+<h2>Precio y compatibilidad</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134117/Apple-Pencil-en-su-caja.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134117/Apple-Pencil-en-su-caja.jpg" alt="Apple Pencil en su caja" width="2500" height="1667" class="aligncenter size-full wp-image-15022" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134117/Apple-Pencil-en-su-caja.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134117/Apple-Pencil-en-su-caja.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134117/Apple-Pencil-en-su-caja.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>El Apple Pencil está disponible por 110€ en cualquier Apple Store o en la <a target="_blank" href="http://www.apple.com/es/shop/product/MK0C2ZM/A/apple-pencil-para-el-ipad-pro">Apple Store Online</a>.</strong></p>
+<p>Por desgracia, debido a su avanzada tecnología, <strong>sólo es compatible con los iPad Pro,</strong> tanto <a target="_blank" title="Nuevo iPad Pro" href="www.macsfera.com/nuevo-ipad-pro/">de 12,9</a> como de <a target="_blank" title="Nuevo iPad Pro de 9,7”" href="www.macsfera.com/nuevo-ipad-pro-97/">9,7 pulgadas</a>. Esto se debe a que el iPad también se ha visto modificado para que el accesorio sea más preciso. Por un lado, las capas del panel táctil se han visto afectadas, y por el otro, el escaneo de la señal aumenta cuando nota al Apple Pencil para que el trazado cazado sea mucho más preciso.</p>
+<p>De modo que <strong>si no tenéis un iPad Pro, este dispositivo no va a funcionar en vuestro iPad.</strong> No es que vaya a fallar alguna vez o que haya alguna propiedad que no funcione. No. No va a funcionar nada.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134140/Apple-Pencil.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134140/Apple-Pencil.jpg" alt="Apple Pencil" width="2500" height="1667" class="aligncenter size-full wp-image-15023" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134140/Apple-Pencil.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134140/Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134140/Apple-Pencil.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Creo que Apple ha hecho un gran trabajo con el Apple Pencil.</strong> El dispositivo es realmente bueno y merece cada euro que cuesta. Además, creo que ha avanzado la tecnología de los stylus muchísimo gracias a esas modificaciones en el iPad para que soporten oficialmente este tipo de dispositivos y dando las herramientas de software a los desarrolladores para que puedan implementar todas las propiedades.</p>
+<p>Por supuesto, <strong>tiene cosas que mejorar,</strong> como os he comentado. El sistema de conexión es algo que me afecta a mí personalmente, pero creo que el cuerpo resbaladizo y el hecho de que puede girar sin parar deberían tener una solución en futuras versiones.</p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134200/Apple-Pencil-y-iPad-Pro1.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134200/Apple-Pencil-y-iPad-Pro1.jpg" alt="Apple Pencil y iPad Pro" width="2500" height="1667" class="aligncenter size-full wp-image-15024" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/30134200/Apple-Pencil-y-iPad-Pro1.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134200/Apple-Pencil-y-iPad-Pro1.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/30134200/Apple-Pencil-y-iPad-Pro1.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Pero con todo ello incluido, <strong>lo considero el mejor stylus que existe ahora mismo para el iPad Pro.</strong></p>
+<p>Si os gusta escribir a mano, pintar, editar fotos o cualquier otro tipo de actividad que necesite de un stylus de precisión, sopesar muy bien el invertir esa cantidad de dinero porque vais a obtener el mejor resultado del mercado, sin lugar a dudas.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;GoodNotes detecta la mano, la presión y la velocidad, pero en cambio la inclinación no.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Que GoodNotes no tenga detección de inclinación para mí no supone un problema, pero si hubiese carecido de detección de la palma, la hubiese descartado.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-pencil-mejor-stylus-ipad/">Apple Pencil: el mejor stylus para el iPad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Beats Solo2 inalámbricos: mi opinión</title>
+		<link>https://www.MacSfera.com/beats-solo2-inalambricos-mi-opinion/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2015 13:51:47 +0000</pubDate>
+				<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Beats]]></category>
+		<category><![CDATA[Beats Solo2]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Productos de Apple]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=11908</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/beats-solo2-inalambricos-mi-opinion/">Beats Solo2 inalámbricos: mi opinión</a></p>
+<p>Nunca he sido muy fan de la marca Beats, he oído durante muchos años de todo sobre ella, tanto cosas buenas como</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/beats-solo2-inalambricos-mi-opinion/">Beats Solo2 inalámbricos: mi opinión</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/beats-solo2-inalambricos-mi-opinion/">Beats Solo2 inalámbricos: mi opinión</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04115741/Beats-Solo-2-inalambricos-gris-espacial.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04115741/Beats-Solo-2-inalambricos-gris-espacial.jpg" alt="Beats Solo 2 inalambricos gris espacial" width="2500" height="1667" class="aligncenter size-full wp-image-11926" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04115741/Beats-Solo-2-inalambricos-gris-espacial.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04115741/Beats-Solo-2-inalambricos-gris-espacial.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04115741/Beats-Solo-2-inalambricos-gris-espacial.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Nunca he sido muy fan de la marca Beats, he oído durante muchos años de todo sobre ella, tanto cosas buenas como cosas malas. Pero independientemente de lo que opinase la gente, <strong>nunca he tenido un producto suyo</strong> y <a href="http://www.mylaif.es/post/15453246839/y-si-me-pillo-unos-de-estos" title="Y si me pillo unos de estos" target="_blank">rara vez</a> me he planteado comprar algo de la marca.</p>
+<p>Mi razonamiento era simple: <strong>demasiado dinero para unos cascos.</strong> Y no porque fuesen cascos o de mala calidad, sino por el uso que le iba a dar yo a esos cascos. Sí, utilizo cascos, pero de todas las veces que uso cascos, la mayoría me conformo con <a href="http://www.mylaif.es/tagged/EarPods" title="EarPods" target="_blank">los EarPods de Apple</a> <sup class="modern-footnotes-footnote ">1</sup>. El resto de veces sí que es verdad que me gusta tener unos auriculares cómodos para estar el máximo tiempo posible con ellos.</p>
+<p><span id="more-11908"></span></p>
+<p>Como soy conformista en ese sentido, veía una tontería gastarme 200€ en unos auriculares que ni si quiera tenían Bluetooth. Su diseño me gustaba, su sonido probablemente también lo haría, pero no les iba a sacar el partido necesario que realmente necesitaban para que me compensase esa inversión. Ahora bien, <strong>las cosas han cambiado y he acabado haciéndome con unos Beats Solo2 inalámbricos,</strong> y hoy os voy a hablar de ellos.</p>
+<p>Si os estáis preguntando que cómo es posible que yo, que me conformo con unos <a href="http://www.mylaif.es/post/33176731182/sennheiser-hd-201-mi-opini%C3%B3n" title="Sennheiser HD 201: Mi opinión" target="_blank">Sennheiser de 20€</a>, he acabado con unos Beats de 300€, la respuesta es muy sencilla: <strong>gracias al <a href="www.macsfera.com/ya-tenemos-campana-de-vuelta-a-clase-en-espana/" title="Ya tenemos campaña de Vuelta a Clase en España" target="_blank">programa de Vuelta a clase de Apple</a>.</strong> Con la compra de un Mac, la empresa te regalaba unos Beats Solo2 valorados en 200€, pero si pagabas 100€ de tu bolsillo, podías obtener el modelo inalámbrico. Yo me compré hace poco <a href="www.macsfera.com/mi-nuevo-macbook-pro-retina/" title="Mi nuevo MacBook Pro Retina" target="_blank">mi MacBook Pro Retina</a> y decidí lanzarme al modelo inalámbrico. Llevaba buscando unos cascos Bluetooth un tiempo y no encontraba unos por debajo de 150€ así que me pareció una buena idea. <strong>De ese modo es cómo obtuve estos auriculares.</strong></p>
+<h2>Diseño</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144125/Diseno-Beats-Solo2-Wireless-.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144125/Diseno-Beats-Solo2-Wireless-.jpg" alt="Diseno Beats Solo2 Wireless" width="2500" height="1667" class="aligncenter size-full wp-image-11933" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144125/Diseno-Beats-Solo2-Wireless-.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144125/Diseno-Beats-Solo2-Wireless-.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144125/Diseno-Beats-Solo2-Wireless-.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Empecemos hablando por lo que más destaca: <strong>el diseño.</strong> Los cascos son bonitos, sin duda alguna. Tienen un acabado muy agradable, los colores son fantásticos y el producto se siente realmente bien en las manos –a pesar de que <a href="https://medium.com/bolt-blog/how-it-s-made-series-beats-by-dre-154aae384b36" target="_blank">usan pequeños trucos</a> para dar esa sensación.</p>
+<p>Al ser el modelo inalámbrico, la oferta sólo permitía elegirlos entre los colores “premium” –plateado, dorado o gris espacial– <strong>yo me decanté por el último</strong> y no me arrepiento para nada. Es un color muy bonito y elegante que, si bien no deja de ser gris, es una tonalidad más oscura que el aluminio de los productos de Apple (del cual estoy un poco cansado).</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144158/Beats-Solo2-plegados.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144158/Beats-Solo2-plegados.jpg" alt="Beats Solo2 plegados" width="2500" height="1667" class="aligncenter size-full wp-image-11934" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144158/Beats-Solo2-plegados.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144158/Beats-Solo2-plegados.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144158/Beats-Solo2-plegados.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Al igual que en otros modelos, <strong>los Beats Solo2 se pueden plegar</strong> para que ocupen menos espacio y los podamos transportar con mayor facilidad. Por un lado me gusta, ya que en efecto puedes llevarlos de un lado a otro junto a su bolsa sin que ocurra nada. Por otro lado me preocupa un poco, si bien la pieza que hace de tope no parece endeble, el plástico de la estructura general no me aporta la seguridad suficiente como para no preocuparme.</p>
+<p>Algún día puede que vaya a plegarlos y se rompa por un lado porque dicho plástico ha cedido. O al sacarlo de la funda te das cuenta de que debido a alguna presión, hay una rotura en la unión de los soportes. No sé si pasará, ni si quiera si podría pasar, pero son las preocupaciones que me vienen a la cabeza cuando los uso.</p>
+<p>Puesto que son inalámbricos, <strong>hay una serie de controles que están en los auriculares:</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144225/Auricular-derecho-Beats-Solo2-Inalambricos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144225/Auricular-derecho-Beats-Solo2-Inalambricos.jpg" alt="Auricular derecho Beats Solo2 Inalambricos" width="2500" height="1667" class="aligncenter size-full wp-image-11935" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144225/Auricular-derecho-Beats-Solo2-Inalambricos.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144225/Auricular-derecho-Beats-Solo2-Inalambricos.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144225/Auricular-derecho-Beats-Solo2-Inalambricos.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>En el auricular derecho</strong> tenemos el botón de encendido y apagado de los cascos, los LEDs que indican la carga total de la batería y el puerto micro USB para cargarla cuando lo necesitemos.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144246/Auricular-izquierdo-Beats-Solo2-Wireless.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144246/Auricular-izquierdo-Beats-Solo2-Wireless.jpg" alt="Auricular izquierdo Beats Solo2 Wireless" width="2500" height="1667" class="aligncenter size-full wp-image-11936" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144246/Auricular-izquierdo-Beats-Solo2-Wireless.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144246/Auricular-izquierdo-Beats-Solo2-Wireless.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144246/Auricular-izquierdo-Beats-Solo2-Wireless.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>En el auricular izquierdo</strong> tenemos los botones integrados en el diseño. Tanto la b del logotipo de Beats como el aro exterior <strong>son botones camuflados.</strong> La b nos sirve para hacer el pareado Bluetooth, para reproducir o pausar una canción con un solo clic o para poner la siguiente pista o anterior con dos o tres clics respectivamente <sup class="modern-footnotes-footnote ">2</sup>. Si recibimos una llamada también nos servirá para descolgar y colgar la llamada. El anillo exterior tiene dos botones ocultos, uno arriba y otro abajo, sirven para controlar el volumen de la música y de la llamada en curso. Además, este auricular cuenta con el micrófono incorporado, con un LED que nos indica si el dispositivo está enlazado o no y con una toma jack con la que podremos conectar los cascos a un terminal.</p>
+<p>Me ha sorprendido mucho que <strong>los controles estuviesen en el lado izquierdo.</strong> Sinceramente. La mayoría de la población es diestra e intuía que por esa razón estaban en el lado derecho de la mayoría de cascos del mercado. Pero en los Beats Solo2 no, están en el lado izquierdo. Tal vez sea porque la mayoría de las veces que hacemos una tarea lo hacemos con la derecha y la mano que tenemos libre es la izquierda, <strong>así podemos manejar los controles con rapidez.</strong> No lo sé. En cualquier caso, no supone mucho problema porque no hay que tener precisión a la hora de usarlos, pero quería destacarlo.</p>
+<h2>Sonido</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144313/Auricular-Beats-Solo2-Wireless.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144313/Auricular-Beats-Solo2-Wireless.jpg" alt="Auricular Beats Solo2 Wireless" width="2500" height="1667" class="aligncenter size-full wp-image-11937" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144313/Auricular-Beats-Solo2-Wireless.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144313/Auricular-Beats-Solo2-Wireless.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144313/Auricular-Beats-Solo2-Wireless.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Entramos en terreno peligroso. He leído de todo sobre este apartado antes de tener los Beats. Que si son una basura. Que si son increíbles. Que si no merecen el dinero que cuestan <sup class="modern-footnotes-footnote ">3</sup>. Que si están sobrevalorados. Que si triunfan porque están de moda. Que si triunfan porque son geniales. De todo.</p>
+<p>No me gusta mentiros y no voy a empezar ahora. <strong>No tengo tan buen oído como para saber si el sonido es más o menos bueno.</strong> No soy un experto, no sé los matices musicales que deben transmitir unos auriculares y no me voy a dar por un entendido, sólo puedo transmitiros mis sensaciones y opiniones. Para obtenerlas he comparado los cascos con otros que he podido probar, he escuchado canciones que sé cómo deberían sonar y me he fijado en lo que me han trasmitido estos cascos a la hora de escuchar la música <sup class="modern-footnotes-footnote ">4</sup>.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144338/Beats-Solo2-Wireless-gris-espacial.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144338/Beats-Solo2-Wireless-gris-espacial.jpg" alt="Beats Solo2 Wireless gris espacial" width="2500" height="1667" class="aligncenter size-full wp-image-11938" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144338/Beats-Solo2-Wireless-gris-espacial.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144338/Beats-Solo2-Wireless-gris-espacial.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144338/Beats-Solo2-Wireless-gris-espacial.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Sí, los Beats Solo2 suenan bien.</strong> Muy bien bajo mi punto de vista. <strong>Los cascos aíslan que da gusto.</strong> Te los pones y es como estar en tu propia burbuja. Eso hace que el sonido que proyectan sea alto y claro, sin necesidad de tener que elevar el volumen al máximo. Es una de las ventajas de la cancelación de ruido exterior. En ningún momento he tenido que subir el volumen al máximo. De hecho, al hacerlo lo único que he conseguido es hacerme daño.</p>
+<p><strong>La representación del sonido ha sido fiel.</strong> He escuchado canciones y he obtenido la misma sensación o mejor que en otras ocasiones, no ha habido un momento en el que me haya molestado que no estuviese usando otros cascos o altavoces, yo eso lo interpreto como algo bueno. Es más, ha habido canciones en las que <strong>he apreciado mucho mejor el sonido y los matices de la melodía.</strong></p>
+<p>Como Beats pertenece a Apple y yo no soy un experto en sonido, lo mejor que podéis hacer es pasaros por una Apple Store a probarlos. Es más, no os recomiendo que os guiéis por lo que pone en la red porque cada persona es un mundo y esto algo bastante personal como para no probarlo de primera mano.</p>
+<h2>Comodidad </h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144400/Comodidad-Beats-Solo2-Inalambricos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144400/Comodidad-Beats-Solo2-Inalambricos.jpg" alt="Comodidad Beats Solo2 Inalambricos" width="2500" height="1667" class="aligncenter size-full wp-image-11939" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144400/Comodidad-Beats-Solo2-Inalambricos.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144400/Comodidad-Beats-Solo2-Inalambricos.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144400/Comodidad-Beats-Solo2-Inalambricos.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Este es el punto más importante de la review. Lo primero que busco en unos cascos es que sean cómodos. Que puedas llevarlos el máximo tiempo posible sin que suponga un problema y que puedas usarlo en la mayoría de situaciones. Como ya digo, <strong>para mí es lo más importante.</strong></p>
+<p>Las almohadillas que consiguen la cancelación de ruido exterior son pequeñas para lo que estoy acostumbrado. <strong>Lo que significa que no te cubren la oreja entera y puede haber problemas a la hora de sentirte confortable con ellos.</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144421/Patilla-Beats-Solo2-Inalambricos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144421/Patilla-Beats-Solo2-Inalambricos.jpg" alt="Patilla Beats Solo2 Inalambricos" width="2500" height="1667" class="aligncenter size-full wp-image-11940" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144421/Patilla-Beats-Solo2-Inalambricos.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144421/Patilla-Beats-Solo2-Inalambricos.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144421/Patilla-Beats-Solo2-Inalambricos.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>He de admitirlo, <strong>al principio no conseguía hacerme con ellos.</strong> Entre que estoy acostumbrado a que mi oreja esté en contacto con el auricular, que llevo gafas y que no me ajusté la diadema todo lo correctamente posible, era insoportable tenerlos más de 30-40 minutos. <strong>El mal ajuste provocaba que las orejas me doliesen y detestase usar los auriculares.</strong></p>
+<p>Pero observándolo bien y trasteando un poco, conseguí hacerme con ellos <sup class="modern-footnotes-footnote ">5</sup> siendo plenamente cómodos. Lo que sí me gustaría destacar es que hay que tenerlos bien colocados desde el principio porque si no vamos a acabar con un dolor de orejas considerable.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144443/Beats-Solo2-inalambricos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144443/Beats-Solo2-inalambricos.jpg" alt="Beats Solo2 inalambricos" width="2500" height="1667" class="aligncenter size-full wp-image-11941" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144443/Beats-Solo2-inalambricos.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144443/Beats-Solo2-inalambricos.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144443/Beats-Solo2-inalambricos.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Como he comentado, Apple regalaba una versión no inalámbrica, pero por un suplemento de 100€ obteníamos la inalámbrica. <strong>Es la mejor decisión que he tomado.</strong> El Bluetooth te da una movilidad y una libertad absoluta. Algo que llevaba deseando bastante tiempo pero que empecé a buscar hace poco.</p>
+<p><strong>Da gusto no tener cables por ningún lado.</strong> Poder pasear por tu habitación sin preocuparte de dar tirones o arramplar con media mesa. Conectar los cascos es muy sencillo y no es necesario desconectar los altavoces que tengas enchufados por el puerto Jack <sup class="modern-footnotes-footnote ">6</sup>.</p>
+<p>Obviamente, esta movilidad no está sujeta a estos cascos, pero yo lo he descubierto así y me gusta compartirlo. Además, como la oferta permite hacerte con este modelo, me gusta reflejar el hecho de que la inversión merece mucho la pena.</p>
+<h2>Rendimiento</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144503/Beats-Solo2-inalambricos-plegados.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144503/Beats-Solo2-inalambricos-plegados.jpg" alt="Beats Solo2 inalambricos plegados" width="2500" height="1667" class="aligncenter size-full wp-image-11942" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144503/Beats-Solo2-inalambricos-plegados.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144503/Beats-Solo2-inalambricos-plegados.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144503/Beats-Solo2-inalambricos-plegados.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ya os he hablado del sonido <sup class="modern-footnotes-footnote ">7</sup> y de la comodidad, es hora de hablar del rendimiento de los auriculares.</p>
+<p><strong>La batería es el punto a tratar más importante aquí.</strong> La autonomía en un dispositivo Bluetooth debe ser lo más grande que pueda y aquí los Beats Solo2 no se quedan atrás. En las instrucciones indican que tiene 12 horas de autonomía, nunca los he usado tanto tiempo de seguido, pero sí de forma interrumpida <strong>y puedo aseguraros que la batería dura.</strong> Dura mucho.</p>
+<p>Beats aquí <strong>ha hecho bien al incluir los LEDs indicadores de batería,</strong> así nos podemos hacer una rápida idea de cuanto le queda. Además, si el dispositivo es compatible, podremos saber cuánta batería resta ya que queda reflejado en el software <sup class="modern-footnotes-footnote ">8</sup>.</p>
+<p>Al encender los cascos, se conectará al último dispositivo enlazado, de no encontrarlo irá a uno conocido. Si tenemos varios dispositivos, cambiar entre unos y otros es tan sencillo como dejar pulsado la b durante 2 segundos y esperar a que el equipo lo reconozca. Desconozco si hay límite de dispositivos a los que se puede enlazar (si es que lo hay).</p>
+<p>Hay una cosa que me ha gustado ver, y es que <strong>Beats <a href="http://namemybeats.com/" target="_blank">ha hecho un software</a> que permite actualizar el firmware de los cascos</strong> para conseguir que la conexión Bluetooth vaya mejor, el tiempo de respuesta se reduzca y podamos ponerles un nombre. No sé que ritmo de actualizaciones tendrán, pero por lo menos tenemos esa posibilidad.</p>
+<h2>Accesorios</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144533/Accesorios-Beats-Solo2-Inalambricos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144533/Accesorios-Beats-Solo2-Inalambricos.jpg" alt="Accesorios Beats Solo2 Inalambricos" width="2500" height="1667" class="aligncenter size-full wp-image-11943" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144533/Accesorios-Beats-Solo2-Inalambricos.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144533/Accesorios-Beats-Solo2-Inalambricos.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144533/Accesorios-Beats-Solo2-Inalambricos.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Los Beats Solo2 inalámbricos vienen con unos pocos accesorios,</strong> nada que destacar, pero que sí quiero comentar.</p>
+<p>El primero de todos <strong>es una funda</strong> con la que podremos llevar los cascos una vez plegados. La funda no es rígida, es de tela y está un poco acolchada, nos servirá sobre todo para proteger los cascos de arañazos, aunque no de golpes. Con la funda también viene un pequeño mosquetón para que la podamos anclar a nuestra mochila, bolsa, etc.</p>
+<p>Trae <strong>un cable micro USB</strong> con el que podremos cargar los auriculares cuando se queden sin batería. También nos servirá para poder actualizar los cascos con la aplicación antes mencionada.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144548/Microfono-jack-de-los-Beats-Solo2-Wireless.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144548/Microfono-jack-de-los-Beats-Solo2-Wireless.jpg" alt="Microfono jack de los Beats Solo2 Wireless" width="2500" height="1667" class="aligncenter size-full wp-image-11944" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144548/Microfono-jack-de-los-Beats-Solo2-Wireless.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144548/Microfono-jack-de-los-Beats-Solo2-Wireless.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144548/Microfono-jack-de-los-Beats-Solo2-Wireless.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Por último, trae <strong>un cable jack</strong> con el que podremos conectar los cascos a cualquier dispositivo independientemente de si tiene Bluetooth, si es compatible o si los Beats no tienen batería. El cable incluye, además, un control de audio, de reproducción de la música y micrófono incorporado. Esto me ha gustado mucho porque en un hipotético caso en el que estás viajando y te quedas sin batería, puedes seguir usándolos sin perder ninguna prestación.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144914/Beats-Solo2-Inalambricos-Gris-Espacial.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144914/Beats-Solo2-Inalambricos-Gris-Espacial.jpg" alt="Beats Solo2 Inalambricos Gris Espacial" width="2500" height="1667" class="aligncenter size-full wp-image-11945" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144914/Beats-Solo2-Inalambricos-Gris-Espacial.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144914/Beats-Solo2-Inalambricos-Gris-Espacial.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144914/Beats-Solo2-Inalambricos-Gris-Espacial.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>No me arrepiento de mi compra.</strong> Pagar los 100€ me ha brindado una comodidad extrema a la hora de usar los cascos y creo que la jugada no podía haber salido mejor. La cosa es que si te los regalan con la promoción, vale, pero si tienes que gastarte tú 300€ de tu bolsillo, <strong>no lo haría.</strong> No lo haría porque no soy ese tipo de persona tan exigente con los auriculares.</p>
+<p>Si por el contrario podéis disfrutar de la oferta de Vuelta a clase, ya sabéis, yo no dudaría la verdad. La comodidad inalámbrica es genial, y pocas veces vais a tener 200€ de descuento sobre un precio de 300€.</p>
+<p>No sé cual ha sido el motivo de que Apple haya querido regalar unos auriculares tan caros en vez de su <a href="http://www.mylaif.es/post/56788130734/nunca-me-hab%C3%ADa-alegrado-tanto-de-ser-estudiante" title="Nunca me había alegrado tanto de ser estudiante :)" target="_blank">típica tarjeta de la App Store</a>. Lo que sé es que cuando se publicó <a href="www.macsfera.com/asi-es-la-campana-vuelta-a-clase-en-eeuu/" title="Así es la campaña Vuelta a clase en EEUU" target="_blank">la oferta en EEUU</a> me ilusioné mucho y por suerte la han aplicado igual aquí.</p>
+<p>En cualquier caso, me gustaría acabar mencionando que ahora tengo mi propia opinión sobre Beats. Me gusta lo que ha hecho la empresa y cómo lo ha hecho. <strong>Desde el empaquetado hasta el uso final pasando por la calidad de los cascos.</strong> Sé que no es un producto para todos los públicos –ni bolsillos– pero aquél que invierta en ellos se encontrará un buen producto.</p>
+<p><span class="source">Compra</span> <span class="via"><a href="http://amzn.to/2jbFQku" target="_blank">Amazon</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Suenan bien, compatibles con mi iPhone, duraderos y discretos.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;El funcionamiento es igual que el de los EarPods.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;¿Y qué lo merece realmente?</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;He podido escuchar <a href="https://itun.es/es/IfXy3?i=929246581" title="Barcelona" target="_blank">Barcelona</a> (de Freddie Mercury y Montserrat Caballé) cientos de veces, pero hay ciertas ocasiones en las que la piel se me pone de gallina por muchas veces que la haya escuchado, y eso es por el medio que la reproduce.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;No es que fuese muy difícil la verdad, sólo tenía que prestar atención y usar el sentido común.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;Algo que en un iMac, Mac mini o Mac Pro es un auténtico tostón.</div><div>7&nbsp;&nbsp;&nbsp;&nbsp;Aunque no os haya podido ayudar en mucho</div><div>8&nbsp;&nbsp;&nbsp;&nbsp;Curiosamente, iOS sí que muestra la batería restante, pero OS X no, a pesar de que sí que lo hace con otros accesorios.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/beats-solo2-inalambricos-mi-opinion/">Beats Solo2 inalámbricos: mi opinión</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cómo instalar OS X El Capitan beta</title>
+		<link>https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/</link>
+					<comments>https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 16:02:20 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Disco de Arranque]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[Preferencias del Sistema]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10885</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/">Cómo instalar OS X El Capitan beta</a></p>
+<p>Ya sabéis todos que en la pasada keynote de la WWDC, Apple presentó la próxima versión de OS X, El Capitan. Además,</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/">Cómo instalar OS X El Capitan beta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/">Cómo instalar OS X El Capitan beta</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/18164259/Instalar-beta-OS-X-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/18164259/Instalar-beta-OS-X-El-Capitan.jpg" alt="Instalar beta OS X El Capitan" width="2500" height="1563" class="aligncenter size-full wp-image-10886" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/18164259/Instalar-beta-OS-X-El-Capitan.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/06/18164259/Instalar-beta-OS-X-El-Capitan.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/18164259/Instalar-beta-OS-X-El-Capitan.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ya sabéis todos que en la <a href="www.macsfera.com/resumen-de-la-keynote-the-epicenter-of-change/" target="_blank" title="Resumen de la keynote The epicenter of change" rel="noopener noreferrer">pasada keynote</a> de la <a href="www.macsfera.com/tag/wwdc15/" title="WWDC15" target="_blank" rel="noopener noreferrer">WWDC</a>, Apple presentó la próxima versión de OS X, El Capitan. Además, con el anunció general, también puso a disposición de los desarrolladores una beta para que probasen las novedades y empezasen a actualizar sus aplicaciones.</p>
+<p>Yo me he hecho con una de estas betas para probar las pocas novedades presentadas y para mostrarlas en texto y vídeo, aunque ahora os voy a explicar cómo instalar la beta sin que tengáis que perder vuestro sistema actual.</p>
+<p><span id="more-10885"></span></p>
+<p>Si habéis seguido alguno de los <a href="www.macsfera.com/como-instalar-os-x-mavericks-beta/" title="Cómo instalar OS X Mavericks Beta" target="_blank" rel="noopener noreferrer">tutoriales anteriores</a>, el sistema es el mismo: <strong>instalar la beta en una partición del sistema o en un disco duro externo</strong> e iniciar el sistema en dicho disco.</p>
+<p>Esto lo hacemos así por varias razones:</p>
+<ol>
+<li>La primera es que es una versión beta, es decir, una versión de prueba, <strong>con fallos, inestabilidades y puede fallar en cualquier cosa y en cualquier momento.</strong></li>
+<li>Las aplicaciones más comunes <strong>pueden no funcionar adecuadamente.</strong> La aplicación más simple y sencilla puede fallar y eso haría que no pudiésemos trabajar en condiciones.</li>
+<li>Una vez probadas las novedades y, en general el sistema, <strong>podemos volver a nuestro escritorio sin haber perdido nada,</strong> ni si quiera tiempo. A parte de que borrar la partición es muy sencillo y no nos traería problema alguno.</li>
+</ol>
+<p>Una vez decidido que lo vamos a instalar en un soporte paralelo a nuestro actual sistema, debemos configurarlo: el disco duro o la partición <strong>debe tener formato Mac OS Plus (con registro) y el tamaño mínimo recomendado es de 15GB.</strong> Todo esto lo podemos hacer con la aplicación Utilidad de Discos del sistema.</p>
+<p>Al acabar de dar formato, ejecutaremos el instalador de <a href="www.macsfera.com/nuevo-os-x-el-capitan/" title="Nuevo OS X El Capitán" target="_blank" rel="noopener noreferrer">OS X El Capitan</a> y seguiremos los pasos de instalación hasta que nos pregunte por la ubicación en la que queremos el nuevo sistema. Ahí es dónde tendremos que tener cuidado porque por defecto se pone el disco duro actual. <strong>Lo cambiamos a la nueva ubicación y proseguimos con la instalación.</strong></p>
+<p>Tras 20-30 minutos de procesamiento, el sistema operativo se reiniciará con la última fase, en esta fase se acaba la instalación y <strong>comenzará la configuración del nuevo equipo y sus cuentas de usuario.</strong></p>
+<p>Después de probar el sistema, si queremos volver al nuestro original, lo que debemos hacer es <strong>ir a Preferencias del Sistema, Disco de Arranque, elegir el nuestro y pulsar en reiniciar.</strong></p>
+<p>He hecho un pequeño vídeo mostrando el proceso de instalación que, si bien es muy sencillo, siempre me gusta ilustrar.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/XtRpWeLYWoo" frameborder="0" allowfullscreen></iframe></p>
+<h2>En serio, es una beta</h2>
+<p>Puede que hayáis leído a gente que se ha instalado esta versión sobre su sistema principal, y puede que también hayáis leído que va muy fluida y que apenas hay errores. <strong>Pero sigue siendo una versión beta,</strong> la primera de hecho. Así que los errores están a la orden del día por muy fluida que vaya.</p>
+<p>Una de las ventajas de instalarla sobre un disco duro externo es que puedes arrancar y probar esa versión desde distintos equipos Mac. Esto a mí me ha venido de perlas porque en el iMac —que es el equipo que uso en el vídeo— <strong>no me reconocía el módulo Bluetooth.</strong> Para que veáis por dónde puede fallar la beta, el sistema ha fallado en una cosa muy simple, que en cambio, sí me reconoce en un MacBook Pro.</p>
+<p>Tened cuidado porque no me gustaría que perdieseis nada importante por querer probar las novedades del próximo sistema de Apple, <strong>de ahí toda la precaución de la instalación y mi insistencia a lo largo del artículo.</strong></p>
+<p>Ahora que tengo la beta, voy a probarla y os traeré en próximos artículos las novedades con todo lujo de detalles.</p>
+<p><span class="source">Descarga</span> <span class="via"><a href="https://imzdl.com/download/El_Capitan_Beta_1/OS_X_10.11_Beta_1" target="_blank" rel="noopener noreferrer">iMZDL</a></span></p>
+<p><span class="source">Vídeo</span> <span class="via"><a href="https://youtu.be/XtRpWeLYWoo" target="_blank" rel="noopener noreferrer">ÁticoMaquero</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/">Cómo instalar OS X El Capitan beta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OS X 10.10.3 disponible con la nueva aplicación Fotos</title>
+		<link>https://www.MacSfera.com/os-x-10-10-3-disponible-con-la-nueva-aplicacion-fotos/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2015 21:29:00 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Fotos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 8]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10525</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-10-3-disponible-con-la-nueva-aplicacion-fotos/">OS X 10.10.3 disponible con la nueva aplicación Fotos</a></p>
+<p>Apple ha liberado hoy la nueva versión de OS X, la 10.10.3 que lleva bastante tiempo en fase beta pero que por</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-10-3-disponible-con-la-nueva-aplicacion-fotos/">OS X 10.10.3 disponible con la nueva aplicación Fotos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-10-3-disponible-con-la-nueva-aplicacion-fotos/">OS X 10.10.3 disponible con la nueva aplicación Fotos</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/08212900/fotos-para-OS-X.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/08212900/fotos-para-OS-X.jpg" alt="fotos para OS X" width="2500" height="1667" class="aligncenter size-full wp-image-10592" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/08212900/fotos-para-OS-X.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/04/08212900/fotos-para-OS-X.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/08212900/fotos-para-OS-X.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Apple ha liberado hoy la nueva versión de <a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank" rel="noopener noreferrer">OS X</a>, la 10.10.3</strong> que lleva bastante tiempo en fase beta pero que por fin llega al público general.</p>
+<p>La principal novedad de esta versión es <strong>la incorporación de la aplicación Fotos,</strong> la nueva forma de gestionar, visualizar y editar todas nuestras fotos sincronizadas con la nube y con el resto de dispositivos. Estaba anunciada desde hace bastante tiempo y por fin la tenemos entre nosotros.</p>
+<p><span id="more-10525"></span></p>
+<p>Además, esta actualización también incluye 300 nuevos Emojis, mejoras de seguridad y estabilidad en Safari, mejoras en el rendimiento, conectividad y compatibilidad del Wi-Fi y soluciones generales con el Bluetooth y con la función de compartir pantalla.</p>
+<p>A raíz de esta actualización, <strong>la versión 8.3 de iOS también ha llegado a nuestros dispositivos.</strong></p>
+<p><strong>Tengo muchas ganas de probar la aplicación fotos,</strong> he resistido la tentación de probarla con todas las betas lanzadas para tocar la versión final de cero y evaluar el trabajo de Apple. He sido un usuario muy activo de iPhoto y dejé de usarlo por razones que contaré en el artículo sobre esta nueva aplicación. Sólo espero que esos motivos ya no estén presentes.</p>
+<p>La actualización tiene un peso de unos 2GB y se realiza –como lleva siendo común desde hace tiempo– desde la <a href="www.macsfera.com/tag/mac-app-store" title="Mac App Store" target="_blank" rel="noopener noreferrer">Mac App Store</a>.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://support.apple.com/es-es/HT204490" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-10-3-disponible-con-la-nueva-aplicacion-fotos/">OS X 10.10.3 disponible con la nueva aplicación Fotos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AirDrop: comparte archivos entre dispositivos Apple</title>
+		<link>https://www.MacSfera.com/airdrop-comparte-archivos-entre-dispositivos-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2015 12:54:17 +0000</pubDate>
+				<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[AirDrop]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Share Sheets]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10464</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/airdrop-comparte-archivos-entre-dispositivos-apple/">AirDrop: comparte archivos entre dispositivos Apple</a></p>
+<p>Hace 4 años, Apple presentó la tecnología AirDrop en OS X y hace 2 la importó a iOS. Aprovechando que nunca he</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/airdrop-comparte-archivos-entre-dispositivos-apple/">AirDrop: comparte archivos entre dispositivos Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/airdrop-comparte-archivos-entre-dispositivos-apple/">AirDrop: comparte archivos entre dispositivos Apple</a></p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/16011533/AirDrop-para-Mac1.jpg" rel="attachment wp-att-14060"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/16011533/AirDrop-para-Mac1.jpg" alt="Airdrop para Mac" width="1033" height="615" class="aligncenter size-full wp-image-14060" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/03/16011533/AirDrop-para-Mac1.jpg 1033w, https://cdn.macsfera.com/wp-content/uploads/2015/03/16011533/AirDrop-para-Mac1.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/03/16011533/AirDrop-para-Mac1.jpg 1024w" sizes="(max-width: 1033px) 100vw, 1033px" /></a></p>
+<p>Hace 4 años, Apple presentó la tecnología <a href="www.macsfera.com/mac-os-x-lion-con-muchas-novedades-para-julio-30/" title="Mac OS X Lion con muchas novedades para Julio. 23,99€" target="_blank">AirDrop en OS X</a> y hace 2 la importó a iOS. Aprovechando que nunca he hablado de este mecanismo y que el <a href="www.macsfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/" title="La gama MacBook vuelve a Apple con este nuevo modelo" target="_blank">nuevo MacBook</a> confía su potencial en la <a href="www.macsfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/" title="Características de OS X para prescindir de los cables" target="_blank">conectividad inalámbrica</a>, <strong>hoy voy a explicar qué es y cómo funciona AirDrop.</strong></p>
+<p><strong>AirDrop es un sistema de transmisión de archivos</strong> que utiliza la tecnología Bluetooth y Wi-Fi para llevar a cabo su cometido. Se basa en la &quot;cercanía&quot; de los dispositivos para enviar lo que seleccionamos, el radio de acción es de 9 metros o menos y es obligatorio que los dos dispositivos sean Apple y compatibles con AirDrop.</p>
+<p><span id="more-10464"></span></p>
+<h2>Cómo funciona AirDrop</h2>
+<p>A pesar de que el cometido es el mismo, <strong>AirDrop funciona de forma diferente para dispositivos nuevos o viejos.</strong> Para un dispositivo Mac viejo usa sólo la antena Wi-Fi, mientras que para un dispositivo Mac o iOS nuevo usa tanto la antena Wi-Fi como Bluetooth.</p>
+<p>AirDrop <strong>usa el emisor Bluetooth para localizar otros dispositivos que estén disponibles,</strong> revelando a su vez su posibilidad de entablar conexión. Una vez emparejados, <strong>crea una señal Wi-Fi</strong> paralela a la que estemos usando en ese momento, <strong>a dicha señal se va a conectar el dispositivo al que queramos transmitir los archivos</strong> y gracias al protocolo podremos ejecutar la transferencia. Como funciona así, no es necesario que los dispositivos estén conectados a la misma red Wi-Fi (con la que accederíamos a Internet), <strong>es un proceso independiente que no requiere de acceso a Internet.</strong></p>
+<p>Una vez que el dispositivo receptor acepta el envío se inicia la transferencia a través del canal Wi-Fi. <strong>No hay límite de peso en los archivos que podemos enviar,</strong> pero cuanto mayor peso tenga lo que enviemos, más tardará en recibirse.</p>
+<h2>Cómo usar AirDrop</h2>
+<p>Este es un proceso práctico dónde <strong>veremos cómo usar AirDrop entre Macs, entre dispositivos iOS y en la combinación de ambos.</strong> En todos los casos vamos a suponer que la antena Wi-Fi y Bluetooth están activados y que la visibilidad es la adecuada:</p>
+<h3>Visibilidad de AirDrop</h3>
+<p>Al igual que pasaba cuando queríamos pasar algo entre móviles con Bluetooth, AirDrop tiene opciones de visibilidad, una capa de seguridad para que no se nos localice si no lo deseamos.</p>
+<ul>
+<li><strong>Visible para ninguno:</strong> De esta forma no seremos visibles ante ningún usuario, conocido o no conocido. Nosotros sí que podremos ver a las personas que hay alrededor pero ellas a nosotros no.</li>
+<li><strong>Visible para solo contactos:</strong> Con esta opción seremos visibles para todos los contactos que tengamos agregados en la aplicación Contactos. Es necesario que el perfil contenga el email que tienen asociado a la cuenta de iCloud.</li>
+<li><strong>Visible para todos:</strong> Por último, podemos ser visible para todos los usuarios que estén a nuestro alrededor usando AirDrop. De esta manera cualquier usuario puede enviarnos archivos.</li>
+</ul>
+<p>La configuración de la visibilidad se hace en la propia ventana de AirDrop de modo que podemos cambiarlo a golpe de click dependiendo de la situación.</p>
+<h3>De Mac a Mac</h3>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/16011954/Como-funciona-AirDrop1.gif" rel="attachment wp-att-14063"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/16011954/Como-funciona-AirDrop1.gif" alt="Como funciona AirDrop" width="860" height="500" class="aligncenter size-full wp-image-14063" /></a></p>
+<p><strong>El proceso se hace a través de la ventana de AirDrop en Finder.</strong> En el ordenador emisor, Finder mostrará que está disponible el ordenador receptor para pasar archivos y tan solo hay que arrastrar ese archivo al icono que representa al ordenador receptor.</p>
+<p>El sistema nos preguntará si queremos enviar los archivos, al aceptar, el Mac receptor será preguntando por si quiere recibirlos. Si todo se confirma la transacción empezará y el archivo se guardará en el Mac.</p>
+<p>Otra forma de hacerlo es <strong><a href="www.macsfera.com/os-x-mountain-lion-inspirado-en-el-ipad-re-imaginado-para-el-mac/" title="OS X Mountain Lion: Inspirado en el iPad. Re-imaginado para el Mac" target="_blank">usando la propiedad Share Sheets de OS X</a>.</strong> Al elegir la opción de compartir por AirDrop se abrirá una pequeña ventana con el archivo elegido y los candidatos a compartir. Es una forma más rápida de llevar a cabo el proceso aprovechando las funciones que se han ido añadiendo poco a poco a OS X.</p>
+<h4>Macs antiguos</h4>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163237/AirDrop-en-Macs-antiguos.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163237/AirDrop-en-Macs-antiguos.png" alt="AirDrop en Macs antiguos" width="825" height="404" class="aligncenter size-full wp-image-10468" /></a></p>
+<p>Los Macs que son más antiguos del 2012 pueden usar AirDrop pero <strong>no de la forma tradicional con la que Apple quiere que funcione el sistema.</strong> Por ello, en equipos nuevos, al lado de las opciones de visibilidad, tenemos un pequeño botón que hace referencia a dichos Macs. Al pulsar este botón y confirmar que queremos hacer una búsqueda de Macs antiguos, aparecerán en pantalla todos los Macs que antes no podíamos ver.</p>
+<p>Hasta que el Mac &quot;nuevo&quot; no habilite la opción, <strong>ni si quiera aparecerá entre la lista de visibles del Mac antiguo.</strong> En cuanto entre en el modo antiguo, ya podremos iniciar la transferencia.</p>
+<h3>De iOS a iOS</h3>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/27125417/Airdrop-para-iPhone.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/27125417/Airdrop-para-iPhone.jpg" alt="Airdrop para iPhone" width="2500" height="1667" class="aligncenter size-full wp-image-10572" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/03/27125417/Airdrop-para-iPhone.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/03/27125417/Airdrop-para-iPhone.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/03/27125417/Airdrop-para-iPhone.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Para compartir archivos entre dispositivos iOS <strong>deberemos abrir el menú de Compartir de cada archivo.</strong> En la parte superior aparecerán los distintos usuarios cercanos a nosotros. Al elegir al usuario, este recibirá una notificación en su dispositivo para aceptar la transferencia. Una vez completada, el archivo se guardará en el dispositivo.</p>
+<p><strong>En caso de que sea un archivo común</strong> (fotos, vídeos, contactos, pases de Passbook, notas, notas de audio, URLs, enlaces hacia la App Store o direcciones de mapas) <strong>se ejecutarán las aplicaciones predefinidas,</strong> si no lo es nos saltará un menú con <strong>todas las posibles aplicaciones que tenemos instaladas que pueden hacer algo con dicho archivo.</strong> Por ejemplo, si pasamos un ePub, nos sugerirá iBooks, aplicaciones de almacenamiento como Dropbox, otros lectores, etc.). </p>
+<h3>De Mac a iOS o viceversa</h3>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/27125417/compartir-con-AirDrop-para-iPhone.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/27125417/compartir-con-AirDrop-para-iPhone.jpg" alt="compartir con AirDrop para iPhone" width="2500" height="1232" class="aligncenter size-full wp-image-10573" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/03/27125417/compartir-con-AirDrop-para-iPhone.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/03/27125417/compartir-con-AirDrop-para-iPhone.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/03/27125417/compartir-con-AirDrop-para-iPhone.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Tanto en el Mac como en el dispositivo iOS aparecerán como si de su homólogo se tratase, <strong>en ningún momento notaremos que es una plataforma distinta,</strong> y al iniciar la transferencia seremos preguntados para realizarla.</p>
+<p>Uno de los cambios es que <strong>no necesitamos que el Mac tenga la ventana de AirDrop abierta.</strong> Si está configurado para estar visible por el dispositivo iOS, el Mac aparecerá automáticamente y será avisado mediante una notificación de que se va a compartir un archivo.</p>
+<p>En cuanto al dispositivo iOS, <strong>para que el Mac lo detecte debe tener la pantalla encendida,</strong> aunque el dispositivo esté bloqueado. Al tener la pantalla encendida, la opción aparecerá en Mac y podremos enviar los archivos. Cuando enviemos el archivo desde el Mac, el dispositivo iOS recibirá una notificación para aceptarla o rechazarla.</p>
+<p>La gestión de los archivos <strong>en el iPhone o el iPad es igual que cuando pasamos de iOS a iOS.</strong> Si es un archivo común se guardará en las aplicaciones predefinidas, pero si no lo es se abrirá una lista con las aplicaciones instaladas que puedan hacer algo con ese archivo.</p>
+<h2>AirDrop en sistemas antiguos</h2>
+<p>Estos procesos que he descrito <strong>sólo afectan a los dispositivos que tengan iOS 8 o superior y OS X 10.10 o superior.</strong> Si tenéis una versión anterior puede que no haya visibilidad o que no puedas compartir archivos entre plataformas. Pueden ser tantos los motivos de fallo que no se sabe de forma precisa, pero si tened en cuenta que cabe la posibilidad de que no funcione adecuadamente.</p>
+<hr />
+<p>Para los usuarios que tenemos más de un dispositivo de la manzana <strong>es una solución muy buena porque rara vez tiene fallos.</strong> Lo máximo que he detectado es que tarde más de la cuenta en detectar algún dispositivo disponible. En el peor de esos casos he tenido que reiniciar AirDrop y ya ha funcionado correctamente. Es algo que sin duda tienen que mejorar, pero que no afecta notablemente a mi flujo de trabajo.</p>
+<p>Antes de escribir este artículo usaba la nube para transferir archivos entre mis dispositivos. iCloud Drive o Dropboox eran mi opción preferida, pero he descubierto que si tengo los dos dispositivos a mano, lo mejor que puedo hacer es transferirlos de esta forma ya que la sincronización con la nube es un proceso que definen como rápido pero todos sabemos que cuanta más prisa tenemos, peor funcionan las cosas.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/airdrop-comparte-archivos-entre-dispositivos-apple/">AirDrop: comparte archivos entre dispositivos Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Características de OS X para prescindir de los cables</title>
+		<link>https://www.MacSfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 21 Mar 2015 14:36:40 +0000</pubDate>
+				<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[AirDrop]]></category>
+		<category><![CDATA[AirPlay]]></category>
+		<category><![CDATA[AirPort]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Hotspot]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Redes]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10424</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/">Características de OS X para prescindir de los cables</a></p>
+<p>Con el paso del tiempo, los Macs y su sistema operativo, OS X, han ido obteniendo características en pos de la conectividad</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/">Características de OS X para prescindir de los cables</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/">Características de OS X para prescindir de los cables</a></p>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/16010908/Conectividad-MacBook1.jpeg" rel="attachment wp-att-14055"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/16010908/Conectividad-MacBook1.jpeg" alt="Conectividad MacBook" width="2560" height="740" class="aligncenter size-full" /></a></p>
+<p>Con el paso del tiempo, los Macs y su sistema operativo, OS X, <strong>han ido obteniendo características en pos de la conectividad inalámbrica.</strong> Esas características son las que han hecho posible lanzar el <a href="www.macsfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/" title="La gama MacBook vuelve a Apple con este nuevo modelo" target="_blank" rel="noopener noreferrer">nuevo MacBook</a> y mantenerlo completamente funcional a pesar de que sólo tiene <a href="www.macsfera.com/tag/usb-c/" title="USB C" target="_blank" rel="noopener noreferrer">un puerto USB de tipo C</a>.</p>
+<p>Es cierto que puede ser pronto y radical eliminar todos los puertos para sustituir los cables, pero <strong>el ecosistema de Apple está perfectamente formado para soportarlo</strong> gracias a las distintas características de software y hardware de los equipos. De momento, el Macbook es sólo un equipo que está orientado a la movilidad absoluta, pero es más que probable que Apple planee <a href="www.macsfera.com/apple-el-diseno-y-sus-adaptadores/" title="Apple, el diseño y sus adaptadores" target="_blank" rel="noopener noreferrer">eliminar la mayoría de puertos para favorecer el diseño</a>, aunque un cambio tan radical ahora mismo ha tener una transición calmada pero constante.</p>
+<p><span id="more-10424"></span></p>
+<h2>iCloud</h2>
+<p>iCloud, el sistema en la nube de Apple, <strong>actúa como disco duro unido a varios ordenadores</strong> con el que podremos tener nuestros archivos más importantes sincronizados entre todos los dispositivos. De esta forma, Apple planea una alternativa para no usar pen drives o discos duros que puedan ocupar un puerto.</p>
+<p>Gracias a <strong>iCloud Drive,</strong> ahora podremos gestionar todos y cada uno de los archivos que queramos. No es necesario que lo use una aplicación, o que esa aplicación sea compatible con iCloud. Actúa como Dropbox o Google Drive, pero 100% implementado con nuestros dispositivos.</p>
+<h2>Instant Hotspot</h2>
+<p class="medio"><a href="http://cdn.MacSfera.com/wp-content/uploads/2015/03/13163252/Instant-Hotspot-iPhone-y-Mac.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2015/03/13163252/Instant-Hotspot-iPhone-y-Mac.jpeg" alt="Instant Hotspot iPhone y Mac" width="1782" height="557" class="aligncenter size-full" /></a></p>
+<p>Esta no es una característica únicamente de OS X, es más de iOS. Consiste en <strong>hacer que nuestro iPhone sea un punto de acceso a Internet</strong> usando la tarifa de datos asociada a nuestro teléfono. Esto, por suerte lo hacen los dispositivos Android, de modo que también nos beneficiaremos de este hecho a pesar de no tener un iPhone.</p>
+<p>De este modo podremos acceder a Internet con nuestro Mac usando la antena Wi-Fi para conectarnos al iPhone. Así podremos tener conexión incluso cuando no hay puntos de acceso cercanos.</p>
+<h2>AirDrop</h2>
+<p>Si bien iCloud nos sirve para sincronizar archivos entre nuestros dispositivos, ¿qué hacemos si es otro usuario el que quiere pasarnos un documento? Para ello tenemos AirDrop, <strong>el sistema que Apple ha diseñado para transferir archivos entre dispositivos de la marca usando la antena WiFi o Bluetooth.</strong></p>
+<h2>Bluetooth</h2>
+<p>Desde hace tiempo, la conectividad Bluetooth está presente en los dispositivos Apple. Con el paso de los modelos se han ido implementando las nuevas versiones que son más eficientes y más estables. Gracias a ello, <strong>podemos conectar ratones, teclados, auriculares o altavoces.</strong> Todo de forma inalámbrica sin, una vez más, usar un solo puerto.</p>
+<p>Además, también lo podremos usar en caso de que queramos compartir archivos con sistemas no compatibles con AirDrop.</p>
+<h2>AirPlay</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/03/13163247/AirPlay-Mirroring-Apple-TV.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/03/13163247/AirPlay-Mirroring-Apple-TV.jpeg" alt="AirPlay Mirroring Apple TV" width="1440" height="740" class="aligncenter size-full" /></a></p>
+<p><strong>Con AirPlay podremos reproducir los vídeos, música, pases de fotos o presentaciones que tengamos en el Mac con cualquier pantalla externa</strong> siempre y cuando haya una conexión Wi-Fi y un dispositivo AirPlay conectado a dicha pantalla. </p>
+<p>Además, <strong>con AirPlay Mirroring podremos compartir la pantalla de nuestro Mac.</strong> Es necesario usar un Apple TV conectado por HDMI a la pantalla externa, pero no es obligatorio tener una red Wi-Fi para hacerlo funcionar.</p>
+<h2>Mac App Store</h2>
+<p>Si bien hace mucho que no se usan los CDs o DVDs para instalar aplicaciones, Apple desarrolló la <a href="www.macsfera.com/tag/mac-app-store/" title="Mac App Store" target="_blank" rel="noopener noreferrer">Mac App Store</a> para que ni si quiera hubiese que plantearselo. <strong>Con ella podremos instalar o desinstalar cualquier aplicación disponible a golpe de click.</strong></p>
+<h2>Copias de seguridad</h2>
+<p>Gracias a la aplicación Time Machine y a las estaciones AirPort <strong>podremos hacer copias de seguridad de forma inalámbrica y automática.</strong> Sólo tendremos que configurarlo una vez y ya no tendremos que preocuparnos más por ello.</p>
+<h2>Wi-Fi</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/03/13163250/Imprimir-por-Wi-Fi.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/03/13163250/Imprimir-por-Wi-Fi.jpeg" alt="Imprimir por Wi-Fi" width="1349" height="583" class="aligncenter size-full" /></a></p>
+<p>Por supuesto, la antena Wi-Fi es un instrumento que lleva muchos años presente entre nosotros, y los fabricantes cada día encuentran más usos para que podamos aprovechar este tipo de conexión. Muchas de las características mostradas arriba requieren de una antena Wi-Fi o una red Wi-Fi, pero <strong>hay otros ejemplos como imprimir documentos o reproducir música en dispositivos conectados a la red.</strong></p>
+<hr />
+<p>Si seguís las novedades de los Mac, OS X y iOS os percataréis de como Apple ha ido introduciendo poco a poco todas estas novedades. Eso les ha hecho <strong>tener un ecosistema preparado para sobrevivir sin cables y sin tener que sacrificar ninguna función.</strong></p>
+<p>Sabiendo que han apostado tan fuerte por la tecnología inalámbrica, <strong>me gustaría ver en el futuro cómo van a cambiar las cosas que ahora realizamos con cables.</strong> El Apple Watch tiene un cargador inductivo, no es 100% inalámbrico, pero por algo se empieza. Apple tiene que pensar mucho en esto porque no basta con añadir una estación de carga inalámbrica convencional –muchos usamos los productos aún cuando se están cargando– hay que darle una vuelta más.</p>
+<p>En cualquier caso, nuestros ordenadores llevan ya un tiempo añadiendo funciones silenciosamente para poder prescindir de los cables y eso es algo muy positivo. Por separado lo único que veíamos eran características aisladas, pero <strong>todo junto se plantea como una buena alternativa al medio físico.</strong> Si se quiere eliminar algo, hay que ofrecer alternativas, y Apple lo ha hecho.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/">Características de OS X para prescindir de los cables</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La gama MacBook vuelve a Apple con este nuevo modelo</title>
+		<link>https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 09 Mar 2015 22:45:59 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[AirDrop]]></category>
+		<category><![CDATA[AirPlay]]></category>
+		<category><![CDATA[AirPrint]]></category>
+		<category><![CDATA[Batería]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Diseño]]></category>
+		<category><![CDATA[Force Touch]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Intel Core M]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Nuevo]]></category>
+		<category><![CDATA[Personal Hotspot]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<category><![CDATA[Turbo Boost]]></category>
+		<category><![CDATA[USB C]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10276</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a></p>
+<p>En el evento del 9 de marzo, Apple ha revivido la gama MacBook con un nuevo Mac que va a reinventar el</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/14234750/MacBook.jpg" rel="attachment wp-att-13627"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/14234750/MacBook.jpg" alt="MacBook" width="1088" height="623" class="aligncenter size-full wp-image-13627" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/14234750/MacBook.jpg 1088w, https://cdn.macsfera.com/wp-content/uploads/2016/03/14234750/MacBook.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/14234750/MacBook.jpg 1024w" sizes="(max-width: 1088px) 100vw, 1088px" /></a></p>
+<p>En el evento del 9 de marzo, <strong>Apple ha revivido la gama MacBook con un nuevo Mac que va a reinventar el concepto de ordenador portátil</strong> según la empresa.</p>
+<p><span id="more-10276"></span></p>
+<h2>Diseño</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163346/Diseño-MacBook.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163346/Diseño-MacBook.jpeg" alt="Diseño MacBook" class="aligncenter size-full wp-image-10280" /></a></p>
+<p>Sin lugar a duda, esto es lo que más llama la atención del nuevo MacBook. <strong>Es un portátil ultra fino</strong> que en su lado más grueso mide 13,1 milímetros. Esta enorme reducción de grosor viene acompañado con un decremento del <strong>peso que pasa a ser de 0,9 Kg.</strong> A pesar de los grosores, <strong>equipa una pantalla de 12 pulgadas.</strong></p>
+<h3><a name="teclado">Teclado</a></h3>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163331/Teclado-MacBook.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163331/Teclado-MacBook.jpeg" alt="Teclado MacBook" class="aligncenter size-full wp-image-10285" /></a></p>
+<p>El MacBook <strong>incorpora un teclado de tamaño completo retroiluminado.</strong> Y para conseguir reducir lo máximo posible el grosor del dispositivo, Apple ha inventado un nuevo método de anclaje y pulsación de las teclas <strong>llamado mecanismo de mariposa</strong>, a su vez también ha rediseñado el grosor y tamaño de las teclas.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163333/sistema-tecla-mariposa.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163333/sistema-tecla-mariposa.gif" alt="sistema tecla mariposa" class="aligncenter size-full wp-image-10284" /></a></p>
+<p>En los modelos convencionales de Apple, los teclados usan un sistema llamado <em>tijera</em>, este mecanismo pierde precisión con el paso del tiempo y pueden hacer que cuando pulsemos una tecla en la esquina, la pulsación no se registre. Con el mecanismo de mariposa, no solo consiguen reducir el grosor, sino que <strong>aportan estabilidad a la pulsación y precisión en toda la superficie de la tecla.</strong></p>
+<p>Las teclas han reducido un 40% el grosor y han ampliado un 17% su anchura para facilitar la escritura. Además, el sistema de iluminado también ha sido rediseñado. Antes se iluminaba toda la fila de teclas, ahora se ha colocado un LED en cada una de las piezas para conseguir una iluminación homogénea.</p>
+<h3>Pantalla</h3>
+<p>No podía ser de otra forma, <strong>la pantalla que equipa el nuevo MacBook es Retina.</strong> Tiene una resolución de 2304&#215;1440 píxeles y un tamaño de 12 pulgadas. Para hacerla tan fina han tenido que crear un proceso nuevo de fabricación para dar forma al vidrio de tan solo 0,5 milímetros de grosor.</p>
+<p>Los píxeles también han sufrido cambios, su apertura es más grande y dejan pasar más luz consumiendo un 30% menos que cualquier otro Mac portátil.</p>
+<h3>Trackpad Force Touch</h3>
+<p><center><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163325/Trackpad-MacBook.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163325/Trackpad-MacBook.jpg" alt="Trackpad MacBook" class="aligncenter size-full wp-image-10290" /></a></center></p>
+<p>El trackpad es otro de los componentes que ha sufrido cambios. Todo Mac cuenta con uno y en este caso es uno especial: <strong>el trackpad Force Touch.</strong> La principal diferencia es que han reducido mucho su grosor, tanto que han perdido el click mecánico que tienen todos los modelos anteriores. Para suplir esta carencia, Apple <strong>ha inventado un sistema llamado <em>Taptic Engine</em></strong> que emite pequeñas vibraciones que emulan ese golpe mecánico.</p>
+<p>De esta manera sabremos cuando el sistema detecta el click, aunque físicamente no podamos diferenciarlo. Como el sistema es diferente al usado hasta ahora, podemos hacer click en cualquier parte que lo captará sin problema —los trackpads convencionales no pueden captar pulsaciones a medida que vas acercando el dedo al teclado por el sistema que usan.</p>
+<h3>Componentes</h3>
+<p>La placa base del MacBook es muy pequeña. Esto facilita el minúsculo diseño pero podría plantear problemas a la hora de genera calor ya que <strong>el portátil carece de ventiladores</strong> para la refrigeración —el primer Mac en no contar con ellos. La base es de grafito asinotrópico que ayuda a dispersar el calor generado por el procesador, el cual también está diseñado para consumir poco.</p>
+<h3>Batería</h3>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163353/Bateria-MacBook.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163353/Bateria-MacBook.jpeg" alt="Bateria MacBook" class="aligncenter size-full wp-image-10277" /></a></p>
+<p>La batería es uno de los componentes más importantes en un dispositivo portátil, por eso Apple dedica prácticamente toda la totalidad del espacio a una batería. Además, y como novedad, <strong>han conseguido que su <a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163327/bateria-escalonada-macbook.jpg" title="Batería escalonada MacBook" target="_blank" rel="noopener noreferrer">batería sea escalonada</a> para aprovechar al máximo el espacio</strong> y poder brindar 9 horas de navegación web y 10 horas de vídeos en iTunes.</p>
+<h3>Un puerto para dominarlos a todos</h3>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163336/Puerto-USB-C-MacBook.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163336/Puerto-USB-C-MacBook.jpeg" alt="Puerto USB C MacBook" class="aligncenter size-full wp-image-10283" /></a></p>
+<p><strong>El MacBook cuenta con un solo puerto USB de tipo C y con una entrada jack de 3,5 mm.</strong> Esta es la apuesta más radical que ha hecho Apple con este modelo y con el que quieren cambiar la forma en la que la gente entiende los ordenadores portátiles.</p>
+<p>Con este tipo de USB podremos <strong>cargar el ordenador, transferir archivos de forma rápida por USB 3.0 y compartir nuestra pantalla por HDMI, VGA y Mini DisplayPort.</strong> Apple ha apostado por la tecnología sin cables y pone al alcance de todos herramientas que nos facilitan la cooperación entre dispositivos de forma inalámbrica:</p>
+<ul>
+<li><strong>AirDrop</strong> para compartir archivos entre dispositivos siempre y cuando se encuentren cerca</li>
+<li><strong>iCloud</strong> para compartir y almacenar tus archivos en la nube estando siempre accesibles desde tus dispositivos</li>
+<li><strong>Bluetooth</strong> para conectar dispositivos inalámbricos como cascos o altavoces</li>
+<li><strong>AirPlay</strong> para compartir nuestra pantalla de forma inalámbrica con cualquier televisor</li>
+<li><strong>Hotspot</strong> para compartir el Internet de nuestro iPhone allá donde estemos</li>
+<li><strong>AirPrint</strong> para imprimir documentos con impresoras compatibles que estén en nuestra misma Wi-Fi</li>
+<li><strong>Time Machine</strong> para realizar copias de seguridad vía Wi-Fi usando las bases AirPort o Airport Time Capsule</li>
+</ul>
+<p>Todavía es pronto para poder disfrutar al 100% de este nuevo puerto USB C, por ello, Apple pone a la venta diferentes accesorios para pode utilizar un USB 3.0 o un cable VGA.</p>
+<h3>Colores</h3>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163351/Colores-MacBook.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163351/Colores-MacBook.jpeg" alt="Colores MacBook" class="aligncenter size-full wp-image-10278" /></a></p>
+<p>Por primera vez en un Mac, <strong>el MacBook viene disponible en tres colores.</strong> Los mismos tres colores que hay en dispositivos iOS: <strong>Plateado, Oro y Gris espacial.</strong></p>
+<h2>Hardware</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163329/hardware-MacBook.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163329/hardware-MacBook.jpg" alt="hardware MacBook" class="aligncenter size-full wp-image-10287" /></a></p>
+<p>El nuevo MacBook no está pensado para todos los públicos —eso es así— y si bien <strong>cuenta de base con 8GB de memoria Ram y 256GB de disco duro SSD,</strong> su nuevo procesador <strong>Intel Core M</strong> es limitado para según que tareas.</p>
+<p>Este nuevo procesador va desde los 1,1 GHz con Turbo Boost de hasta 2,4 GHz en su modelo inicial hasta los 1,2 GHz con Turbo Boost de hasta los 2,6 GHz pudiendo ampliarse a los 1,3 GHz con Turbo Boost de hasta 2,9 GHz.</p>
+<p>También cuenta con una gráfica Intel HD Graphics 5300, las últimas versiones de conexión Wi-Fi y Bluetooth, una cámara FaceTime a 480p, doble micrófono y altavoces estéreo.</p>
+<h2>Precio y disponibilidad</h2>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163343/MacBook-Dorado-y-gris-espacial.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/13163343/MacBook-Dorado-y-gris-espacial.jpeg" alt="MacBook Dorado y gris espacial" class="aligncenter size-full wp-image-10281" /></a></p>
+<p>El precio <strong>oscila entre los 1500€ en su modelo base y 1800 en su modelo más avanzado</strong> y estará disponible a partir del 10 de abril.</p>
+<h2>Objetivo fijado</h2>
+<p>Apple ha mostrado así su <a href="www.macsfera.com/apple-el-diseno-y-sus-adaptadores/" title="Apple, el diseño y sus adaptadores" target="_blank" rel="noopener noreferrer">deseo de continuar con la eliminación de puertos</a> y apostar por la tecnología inalámbrica. Además, <strong>demuestra todo su potencial con un increíble diseño y unas características nada despreciables.</strong> En un futuro trataré con más detalle el público al que está orientado este nuevo dispositivo.</p>
+<p>Más info | <a href="http://www.apple.com/es/macbook/" target="_blank" rel="noopener noreferrer">Apple</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuevo Mac Pro con un renovado diseño y potentes características</title>
+		<link>https://www.MacSfera.com/nuevo-mac-pro-con-un-renovado-diseno-y-potentes-caracteristicas/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2013 14:32:53 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[802.11ac]]></category>
+		<category><![CDATA[AMD]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Bluetooth 4.0]]></category>
+		<category><![CDATA[Diseño]]></category>
+		<category><![CDATA[GPU]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[HDMI]]></category>
+		<category><![CDATA[Intel Xeon E5]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[Memoria Flash]]></category>
+		<category><![CDATA[Memoria RAM]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Phil Schiller]]></category>
+		<category><![CDATA[Thunderbolt]]></category>
+		<category><![CDATA[Thunderbolt 2]]></category>
+		<category><![CDATA[USB 3.0]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9649</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-mac-pro-con-un-renovado-diseno-y-potentes-caracteristicas/">Nuevo Mac Pro con un renovado diseño y potentes características</a></p>
+<p>Apple presentó ayer el nuevo Mac Pro en la keynote de la WWDC, un potente ordenador que ha reducido su tamaño, ha</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-mac-pro-con-un-renovado-diseno-y-potentes-caracteristicas/">Nuevo Mac Pro con un renovado diseño y potentes características</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-mac-pro-con-un-renovado-diseno-y-potentes-caracteristicas/">Nuevo Mac Pro con un renovado diseño y potentes características</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Mac-Pro-2013.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Mac-Pro-2013.png" alt="Mac Pro 2013" width="710" height="469" class="aligncenter size-full" /></a></p>
+<p><strong>Apple presentó ayer el nuevo <a href="www.macsfera.com/tag/mac-pro" title="Mac Pro" target="_blank" rel="noopener noreferrer">Mac Pro</a> en la <a href="www.macsfera.com/nuevo-logo-de-os-x-en-el-moscone-west-center-de-san-francisco-antes-de-la-wwdc/" title="Nuevo logo de OS X en el Moscone West Center de San Francisco antes de la WWDC" target="_blank" rel="noopener noreferrer">keynote de la WWDC</a>, un potente ordenador que ha reducido su tamaño, ha cambiado de forma y ha aumentado su potencial.</strong></p>
+<p><span id="more-9649"></span></p>
+<h2>Diseño</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Diseño-Mac-Pro-2013.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Diseño-Mac-Pro-2013.png" alt="Diseño Mac Pro 2013" width="710" height="515" class="aligncenter size-full" /></a></p>
+<p>Sin duda lo que más llama la atención de este nuevo <strong>Mac</strong> es su diseño, ha adoptado una <strong>forma cilíndrica de aluminio en color negro brillante</strong> que, para ser sinceros, se asemeja bastante a una papelera. El tamaño también se ha reducido notablemente y más si lo comparamos con su antecesor.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Puertos-USB-Thunderbolt-Ethernet-HDMI-Mac-Pro.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Puertos-USB-Thunderbolt-Ethernet-HDMI-Mac-Pro.png" alt="Puertos USB Thunderbolt Ethernet HDMI Mac Pro" width="710" height="465" class="aligncenter size-full" /></a></p>
+<p>El dispositivo cuenta con <strong>cuatro puertos USB 3.0, seis puertos Thunderbolt 2, dos puertos Ethernet y un puerto HDMI que es compatible con pantallas de resolución 4K.</strong> Incorpora un sistema que detecta cuando lo estamos rotando para iluminar un panel de leds y saber a que puerto queremos conectar el cable que deseemos.</p>
+<p>El tamaño concreto es de <strong>25,1 centímetros de alto por 16,8 centímetros de diámetro</strong> frente a los  51,1 cm de alto, 20.6 cm de ancho y 47,5 cm de fondo del modelo anterior.</p>
+<h2>Procesador</h2>
+<p>Sabemos que incorporan la nueva generación de procesadores <strong>Intel Xeon E5</strong> que ofrecen 12 cores de de procesamiento y 40 GB/s de transmisión de datos, todo esto hace que sea el doble de rápido que el actual Mac Pro.</p>
+<h2>Memoria</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Memoria-RAM-Mac-Pro.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Memoria-RAM-Mac-Pro.png" alt="Memoria RAM Mac Pro" width="710" height="390" class="aligncenter size-full" /></a></p>
+<p>El nuevo <strong>Mac Pro</strong> incorpora un total de <strong>cuatro ranuras para insertar memoria RAM del tipo DDR3 a 1866MHz.</strong> Soporta 60GB/s de transmisión, lo que significa que podemos realizar prácticamente cualquier tarea sin necesidad de que se pare o se trabe.</p>
+<h2>Gráficos</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/GPUs-Mac-Pro.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/GPUs-Mac-Pro.png" alt="GPUs Mac Pro" width="710" height="396" class="aligncenter size-full" /></a></p>
+<p>Otra de las novedades de este nuevo modelo es que <strong>incorpora dos GPUs de la marca AMD FirePro con 6 GB de VRAM dedicada transmitiendo 7 teraflops de información gráfica.</strong> Todo esto nos permitirá usar 3 pantallas a la vez y editar vídeo en 4K.</p>
+<h2>Almacenamiento</h2>
+<p>El <strong>Mac Pro</strong> pasa a tener un <strong>disco duro flash</strong> lo que aumenta la velocidad de lectura en 2,5 veces frente a los discos duros SATA. <strong>No sabemos la capacidad pero está pensado para que el sistema corra con fluidez y no para almacenamiento de archivos,</strong> de modo que creemos que no serán de mucha capacidad para no elevar los costes. Por eso se incluyen 6 puertos Thunderbolt 2, para que, en caso de quererse, se aumente la capacidad a través de discos duros externos.</p>
+<h2>Centro térmico unificado</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Centro-térmico-unificado-Mac-Pro.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Centro-térmico-unificado-Mac-Pro.png" alt="Centro térmico unificado Mac Pro" width="710" height="443" class="aligncenter size-full" /></a></p>
+<p>Todos estos componentes en un espacio tan cerrado tienen que generar muchísimo calor, por ello <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a> ha ideado un centro térmico unificado que se basa en una pieza triangular de aluminio que potencia la corriente de aire y la disispación de calor del procesador y las dos GPUs.</strong> Todo ello coronado por un gran ventilador que ha sido diseñado para no hacer ruido y eliminar eficientemente el aire caliente del interior del cuerpo.</p>
+<h2>Conexiones inalámbricas</h2>
+<p>El nuevo <strong>Mac Pro</strong> incluye una antena <strong>Wi-Fi compatible con las redes <a href="www.macsfera.com/la-beta-de-os-x-10-8-4-revela-compatibilidad-con-los-adaptadores-wi-fi-802-11ac/" title="www.macsfera.com/la-beta-de-os-x-10-8-4-revela-compatibilidad-con-los-adaptadores-wi-fi-802-11ac/" target="_blank" rel="noopener noreferrer">802.11ac</a></strong> que triplican la velocidad actual de transmisión y aumentan el radio de rastreo. También incluye <strong>Bluetooth 4.0</strong> para conectar sin problemas cualquier accesorio sin cables.</p>
+<h2>Diseñado y montado en EEUU</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Diseñado-y-montado-en-EEUU-Mac-Pro.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Diseñado-y-montado-en-EEUU-Mac-Pro.png" alt="Diseñado y montado en EEUU Mac Pro" width="710" height="425" class="aligncenter size-full" /></a></p>
+<p><strong>Apple ha confirmado que este equipo será montado enteramente en Estados Unidos</strong> con compañías en Texas, Florida, Illinois, Kentucky y más. Tal vez sea este el motivo por el cual no hemos tenido ninguna filtración del diseño o características del nuevo equipo.</p>
+<h2>Precio y venta</h2>
+<p><strong><a href="www.macsfera.com/tag/phil-schiller" title="Phil Schiller" target="_blank" rel="noopener noreferrer">Phil Schiller</a> afirmó que lo que íbamos a presenciar era un pequeño vistazo al futuro de modo que no tenemos fecha oficial ni precio</strong> aunque si sabemos dos cosas: Pretende ser presentado a finales de año, y no va a ser barato teniendo en cuenta todos los componentes, diseño y prestaciones.</p>
+<p>Más info | <a href="http://www.apple.com/mac-pro/" target="_blank" rel="noopener noreferrer">Apple</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-mac-pro-con-un-renovado-diseno-y-potentes-caracteristicas/">Nuevo Mac Pro con un renovado diseño y potentes características</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La nueva actualización de software del Apple TV nos permite conectar un teclado Bluetooth</title>
+		<link>https://www.MacSfera.com/la-nueva-actualizacion-de-software-del-apple-tv-nos-permite-conectar-un-teclado-bluetooth/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 29 Jan 2013 18:30:44 +0000</pubDate>
+				<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Actualización de Software]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[iTunes 11]]></category>
+		<category><![CDATA[iTunes en la nube]]></category>
+		<category><![CDATA[Teclado]]></category>
+		<category><![CDATA[Versión]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8292</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-nueva-actualizacion-de-software-del-apple-tv-nos-permite-conectar-un-teclado-bluetooth/">La nueva actualización de software del Apple TV nos permite conectar un teclado Bluetooth</a></p>
+<p>La nueva versión del sistema 5.2 del Apple TV ya está disponible para su descarga y trae una serie de características que</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-nueva-actualizacion-de-software-del-apple-tv-nos-permite-conectar-un-teclado-bluetooth/">La nueva actualización de software del Apple TV nos permite conectar un teclado Bluetooth</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-nueva-actualizacion-de-software-del-apple-tv-nos-permite-conectar-un-teclado-bluetooth/">La nueva actualización de software del Apple TV nos permite conectar un teclado Bluetooth</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/01/Actualización-Apple-TV-con-soporte-para-teclados.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/01/Actualización-Apple-TV-con-soporte-para-teclados.jpg" alt="Actualización Apple TV con soporte para teclados" width="550" height="367" class="aligncenter size-full wp-image-8293" srcset="https://www.MacSfera.com/wp-content/uploads/2013/01/Actualización-Apple-TV-con-soporte-para-teclados.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2013/01/Actualización-Apple-TV-con-soporte-para-teclados-300x200.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>La nueva versión del sistema 5.2 del <a href="www.macsfera.com/tag/apple-tv" title="Apple TV" target="_blank" rel="noopener noreferrer">Apple TV</a> ya está disponible para su descarga y trae una serie de características que aumentan las funciones del dispositivo</strong> y nos hacen especular un poco sobre su futuro.</p>
+<p><span id="more-8292"></span></p>
+<p>Ahora el <strong>Apple TV está vinculado con iTunes en la nube</strong> con lo que se puede reproducir cualquier canción que tengamos en nuestra cuenta de <strong>iCloud</strong>. También incorpora la <strong><a href="www.macsfera.com/nueva-version-de-itunes-prevista-para-octubre-mas-simple-y-funcional/" title="Nueva versión de iTunes prevista para octubre más simple y funcional" target="_blank" rel="noopener noreferrer">característica añadida en iTunes 11</a></strong> de poder ver cual es la siguiente canción que va a sonar después de la actual con posibilidad de <strong>modificarla de una manera sencilla.</strong></p>
+<p>Por último, la característica que más ha llamado la atención es que <strong>se puede vincular un teclado Bluetooth para que podamos controlar el dispositivo desde él.</strong> Además, haciendo una inspección del código se ha descubierto un dispositivo llamado <strong>Apple TV 3,2.</strong></p>
+<p>El hecho de que ahora se permita vincular un teclado <strong>nos deja soñar con el tipo de cosas que se van a poder efectuar con este aparato en un futuro.</strong> Tal vez solo sea para hacer más sencilla y rápida la búsqueda de contenido o tal vez en un futuro veamos algunas funciones que lo requieran. El tiempo lo dirá.</p>
+<p>Vía | <a href="http://www.cultofmac.com/212818/apple-tv-updated-to-include-bluetooth-keyboard-support-and-up-next-feature/" target="_blank" rel="noopener noreferrer">Cult Of Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-nueva-actualizacion-de-software-del-apple-tv-nos-permite-conectar-un-teclado-bluetooth/">La nueva actualización de software del Apple TV nos permite conectar un teclado Bluetooth</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

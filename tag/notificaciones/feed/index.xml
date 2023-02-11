@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Notificaciones &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/notificaciones/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:54:03 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Cómo ahorrar batería en el iPhone con el Pebble</title>
+		<link>https://www.MacSfera.com/ahorrar-bateria-iphone-pebble/</link>
+					<comments>https://www.MacSfera.com/ahorrar-bateria-iphone-pebble/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 20 May 2016 17:48:35 +0000</pubDate>
+				<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Modo No Molestar]]></category>
+		<category><![CDATA[Notificaciones]]></category>
+		<category><![CDATA[Pebble]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14780</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ahorrar-bateria-iphone-pebble/">Cómo ahorrar batería en el iPhone con el Pebble</a></p>
+<p>El Pebble puede ser un dispositivo muy útil cuando lo conectamos al iPhone, pero una de las cosas que más me gusta</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ahorrar-bateria-iphone-pebble/">Cómo ahorrar batería en el iPhone con el Pebble</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ahorrar-bateria-iphone-pebble/">Cómo ahorrar batería en el iPhone con el Pebble</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/05/20184318/Mejorar-la-vida-del-iPhone-con-el-Pebble.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/05/20184318/Mejorar-la-vida-del-iPhone-con-el-Pebble.jpg" alt="Mejorar la vida del iPhone con el Pebble" width="2500" height="1667" class="aligncenter size-full wp-image-14784" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/05/20184318/Mejorar-la-vida-del-iPhone-con-el-Pebble.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/05/20184318/Mejorar-la-vida-del-iPhone-con-el-Pebble.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/05/20184318/Mejorar-la-vida-del-iPhone-con-el-Pebble.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>El Pebble puede ser un dispositivo muy útil cuando lo conectamos al iPhone, pero una de las cosas que más me gusta es que <strong>gracias a él he conseguido que la batería de mi iPhone dure más que antes.</strong></p>
+<p>Esto puede parecer contradictorio porque estamos conectando un dispositivo Bluetooth, pero la tecnología hoy en día está muy madura y tenerlo activado constantemente a penas supone un decremento para la batería.</p>
+<p><span id="more-14780"></span></p>
+<p>Si pudiésemos ver el consumo de los componentes del iPhone, el que más consumiría de todos (como ocurre en el resto de teléfonos y dispositivos móviles) es la pantalla. <strong>Encender la pantalla y reaccionar a los distintos eventos de esta gastan una gran cantidad de energía,</strong> de modo que nuestro pilar fundamental para ahorrar batería en el iPhone va a consistir en hacer que la pantalla del iPhone no se encienda más de lo que debe.</p>
+<h2>Activar el modo No Molestar</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/05/20184527/Activar-Modo-Noche-con-Pebble.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/05/20184527/Activar-Modo-Noche-con-Pebble.jpg" alt="Activar Modo Noche con Pebble" width="2500" height="1667" class="aligncenter size-full wp-image-14785" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/05/20184527/Activar-Modo-Noche-con-Pebble.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/05/20184527/Activar-Modo-Noche-con-Pebble.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/05/20184527/Activar-Modo-Noche-con-Pebble.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Cuando empecé a usarlo, me di cuenta de que no tenía sentido que una notificación fuese anunciada por el teléfono y el reloj a la vez. Si a eso le sumas que cuando el teléfono suena o vibra y se enciende la pantalla estamos gastando excesiva batería, uno se plantea cómo solventarlo.</p>
+<p>La solución es muy sencilla: <strong>activar el modo No Molestar.</strong></p>
+<p>Con el modo No Molestar, las notificaciones seguirán llegando al teléfono, <strong>nos seguirán llegando al Pebble pero,</strong> sin embargo, <strong>el iPhone no manifestará de ninguna manera el suceso.</strong> No sonará, no vibrará y mucho menos encenderá la pantalla.</p>
+<p>Esto sucede así por la forma que tiene el Pebble de tratar las notificaciones que le llegan al iPhone. <strong>El Pebble sólo muestra una notificación si esta está configurada para que aparezca en el Centro de Notificaciones.</strong> De modo que no tiene que esperar que el iPhone la muestre en pantalla o algo similar, <strong>con que llegue al Centro de Notificaciones basta para que llegue a nuestro reloj.</strong></p>
+<p>De modo que activar el modo No Molestar hará que nuestro iPhone no encienda la pantalla pero seguiremos recibiendo todo lo que queramos sin ningún tipo de problema.</p>
+<p>Ojo, <strong>habrá que habilitar la recepción de todas las llamadas cuando el modo No Molestar está activado porque si no no recibiremos ninguna de ellas.</strong> Tenedlo en cuenta porque al principio de empezar a usarlo yo me perdí un par y no sabía porqué.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/04/12125233/Esfera-Materials-Pebble-Time.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/04/12125233/Esfera-Materials-Pebble-Time.jpg" alt="Esfera Materials Pebble Time" width="2500" height="1667" class="aligncenter size-full wp-image-14509" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/04/12125233/Esfera-Materials-Pebble-Time.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/04/12125233/Esfera-Materials-Pebble-Time.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/04/12125233/Esfera-Materials-Pebble-Time.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Con este sencillo truco conseguiremos que la batería dure más,</strong> a parte de evitar notificaciones duplicadas.</p>
+<p>Y ya que estamos con las notificaciones, me gustaría recordaros que <a target="_blank" href="www.macsfera.com/firmware-aplicacion-pebble-actualizada-la-version-3-10/" title="Firmware y aplicación de Pebble actualizada a la versión 3.10">Pebble permite silenciar las que le llegan al reloj</a> desde la aplicación. Es una novedad muy interesante que a más de uno os puede ayudar a limitar la información que recibís ciertos días a la semana.</p>
+<p>Hoy en día, la batería es un bien preciado que hay que cuidar, por ello <strong>tras enseñaros a <a href="www.macsfera.com/configurar-pebble-time-la-bateria-dure-mas/" title="Cómo configurar el Pebble Time para que la batería dure más" target="_blank">mejorar la batería de vuestro Pebble</a>,</strong> ahora le ha tocado el turno al iPhone. Si ya <a target="_blank" title="Pebble Time: un smart watch simple y polifacético" href="www.macsfera.com/pebble-time-smart-watch-simple-polifacetico/">tenéis un Pebble como yo</a>, que mejor que aprovecharlo para varias cosas útiles.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ahorrar-bateria-iphone-pebble/">Cómo ahorrar batería en el iPhone con el Pebble</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/ahorrar-bateria-iphone-pebble/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Firmware y aplicación de Pebble actualizada a la versión 3.10</title>
+		<link>https://www.MacSfera.com/firmware-aplicacion-pebble-actualizada-la-version-3-10/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 08 Mar 2016 11:08:14 +0000</pubDate>
+				<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Notificaciones]]></category>
+		<category><![CDATA[Pebble]]></category>
+		<category><![CDATA[Pebble Health]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=13096</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/firmware-aplicacion-pebble-actualizada-la-version-3-10/">Firmware y aplicación de Pebble actualizada a la versión 3.10</a></p>
+<p>Anoche, Pebble lanzó una nueva versión de su aplicación y su sistema operativo para el Pebble. Después de actualizar tu reloj a</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/firmware-aplicacion-pebble-actualizada-la-version-3-10/">Firmware y aplicación de Pebble actualizada a la versión 3.10</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/firmware-aplicacion-pebble-actualizada-la-version-3-10/">Firmware y aplicación de Pebble actualizada a la versión 3.10</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/08111649/Pebble-actualizandose.jpg" rel="attachment wp-att-13098"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/08111649/Pebble-actualizandose.jpg" alt="Pebble actualizándose" width="2500" height="1667" class="aligncenter size-full wp-image-13098" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/08111649/Pebble-actualizandose.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/03/08111649/Pebble-actualizandose.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/08111649/Pebble-actualizandose.jpg 768w, https://cdn.macsfera.com/wp-content/uploads/2016/03/08111649/Pebble-actualizandose.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Anoche, <strong>Pebble lanzó una nueva versión de su aplicación y su sistema operativo para el Pebble.</strong></p>
+<blockquote class="enlace">
+<p>Después de actualizar tu reloj a la versión 3.10, notarás algunas mejoras en Pebble Health, incluyendo un rediseñado resumen de la actividad al final del día.</p>
+</blockquote>
+<p>A parte de las mejoras en <a title="Un regalo para cada Pebbler: Introduciendo Pebble Health y el Firmware 3.8" href="www.macsfera.com/regalo-pebbler-introduciendo-pebble-health-firmware-3-8/" target="_blank" rel="noopener noreferrer">Pebble Health</a>, también han mejorado el sistema en general con mayor estabilidad y han introducido una nueva vista cuando recibimos un emoji.</p>
+<p><strong>La aplicación para iOS también ha sufrido un rediseño,</strong> siendo ahora mucho más sencilla de usar, más clara y más útil. A parte de poder controlar las aplicaciones que envían notificaciones al reloj de forma independiente y temporal:</p>
+<blockquote class="enlace">
+<p>Disfruta de más control sobre las alertas que llegan al Pebble desde la nueva pestaña de notificaciones. Las apps aparecerán en esta pestaña una vez que el reloj reciba una notificación suya. Desde ahí, podrás controlar qué aplicaciones deben enviar las notificaciones del iPhone a tu muñeca y controlar cómo esos ajustes se aplican durante la semana.</p>
+</blockquote>
+<p>No está nada mal capar de manera individual las notificaciones. <strong>Ese filtro hace que el teléfono y el reloj sean un poco más independientes.</strong> Hasta ahora, si no se quería recibir una notificación en el Pebble, había que modificar las notificaciones de iOS para que no apareciese en el Centro de notificaciones <sup class="modern-footnotes-footnote ">1</sup>, algo que capaba la notificación incluso cuando no llevabas el reloj puesto. De esta forma, no hace falta tocar las preferencias del teléfono y podremos disfrutar de las notificaciones que queramos en el reloj.</p>
+<p>A parte de estas novedades, hay otras tantas mejoras tanto para usuarios que usan Android como ciertas mejoras menos llamativas. Todas ellas están explicadas <a href="https://blog.getpebble.com/2016/03/07/fw3-10/" target="_blank" rel="noopener noreferrer">en su blog</a>.</p>
+<p>Me gusta ver cómo los productos que uso día a día mejoran constantemente con actualizaciones <sup class="modern-footnotes-footnote ">2</sup>. Pebble en ese sentido aprovecha muy bien la carencia que tiene Apple de tardar en mejorar sus sistemas y apps, <strong>aunque también hay que decir que esta tendencia puede que esté cambiando ya que <a title="iOS 9.3 traerá modo noche, Notas con contraseña y multiusuario para el iPad en la escuela" href="www.macsfera.com/ios-9-3-traera-modo-noche-notas-contrasena-multiusuario-ipad-la-escuela/" target="_blank" rel="noopener noreferrer">la empresa va a traer ciertas novedades a iOS 9.3 antes de la WWDC</a>.</strong></p>
+<p><span class="source">Descarga</span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/pebble-time/id957997620?mt=8&#038;at=1010l9LC">App Store</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Si no sale en el centro de notificaciones, la notificación no llega al Pebble.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Incluso <a title="Hasta el 30% de descuento para el Pebble Time y el Pebble Time Round" href="www.macsfera.com/30-descuento-pebble-time-pebble-time-round/" target="_blank" rel="noopener noreferrer">en el precio de venta</a>.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/firmware-aplicacion-pebble-actualizada-la-version-3-10/">Firmware y aplicación de Pebble actualizada a la versión 3.10</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OS X Mavericks, la nueva versión del sistema operativo</title>
+		<link>https://www.MacSfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2013 20:43:14 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Calendario]]></category>
+		<category><![CDATA[Etiquetas]]></category>
+		<category><![CDATA[Finder]]></category>
+		<category><![CDATA[iBooks]]></category>
+		<category><![CDATA[keychain]]></category>
+		<category><![CDATA[Mapas]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Multiples pantallas]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[Notificaciones]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[Pestañas]]></category>
+		<category><![CDATA[Safari]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9616</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/">OS X Mavericks, la nueva versión del sistema operativo</a></p>
+<p>Apple ha presentado hoy la nueva versión de OS X 10.9 llamada Mavericks, un nuevo sistema operativo que incrementa su rendimiento e</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/">OS X Mavericks, la nueva versión del sistema operativo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/">OS X Mavericks, la nueva versión del sistema operativo</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/OS-X-Mavericks.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/OS-X-Mavericks.png" alt="OS X Mavericks" width="710" height="404" class="aligncenter size-full wp-image-9617" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/OS-X-Mavericks.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/OS-X-Mavericks-300x171.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Apple ha presentado hoy la nueva versión de OS X 10.9 llamada <a href="www.macsfera.com/tag/mavericks" title="OS X Mavericks" target="_blank" rel="noopener noreferrer">Mavericks</a>, un nuevo sistema operativo que incrementa su rendimiento e incorpora mejoras de usabilidad.</strong></p>
+<p><span id="more-9616"></span></p>
+<p>En la <strong><a href="www.macsfera.com/nuevo-logo-de-os-x-en-el-moscone-west-center-de-san-francisco-antes-de-la-wwdc/" title="Nuevo logo de OS X en el Moscone West Center de San Francisco antes de la WWDC" target="_blank" rel="noopener noreferrer">keynote de la WWDC</a></strong> una de las novedades ha sido este nuevo sistema operativo llamado <strong>Mavericks</strong> que hace referencia a la gran ola que se produce en el mar cierto día al año. Han sido varias las novedades y las veremos una a una:</p>
+<h2>iBooks</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/iBooks-en-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/iBooks-en-OS-X-Mavericks.jpg" alt="iBooks en OS X Mavericks" width="710" height="330" class="aligncenter size-full wp-image-9618" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/iBooks-en-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/iBooks-en-OS-X-Mavericks-300x139.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Ahora <strong>OS X incorporará una nueva aplicación de <a href="www.macsfera.com/tag/ibooks" title="iBooks" target="_blank" rel="noopener noreferrer">iBooks</a> con la que podremos disfrutar de todos los libros de la iBooks Store en nuestro Mac como cuando lo hacemos desde nuestro iPhone o iPad.</strong> Cuando descarguemos un ejemplar en un dispositivo iOS este aparecerá automáticamente en el <strong>Mac</strong>.</p>
+<p>Todo lo que hagamos con los libros será guardado y sincronizado por <strong>iCloud</strong> de modo que para los estudiantes será más fácil seguir las distintas lecciones y toma de apuntes entre los dispositivos. También recordará la página en la que estamos de modo que no nos perderemos nunca.</p>
+<h2>Mapas</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Mapas-en-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Mapas-en-OS-X-Mavericks.jpg" alt="Mapas en OS X Mavericks" width="710" height="443" class="aligncenter size-full wp-image-9619" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Mapas-en-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Mapas-en-OS-X-Mavericks-300x187.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>OS X Mavericks incorpora una nueva aplicación de Mapas con la que podremos interactuar tal y como hacemos en iOS.</strong> La aplicación usa la potencia de procesamiento de los ordenadores para hacer que tareas como hacer zoom, cargar entornos 3D, etc. sea mucho más rápida y fluida.</p>
+<p>Nos servirá como punto de información puesto que podremos buscar la información de restaurantes, hoteles, tiendas, etc. Cuando hayamos configurado todo en una pantalla grande <strong>podremos enviar la dirección a nuestro iPhone.</strong> También podemos insertar mapas en aplicaciones como <strong>Mail, Contactos y Calendarios.</strong></p>
+<h2>Calendario</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Calendario-en-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Calendario-en-OS-X-Mavericks.jpg" alt="Calendario en OS X Mavericks" width="710" height="414" class="aligncenter size-full wp-image-9621" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Calendario-en-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Calendario-en-OS-X-Mavericks-300x175.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Calendario estrena un nuevo diseño abandonando el skeumorfismo actual y se centra en potenciar las funcionalidades con un scroll continuo de las semanas y los meses</strong>. De ese modo podemos mirar la última mitad del mes y la primera del siguiente rápidamente.</p>
+<p>Hay un nuevo inspector a la hora de crear eventos, con este nuevo inspector <strong>rellenar dirección es más sencillo porque va prediciéndola, añade automáticamente el tiempo que se tardaría en llegar al destino, una previsualización aérea en forma de mapa y el tiempo local,</strong> esto es posible gracias a la aplicación <strong>Mapas</strong>.</p>
+<h2>Safari</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Safari-Enlaces-compartidos-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Safari-Enlaces-compartidos-OS-X-Mavericks.jpg" alt="Safari Enlaces compartidos OS X Mavericks" width="710" height="454" class="aligncenter size-full wp-image-9622" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Safari-Enlaces-compartidos-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Safari-Enlaces-compartidos-OS-X-Mavericks-300x192.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong><a href="www.macsfera.com/tag/safari" title="Safari" target="_blank" rel="noopener noreferrer">Safari</a> también es una de las nuevas novedades de Mavericks ya que cuenta con más y mejores funciones.</strong> Las principales es una barra de Sidebar que te muestra de forma diferente nuestros favoritos, la lista de lectura y los enlaces compartidos socialmente. Es bastante cómodo porque surge del lateral izquierdo de la pantalla y no como un menú temporal de la barra de menús.</p>
+<p><strong>Safari</strong> incluye el nuevo Nitro Tiered JIT que permite cargar las páginas más rápidamente que antes y no gasta batería con las webs o plugins que tengamos en segundo plano.</p>
+<p>La pestaña de <strong>links compartidos socialmente</strong> muestra los enlaces que han compartido todos tus contactos de las distintas redes que tengas iniciadas sesión en el sistema de modo que puedes verlas y compartirlas todas en un mismo sitio.</p>
+<p>Por supuesto, <strong>Safari es  más rápido a la hora de ejecutar JavaScript  y reduce notablemente el uso de la memoria y de la CPU.</strong> Además, si queda minimizado u oculto por alguna otra pestaña, el proceso se pausa y se liberan todos los recursos que consumía hasta que vuelva a a estar visible.</p>
+<h2>iCloud Keychain</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/iCloud-Keychain-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/iCloud-Keychain-OS-X-Mavericks.jpg" alt="iCloud Keychain OS X Mavericks" width="710" height="330" class="aligncenter size-full wp-image-9623" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/iCloud-Keychain-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/iCloud-Keychain-OS-X-Mavericks-300x139.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Otra nueva característica es que <strong><a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a> podrá almacenar nuestras contraseñas para que no tengamos que estar siempre poniéndolas en nuestros distintos dispositivos.</strong> Dichas contraseñas se almacenan usando un protocolo de encriptado muy potente llamado AES 256-bit de modo que <strong>no nos tenemos que preocupar de que estén a salvo.</strong> Por supuesto, si no se nos ocurren contraseñas, podemos dejar que se generen automáticamente asegurándonos de que son muy fuertes.</p>
+<p><strong>iCloud Keychain</strong> guarda no solo las contraseñas, también los nombres de usuario y la información de tarjetas de crédito a la hora de pagar. Nosotros podremos elegir las webs que podrán guardar la información. Por supuesto, esta información se sincronizará entre los distintos dispositivos que tengamos.</p>
+<h2>Multiples pantallas</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Multiples-pantallas-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Multiples-pantallas-OS-X-Mavericks.jpg" alt="Multiples pantallas OS X Mavericks" width="710" height="375" class="aligncenter size-full wp-image-9624" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Multiples-pantallas-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Multiples-pantallas-OS-X-Mavericks-300x158.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Por fin Apple ha implementado un buen sistema de pantallas múltiples en OS X Mavericks.</strong> Hasta ahora poner una aplicación a pantalla completa era una odisea puesto que perdíamos la totalidad de una de las pantallas, ahora eso no pasará puesto que <strong>se comportan como escritorios independientes.</strong></p>
+<p>Tanto es así que <strong>cada una tiene su propia barra de menús,</strong> podremos tener dos pantallas a pantalla completa, una sola o ninguna. Con <strong>Mission Control</strong> podremos pasar de una lado a otro todas las apps que queramos y, si disponemos de un <strong>Apple TV</strong>, podremos convertir la tele en un escritorio sin cables gracias a <strong>AirPlay Display</strong>.</p>
+<h2>Notificaciones</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Notificaciones-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Notificaciones-OS-X-Mavericks.jpg" alt="Notificaciones OS X Mavericks" width="710" height="264" class="aligncenter size-full wp-image-9625" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Notificaciones-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Notificaciones-OS-X-Mavericks-300x112.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>El sistema de notificaciones ha sido mejorado en <strong>Mavericks</strong>, ahora no solo podremos ver lo que pasa, <strong>también podremos interactuar con ellas sin salir de la aplicación en la que estamos.</strong> De ese modo, contestar mensajes, contestar llamadas o eliminar emails será una tarea que podremos hacer sin hacer uso de la aplicación en concreto, simplemente desde la esquina superior derecha.</p>
+<p>Otra novedad es que <strong>podemos configurar que ciertas páginas nos envíen notificaciones como eBay, páginas de noticias, eventos importantes, etc. incluso si Safari no está abierto.</strong> También podremos ver un resumen de todo lo ocurrido si decidimos ausentarnos y bloquear el <strong><a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a></strong>.</p>
+<h2>Pestañas en Finder</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Finder-con-pestañas-en-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Finder-con-pestañas-en-OS-X-Mavericks.jpg" alt="Finder con pestañas en OS X Mavericks" width="710" height="431" class="aligncenter size-full wp-image-9626" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Finder-con-pestañas-en-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Finder-con-pestañas-en-OS-X-Mavericks-300x182.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong><a href="www.macsfera.com/tag/finder" title="Finder" target="_blank" rel="noopener noreferrer">Finder</a> ahora incorpora pestañas para que podamos tener múltiples ventanas en una sola</strong> tal y como hace la ya conocida aplicación <strong><a href="www.macsfera.com/totalfinder-maneja-varias-ventanas-organizadas-en-pestanas/" title="TotalFinder, maneja varias ventanas organizadas en pestañas" target="_blank" rel="noopener noreferrer">TotalFinder</a></strong>. Para pasar un archivo basta con arrastrarlo a la pestaña y soltarlo e incluso podremos poner Finder en pantalla completa. El tratamiento de cada pestaña es individual de modo que tendremos la capacidad de cambiar la vista, reordenar el contenido y cambiar las pestañas unas por otras.</p>
+<h2>Etiquetas</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/Etiquetas-en-Finder-OS-X-Mavericks.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/Etiquetas-en-Finder-OS-X-Mavericks.jpg" alt="Etiquetas en Finder OS X Mavericks" width="710" height="433" class="aligncenter size-full wp-image-9627" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/Etiquetas-en-Finder-OS-X-Mavericks.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/Etiquetas-en-Finder-OS-X-Mavericks-300x183.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Ha nacido una nueva forma de organizar documentos en Mavericks, las etiquetas.</strong> Este sistema permite añadir palabras clave a documentos para organizarlos mejor y para encontrarlos mejor. Las aplicaciones <strong>tendrán la capacidad de añadir etiquetas a los archivos y estas se guardarán hasta en iCloud</strong> para que todo sea más sencillo.</p>
+<h2>Mejoras en eficiencia y rendimiento</h2>
+<p><strong>Mavericks trae <a href="www.macsfera.com/todas-las-mejoras-de-eficiencia-y-rendimiento-de-os-x-mavericks/" title="Todas las mejoras de eficiencia y rendimiento de OS X Mavericks" target="_blank" rel="noopener noreferrer">muchas mejoras de eficiencia y rendimiento</a> que aumentan la duración de la batería, el uso de la CPU y GPU, el consumo de RAM y en general los recursos restantes del ordenador de modo que obtenemos más gastando menos.</strong></p>
+<h2>Precio y lanzamiento</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/OS-X-Maverick-disponible-en-otoño.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/OS-X-Maverick-disponible-en-otoño.jpg" alt="OS X Maverick disponible en otoño" width="710" height="469" class="aligncenter size-full wp-image-9628" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/OS-X-Maverick-disponible-en-otoño.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/OS-X-Maverick-disponible-en-otoño-300x198.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Por ahora no hay precio oficial de esta nueva versión aunque si disponemos de una fecha aproximada: <strong>Otoño</strong>. Para aquél que sea desarrollador, puede tener la beta hoy mismo con el fin de que empiece a probarlo y a implementar las aplicaciones.</p>
+<p>Sin duda, <strong>interesantes características en un nuevo sistema operativo que espera revolucionar un poco más la usabilidad en escritorio.</strong> Veremos si en un futuro se presentan más novedades.</p>
+<p>Mas info | <a href="http://www.apple.com/osx/preview/" target="_blank" rel="noopener noreferrer">Apple</a></p>
+<p><span class="source">Imagen</span> <span class="via"><a href="http://live.theverge.com/apple-wwdc-2013-live-blog/" target="_blank" rel="noopener noreferrer">The Verge</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/">OS X Mavericks, la nueva versión del sistema operativo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

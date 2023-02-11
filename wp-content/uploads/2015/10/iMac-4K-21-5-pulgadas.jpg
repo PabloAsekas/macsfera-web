@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2015/10/iMac-4K-21-5-pulgadas.jpg?simply_static_page=262835">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2015/10/iMac-4K-21-5-pulgadas.jpg?simply_static_page=262835";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2015/10/iMac-4K-21-5-pulgadas.jpg?simply_static_page=262835">https://www.macsfera.com/wp-content/uploads/2015/10/iMac-4K-21-5-pulgadas.jpg?simply_static_page=262835</a></p>
+	</body>
+</html>

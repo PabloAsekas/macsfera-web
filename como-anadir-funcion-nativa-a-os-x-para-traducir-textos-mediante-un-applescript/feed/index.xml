@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Cómo añadir función nativa a OS X para traducir textos mediante un AppleScript	</title>
+	<atom:link href="https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Mon, 14 Mar 2016 22:24:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: Marlon		</title>
+		<link>https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/?#comment-744</link>
+
+		<dc:creator><![CDATA[Marlon]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2015 19:27:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5568#comment-744</guid>
+
+					<description><![CDATA[Esto se puede hacer con Chrome? Lo he probado y no funciona, salta una ventana de error:
+Hay alguna forma de hacerlo?
+Gracias!]]></description>
+			<content:encoded><![CDATA[<p>Esto se puede hacer con Chrome? Lo he probado y no funciona, salta una ventana de error:<br />
+Hay alguna forma de hacerlo?<br />
+Gracias!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: PabloAsekas		</title>
+		<link>https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/?#comment-394</link>
+
+		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
+		<pubDate>Sat, 14 Jan 2012 20:21:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5568#comment-394</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/?#comment-393&quot;&gt;R Parra&lt;/a&gt;.
+
+Gracias amigo!!]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/?#comment-393">R Parra</a>.</p>
+<p>Gracias amigo!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: R Parra		</title>
+		<link>https://www.MacSfera.com/como-anadir-funcion-nativa-a-os-x-para-traducir-textos-mediante-un-applescript/?#comment-393</link>
+
+		<dc:creator><![CDATA[R Parra]]></dc:creator>
+		<pubDate>Sat, 14 Jan 2012 20:13:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5568#comment-393</guid>
+
+					<description><![CDATA[excelente!!
+]]></description>
+			<content:encoded><![CDATA[<p>excelente!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

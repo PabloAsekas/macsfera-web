@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Automator: Cómo cambiar el tamaño de las fotos automáticamente	</title>
+	<atom:link href="https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Tue, 15 Mar 2016 15:54:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: PabloAsekas		</title>
+		<link>https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/?#comment-626</link>
+
+		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
+		<pubDate>Thu, 30 May 2013 10:59:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7364#comment-626</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/?#comment-625&quot;&gt;Miguel de la Fuente&lt;/a&gt;.
+
+me alegro mucho =D]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/?#comment-625">Miguel de la Fuente</a>.</p>
+<p>me alegro mucho =D</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Miguel de la Fuente		</title>
+		<link>https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/?#comment-625</link>
+
+		<dc:creator><![CDATA[Miguel de la Fuente]]></dc:creator>
+		<pubDate>Tue, 28 May 2013 21:53:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7364#comment-625</guid>
+
+					<description><![CDATA[cuanto aprendo contigo Pablo.]]></description>
+			<content:encoded><![CDATA[<p>cuanto aprendo contigo Pablo.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

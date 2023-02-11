@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Plugins &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/plugins/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:24:16 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Ultimate Status Bar, barra informativa de enlaces para Safari</title>
+		<link>https://www.MacSfera.com/ultimate-status-bar-barra-informativa-de-enlaces-para-safari/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 11 Aug 2011 21:45:35 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Barra de Estado]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Ultimate Status Bar]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4398</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ultimate-status-bar-barra-informativa-de-enlaces-para-safari/">Ultimate Status Bar, barra informativa de enlaces para Safari</a></p>
+<p>Ultimate Status Bar es un plugin para Safari que muestra información de los enlaces sobre los que está tu cursor. En Safari</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ultimate-status-bar-barra-informativa-de-enlaces-para-safari/">Ultimate Status Bar, barra informativa de enlaces para Safari</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ultimate-status-bar-barra-informativa-de-enlaces-para-safari/">Ultimate Status Bar, barra informativa de enlaces para Safari</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Ultimate-Status-Bar.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Ultimate-Status-Bar.png" alt="" title="Ultimate Status Bar" width="550" height="209" class="aligncenter size-full wp-image-4402" srcset="https://www.MacSfera.com/wp-content/uploads/2011/08/Ultimate-Status-Bar.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/08/Ultimate-Status-Bar-300x114.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Ultimate Status Bar</strong> es un plugin para <strong><a href="www.macsfera.com/tag/safari" title="Safari" target="_blank" rel="noopener noreferrer">Safari</a></strong> que muestra información de los enlaces sobre los que está tu cursor.<br />
+<span id="more-4398"></span><br />
+En <strong>Safari</strong> esta barra se llama <strong>Barra de Estado</strong> (la podemos activar desde el menú Ventana) y lo malo que tiene es que siempre está presente quitando un poco de espacio a la página y eso, en una pantalla de 11&#8243; o de 13&#8243; puede ser incómodo.</p>
+<p>A mi siempre me gusta saber en que enlace voy a entrar y con la instalación de <strong><a href="www.macsfera.com/tag/os-x-lion" title="OS X Lion" target="_blank" rel="noopener noreferrer">Lion</a></strong> esta barra está oculta por defecto y solo por el simple hecho de que tengo un poco más de pantalla no la he activado. Con este plugin tendremos una barra de estado que solo se activará si pasamos el cursor encima. Este efecto ya lo incluye <strong>Chrome</strong> y es algo que hecho mucho de menos en <strong>Safari</strong>.</p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Opciones-Ultimate-Status-Bar.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Opciones-Ultimate-Status-Bar.png" alt="" title="Opciones Ultimate Status Bar" width="550" height="266" class="aligncenter size-full wp-image-4404" srcset="https://www.MacSfera.com/wp-content/uploads/2011/08/Opciones-Ultimate-Status-Bar.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/08/Opciones-Ultimate-Status-Bar-300x145.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Con <strong>Ultimate Status Bar</strong> podremos elegir diferentes estilos entre <strong>14 temas</strong> y seleccionar unas cuantas opciones como el tiempo que tardará en salir la barra o de la información que mostrará.</p>
+<p>Lo bueno que tiene es que cuando sale la barra se puede mover si pasamos el cursor por el lugar dónde se halla siempre y cuando tengamos un enlace, de este modo no nos molestará en ningún momento.</p>
+<p>Como ya he dicho, me gusta el hecho de que sea momentánea la muestra de la URL y no sea permanente. Este plugin lo podéis descargar desd<strong>e la <strong>web oficial de plugins de Apple</strong> o en su </strong>página oficial.</p>
+<p>Descarga | <a href="http://ultimatestatusbar.com/" target="_blank" rel="noopener noreferrer">Ultimate Status</a> | <a href="https://extensions.apple.com/" target="_blank" rel="noopener noreferrer">Apple</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ultimate-status-bar-barra-informativa-de-enlaces-para-safari/">Ultimate Status Bar, barra informativa de enlaces para Safari</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Awesome Screenshot, el plugin para capturar fotos de tus web</title>
+		<link>https://www.MacSfera.com/awesome-screenshot-el-plugin-para-capturar-fotos-de-tus-web/</link>
+					<comments>https://www.MacSfera.com/awesome-screenshot-el-plugin-para-capturar-fotos-de-tus-web/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 22 Feb 2011 13:20:54 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Awesome Screenshot]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1251</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/awesome-screenshot-el-plugin-para-capturar-fotos-de-tus-web/">Awesome Screenshot, el plugin para capturar fotos de tus web</a></p>
+<p>Awesome Screenshot es un plugin tanto para Safari como para Chrome que permite tomar una captura de toda la web o parte</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/awesome-screenshot-el-plugin-para-capturar-fotos-de-tus-web/">Awesome Screenshot, el plugin para capturar fotos de tus web</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/awesome-screenshot-el-plugin-para-capturar-fotos-de-tus-web/">Awesome Screenshot, el plugin para capturar fotos de tus web</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Awesome-Screenshot.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Awesome-Screenshot.png" alt="" title="Awesome Screenshot" width="550" height="408" class="aligncenter size-full wp-image-3430" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Awesome-Screenshot.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/02/Awesome-Screenshot-300x223.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Awesome Screenshot</strong> es un plugin tanto para <strong><a href="www.macsfera.com/tag/safari">Safari</a></strong> como para <strong>Chrome</strong> que permite tomar una captura de toda la web o parte de ella y luego editarla.<br />
+<span id="more-1251"></span><br />
+<strong>Puedes añadir cuadrados, círculos, líneas rectas o dibujadas, también puedes difuminar, añadir texto y cortar.</strong> Una vez acabado puedes guardarla en tu ordenador o si lo prefieres puedes subirla a la propia web y compartirla por distintas redes sociales y clientes de mail.</p>
+<p>El capturado tiene muy buena calidad y es un plugin muy útil, de momento solo tiene versiones para los navegadores antes mencionados pero están trabajando para obtener una versión compatible con <strong>Firefox</strong>.</p>
+<p>Si decidimos guardar la imagen en nuestro ordenador <strong>debemos seleccionar Guardar como&#8230; y aplicarle un formato</strong> puesto que si le damos a Guardar en «Descargas» se guardará sin formato y lo tendremos que aplicar más tarde.</p>
+<p>No os preocupéis cuando vayáis a cortar la imagen ya que no se corta al instante, te permite ajustar al máximo posible destacando la parte que vas a dejar con un tono claro de la que vas a cortar, con un tono oscuro.</p>
+<p>Comentar que la versión para <strong>Chrome</strong> está un poco más completa que la de <strong>Safari</strong>, pero son pequeños detalles, al final se consigue lo mismo en una y en otro.</p>
+<p>Podéis descargaros la <strong><a href="www.macsfera.com/tag/aplicaciones">aplicación</a></strong> desde su <a href="http://awesomescreenshot.com/">web oficial</a>.</p>
+<p style="text-align: center;"><iframe width="550" height="335" src="http://www.youtube.com/embed/edCl3VJW02w" frameborder="0" allowfullscreen></iframe></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/awesome-screenshot-el-plugin-para-capturar-fotos-de-tus-web/">Awesome Screenshot, el plugin para capturar fotos de tus web</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/awesome-screenshot-el-plugin-para-capturar-fotos-de-tus-web/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</title>
+		<link>https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/</link>
+					<comments>https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 21 Feb 2011 13:20:21 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Descargas]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[QuickTime Player]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Ventana/Actividades]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[VLC]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[YouTube Video Downloader for Safari]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1162</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a></p>
+<p>Normalmente cuando vemos un vídeo en YouTube y nos gusta, puede que lo queramos tener entre nuestros vídeos, sobre todo cuando es</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari.png" alt="" title="Descargar vídeos de YouTube con Safari" width="550" height="344" class="aligncenter size-full wp-image-3926" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Normalmente cuando vemos un vídeo en YouTube y nos gusta, puede que lo queramos tener entre nuestros vídeos, sobre todo cuando es un videoclip o algo por el estilo. Hasta ahora tenemos infinidad de programas para descargarlo, también hay páginas que permiten la descarga on-line. Pero aquí <strong>os traigo dos maneras sencillas de descargar un vídeo desde <strong><a href="www.macsfera.com/tag/safari">Safari</a></strong>,</strong> sin utilizar ningún programa.<br />
+<span id="more-1162"></span><br />
+<strong>La primera de todas es siguiendo unos pasos:</strong></p>
+<ul>
+<li>Accedemos a YouTube y nos metemos en el vídeo que queramos descargar.</li>
+<li>En la barra de menús seleccionamos <strong>Ventana/actividades</strong>.</li>
+<li>Aparecerá una ventana con las actividades del navegador y deberemos buscar la que salga cargando (3,1 de 36,2 MB en caso de la imagen), hacemos doble click y empezará una descarga (imagen 1).</li>
+<li>Cuando esta acabe podréis disfrutar del vídeo con <strong>VLC</strong> (<strong>Quick Time Player</strong> no reproduce el formato).</li>
+</ul>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube.png" alt="" title="Descargar vídeo de YouTube" width="514" height="294" class="aligncenter size-full wp-image-3425" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube.png 514w, https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube-300x172.png 300w" sizes="(max-width: 514px) 100vw, 514px" /></a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1.png" alt="" title="Descargar vídeo de YouTube" width="550" height="374" class="aligncenter size-full wp-image-3424" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1-300x204.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>La segunda opción es descargando e instalando un plugin gratuito para <strong>Safari</strong> <strong>llamado <strong>YouTube Video Downloader for Safari</strong></strong> que es un plugin muy discreto que no vas a notar su presencia cuando esté instalado y <strong>se adapta perfectamente a la interfaz gráfica de YouTube.</strong></p>
+<p>Este plugin añade la opción Download al lado del botón de Suscribirse y si lo pulsamos nos aparecen <strong>distintos formatos para descargar dicho vídeo</strong> entre los que se incluye el de 720p o 1080p si el vídeo está en dichos formatos.<br />
+El plugin lo podéis descargar desde <a href="https://github.com/jonathanboom/YouTube-video-downloader-for-Safari">aquí</a>.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari.png" alt="" title="YouTube Video Downloader for Safari" width="401" height="35" class="aligncenter size-full wp-image-3426" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari.png 401w, https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari-300x26.png 300w" sizes="(max-width: 401px) 100vw, 401px" /></a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1.png" alt="" title="YouTube Video Downloader for Safari" width="490" height="60" class="aligncenter size-full wp-image-3427" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1.png 490w, https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1-300x37.png 300w" sizes="(max-width: 490px) 100vw, 490px" /></a></p>
+<p>A mi parecer la segunda opción es la mejor puesto que permite descargar el vídeo en distintos formatos y en distintas calidades y da más juego, todo es más sencillo.</p>
+<p>Pero si no quieres instalar ningún plugin ahí tienes la primera opción que aunque es más engorrosa es muy eficaz.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

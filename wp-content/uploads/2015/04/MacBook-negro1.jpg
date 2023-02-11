@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2015/04/MacBook-negro1.jpg?simply_static_page=263963">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2015/04/MacBook-negro1.jpg?simply_static_page=263963";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2015/04/MacBook-negro1.jpg?simply_static_page=263963">https://www.macsfera.com/wp-content/uploads/2015/04/MacBook-negro1.jpg?simply_static_page=263963</a></p>
+	</body>
+</html>

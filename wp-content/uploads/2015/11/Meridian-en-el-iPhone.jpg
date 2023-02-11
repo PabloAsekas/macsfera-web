@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2015/11/Meridian-en-el-iPhone.jpg?simply_static_page=263244">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2015/11/Meridian-en-el-iPhone.jpg?simply_static_page=263244";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2015/11/Meridian-en-el-iPhone.jpg?simply_static_page=263244">https://www.macsfera.com/wp-content/uploads/2015/11/Meridian-en-el-iPhone.jpg?simply_static_page=263244</a></p>
+	</body>
+</html>

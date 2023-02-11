@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Formatear &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/formatear/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Mon, 18 Feb 2019 22:30:32 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>10 consejos a la hora de formatear tu Mac</title>
+		<link>https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/</link>
+					<comments>https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 05 Feb 2013 19:08:43 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Archivos]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Consejos]]></category>
+		<category><![CDATA[Copia de seguridad]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Formatear]]></category>
+		<category><![CDATA[Lion]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[OS X Lion]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[OS X Snow Leopard]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Preferencias del Sistema]]></category>
+		<category><![CDATA[Recovery]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<category><![CDATA[Trucos]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8372</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a></p>
+<p>Formatear un Mac es un proceso bastante sencillo y común entre los que suelen notar problemas de rendimiento, pero hay veces que</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2013/02/disco-duro.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2013/02/disco-duro.jpeg" alt="Disco duro" width="710" height="473" class="aligncenter size-full" /></a></p>
+<p><strong>Formatear un <a href="www.macsfera.com/" title="Mac" target="_blank">Mac</a></strong> es un proceso bastante sencillo y común entre los que suelen notar problemas de rendimiento, pero hay veces que se nos puede pasar algo por encima, por eso <strong>os damos estos 10 consejos para que no os suponga ninguna pérdida o quebradero de cabeza el borrar y reinstalar.</strong></p>
+<p><span id="more-8372"></span></p>
+<p>Vamos a partir desde el supuesto de que el formateo e instalación será <strong>sin copia de seguridad.</strong> Algunos lo verán una locura, pero cuando hay problemas de rendimiento es lo que se recomienda ya que puede que con la copia de seguridad arrastremos esos errores.</p>
+<p>Empezamos:</p>
+<ol>
+<li><strong>Salvar todos nuestros archivos:</strong> Es algo obvio, pero hay que tenerlo muy en cuenta sobre todo partiendo de la base de que no vamos a tener copia de seguridad. Registrad las carpetas y salvad todo lo que os sirva.</li>
+<li><strong>Recordar las aplicaciones que tengamos instaladas:</strong> Otra cosa obvia, pero no hay que confiar en nuestra memoria, lo mejor es sacar una captura de nuestra carpeta de aplicaciones y, luego cuando nos toque volver a reinstalar todo, decidir si seguimos queriendo ciertas aplicaciones.</li>
+<li><strong>Recordar los complementos instalados:</strong> Este punto es algo que se descuida más pero que puede ser tan importante como el anterior. Los complementos son pequeños paquetes que instalamos que nos aportan funciones al sistema. Sabremos cuales son si nos fijamos en <strong>Preferencias del sistema.</strong></li>
+<li><strong>Revisar todas las aplicaciones:</strong> Gracias a la nueva funcionalidad de <strong><a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank">OS X</a></strong>, no hace falta guardar un archivo ya que al abrir la aplicación este aparecerá de nuevo tal y como la habíamos dejado. Por eso es importante revisar todas las aplicaciones para saber si nos hemos dejado algo sin guardar.</li>
+<li><strong>Tener en cuenta las configuraciones del sistema y de las aplicaciones:</strong> No estaría demás fijarnos en nuestra propia configuración del sistema para dejarlo todo como lo teníamos. También sería conveniente prestar atención al mismo aspecto de nuestras aplicaciones instaladas, puede que alguna de ellas la hayamos configurado y luego no sepamos exactamente como estaba.</li>
+<li><strong>Observar como están configuradas nuestras cuentas de email:</strong> esto tiene menos importancia si son del tipo Gmail, Yahoo y demás, pero <strong><a href="www.macsfera.com/como-configurar-tu-email-personalizado-en-mail/" title="Cómo configurar tu email personalizado en Mail" target="_blank">si son con dominio personalizado</a></strong> lo mejor será echar un vistazo para saber si hay algo especial que ya no recordemos.</li>
+<li><strong>Guardar los favoritos que tengamos en el navegador:</strong> En función del navegador que uséis, deberéis tener en cuenta guardar la sección de favoritos. En <strong>Safari</strong> basta con ir a la pestaña Archivo y seleccionar Exportar favoritos, en <strong>Chrome</strong> se nos sincroniza con nuestra cuenta de email y en <strong>Firefox</strong> deberemos mostrar todos los marcadores (cmd+shift+B) y elegir la opción de exportar que está en la barra de herramientas.</li>
+<li><strong>Tener cuidado con las copias de seguridad:</strong> Como ya hemos comentado, el uso de copias de seguridad a la hora de formatear por un problema no te garantiza que que se vaya a solucionar ya que puede persistir. Siempre depende de lo que guardemos, pero hay que tener cuidado porque puede que perdamos tiempo y para conseguir lo mismo.</li>
+<li><strong>Utilizar Recovery para el formateo e instalación:</strong> Antes de hacer nada lo mejor es plantear como queremos formatear nuestro disco duro, lo mejor va a ser utilizar el sistema <strong><a href="www.macsfera.com/recovery-o-como-reinstalar-os-x-lion-sin-dvd/" title="Recovery, o como reinstalar OS X Lion sin DVD" target="_blank">Recovery</a></strong>, desde él podremos formatear el disco duro y luego reinstalar el sistema sin ningún problema. Para acceder a este modo basta con pulsar la tecla Alt cuando se está encendiendo el ordenador y seleccionarlo.</li>
+<li><strong>Paciencia:</strong> Parece mentira, pero si, hay que tener paciencia, el proceso de reinstalación si no tenemos CDs es lento, se tiene que descargar el sistema, y luego instalarlo, a parte, la partición Recovery es un poco lenta y si encima le sumas el hecho de que hay que formatear… Es proceso sencillo, puesto que nosotros tenemos que hacer poco, pero es lento, por eso, si lo hacéis, hacedlo con tiempo.</li>
+</ol>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Recovery-de-OS-X-Lion.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Recovery-de-OS-X-Lion.jpg" alt="Recovery de OS X Lion" width="550" height="239" class="aligncenter size-full" /></a></p>
+<p><strong>Esperamos que estos consejos y pasos os sirvan para que vuestra experiencia a la hora de formatear y reinstalar el sistema no sea un caos.</strong> Como ya decimos el proceso es sencillo pero hay que tener ciertos conceptos seguros para evitar errores y recurrir al servicio técnico.</p>
+<p>Por supuesto, siempre hay que ir con cabeza y ante la duda, <strong>buscar ayuda.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

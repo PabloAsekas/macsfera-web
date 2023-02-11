@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TextExpander &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/textexpander/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:22:22 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hola aText, adiós TextExpander</title>
+		<link>https://www.MacSfera.com/hola-atext-adios-textexpander/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2016 11:37:38 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Alfred]]></category>
+		<category><![CDATA[aText]]></category>
+		<category><![CDATA[Carlos Burges]]></category>
+		<category><![CDATA[Faq-mac]]></category>
+		<category><![CDATA[TextExpander]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14524</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/hola-atext-adios-textexpander/">Hola aText, adiós TextExpander</a></p>
+<p>En los últimos días ha habido mucho revuelo en Internet porque una famosa aplicación llamada TextExpander ha cambiado su modelo de negocio</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/hola-atext-adios-textexpander/">Hola aText, adiós TextExpander</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/hola-atext-adios-textexpander/">Hola aText, adiós TextExpander</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/04/13133641/aText.jpg" rel="attachment wp-att-14526"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/04/13133641/aText.jpg" alt="aText" width="1130" height="600" class="aligncenter size-full wp-image-14526" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/04/13133641/aText.jpg 1130w, https://cdn.macsfera.com/wp-content/uploads/2016/04/13133641/aText.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/04/13133641/aText.jpg 1024w" sizes="(max-width: 1130px) 100vw, 1130px" /></a></p>
+<p><strong>En los últimos días ha habido mucho revuelo en Internet porque una famosa aplicación llamada TextExpander ha cambiado su modelo de negocio con el objetivo de ingresar más.</strong></p>
+<p>Con unas cosas u otras, al final ofrecían lo mismo por más dinero. Además se unían al cobro por sistema de suscripción, algo que nos obligaba a seguir pagando sí o sí.</p>
+<p>No me mal interpretéis, pagar por aplicaciones no es malo, pero cuando te dan lo mismo por más, y encima te obligan a pasar por caja, <strong>la gente se resiente.</strong></p>
+<p>Así ha sido el caso de Carlos Burges, que <strong><a target="_blank" href="http://www.faq-mac.com/2016/04/hola-atext-adios-textexpander/" rel="noopener noreferrer">ha decidido</a> abandonar la aplicación en favor de aText</strong> después de muchos años siendo usuario de TextExpander.</p>
+<blockquote>
+<p>Así que he buscado alternativas y el precio no era una condición, sino la similitud de funcionamiento y sobre todo, la capacidad de poder recuperar los snippets de TextExpander directamente en la nueva aplicación.</p>
+<p>Y la solución ha sido aText.</p>
+</blockquote>
+<p>Tenía pensado hablar de TextExpander desde hace un par de meses cuando tuve contacto con Smile, la empresa detrás de la app. Pero con el cambio de negocio lo he parado todo porque quiero traeros la que mejor haga su cometido con un equilibrio en su precio.</p>
+<p>Ahí es dónde entra <a target="_blank" href="http://www.trankynam.com/atext/" rel="noopener noreferrer">aText</a>, Alfred, que también <a target="_blank" href="https://www.alfredapp.com/blog/announcements/alfred-3-sneak-peek-snippets-expansion/" rel="noopener noreferrer">ha anunciado</a> un pequeño adelanto sobre su nueva versión, y <a target="_blank" href="https://smilesoftware.com/textexpander/entry/textexpander-adjustments" rel="noopener noreferrer">el nuevo anuncio</a> de TextExpander, que reduce el precio de la suscripción de por vida para todos los usuarios (además de devolver sus antiguas versiones a la vida).</p>
+<p>Veremos a ver cuál es la aplicación definitiva y dónde acabamos, pero una cosa sí tengo clara, la suscripción en software es un método de pago que se está popularizando mucho pero que puede hacer que pierdas más que ganes.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/hola-atext-adios-textexpander/">Hola aText, adiós TextExpander</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

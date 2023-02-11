@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mat Honan &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/mat-honan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:29:07 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Apple incluye la verificación en dos pasos en sus sistemas</title>
+		<link>https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2013 12:11:55 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Contraseñas]]></category>
+		<category><![CDATA[EEUU]]></category>
+		<category><![CDATA[ID de Apple]]></category>
+		<category><![CDATA[Irlanda]]></category>
+		<category><![CDATA[Mat Honan]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Nueva Zelanda]]></category>
+		<category><![CDATA[Reino Unido]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Verificación en dos pasos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8669</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a></p>
+<p>Apple ha incluido el sistema de verificación en dos pasos en sus servicios de iCloud e ID de Apple. El sistema de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID.png" alt="Verificación en dos pasos Apple ID" width="550" height="358" class="aligncenter size-full wp-image-8670" srcset="https://www.MacSfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID.png 550w, https://www.MacSfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID-300x195.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Apple ha incluido el sistema de verificación en dos pasos en sus servicios de <a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a> e <a href="www.macsfera.com/tag/id-de-apple" title="ID de Apple" target="_blank" rel="noopener noreferrer">ID de Apple</a>.</strong></p>
+<p><span id="more-8669"></span></p>
+<p>El sistema de verificación en dos pasos consiste en un <strong>método de seguridad por el cual hay una confirmación por contraseña y otra por un código de seguridad</strong> aleatorio y desconocido que recibimos en nuestro móvil (o aplicación Find My iPhone si está instalada).</p>
+<p>Este es un sistema muy común desde que empresas como Google o distintos bancos lo implementaran en sus servicios para mejorar la seguridad de sus clientes. <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> es una empresa que tiene un montón de información de sus usuarios de modo que este nuevo método <strong>hará que se eviten <a href="www.macsfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/" title="Hackeada la cuenta de iCloud de un periodista que detalla el proceso" target="_blank" rel="noopener noreferrer">casos como el de Mat Honan</a>.</strong></p>
+<p>Los usuarios podremos elegir cual de nuestros dispositivos va a recibir el código. También recibiremos una clave de recuperación de 14 dígitos la cual servirá para acceder a nuestra cuenta en caso de que perdamos algún dispositivo o se nos olvide la contraseña principal.</p>
+<p>Ahora <strong>no podremos restablecer nuestra cuenta a través del teléfono del soporte técnico de la empresa</strong> y, si perdemos, regalamos o vendemos algún dispositivo vinculado con el código, podremos eliminarlo desde la página web de gestión para evitar que siga recibiendo las notificaciones.</p>
+<p>Este sistema <strong>se usará siempre que vayamos a realizar una compra en cualquier servicio de Apple,</strong> por ello deberemos tener siempre cerca nuestro teléfono. Por ahora solo está disponible en Estados Unidos, Reino Unido, Australia, Irlanda y Nueva Zelanda.</p>
+<p>Vía | <a href="http://9to5mac.com/2013/03/21/apple-beefs-up-icloud-apple-id-security-with-two-step-verification/" target="_blank" rel="noopener noreferrer">9To5Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</title>
+		<link>https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 08 Aug 2012 10:29:05 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Contraseñas]]></category>
+		<category><![CDATA[Cuenta]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[Hackers]]></category>
+		<category><![CDATA[ID de Apple]]></category>
+		<category><![CDATA[Mat Honan]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Periodista]]></category>
+		<category><![CDATA[Protocolo]]></category>
+		<category><![CDATA[Restablecimiento]]></category>
+		<category><![CDATA[Suspensión]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7170</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a></p>
+<p>Apple ha decidido suspender de forma cautelar el restablecimiento de contraseñas de iCloud por vía telefónica, esta suspensión sería de 24 horas</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/08/Cuenta-de-iCloud-hackeada.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/08/Cuenta-de-iCloud-hackeada.jpg" alt="Cuenta de iCloud hackeada" title="Cuenta de iCloud hackeada" width="550" height="294" class="aligncenter size-full wp-image-7171" srcset="https://www.MacSfera.com/wp-content/uploads/2012/08/Cuenta-de-iCloud-hackeada.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/08/Cuenta-de-iCloud-hackeada-300x160.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Apple ha decidido suspender de forma cautelar el restablecimiento de contraseñas de <a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a> por vía telefónica,</strong> esta suspensión sería de 24 horas al menos.</p>
+<p><span id="more-7170"></span></p>
+<p>Todo esto viene por la historia que os contamos ayer del <strong><a href="www.macsfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/" title="Hackeada la cuenta de iCloud de un periodista que detalla el proceso" target="_blank" rel="noopener noreferrer">reportero Mat Honan el cual sufrió un hackeo de su cuenta de iCloud</a></strong> con la que pudieron borrar toda la información de sus dispositivos, acceder a Gmail y a su cuenta de Twitter.</p>
+<p><strong>El proceso se hizo por teléfono sabiendo la dirección de facturación y los últimos cuatro dígitos de su tarjeta de crédito</strong> (obtenidos a través de Amazon). Un trabajador anónimo de la empresa comentó que, en efecto, se había suspendido este procedimiento <strong>para que Apple analizase cuales eran las políticas de seguridad a cambiar.</strong></p>
+<p>Algo más preocupante que la facilidad con la que consiguieron el acceso a la cuenta es el hecho de que <strong>no se siguió bien el protocolo</strong> para restablecer la contraseña, con lo que <strong>Apple</strong> tiene un problema más. En un futuro veremos la decisión que toman respecto al tema.</p>
+<p>Vía | <a href="http://www.wired.com/gadgetlab/2012/08/apple-icloud-password-freeze/" target="_blank" rel="noopener noreferrer">Wired</a><br />
+Imagen | Flickr de <a href="http://www.flickr.com/photos/thebusinessmakers/" target="_blank" rel="noopener noreferrer">TheBusinessMakers</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hackeada la cuenta de iCloud de un periodista que detalla el proceso</title>
+		<link>https://www.MacSfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 07 Aug 2012 17:10:34 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Cuenta]]></category>
+		<category><![CDATA[Hackers]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[Mat Honan]]></category>
+		<category><![CDATA[Natalie Kerris]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Portavoz]]></category>
+		<category><![CDATA[Soporte]]></category>
+		<category><![CDATA[Tarjeta de crédito]]></category>
+		<category><![CDATA[Whois]]></category>
+		<category><![CDATA[Wired]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7166</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/">Hackeada la cuenta de iCloud de un periodista que detalla el proceso</a></p>
+<p>Mat Honan sufrió un hackeo de su cuenta de iCloud con la que pudieron borrar el contenido de su iPhone, su iPad</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/">Hackeada la cuenta de iCloud de un periodista que detalla el proceso</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/">Hackeada la cuenta de iCloud de un periodista que detalla el proceso</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/08/Le-hackean-la-cuenta-de-iCloud-a-Mat-Honan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/08/Le-hackean-la-cuenta-de-iCloud-a-Mat-Honan.jpg" alt="Le hackean la cuenta de iCloud a Mat Honan" title="Le hackean la cuenta de iCloud a Mat Honan" width="550" height="416" class="aligncenter size-full wp-image-7167" srcset="https://www.MacSfera.com/wp-content/uploads/2012/08/Le-hackean-la-cuenta-de-iCloud-a-Mat-Honan.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/08/Le-hackean-la-cuenta-de-iCloud-a-Mat-Honan-300x227.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Mat Honan sufrió un hackeo de su cuenta de <a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a></strong> con la que pudieron borrar el contenido de su iPhone, su iPad y su <strong>MacBook Air</strong> por Internet y tener acceso a sus cuentas de Gmail y Twitter. <strong>Ahora el reportero detalla el proceso.</strong></p>
+<p><span id="more-7166"></span></p>
+<p>Los hackers <strong>convencieron al soporte de Apple para que les facilitase una contraseña temporal para acceder a la cuenta.</strong> Esto se consiguió porque <strong>Apple</strong> solo necesita la dirección asociada a <strong>iCloud</strong> y los últimos cuatro dígitos de la tarjeta de crédito para facilitar dicha contraseña temporal la cual <strong>da pleno acceso a todo el sistema.</strong></p>
+<p><strong>Natalie Kerris,</strong> portavoz de <strong>Apple</strong>, <strong>explicó que en este caso las políticas internas no fueron seguidas al completo:</strong></p>
+<blockquote><p>Apple se toma en serio la privacidad del cliente y requiere de múltiples formas de verificación antes de restablecer una contraseña de un ID de Apple. En este caso particular, los datos del cliente se han visto comprometidos por una persona que había obtenido la información personal del cliente. Además, encontramos que nuestras propias políticas internas no fueron seguidas por completo. Estamos revisando todos nuestros procesos para restablecer las contraseñas de cuentas para asegurar que los datos de nuestros clientes estén protegidos.</p></blockquote>
+<p>La revista Wired (de la cual es reportero el afectado) <strong>demostró que la política actual no es la correcta al acceder a otra cuenta con la dirección de facturación y los últimos cuatro dígitos</strong> de dicha cuenta. Honan explicó que el hacker se hizo con su dirección por varios sistemas como el de reconocimiento de Whois de su web y consiguió los números gracias a un error del sistema de seguridad de Amazon.</p>
+<p>Sin duda <strong>un fatal suceso que ha puesto al descubierto los fallos de seguridad de Apple ante iCloud y sus cuentas</strong> los cuales deberán cambiar los protocolos para mejorar la confianza de los usuarios.</p>
+<p>Vía | <a href="http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/" target="_blank" rel="noopener noreferrer">Wired</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/">Hackeada la cuenta de iCloud de un periodista que detalla el proceso</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

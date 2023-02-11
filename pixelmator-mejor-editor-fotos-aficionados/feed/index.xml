@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Pixelmator: el mejor editor de fotos para aficionados	</title>
+	<atom:link href="https://www.MacSfera.com/pixelmator-mejor-editor-fotos-aficionados/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/pixelmator-mejor-editor-fotos-aficionados/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sat, 16 Oct 2021 12:10:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: PabloAsekas		</title>
+		<link>https://www.MacSfera.com/pixelmator-mejor-editor-fotos-aficionados/?#comment-914</link>
+
+		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2016 09:48:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14564#comment-914</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/pixelmator-mejor-editor-fotos-aficionados/?#comment-913&quot;&gt;Daniel Doctor-López&lt;/a&gt;.
+
+Exacto, quería hacer especial hincapié en que es muy sencilla  y es la alternativa perfecta para los que no necesitan el potencial de Photoshop o no pueden permitírselo.
+
+Un saludo!]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="https://www.MacSfera.com/pixelmator-mejor-editor-fotos-aficionados/?#comment-913">Daniel Doctor-López</a>.</p>
+<p>Exacto, quería hacer especial hincapié en que es muy sencilla  y es la alternativa perfecta para los que no necesitan el potencial de Photoshop o no pueden permitírselo.</p>
+<p>Un saludo!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Daniel Doctor-López		</title>
+		<link>https://www.MacSfera.com/pixelmator-mejor-editor-fotos-aficionados/?#comment-913</link>
+
+		<dc:creator><![CDATA[Daniel Doctor-López]]></dc:creator>
+		<pubDate>Sun, 17 Apr 2016 19:28:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14564#comment-913</guid>
+
+					<description><![CDATA[Yo también uso Pixelmator y la verdad es que para un usuario normal, como se suele decir, chuta. Tiene un montón de herramientas del Photoshop y cuesta la mitad de la mitad ;-)]]></description>
+			<content:encoded><![CDATA[<p>Yo también uso Pixelmator y la verdad es que para un usuario normal, como se suele decir, chuta. Tiene un montón de herramientas del Photoshop y cuesta la mitad de la mitad ;-)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

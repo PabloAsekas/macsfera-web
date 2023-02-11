@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Disco de Arranque &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/disco-de-arranque/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:36 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Cómo instalar OS X El Capitan beta</title>
+		<link>https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/</link>
+					<comments>https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 16:02:20 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Disco de Arranque]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[Preferencias del Sistema]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10885</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/">Cómo instalar OS X El Capitan beta</a></p>
+<p>Ya sabéis todos que en la pasada keynote de la WWDC, Apple presentó la próxima versión de OS X, El Capitan. Además,</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/">Cómo instalar OS X El Capitan beta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/">Cómo instalar OS X El Capitan beta</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/18164259/Instalar-beta-OS-X-El-Capitan.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/18164259/Instalar-beta-OS-X-El-Capitan.jpg" alt="Instalar beta OS X El Capitan" width="2500" height="1563" class="aligncenter size-full wp-image-10886" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/18164259/Instalar-beta-OS-X-El-Capitan.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/06/18164259/Instalar-beta-OS-X-El-Capitan.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/18164259/Instalar-beta-OS-X-El-Capitan.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ya sabéis todos que en la <a href="www.macsfera.com/resumen-de-la-keynote-the-epicenter-of-change/" target="_blank" title="Resumen de la keynote The epicenter of change" rel="noopener noreferrer">pasada keynote</a> de la <a href="www.macsfera.com/tag/wwdc15/" title="WWDC15" target="_blank" rel="noopener noreferrer">WWDC</a>, Apple presentó la próxima versión de OS X, El Capitan. Además, con el anunció general, también puso a disposición de los desarrolladores una beta para que probasen las novedades y empezasen a actualizar sus aplicaciones.</p>
+<p>Yo me he hecho con una de estas betas para probar las pocas novedades presentadas y para mostrarlas en texto y vídeo, aunque ahora os voy a explicar cómo instalar la beta sin que tengáis que perder vuestro sistema actual.</p>
+<p><span id="more-10885"></span></p>
+<p>Si habéis seguido alguno de los <a href="www.macsfera.com/como-instalar-os-x-mavericks-beta/" title="Cómo instalar OS X Mavericks Beta" target="_blank" rel="noopener noreferrer">tutoriales anteriores</a>, el sistema es el mismo: <strong>instalar la beta en una partición del sistema o en un disco duro externo</strong> e iniciar el sistema en dicho disco.</p>
+<p>Esto lo hacemos así por varias razones:</p>
+<ol>
+<li>La primera es que es una versión beta, es decir, una versión de prueba, <strong>con fallos, inestabilidades y puede fallar en cualquier cosa y en cualquier momento.</strong></li>
+<li>Las aplicaciones más comunes <strong>pueden no funcionar adecuadamente.</strong> La aplicación más simple y sencilla puede fallar y eso haría que no pudiésemos trabajar en condiciones.</li>
+<li>Una vez probadas las novedades y, en general el sistema, <strong>podemos volver a nuestro escritorio sin haber perdido nada,</strong> ni si quiera tiempo. A parte de que borrar la partición es muy sencillo y no nos traería problema alguno.</li>
+</ol>
+<p>Una vez decidido que lo vamos a instalar en un soporte paralelo a nuestro actual sistema, debemos configurarlo: el disco duro o la partición <strong>debe tener formato Mac OS Plus (con registro) y el tamaño mínimo recomendado es de 15GB.</strong> Todo esto lo podemos hacer con la aplicación Utilidad de Discos del sistema.</p>
+<p>Al acabar de dar formato, ejecutaremos el instalador de <a href="www.macsfera.com/nuevo-os-x-el-capitan/" title="Nuevo OS X El Capitán" target="_blank" rel="noopener noreferrer">OS X El Capitan</a> y seguiremos los pasos de instalación hasta que nos pregunte por la ubicación en la que queremos el nuevo sistema. Ahí es dónde tendremos que tener cuidado porque por defecto se pone el disco duro actual. <strong>Lo cambiamos a la nueva ubicación y proseguimos con la instalación.</strong></p>
+<p>Tras 20-30 minutos de procesamiento, el sistema operativo se reiniciará con la última fase, en esta fase se acaba la instalación y <strong>comenzará la configuración del nuevo equipo y sus cuentas de usuario.</strong></p>
+<p>Después de probar el sistema, si queremos volver al nuestro original, lo que debemos hacer es <strong>ir a Preferencias del Sistema, Disco de Arranque, elegir el nuestro y pulsar en reiniciar.</strong></p>
+<p>He hecho un pequeño vídeo mostrando el proceso de instalación que, si bien es muy sencillo, siempre me gusta ilustrar.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/XtRpWeLYWoo" frameborder="0" allowfullscreen></iframe></p>
+<h2>En serio, es una beta</h2>
+<p>Puede que hayáis leído a gente que se ha instalado esta versión sobre su sistema principal, y puede que también hayáis leído que va muy fluida y que apenas hay errores. <strong>Pero sigue siendo una versión beta,</strong> la primera de hecho. Así que los errores están a la orden del día por muy fluida que vaya.</p>
+<p>Una de las ventajas de instalarla sobre un disco duro externo es que puedes arrancar y probar esa versión desde distintos equipos Mac. Esto a mí me ha venido de perlas porque en el iMac —que es el equipo que uso en el vídeo— <strong>no me reconocía el módulo Bluetooth.</strong> Para que veáis por dónde puede fallar la beta, el sistema ha fallado en una cosa muy simple, que en cambio, sí me reconoce en un MacBook Pro.</p>
+<p>Tened cuidado porque no me gustaría que perdieseis nada importante por querer probar las novedades del próximo sistema de Apple, <strong>de ahí toda la precaución de la instalación y mi insistencia a lo largo del artículo.</strong></p>
+<p>Ahora que tengo la beta, voy a probarla y os traeré en próximos artículos las novedades con todo lujo de detalles.</p>
+<p><span class="source">Descarga</span> <span class="via"><a href="https://imzdl.com/download/El_Capitan_Beta_1/OS_X_10.11_Beta_1" target="_blank" rel="noopener noreferrer">iMZDL</a></span></p>
+<p><span class="source">Vídeo</span> <span class="via"><a href="https://youtu.be/XtRpWeLYWoo" target="_blank" rel="noopener noreferrer">ÁticoMaquero</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/">Cómo instalar OS X El Capitan beta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/como-instalar-os-x-el-capitan-beta/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

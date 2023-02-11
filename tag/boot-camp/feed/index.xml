@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Boot Camp &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/boot-camp/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:48 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>OS X 10.8.4 disponible para descarga desde la Mac App Store</title>
+		<link>https://www.MacSfera.com/os-x-10-8-4-disponible-para-descarga-desde-la-mac-app-store/</link>
+					<comments>https://www.MacSfera.com/os-x-10-8-4-disponible-para-descarga-desde-la-mac-app-store/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2013 14:01:59 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Boot Camp]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Sistema]]></category>
+		<category><![CDATA[VoiceOver]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9576</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-8-4-disponible-para-descarga-desde-la-mac-app-store/">OS X 10.8.4 disponible para descarga desde la Mac App Store</a></p>
+<p>Apple ha lanzado una nueva actualización para OS X, la versión 10.8.4 que incluye funciones y soluciones a problemas de estabilidad, compatibilidad</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-8-4-disponible-para-descarga-desde-la-mac-app-store/">OS X 10.8.4 disponible para descarga desde la Mac App Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-8-4-disponible-para-descarga-desde-la-mac-app-store/">OS X 10.8.4 disponible para descarga desde la Mac App Store</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/10/Actualización-de-Software.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/10/Actualización-de-Software.png" alt="Actualización de Software" width="514" height="274" class="aligncenter size-full wp-image-5250" srcset="https://www.MacSfera.com/wp-content/uploads/2011/10/Actualización-de-Software.png 514w, https://www.MacSfera.com/wp-content/uploads/2011/10/Actualización-de-Software-300x160.png 300w" sizes="(max-width: 514px) 100vw, 514px" /></a></p>
+<p><strong>Apple ha lanzado una nueva actualización para <a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank" rel="noopener noreferrer">OS X</a>, la versión 10.8.4 que incluye funciones y soluciones a problemas de estabilidad, compatibilidad y seguridad.</strong></p>
+<p><span id="more-9576"></span></p>
+<p>Estas son algunas de las nuevas características:</p>
+<ul>
+<li>Mejoras de la compatibilidad del sistema al conectarse a algunas redes Wi-Fi empresariales</li>
+<li>Mejoras de compatibilidad en el Calendario de Microsoft Exchange</li>
+<li>Solución de un problema que impedía realizar llamadas FaceTime a números no estadounidenses</li>
+<li>Corrección del problema que impedía la ejecución del reposo programado tras usar Boot Camp</li>
+<li>Mejora de compatibilidad de VoiceOver en documentos PDF</li>
+<li>Nueva versión de Safari, la 6.0.5</li>
+<li>Solución al error de iMessages que mostraba mensajes fuera de orden</li>
+<li>Resuelto el problema que hacía que Calendario mostrase incorrectamente los cumpleaños en determinadas zonas horarias</li>
+</ul>
+<p>Es una pequeña actualización que mejora en general el rendimiento del sistema a la par que incorpora una nueva herramienta de diagnóstico de señales Wi-Fi.</p>
+<p>La actualización <strong>se realizará a través de la <a href="www.macsfera.com/tag/mac-app-store" title="Mac App Store" target="_blank" rel="noopener noreferrer">Mac App Store</a>,</strong> se recomienda que la instale todo el mundo y será necesario reiniciar el ordenador después.</p>
+<p><span class="source">Fuente</span> <span class="via"><a href="http://9to5mac.com/2013/06/04/apple-releases-os-x-10-8-4-with-wifi-microsoft-exchange-improvements-various-fixes/" target="_blank" rel="noopener noreferrer">9To5Mac</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-8-4-disponible-para-descarga-desde-la-mac-app-store/">OS X 10.8.4 disponible para descarga desde la Mac App Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/os-x-10-8-4-disponible-para-descarga-desde-la-mac-app-store/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OS X 10.8.3 disponible para descarga desde la Mac App Store</title>
+		<link>https://www.MacSfera.com/os-x-10-8-3-disponible-para-descarga-desde-la-mac-app-store/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2013 20:47:00 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Actualización de Software]]></category>
+		<category><![CDATA[Boot Camp]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Logic Pro]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Tarjeta regalo]]></category>
+		<category><![CDATA[Windows 8]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8615</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-8-3-disponible-para-descarga-desde-la-mac-app-store/">OS X 10.8.3 disponible para descarga desde la Mac App Store</a></p>
+<p>Apple acaba de lanzar una nueva versión de OS X, la versión 10.8.3, que trae alguna funcionalidad nueva y corrección de errores.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-8-3-disponible-para-descarga-desde-la-mac-app-store/">OS X 10.8.3 disponible para descarga desde la Mac App Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-8-3-disponible-para-descarga-desde-la-mac-app-store/">OS X 10.8.3 disponible para descarga desde la Mac App Store</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/10/Actualización-de-Software.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/10/Actualización-de-Software.png" alt="Actualización de Software" width="514" height="274" class="aligncenter size-full wp-image-5250" srcset="https://www.MacSfera.com/wp-content/uploads/2011/10/Actualización-de-Software.png 514w, https://www.MacSfera.com/wp-content/uploads/2011/10/Actualización-de-Software-300x160.png 300w" sizes="(max-width: 514px) 100vw, 514px" /></a></p>
+<p><strong>Apple acaba de lanzar una nueva versión de <a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank" rel="noopener noreferrer">OS X</a>, la versión 10.8.3, que trae alguna funcionalidad nueva y corrección de errores.</strong></p>
+<p><span id="more-8615"></span></p>
+<p>Estas son algunas de las nuevas características:</p>
+<ul>
+<li>Capacidad de canjear las tarjetas regalo de <strong><a href="www.macsfera.com/tag/itunes" title="iTunes" target="_blank" rel="noopener noreferrer">iTunes</a></strong> con la cámara incorporada.</li>
+<li><strong>Boot Camp</strong> ahora soporta Windows 8.</li>
+<li><strong>Boot Camp</strong> es compatible con los Mac que tienen 3 TB de disco duro.</li>
+<li>Corregido un error que podía hacer que ciertas aplicaciones se cerrasen de forma inesperada debido a la URL de algún archivo.</li>
+<li>Solucionado el error que hacía que <strong>Logic Pro</strong> dejase de funcionar al usar ciertos plugins.</li>
+<li>Se ha solventado el error que hacía que el sonido en algunos <strong>iMacs</strong> de 2011 temblara.</li>
+<li>Esta actualización incluye <strong>Safari 6.0.3</strong></li>
+</ul>
+<p> Como mayor novedad tenemos la <strong>capacidad de reconocer las tarjetas regalo canjeables en la iTunes Store</strong> a través de la cámara y la compatibilidad de <strong>Boot Camp</strong> con el nuevo sistema operativo de Microsoft.</p>
+<p>Se recomienda instalar esta versión a todos los usuarios, se puede hacer desde la <strong>Mac App Store</strong> y será necesario reiniciar el ordenador para que se efectúen los cambios.</p>
+<p>Vía | <a href="http://9to5mac.com/2013/03/14/apple-releases-10-8-3-to-the-public-with-ability-to-mac-app-store-camera-gift-card-redemption-boot-camp-improvements-and-fixes/?utm_source=feedburner&#038;utm_medium=twitter&#038;utm_campaign=Feed%3A+9To5Mac-MacAllDay+%289+to+5+Mac+-+Apple+Intelligence%29" target="_blank" rel="noopener noreferrer">9To5Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-10-8-3-disponible-para-descarga-desde-la-mac-app-store/">OS X 10.8.3 disponible para descarga desde la Mac App Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

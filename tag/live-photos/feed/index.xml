@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Live Photos &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/live-photos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:53:32 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Guía para almacenar tus fotos digitales y abandonar Fotos.app</title>
+		<link>https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 30 Sep 2018 16:38:11 +0000</pubDate>
+				<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Cámara lenta]]></category>
+		<category><![CDATA[Estructura de carpetas]]></category>
+		<category><![CDATA[Fotos]]></category>
+		<category><![CDATA[iCloud Drive]]></category>
+		<category><![CDATA[Lightroom]]></category>
+		<category><![CDATA[Live Photos]]></category>
+		<category><![CDATA[Migración]]></category>
+		<category><![CDATA[Ráfagas de fotos]]></category>
+		<category><![CDATA[Recuerdos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16936</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a></p>
+<p>Desde su lanzamiento en 2015, Fotos.app ha sido mi sistema de almacenamiento principal para las fotos que he sacado, tanto con el</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175219/Guia-para-almacenar-fotos-digitales.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175219/Guia-para-almacenar-fotos-digitales.jpg" alt="Guia para almacenar fotos digitales" width="2500" height="1667" class="aligncenter size-full wp-image-16948" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175219/Guia-para-almacenar-fotos-digitales.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175219/Guia-para-almacenar-fotos-digitales.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175219/Guia-para-almacenar-fotos-digitales.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Desde su <a target="_blank" title="OS X 10.10.3 disponible con la nueva aplicación Fotos" href="www.macsfera.com/os-x-10-10-3-disponible-con-la-nueva-aplicacion-fotos/" rel="noopener noreferrer">lanzamiento en 2015</a>, Fotos.app ha sido mi sistema de almacenamiento principal para las fotos que he sacado, tanto con el móvil como con la cámara de fotos, e incluso fotos sacadas por otras personas que me interesa guardar.</p>
+<p>Pero a medida que crecía mi biblioteca y que iban pasando los años, <strong>me he dado cuenta de que Fotos.app ya no es para mí,</strong> no al menos según el uso que le quiero dar ahora a mis imágenes. <strong>Así que aquí tenéis la guía para almacenar tus fotos digitales y abandonar Fotos.app como sistema de gestión principal.</strong></p>
+<p><span id="more-16936"></span></p>
+<div class="table-of-contents">
+<hr/>
+<p><strong>Tabla de contenidos</strong></p>
+<ul>
+<li><a href="#mi-actual-flujo-de-trabajo">Mi actual flujo de trabajo con Fotos.app</a></li>
+<li><a href="#porque-abandonar-fotos-app">Porqué abandonar Fotos.app</a></li>
+<li><a href="#mi-nuevo-flujo-de-trabajo">Mi nuevo flujo de trabajo</a>
+<ul>
+<li><a href="#nuevo-sistema-de-almacenamiento">Nuevo sistema de almacenamiento</a></li>
+<li><a href="#estructura-de-carpetas">Estructura de carpetas</a></li>
+<li><a href="#lightroom-como-software-principal">Lightroom como software principal</a></li>
+<li><a href="#numero-de-catalogos">Número de catálogos</a></li>
+</ul>
+</li>
+<li><a href="#la-migracion">La migración</a>
+<ul>
+<li><a href="#casos-especiales">Casos especiales</a></li>
+</ul>
+</li>
+<li><a href="#sincronizacion-de-contenidos">Sincronización de contenidos</a>
+<ul>
+<li><a href="#utilizar-fotos-app-para-sincronizarlo-todo">Utilizar Fotos.app para sincronizarlo todo</a></li>
+</ul>
+</li>
+</ul>
+<hr/>
+</div>
+<p><a name="mi-actual-flujo-de-trabajo"></a></p>
+<h2>Mi actual flujo de trabajo con Fotos.app</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg" alt="Fotos para Mac" width="2500" height="1517" class="aligncenter size-full wp-image-10694" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg 1024w, https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg 220w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Os voy a dar un poco de contexto, porque una migración así sin más no tiene sentido si no está justificada. Así que os voy a contar brevemente cómo trabajo actualmente con Fotos.app:</p>
+<ul>
+<li><strong>Todas las fotos</strong> se importan a Fotos.app.</li>
+<li>La biblioteca, por disponibilidad y por su gran peso, <strong>está guardada en un disco duro externo</strong>.</li>
+<li><strong>Nada se sincroniza en la nube</strong> porque pesa mucho, el precio de los servidores es caro y no veo utilidad a tener todas mis fotos en todos los dispositivos.</li>
+</ul>
+<p>Para que os hagáis una idea, siento que mis fotos están almacenadas como si de una factura del banco se tratase, para guardarlas y ya. Y <strong>no considero que eso deba ser así</strong> ni mucho menos, las fotos hay que disfrutarlas, hay que verlas y hay que tratarlas.</p>
+<p><a name="porque-abandonar-fotos-app"></a></p>
+<h2>Porqué abandonar Fotos.app</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175257/Abandonar-Fotos-app.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175257/Abandonar-Fotos-app.jpg" alt="Abandonar Fotos app" width="2500" height="1667" class="aligncenter size-full wp-image-16949" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175257/Abandonar-Fotos-app.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175257/Abandonar-Fotos-app.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175257/Abandonar-Fotos-app.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Viendo cómo trabajo con las fotos, me he dado cuenta de que tengo una serie de carencias bastante importantes y que me gustaría no tener. <strong>Estos son los principales motivos que me han impulsado a abandonar Fotos.app:</strong></p>
+<ul>
+<li><strong>Lentitud cuando el catálogo de imágenes es grande:</strong> llega un punto en el que la aplicación se vuelve lenta y pesada cuando se excede un gran número de fotografías, eso hace que navegar por tus recuerdos sea una tarea tediosa.</li>
+<li><strong>Poca versatilidad de acceso:</strong> Fotos.app encapsula de forma interna todas las imágenes, de modo que sólo se pueden abrir en un Mac. Además, si el Mac no es el tuyo, es un poco más cansado porque se pueden cambiar configuraciones de la biblioteca principal por error.</li>
+<li><strong>Si quiero sincronizar, he de pagar:</strong> como mi catálogo es muy amplio, he de pagar por espacio en la nube que a día de hoy no necesito para disfrutar de unas pocas fotos <sup class="modern-footnotes-footnote ">1</sup> que realmente quiero tener en mis dispositivos.</li>
+<li><strong>Límite a la hora de editar las fotos:</strong> si bien el flujo no destructivo de Fotos.app me gusta, sus herramientas básicas de edición no sirven para mis archivos RAW. Y las extensiones de aplicaciones como Affinity Photo o Pixelmator, o bien son lentas, o bien están limitadas.</li>
+<li><strong>Su público objetivo es el principiante-medio:</strong> y, si bien yo no soy un profesional, hay algunas tareas para profesionales que he incorporado a mi flujo de tratamiento fotográfico y que me vienen muy bien, ya sea por los resultados obtenidos o por la velocidad en la ejecución.</li>
+<li><strong>Lentitud con las actualizaciones:</strong> las novedades llegan a Fotos.app con cuentagotas. Una vez al año, y si llegan. Hay herramientas de terceros que tienen un periodo de desarrollo más acelerado y cuyas mejoras y novedades llegan con más frecuencia.</li>
+<li><strong>No cumplo mi objetivo:</strong> al final, entre unas cosas y otras no cumplo el objetivo de guardar todas mis imágenes y disfrutar de un subconjunto ordenado y editado, por lo tanto mis recuerdos se quedan ahí, en el disco duro externo sin más uso y disfrute.</li>
+</ul>
+<p><a name="mi-nuevo-flujo-de-trabajo"></a></p>
+<h2>Mi nuevo flujo de trabajo</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180908/Flujo-de-trabajo-fotos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180908/Flujo-de-trabajo-fotos.jpg" alt="Flujo de trabajo fotos" width="2429" height="2500" class="aligncenter size-full wp-image-16956" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180908/Flujo-de-trabajo-fotos.jpg 2429w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30180908/Flujo-de-trabajo-fotos.jpg 194w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30180908/Flujo-de-trabajo-fotos.jpg 995w" sizes="(max-width: 2429px) 100vw, 2429px" /></a></p>
+<p>Así pues, <strong>me he visto obligado a buscar una nueva forma de almacenar las fotos, junto a un nuevo flujo de trabajo y una nueva aplicación gestora.</strong> Todo ello con el objetivo de poder solucionar estos problemas que me he encontrado con el paso de los años.</p>
+<p>De modo que lo que antes hacía una sola aplicación, ahora se divide en varias tomas de decisiones, veámoslas una a una.</p>
+<p><a name="nuevo-sistema-de-almacenamiento"></a></p>
+<h3>Nuevo sistema de almacenamiento</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/07/29121545/Disco-duro-en-BackPack.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/07/29121545/Disco-duro-en-BackPack.jpg" alt="Disco duro en BackPack" width="2500" height="1667" class="aligncenter size-full wp-image-15094" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/07/29121545/Disco-duro-en-BackPack.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/07/29121545/Disco-duro-en-BackPack.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/07/29121545/Disco-duro-en-BackPack.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Las fotos ya no se van a guardar de forma encapsulada y con el orden que una aplicación quiera. Ahora vamos a ser nosotros los que decidamos cómo queremos que se guarden, y lo más importante, dónde.</p>
+<p>La accesibilidad es el punto más importante en este aspecto, y qué hay más accesible que el gestor de ficheros del sistema. Así que sí, <strong>guardaremos las fotos en carpetas y subcarpetas usando Finder</strong> como se ha hecho toda la vida. De esta forma, da igual desde qué ordenador se consulte, da igual desde qué sistema se consulte, nuestras fotos siempre van a estar accesibles.</p>
+<p>Además, como esta solución es la más común, podemos emplearla en el disco duro del ordenador, en un disco duro externo, en sistemas de almacenamiento en la nube como <a target="_blank" title="¿Por qué iCloud es mi servicio en la nube favorito?" href="www.macsfera.com/por-que-icloud-es-mi-servicio-en-la-nube-favorito/" rel="noopener noreferrer">iCloud Drive</a> o Dropbox, e incluso en nuestro propio NAS.</p>
+<p>Yo por el momento voy a utilizar el mismo disco duro en el que estoy guardando la biblioteca de Fotos.app, pero no descarto en un futuro utilizar un NAS o algún servicio de almacenamiento en la nube.</p>
+<p><a name="estructura-de-carpetas"></a></p>
+<h3>Estructura de carpetas</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30183356/Estructura-de-carpetas-fotos-digitales.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30183356/Estructura-de-carpetas-fotos-digitales.jpg" alt="Estructura de carpetas fotos digitales" width="960" height="626" class="aligncenter size-full wp-image-16958" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30183356/Estructura-de-carpetas-fotos-digitales.jpg 960w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30183356/Estructura-de-carpetas-fotos-digitales.jpg 300w" sizes="(max-width: 960px) 100vw, 960px" /></a></p>
+<p>Como he comentado, antes era la propia aplicación de Fotos.app la que decidía cómo tenían que guardarse físicamente las fotos. Ahora esa decisión la tenemos que tomar nosotros, y he de admitir que ha sido una de las decisiones más complejas del plan.</p>
+<p>Hay muchas formas de estructurar las fotos, estos son algunos ejemplos de ellas que podéis utilizar. Es más, son tan comunes que hasta algún gestor fotográfico os permite automatizar la importación de modo que simplemente le pasas un montón de fotos y él mismo os las organiza en carpetas:</p>
+<ul>
+<li><strong>Año / Mes / Día:</strong> <em>2018 / 07 / 31</em></li>
+<li><strong>Año / Mes-Día:</strong> <em>2018 / 07-31</em></li>
+<li><strong>Año / Estación del año:</strong> <em>2018 / Verano</em></li>
+<li><strong>Año / Año-Mes-Día:</strong> <em>2018 / 2018-07-31</em></li>
+<li><strong>Año / Día de Mes en texto:</strong> <em>2018 / 31 de julio</em></li>
+<li><strong>Año / Mes en texto / Día:</strong> <em>2018 / Julio / 31</em></li>
+<li><strong>Año / Año &#8211; Mes / Día:</strong> <em>2018 / 2018-07 / 31</em></li>
+<li><strong>Año-Mes-Día:</strong> <em>2018-07-31</em></li>
+<li><strong>Año Mes en texto día:</strong> <em>2018 julio 31</em></li>
+<li><strong>Año MesMes en texto día:</strong> <em>2018 07julio 31</em></li>
+<li><strong>AñoMesDía:</strong> <em>20180731</em></li>
+</ul>
+<p>Podéis elegir la estructura de carpetas que deseéis, pero <strong>mi objetivo es usar un sistema que permita tener el control sobre el tiempo, que no mezcle temas y que,</strong> además, <strong>me permita usar el buscador de Finder para encontrar resultados</strong> en caso de que no pueda usar la nueva herramienta que catalogará y clasificará esas fotos.</p>
+<p>Por ello, la estructura que usaré será la siguiente:</p>
+<ul>
+<li><strong>Año / Año-Mes-Día descripción</strong></li>
+</ul>
+<p>Por ejemplo:</p>
+<ul>
+<li>2018
+<ul>
+<li>2018-07-31 día feliz</li>
+<li>2018-09-08 cumpleaños Raquel</li>
+</ul>
+</li>
+</ul>
+<p>Tenemos una carpeta general que identifica el año de las fotos. Dentro de esa carpeta tendremos todas las carpetas con un nombre compuesto:</p>
+<p><strong>año-mes-día temática de la fotos</strong></p>
+<p>Con el <strong>año-mes-día</strong> podemos distinguir la fecha de las fotos en una búsqueda que abarque múltiples años. Además, al incluirla en ese formato, cuando ordenemos las carpetas por nombre se ordenarán por fecha automáticamente. Y si en el futuro decidimos eliminar las carpetas principales que representan el año y mezclar todas las fotos, estarán ordenadas por fecha a su vez.</p>
+<p><strong>Con la <strong>temática de las fotos</strong> lo que conseguimos es poder realizar búsquedas rápidas y limitadas usando únicamente Finder,</strong> sin necesidad de software externo ni nada por el estilo. Esto es especialmente útil cuando estamos en un ordenador que no es el nuestro y no disponen del software adecuado para abrir nuestra colección de fotos para consultar los álbumes, etiquetas, metainformación, etc. También hay que tener en cuenta el contexto general que aporta una breve descripción a la hora de navegar por todo el mar de carpetas que podemos haber generado en un solo año <sup class="modern-footnotes-footnote ">2</sup>.</p>
+<p><a name="lightroom-como-software-principal"></a></p>
+<h3>Lightroom como software principal</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30112554/Lightroom-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30112554/Lightroom-para-Mac.jpg" alt="Lightroom para Mac" width="2500" height="1517" class="aligncenter size-full wp-image-16941" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30112554/Lightroom-para-Mac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30112554/Lightroom-para-Mac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30112554/Lightroom-para-Mac.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Una vez que hemos separado el almacenamiento fotográfico de la aplicación gestora, es hora de decidir cuál es el software que se va a encargar de organizar y editar nuestras fotos. <strong>En mi caso he elegido Lightroom,</strong> el famoso editor fotográfico de Adobe.</p>
+<p>¿Los motivos? Muy sencillos:</p>
+<ul>
+<li><strong>Es software para medios-profesionales:</strong> lo cual me da más herramientas para editar y tratar mis fotos.</li>
+<li><strong>Tiene un mejor rendimiento con un gran catálogo de fotos:</strong> está mejor optimizado y se mueve mucho mejor que Fotos.app con bibliotecas grandes y con fotografías pesadas.</li>
+<li><strong>Permite edición de raws y aplicar ajustes en masa:</strong> la herramienta está pensada para la edición de archivos RAW, de modo que es una tarea que hace realmente bien. Y para colmo me deja aplicar los mismos cambios en varias fotos, ahorrándome tiempo de edición.</li>
+<li><strong>No es destructivo:</strong> <sup class="modern-footnotes-footnote ">3</sup>: lo que significa que da igual cómo edite una foto, el archivo original se mantiene intacto, además de que puedo navegar siempre que quiera por el historial de cambios.</li>
+<li><strong>No tiene un sistema de almacenamiento propio y encapsulado:</strong> con lo cual, podemos importar todas las fotos que tengamos almacenadas de la manera que prefiramos. Es la aplicación la que se adapta a nosotros y no al revés.</li>
+</ul>
+<p>El hecho de usar Lightroom es porque es conocido, funciona bien, tiene complementos y hay infinidad de recursos en Internet para aprender a utilizarlo, además del mencionado ciclo de desarrollo. Si encontráis otro software que cumpla las condiciones antes descritas, <strong>también os valdrá sin ningún problema</strong> <sup class="modern-footnotes-footnote ">4</sup>. Por mi parte, además, estoy buscando soluciones multiplataforma porque quiero que todo lo que tenga que ser accesible conceptualmente hablando, lo sea lo máximo posible <sup class="modern-footnotes-footnote ">5</sup>.</p>
+<p><a name="numero-de-catalogos"></a></p>
+<h3>Número de catálogos</h3>
+<div id="attachment_16955" style="width: 2510px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180035/Como-guardar-fotos-digitales.jpg"><img aria-describedby="caption-attachment-16955" src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180035/Como-guardar-fotos-digitales.jpg" alt="Cómo guardar fotos digitales" width="2500" height="1667" class="size-full wp-image-16955" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180035/Como-guardar-fotos-digitales.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30180035/Como-guardar-fotos-digitales.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30180035/Como-guardar-fotos-digitales.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-16955" class="wp-caption-text">Imagen de <a href="https://unsplash.com/@ninjason" target="_blank" rel="noopener noreferrer">Jason Leung</a></p></div>
+<p>Depende de vuestro volumen de fotos, del rendimiento de vuestro ordenador y de la nueva aplicación gestora, vais a querer tener un solo catálogo o varios. Cada decisión tiene sus pros y sus contras, así que os las pongo sobre la pantalla para que decidáis lo que mejor os conviene.</p>
+<p><strong>Un único catálogo:</strong></p>
+<ul>
+<li>Ventajas:
+<ul>
+<li>Todas las fotos en un mismo sitio y a un solo click.</li>
+<li>El filtro de etiquetas, álbumes, estadísticas, localizaciones, etc. afecta a todo el conjunto de fotos.</li>
+</ul>
+</li>
+<li>Desventajas:
+<ul>
+<li>Si hay mucho contenido, el programa se vuelve lento, consume más recursos y hace que, en general, todo cueste más esfuerzo y tiempo.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Varios catálogos:</strong></p>
+<ul>
+<li>Ventajas:
+<ul>
+<li>Velocidad y rapidez a la hora de navegar por nuestro catálogo fotográfico.</li>
+<li>Más independencia a la hora de mover o copiar años enteros.</li>
+</ul>
+</li>
+<li>Desventajas:
+<ul>
+<li>Nuestras fotos están separadas y la metainformación (etiquetas, álbumes, etc.) duplicada en varios catálogos.</li>
+</ul>
+</li>
+</ul>
+<p>Podéis usar la solución que más os convenga y se adapte a vuestras necesidades. Yo por mi parte he optado por un solo catálogo con todas las fotos, pero en cuanto vea que el sistema empieza a ir lento y pesado lo divido en años, porque uno de los motivos de iniciar toda esta migración ha sido la velocidad a la hora de interactuar con la aplicación.</p>
+<p><a name="la-migracion"></a></p>
+<h2>La migración</h2>
+<div id="attachment_16954" style="width: 2510px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175849/Como-almacenar-fotos-digitales.jpg"><img aria-describedby="caption-attachment-16954" src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175849/Como-almacenar-fotos-digitales.jpg" alt="Como almacenar fotos digitales" width="2500" height="1739" class="size-full wp-image-16954" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175849/Como-almacenar-fotos-digitales.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175849/Como-almacenar-fotos-digitales.jpg 288w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175849/Como-almacenar-fotos-digitales.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-16954" class="wp-caption-text">Imagen de <a href="https://unsplash.com/@stefyaich" target="_blank" rel="noopener noreferrer">Stephane YAICH</a></p></div>
+<p>En todo proyecto, especialmente informático, una de las cosas que más miedo da es la migración de datos. Temblamos cada vez que nos dicen que hay que coger unos datos que tienen una forma y tenemos que llevarlos a otro sitio con otra forma. No es que sea imposible, simplemente que los datos es de las cosas más importantes en un sistema, y no se puede garantizar que se mantengan intactos si aplicamos transformaciones sobre ellos.</p>
+<p><strong>Y en esta tarea no iba a ser distinta.</strong> He tenido problemas con la exportación, con la importación y con el movimiento de imágenes entre discos. Aquí os los detallo mejor:</p>
+<ul>
+<li>He exportado todo un año de Fotos.app y <strong>he tenido error de un conjunto de imágenes que no se han exportado</strong> <sup class="modern-footnotes-footnote ">6</sup>.</li>
+<li>He importado todo un año de fotos en Lightroom para que lo ordene por carpetas según el año-mes-día y <strong>ha asignado fechas incorrectas a muchas imágenes.</strong></li>
+<li>He copiado archivos al disco duro, se han marcado como copiados y luego <strong>han desaparecido sin previo aviso.</strong></li>
+</ul>
+<p>Por eso, si queréis seguir una estructura de carpetas como la mía, en la que no podéis automatizar el proceso al 100% porque hay una parte que tiene que ser escrita por vosotros, <strong>esta es la mejor forma que he encontrado de hacerlo.</strong></p>
+<ol>
+<li><strong>Exportamos las fotografías de Fotos.app en conjuntos de mes a mes:</strong> acordaos de <a target="_blank" title="Cómo recuperar los archivos RAW importados en Fotos" href="www.macsfera.com/como-recuperar-los-archivos-raw-importados-en-fotos/" rel="noopener noreferrer">exportar la foto en calidad RAW</a>, u original.</li>
+<li><strong>Colocamos esas fotos en las subcarpetas finales:</strong> esta es la parte más dura y aburrida del proceso. Para que este flujo de trabajo sea lo más rápido y directo posible seguid estos pasos:
+<ol>
+<li>Creamos una carpeta (cmd + n).</li>
+<li>Añadimos el prefijo <em>“Año-Mes-“</em> según el año y el mes de las fotos que vamos a ordenar.</li>
+<li>Duplicamos esa carpeta muchas veces (cmd + d).</li>
+<li>Movemos las fotos según su fecha de creación y temática a las carpetas.</li>
+<li>Renombramos la carpeta añadiendo el día que se sacó la foto y la temática.</li>
+<li>El proceso de mover las fotos exportadas a sus respectivas carpetas ha de hacerse en el propio Mac, y cuando tengamos todas ordenadas, las pasamos al disco duro. Si lo hacemos sobre un disco duro externo directamente, la foto en vez de moverse se copiará, con lo que tendremos que borrarla más tarde de nuestro ordenador. Al hacerlo en local, nos ahorramos el paso de borrar cada foto individualmente.</li>
+</ol>
+</li>
+<li><strong>Buscamos duplicados</strong> para confirmar que no hemos exportado varias veces la misma foto, que no hemos duplicado por error, etc. Con <a target="_blank" title="Gemini 2 llega para limpiar tu Mac de archivos duplicados" href="www.macsfera.com/gemini-2-llega-para-limpiar-tu-mac-de-archivos-duplicados/" rel="noopener noreferrer">Gemini buscar archivos duplicados</a> es muy sencillo. Os la recomiendo para esta tarea.</li>
+<li>Por último, una vez que ya están todas las fotos colocadas en nuestro disco duro, lo único que tenemos que hacer <strong>es importarlo a Lightroom.</strong> La forma correcta de importarlo es dándole a la opción de “Añadir”. De esta forma, Lightroom cogerá la ubicación y la estructura de carpetas originales y la respetará.</li>
+</ol>
+<p><a name="casos-especiales"></a></p>
+<h3>Casos especiales</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg" alt="Live Photos" width="2500" height="1072" class="aligncenter size-full wp-image-12395" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Una de las cosas que voy a echar de menos de Fotos.app es la forma tan sencilla de gestionar los formatos especiales de las fotografías y vídeos que produce el iPhone, por eso os traigo la manera de exportar estos formatos específicos para que no perdáis nada de compatibilidad.</p>
+<h4>Fotos ya editadas en Fotos.app</h4>
+<p>Si ya tenemos alguna foto editada, la forma de actuar es:</p>
+<ol>
+<li>Exportamos la imagen normal para conservar una copia simple de la foto editada.</li>
+<li>Exportamos la foto original. Con este tipo de exportación, además se exportará un archivo .aeh que tiene las transformaciones que se han hecho sobre esta foto.</li>
+</ol>
+<p><strong>Así mantendremos una foto rápida con los cambios hechos, la foto original y los ajustes realizados a la foto.</strong> El archivo .aeh nos servirá el día de mañana por si queremos importar la imagen original de nuevo a Fotos.app para que esta se importe con los ajustes que hicimos en el pasado <sup class="modern-footnotes-footnote ">7</sup>.</p>
+<h4>LivePhotos</h4>
+<p>Las LivePhotos son una de las características que más me gustan del iPhone. Me encanta tener recuerdos en movimiento, poder elegir un frame distinto como foto principal porque ha quedado mejor, <a target="_blank" title="Cómo enviar nuestras Live Photos por WhatsApp o Telegram" href="www.macsfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/" rel="noopener noreferrer">hacer GIFs para compartirlos por WhatsApp</a>, etc.</p>
+<p>Por ello, <strong>es muy importante que podamos conservar la LivePhoto para nuestro uso y disfrute,</strong> aunque el programa gestor no la soporte.</p>
+<p>Para conseguirlo, vamos a exportar la foto original, y el resultado de dicha exportación será <strong>una imagen estática y un vídeo.</strong></p>
+<p>La clave aquí reside en que si conservamos ambos archivos, con los mismos nombres, <strong>luego los podemos importar en Fotos.app de nuevo como una LivePhoto y disfrutar de ella como si no la hubiésemos exportado.</strong></p>
+<h4>Fotos retrato</h4>
+<p>Las fotos retrato son un caso un tanto especial porque, si bien nosotros vemos tanto en el iPhone como en el Mac la foto con el efecto bokeh, en realidad es una foto normal a la que se añade por software el efecto, por lo que si exportamos la foto original no vamos a tener ningún efecto.</p>
+<p>Este es el procedimiento que hay que seguir para exportar satisfactoriamente las fotos retrato:</p>
+<ol>
+<li>Exportamos la imagen con el efecto bokeh para conservar una copia de la foto que sacamos y poder verla en todas partes como en el iPhone.</li>
+<li>Exportamos la foto original que no tendrá el efecto bokeh, pero tendrá todos los metadatos del bokeh. Estos metadatos son muy importantes porque si importamos esta foto de nuevo en Fotos.app vamos a poder aplicar de nuevo el efecto bokeh (y otros muchos).</li>
+</ol>
+<p>Gracias a estos dos archivos, vamos a poder tener una copia de la foto que podemos ver y utilizar con el efecto bokeh, y otra original que vamos a poder reimportar en Fotos.app cuando queramos y aplicar los efectos que queramos (ya sea con Fotos.app o con otras aplicaciones que permiten modificar los parámetros de bokeh).</p>
+<p>Es importante que os acordéis de que cuando reimportéis la foto en Fotos.app, hay que activar la opción de retrato para que se aplique el efecto bokeh. Esto se hace editando la foto en Fotos.app y <a href="https://www.MacSfera.com/wp-content/uploads/2019/08/Activar-fotos-retrato-Fotos.app_.jpg" target="_Blank" rel="noopener noreferrer">activando la opción «Retrato» que aparece abajo a la izquierda</a>.</p>
+<h4>Vídeos a cámara lenta</h4>
+<p>Los vídeos a cámara lenta, al igual que las fotos retrato, son otro caso especial porque Apple ha hecho un gran trabajo en su software para que nosotros mismos podamos definir cuál es el periodo de cámara lenta del vídeo grabado, de una forma muy sencilla y directa.</p>
+<p>Como ahora vamos a prescindir del software que hace que esto sea fácil y rápido, <strong>esta es mi recomendación para que podáis tener todo el material original</strong> que en un futuro os puede servir para vuestras propias producciones cinematográficas:</p>
+<ul>
+<li><strong>Exportamos el vídeo normal:</strong> de esta forma, obtenemos un vídeo de 25 FPS con la zona que hemos convertido a cámara lenta empotrada directamente en el vídeo. Este vídeo nos servirá para compartirlo rápidamente por redes sociales o para visualizarlo cómodamente en cualquier reproductor, disfrutando de la cámara lenta.</li>
+<li><strong>Exportamos el vídeo original:</strong> con esta exportación obtendremos dos archivos. Un archivo .mov de 120 FPS o 240 FPS (dependiendo de nuestro iPhone y <a target="_blank" title="Cómo grabar 4K y cámara lenta con el iPad Pro" href="www.macsfera.com/grabar-4k-camara-lenta-ipad-pro/" rel="noopener noreferrer">su configuración</a>) que contiene todo el vídeo a cámara lenta. Y un archivo .aeh que servirá para indicar a un programa compatible cuál es el periodo de tiempo que hemos decidido poner a cámara lenta <sup class="modern-footnotes-footnote ">8</sup>.</li>
+</ul>
+<p>Si bien puede parecer un poco redundante tener dos vídeos del mismo contenido, <strong>uno de ellos nos sirve para compartir rápidamente el montaje de cámara normal y cámara lenta,</strong> mientras que <strong>el otro nos sirve para que, con un editor de vídeo, podamos hacer lo que queramos con él sin perder la cámara lenta de todo el vídeo.</strong></p>
+<h4>Ráfaga de fotos</h4>
+<p>Para guardar las ráfagas de fotos, <strong>lo que tenemos que hacer es exportar el conjunto de fotos sin modificar.</strong> Así se exportará toda la colección aunque parezca que sólo vamos a exportar una sola foto.</p>
+<p>El único problema que le he visto a las ráfagas de fotos es que <strong>no he sido capaz de descubrir cómo importarlas de nuevo en Fotos.app y que detecte que es una ráfaga.</strong> Se importan todas de forma independiente e incluso no he visto una forma de convertirlas a ráfaga después.</p>
+<p>Puede que eso si que, aunque prescindamos de Fotos.app, nos interese tenerlo en la aplicación por si el día de mañana queremos importarla al iPhone como una ráfaga y no como imágenes individuales.</p>
+<p><a name="sincronizacion-de-contenidos"></a></p>
+<h2>Sincronización de contenidos</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175349/Albumes-en-iPhone-X.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175349/Albumes-en-iPhone-X.jpg" alt="Albumes en iPhone X" width="2500" height="1667" class="aligncenter size-full wp-image-16950" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175349/Albumes-en-iPhone-X.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175349/Albumes-en-iPhone-X.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175349/Albumes-en-iPhone-X.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Otro de los objetivos de este cambio es el de <strong>poder disfrutar de todas las fotos que tengo,</strong> no solo las que saco con un producto Apple, también las que tomo con mi cámara de fotos o las que me pasan familiares y amigos. Además, me gusta la idea de editarlas y organizarlas, de modo que puedo crear pequeñas colecciones y llevarlas conmigo.</p>
+<p>Hay varias formas de atajar este problema, aquí van algunas:</p>
+<ul>
+<li><strong>Utilizar servicios en la nube</strong> como iCloud Drive, Dropbox o Google Drive.</li>
+<li><strong>Utilizar servicios de almacenamiento fotográfico</strong> como Fotos.app, Google Photos o Amazon Photos.</li>
+<li><strong>Utilizar un NAS o un disco duro en red privado.</strong></li>
+</ul>
+<p>Os voy a contar la que creo que es la mejor opción para mí ahora mismo: <strong>Fotos.app.</strong></p>
+<p><a name="utilizar-fotos-app-para-sincronizarlo-todo"></a></p>
+<h3>Utilizar Fotos.app para sincronizarlo todo</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175458/Fotos-para-sincronizar-con-el-iPhone.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175458/Fotos-para-sincronizar-con-el-iPhone.jpg" alt="Fotos para sincronizar con el iPhone" width="2500" height="1667" class="aligncenter size-full wp-image-16952" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175458/Fotos-para-sincronizar-con-el-iPhone.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175458/Fotos-para-sincronizar-con-el-iPhone.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175458/Fotos-para-sincronizar-con-el-iPhone.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><em>¿Qué?, ¿Cómo?, ¿Nos estás vacilando verdad?</em> No, no os estoy vacilando, <strong>quiero usar la aplicación Fotos.app para sincronizar ese subconjunto de instantáneas que tengo con mis múltiples dispositivos,</strong> y os voy a explicar porqué:</p>
+<p>Puesto que Fotos.app está pensado para usuarios principiantes, realiza muy bien su cometido con un uso básico, así que la forma de enfocar esto es sencilla, tan sencilla como su uso:</p>
+<ul>
+<li>Todas las fotos que importaré serán versiones editadas y reducidas de los archivos originales, de modo que la única misión de Fotos.app es almacenar y sincronizar.</li>
+<li>Como son versiones reducidas y es un subconjunto del total de imágenes, la aplicación se moverá fluidamente y no tendré que invertir en espacio en la nube porque con el que tengo contratado ahora mismo me es suficiente.</li>
+<li>Gracias a estas dos decisiones, cada equipo podrá tener su propia librería en local, de modo que podré acceder a estas imágenes sin necesidad de ningún disco duro externo ni ningún caso especial, siempre disponibles.</li>
+</ul>
+<p>Además, <strong>Fotos.app sincroniza todo el contenido realmente bien entre dispositivos gracias a iCloud Drive,</strong> así que me tengo que olvidar de que todo se haya subido, de que el NAS esté funcionando bien o de que se me haya olvidado guardar ciertas fotos en el carrete porque las sincronicé recientemente en Dropbox.</p>
+<p>Esta es la segunda parte más costosa de la tarea, el rellenar de contenido nuestros dispositivos. Esto es, a groso modo, <strong>el flujo de trabajo que voy a seguir para sincronizar las fotos que deseo con mis dispositivos:</strong></p>
+<ol>
+<li>Elijo un evento o temática que quiero tener y veo todas las fotos, seleccionando cuáles son las que quiero sincronizar.</li>
+<li>Edito la selección, refinando más si es necesario las elegidas en el punto 1. Aquí puedo ayudarme de los presets de Lightroom para editar fotos en masa y ahorrar tiempo.</li>
+<li>Exporto todas las fotos con una configuración adecuada para que la salida no pese mucho.</li>
+<li>Importo y coloco en Fotos.app todas las fotos editadas.</li>
+</ol>
+<p>El resto simplemente consiste en esperar a la sincronización y disfrutar de las fotos en mis múltiples dispositivos.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175414/Editando-fotos-en-Lightroom.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175414/Editando-fotos-en-Lightroom.jpg" alt="Editando fotos en Lightroom" width="2500" height="1667" class="aligncenter size-full wp-image-16951" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175414/Editando-fotos-en-Lightroom.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175414/Editando-fotos-en-Lightroom.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175414/Editando-fotos-en-Lightroom.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Soy consciente de que esta labor es muy tediosa.</strong> Yo mismo la he sufrido en mis propias carnes, pero realmente creo que merece la pena cuidar y tener bien organizados nuestros recuerdos.</p>
+<p>He leído bastante acerca de este tema y casi siempre encontraba lo mismo: <strong>soluciones básicas y genéricas.</strong> Así que espero que esta guía os sirva y os amplíe un poco de información acerca de las distintas opciones que tenéis a la hora de prescindir de Fotos.app. Y aunque no os sirva directamente, <strong>espero que os ayude a desarrollar un sistema propio que se adapte a vuestras necesidades.</strong></p>
+<p><strong>Me gustaría dar las gracias a <a target="_blank" href="https://twitter.com/xtianp87" rel="noopener noreferrer">Christian Pérez</a></strong> porque ha estado ahí detrás escuchándome, dándome su opinión y ayudándome a ver los posibles problemas de todos los planteamientos que he hecho. Christian tiene mucha experiencia con el tema fotográfico, así que si queréis, echadle un vistazo <a target="_blank" href="https://www.instagram.com/xtianp87/" rel="noopener noreferrer">a su Instagram</a> donde cuelga fotos de sus viajes y aventuras.</p>
+<p>Por último, <strong>animaros a que compartáis vuestras experiencias, sugerencias, mejoras o ideas sobre cómo organizar vuestras fotos una vez abandonada la aplicación de Apple.</strong> Cada persona es un mundo y lo que a mí a lo mejor no me sirve, a otra persona le puede ayudar mucho, así que cuantas más ideas reunamos mejor.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;No quiero sincronizar todas las fotos, sólo aquellas más bonitas y significativas.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Yo no sé vosotros, pero si veo trescientas carpetas de fechas sin ninguna descripción, me pierdo.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Al igual que Fotos.app, la diferencia es que en Fotos.app no puedo editar mis imágenes.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Y hay alternativas, así que buscad bien para saber cuál os viene mejor.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;El que pueda ir a casa de un amigo con mi disco duro de fotos es más que posible, así que necesito soluciones multiplataforma. Sin embargo mi aplicación de lista de la compra no es tan esencial que esté disponible en varios entornos.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;Error no notificado, por supuesto, de modo que lo he tenido que descubrir yo mismo</div><div>7&nbsp;&nbsp;&nbsp;&nbsp;Gracias a este archivo, en Fotos.app tendremos la foto original y la foto editada todo en uno. De modo que si queremos revertir alguna modificación, podemos hacerlo porque el archivo .aeh incluye todos esos cambios que hicimos.</div><div>8&nbsp;&nbsp;&nbsp;&nbsp;QuickTime en el Mac es compatible con este formato de archivo, de modo que veremos el vídeo a cámara lenta como lo veríamos en el iPhone, he incluso podríamos editar la franja temporal de cámara lenta al momento.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cómo enviar nuestras Live Photos por WhatsApp o Telegram</title>
+		<link>https://www.MacSfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/</link>
+					<comments>https://www.MacSfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 29 Sep 2016 16:49:03 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[GIF]]></category>
+		<category><![CDATA[Live Photos]]></category>
+		<category><![CDATA[Telegram]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[Workflow]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15461</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/">Cómo enviar nuestras Live Photos por WhatsApp o Telegram</a></p>
+<p>WhatsApp se ha vuelto recientemente compatible con los GIFs, esas divertidas imágenes animadas que tantas risas nos han sacado. Por desgracia, en</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/">Cómo enviar nuestras Live Photos por WhatsApp o Telegram</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/">Cómo enviar nuestras Live Photos por WhatsApp o Telegram</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/29183557/Compartir-Live-Photos-por-WhatsApp-y-Telegram.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/29183557/Compartir-Live-Photos-por-WhatsApp-y-Telegram.jpg" alt="Compartir Live Photos por WhatsApp y Telegram" width="2500" height="1563" class="aligncenter size-full wp-image-15463" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/29183557/Compartir-Live-Photos-por-WhatsApp-y-Telegram.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/29183557/Compartir-Live-Photos-por-WhatsApp-y-Telegram.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/29183557/Compartir-Live-Photos-por-WhatsApp-y-Telegram.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>WhatsApp se ha vuelto recientemente compatible con los GIFs, esas divertidas imágenes animadas que tantas risas nos han sacado.</p>
+<p>Por desgracia, en iOS no nos permiten convertir clips de vídeo en GIFs, aunque sí nos dejan reproducirlos. Eso me llevó a pensar sobre <strong>cómo podría compartir las <a target="_blank"title="Live Photos" href="www.macsfera.com/tag/live-photos/">Live Photos</a> que capturamos</strong> ya que, al fin y al cabo, el concepto es muy parecido.</p>
+<p><span id="more-15461"></span></p>
+<p>La solución que me planteé fue sencilla y lógica: <strong>convertir las Live Photos a GIF y pasarlos por WhatsApp o Telegram.</strong></p>
+<p>El problema es el de siempre: ¿cómo hago eso desde iOS? Pues muy fácil: con <a target="_blank"href="https://geo.itunes.apple.com/es/app/workflow-powerful-automation/id915249334?mt=8&amp;at=1010l9LC">Workflow</a>.</p>
+<p><strong>Workflow es una aplicación para iOS que permite automatizar un montón de tareas gracias a la biblioteca de acciones que tiene.</strong> Se pueden procesar URLs, textos, fotos, añadir información a un lado u otro, etc.</p>
+<p>Las posibilidades son infinitas, y por ello <strong>hay un workflow que nos permite elegir una Live Photo de nuestra galería de imágenes y transformarla a GIF para luego compartirla a través de Share Sheets con cualquier aplicación de iOS.</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/29184456/Enviar-Live-Photo-por-WhatsApp.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/29184456/Enviar-Live-Photo-por-WhatsApp.jpg" alt="Enviar Live Photo por WhatsApp" width="2500" height="1875" class="aligncenter size-full wp-image-15468" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/29184456/Enviar-Live-Photo-por-WhatsApp.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/29184456/Enviar-Live-Photo-por-WhatsApp.jpg 267w, https://cdn.macsfera.com/wp-content/uploads/2016/09/29184456/Enviar-Live-Photo-por-WhatsApp.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Como iOS no soporta nativamente el formato GIF, no podríamos guardar las creaciones en el carrete sin más, por eso debemos compartirla a través de las opciones del sistema. De esta forma, se respeta el formato original del archivo (.gif) y las aplicaciones de mensajería lo interpretan como tal.</p>
+<p>Para obtener el workflow, basta con abrir <a target="_blank"href="https://workflow.is/workflows/756cba96e53a453fa3a2cd1d44a71fea">este enlace</a> en el iPhone o el iPad, darle a «Abrir» cuando nos aparezca la opción al principio de la página y listo, ya lo tendremos añadido a nuestra galería.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/29183708/Enviando-Live-Photo-por-Telegram.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/29183708/Enviando-Live-Photo-por-Telegram.gif" alt="Enviando Live Photo por Telegram" width="658" height="382" class="aligncenter size-full wp-image-15464" /></a></p>
+<p>Para ejecutarlo, <strong>basta con darle al play desde Workflow o ejecutarlo desde la extensión que tendrá en Share Sheets.</strong> Por desgracia, para que detecte que es una Live Photo hay que mostrar las últimas X Live Photos y elegir entre ellas la que queramos convertir. Es menos intuitivo que elegir la foto desde el carrete y convertirla directamente, pero es que si no, no detecta que es una Live Photo.</p>
+<p>He puesto el límite de fotos a mostrar en 300, pero si necesitáis aumentarlo, lo podéis hacer desde el propio Workflow.</p>
+<p>Tras procesarla y convertirla, <strong>ya podremos compartir nuestras Live Photos en WhatsApp o Telegram como GIFs obteniendo un resultado muy bonito.</strong> Un consejo, por si queréis guardar el original, que sepáis que también podéis hacerlo a través de <a target="_blank"title="¿Por qué iCloud es mi servicio en la nube favorito?" href="www.macsfera.com/por-que-icloud-es-mi-servicio-en-la-nube-favorito/">cualquier sistema en la nube</a> o <a target="_blank"title="AirDrop: comparte archivos entre dispositivos Apple" href="www.macsfera.com/airdrop-comparte-archivos-entre-dispositivos-apple/">AirDrop</a>.</p>
+<p>La magia que aportó el movimiento a las fotos capturadas con la cámara ya <a target="_blank"title="Así funciona Live Photos fuera del iPhone 6s" href="www.macsfera.com/asi-funciona-live-photos-fuera-del-iphone-6s/">no tendrá porqué quedarse en el iPhone</a>, <strong>podremos pasar todo lo que queramos a través de dos de las aplicaciones más famosas que usamos para comunicarnos.</strong></p>
+<p><span class="source">Workflow</span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/workflow-powerful-automation/id915249334?mt=8&#038;at=1010l9LC" target="_blank">App Store</a></span></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/29183735/Yo-en-GIF.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/29183735/Yo-en-GIF.gif" alt="Yo en GIF" width="600" height="449" class="aligncenter size-full wp-image-15465" /></a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/">Cómo enviar nuestras Live Photos por WhatsApp o Telegram</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Del iPhone 5s al iPhone 7: primeras impresiones</title>
+		<link>https://www.MacSfera.com/del-iphone-5s-al-iphone-7-primeras-impresiones/</link>
+					<comments>https://www.MacSfera.com/del-iphone-5s-al-iphone-7-primeras-impresiones/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 18 Sep 2016 10:48:22 +0000</pubDate>
+				<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[3d Touch]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 10]]></category>
+		<category><![CDATA[iPhone 5S]]></category>
+		<category><![CDATA[iPhone 7]]></category>
+		<category><![CDATA[Live Photos]]></category>
+		<category><![CDATA[Touch ID]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15392</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/del-iphone-5s-al-iphone-7-primeras-impresiones/">Del iPhone 5s al iPhone 7: primeras impresiones</a></p>
+<p>Este pasado viernes salió el iPhone 7 en España, entre otros muchos países, y yo, como usuario al que le gustan los</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/del-iphone-5s-al-iphone-7-primeras-impresiones/">Del iPhone 5s al iPhone 7: primeras impresiones</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/del-iphone-5s-al-iphone-7-primeras-impresiones/">Del iPhone 5s al iPhone 7: primeras impresiones</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/18115916/iPhone-7-negro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/18115916/iPhone-7-negro.jpg" alt="iPhone 7 negro" width="2500" height="1667" class="aligncenter size-full wp-image-15394" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/18115916/iPhone-7-negro.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18115916/iPhone-7-negro.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18115916/iPhone-7-negro.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Este pasado viernes <a target="_blank"title="Crónica del lanzamiento del iPhone 7 en España" href="www.macsfera.com/cronica-del-lanzamiento-del-iphone-7-en-espana/">salió el iPhone 7 en España</a>, entre otros muchos países, <strong>y yo,</strong> como usuario al que le gustan los productos de la empresa, <strong>me hice con una unidad.</strong></p>
+<p>La última vez que <a target="_blank"title="FotoDiaria – Estrenando iPhone 5s que ha caído de regalo" href="http://www.mylaif.es/fotodiaria-estrenando-iphone-5s-ha-caido-regalo/">estrené móvil</a> fue a principios de 2014, un iPhone 5s. De modo que cuando <a target="_blank"title="Resumen y opinión de la keynote “See you on the 7th”" href="www.macsfera.com/resumen-opinion-la-keynote-see-you-on-the-7th/">Tim Cook presentó el iPhone 7</a>, sabía con un 99% de posibilidades que sería mi próximo teléfono.</p>
+<p><span id="more-15392"></span></p>
+<p>No solo como aficionado a la tecnología, sino como blogger que escribe sobre ella, necesito tener una cierta actualización de dispositivos que, en ocasiones, hace que abandone mis pertenencias antes de que la vida práctica de estas llegue a su fin. A mi iPhone 5s le queda camino todavía y yo podría haber aguantado un año más con él, duro año para mis exigencias, pero lo podría haber hecho <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<p><strong>La cosa es que decidí no aguantar y lanzarme a la <a target="_blank"title="Nuevo iPhone 7 y iPhone 7 Plus" href="www.macsfera.com/nuevo-iphone-7-iphone-7-plus/">nueva versión del iPhone 7</a>.</strong></p>
+<p>Así que me fui a por él y llevo unas cuantas horas trasteándolo y alucinando por el salto.</p>
+<p>Mi teléfono se fabricó en 2013, y estamos en 2016. 3 años en tecnología es mucho tiempo lo creáis o no, y por eso tenía muchísimas ganas de ponerle las manos encima.</p>
+<p>Así que sin más dilación, <strong>vamos a ver lo que ha supuesto un salto tan grande en un dispositivo que uso cada día.</strong></p>
+<h2>Cambios naturales</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/18120209/iPhone-7-negro-por-detras.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/18120209/iPhone-7-negro-por-detras.jpg" alt="iPhone 7 negro por detras" width="2500" height="1667" class="aligncenter size-full wp-image-15395" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/18120209/iPhone-7-negro-por-detras.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18120209/iPhone-7-negro-por-detras.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18120209/iPhone-7-negro-por-detras.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Lo primero que llama la atención son los cambios naturales del dispositivo. <strong>Cosas como el tamaño, el peso, el grosor, las curvas, la disposición de los botones, etc.</strong></p>
+<p>El iPhone 5s fue el último iPhone pequeño que Apple vendió hasta <a target="_blank"title="Nuevo iPhone SE" href="www.macsfera.com/nuevo-iphone-se/">este marzo con el lanzamiento del iPhone SE</a>, de modo que saltar al iPhone 7 supone un cambio en la pantalla, el físico del teléfono, etc.</p>
+<p>Evidentemente, <strong>el cambio es bueno.</strong> Mi iPhone es el de 4,7 pulgadas, pero el cambio se nota muchísimo. El ancho se agradece y el alto aún más. Es muy cómodo de usar y cuesta creer que tan poca diferencia real (0&#8217;7 pulgadas) hagan tanto bien.</p>
+<p>El diseño es espectacular. El acabado del iPhone 7 es similar al de las dos versiones anteriores pero con una diferencia: <strong>se ha perfeccionado.</strong> Y eso es de agradecer cuanto menos.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/18123730/Boton-Home-iPhone-7.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/18123730/Boton-Home-iPhone-7.jpg" alt="Boton Home iPhone 7" width="2500" height="1667" class="aligncenter size-full wp-image-15402" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/18123730/Boton-Home-iPhone-7.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18123730/Boton-Home-iPhone-7.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18123730/Boton-Home-iPhone-7.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Los bordes del cristal no se notan, los bordes internos de la pantalla tampoco y el acabado general de la parte trasera es impecable, digno del iPhone 4 <sup class="modern-footnotes-footnote ">2</sup>. Además, la pantalla parece que está pegada al cristal y apenas hay hueco, es una sensación agradable que ya tuve con <a target="_blank"title="iPad Pro: lo que esperaba, y mucho más" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/">el iPad Pro</a>.</p>
+<p>Es más grande que mi iPhone 5s pero más ligero y la cámara, si bien sigue sobresaliendo, destaca menos gracias a que se integra en el propio dispositivo.</p>
+<h2>Novedades del iPhone 7</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/18121409/iPhone-7-sin-jack-de-audio.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/18121409/iPhone-7-sin-jack-de-audio.jpg" alt="iPhone 7 sin jack de audio" width="2500" height="1667" class="aligncenter size-full wp-image-15396" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/18121409/iPhone-7-sin-jack-de-audio.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18121409/iPhone-7-sin-jack-de-audio.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18121409/iPhone-7-sin-jack-de-audio.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Por supuesto, hay ciertas novedades introducidas en modelos posteriores a mi 5s y, por supuesto, en el iPhone 7. <strong>Para mí ambas novedades son nuevas.</strong></p>
+<p>La primera de todas es <a target="_blank"title="Nuevo iPhone 6s y 6s Plus" href="http://macsfera.com/nuevo-iphone-6s-y-6s-plus/#3d-touch">3D Touch</a>, la capa de interacción extra que añadió Apple con el <a target="_blank"title="iPhone 6s" href="www.macsfera.com/tag/iphone-6s">iPhone 6s</a>. <strong>Me gusta mucho las posibilidades que tiene y el partido que se le saca con <a target="_blank"title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/">iOS 10</a>.</strong> Mismos gestos pero más opciones, y sólo por hacer un poco más de fuerza. Lo único que lamento es que no todos lo implementen por igual en los mismos casos <sup class="modern-footnotes-footnote ">3</sup>.</p>
+<p><strong>La siguiente cualidad que me ha encantado es la resistencia al agua.</strong> No, no lo he metido bajo el grifo todavía, pero el hecho de que se pueda mojar sin problemas hace que esté mucho más tranquilo que antes, el día a día va a ser genial.</p>
+<p><strong>¡Por fin tengo <a target="_blank"title="Así funciona Live Photos fuera del iPhone 6s" href="www.macsfera.com/asi-funciona-live-photos-fuera-del-iphone-6s/">Live Photos en el iPhone</a>!</strong> Adoro esa propiedad de iOS y por fin la tengo en el iPhone. Ahora mis imágenes serán más especiales gracias a ello, cosa que me encanta porque uno de mis hobbies es la fotografía.</p>
+<p>Es pronto para hablar de la batería, necesito esperar a un día de la semana cotidiana para saber el rendimiento real. Pero sí que es verdad que he notado una mejora. Es normal, pero me fascina, por eso quiero saber cómo se comporta en un día normal para saber la mejora real que tiene.</p>
+<p><strong>Y la velocidad es algo que,</strong> por supuesto, <strong>también ha mejorado y he notado.</strong> Mi iPhone 5s fue el primer teléfono en incluir un procesador de 64 bits y se nota. Es uno de los motivos que hacen que el teléfono siga aguantando como lo hace hoy en día, pero estamos hablando de que el iPhone 7 tiene 4 núcleos (dos grandes y dos pequeños), es otro nivel. Al igual que con la batería, esto es algo que tengo que tengo que observar día a día.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/18121639/3D-Touch-en-el-iPhone-7.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/18121639/3D-Touch-en-el-iPhone-7.jpg" alt="3D Touch en el iPhone 7" width="2500" height="1667" class="aligncenter size-full wp-image-15397" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/18121639/3D-Touch-en-el-iPhone-7.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18121639/3D-Touch-en-el-iPhone-7.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18121639/3D-Touch-en-el-iPhone-7.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Taptic engine llegó al iPhone 6s de forma tímida junto a 3D Touch, <strong>pero este año,</strong> gracias a iOS 10 nuevamente, <strong>cobra mucha mayor importancia.</strong> El sistema se comunica con pequeñas vibraciones a través de toda la interfaz, de modo que ahora el iPhone se comunica mejor con nosotros. Me gusta recibir pequeñas respuestas físicas del teléfono la verdad, <strong>es un pequeño detalle que parece una tontería, pero que me ha gustado mucho.</strong></p>
+<p>Y este punto me lleva al nuevo «botón» home. Ya tengo experiencia con el <a target="_blank"title="Force Touch: así es el nuevo trackpad de Apple" href="www.macsfera.com/force-touch-asi-es-el-nuevo-trackpad-de-apple/">sistema de fuerza</a> gracias a <a target="_blank"title="Mi nuevo MacBook Pro Retina" href="www.macsfera.com/mi-nuevo-macbook-pro-retina/">mi MacBook Pro</a> y <a target="_blank"title="MacBook: Así es el futuro, y me encanta" href="www.macsfera.com/macbook-asi-es-el-futuro-y-me-encanta/">al MacBook que probé</a>. Pero esto es mucho más pequeño, y el comportamiento es distinto. <strong>No simula al 100% el botón,</strong> pero no es una sensación extraña,<strong> parece que lo que se desplaza es toda la parte baja del teléfono,</strong> como si fuese un botón grande.</p>
+<p>Al igual que poder aplicar fuerza sobre la pantalla permite otra forma de comunicación, espero que en un futuro se pueda variar el uso corriente del botón gracias a ese sistema de fuerza, al fin y al cabo, eso aporta más formas de comunicarnos con el teléfono y pueden ser explotadas sin problemas.</p>
+<p>Por último, voy a hablar de una simple pero utilísima función que me tiene enamorado: <strong>Elevar para activar.</strong> Algo tan sencillo como levantar el móvil y que se encienda la pantalla me parece una genialidad.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/18122111/iPhone-71.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/18122111/iPhone-71.jpg" alt="iPhone 7" width="2500" height="1667" class="aligncenter size-full wp-image-15398" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/18122111/iPhone-71.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18122111/iPhone-71.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18122111/iPhone-71.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Es la propiedad que se usa en el <a target="_blank"title="Apple Watch" href="www.macsfera.com/tag/apple-watch">Apple Watch</a> y ahora en el iPhone me parece mejor aún. <strong>No hay que tocar ningún botón,</strong> por lo que es más cómodo para todos ya que el teléfono es grande y no siempre se coge de la forma ideal para pulsar el botón de encendido. Además, es la solución perfecta al “problema” de la velocidad de la segunda generación de Touch ID.</p>
+<p>Rápidamente: Touch ID 2 es muy rápido y cuando la gente pulsaba en el 6s el botón de inicio para encender el teléfono, éste registraba tan rápido la huella que el usuario se saltaba la pantalla de inicio con todas las notificaciones.</p>
+<p>La solución que implementó Apple fue la de registrar la huella y desbloquear el teléfono, <strong>pero manteniéndose en la vista bloqueada con todas las notificaciones.</strong> Si el usuario quiere entrar en el teléfono pulsa el botón de inicio y listo. Así podría ver sin problemas todas las notificaciones e interactuar con ellas.</p>
+<p>Pero es que esta solución es mucho mejor: <strong>levantas el teléfono, ves las notificaciones y si quieres lo desbloqueas con tu huella sin necesidad de pulsar el botón home</strong> <sup class="modern-footnotes-footnote ">4</sup>.</p>
+<p><strong>Acceder al teléfono sin tocar un solo botón, me encanta.</strong></p>
+<h2>128 contra 16</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/18122341/iPhone-7-negro-mate.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/18122341/iPhone-7-negro-mate.jpg" alt="iPhone 7 negro mate" width="2500" height="1667" class="aligncenter size-full wp-image-15399" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/18122341/iPhone-7-negro-mate.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18122341/iPhone-7-negro-mate.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18122341/iPhone-7-negro-mate.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Uno de los puntos más importantes por los que quería cambiar mi pequeño iPhone 5s era su capacidad. 16GB son pocos GB para un móvil actual, pero en 2013-2014 tampoco estaba tan mal. Es más, <strong>he aguantado sin un solo aviso de espacio lleno hasta la última semana de uso.</strong></p>
+<p>Eso sí, menuda semana… Todos los días, a todas horas, mensajes de iOS, limitaciones de WhatsApp porque necesita 100MB para funcionar, eliminando audiolibros, canciones en Spotify, etc.</p>
+<p><strong>Por eso esta vez me he decantado por los 128GB como en mi iPad Pro.</strong></p>
+<p>No más limitaciones de espacio, no más restricciones en el uso de aplicaciones porque <em>”300MB en memoria es mucho espacio”</em>. La tecnología está aquí para ayudarnos y hacernos feliz, si tenemos ese tipo de limitaciones no podemos disfrutarla y que queréis que os diga pero estamos en este mundo para disfrutar.</p>
+<hr />
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/18122819/iPhone-7-negro-mate-de-pie.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/18122819/iPhone-7-negro-mate-de-pie.jpg" alt="iPhone 7 negro mate de pie" width="2500" height="3750" class="aligncenter size-full wp-image-15400" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/18122819/iPhone-7-negro-mate-de-pie.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18122819/iPhone-7-negro-mate-de-pie.jpg 133w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18122819/iPhone-7-negro-mate-de-pie.jpg 683w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Es difícil saber quién debe actualizar o no, <strong>pero si tenéis un iPhone 5s sin duda es un gran momento,</strong> vais a cambiar la forma de relacionaros con vuestro teléfono y lo vais a agradecer.</p>
+<p>No he hablado mucho de la cámara o de la <a target="_blank"title="Phill Schiller explica los motivos para eliminar el conector jack del iPhone 7" href="www.macsfera.com/phill-schiller-explica-los-motivos-eliminar-conector-jack-del-iphone-7/">carencia del puerto jack</a> porque no lo he probado a fondo, son cosas que prefiero dejar de lado y hablar de ello bien en un futuro.</p>
+<p>Sin duda, <strong>escribiré una extensa review sobre el dispositivo,</strong> de <a target="_blank"title="Apple Pencil: el mejor stylus para el iPad" href="www.macsfera.com/apple-pencil-mejor-stylus-ipad/">esas que hago yo</a>. En ella profundizaré mucho más en las partes técnicas y en las novedades del iPhone 7.</p>
+<div id="attachment_15403" style="width: 2510px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/18124124/iPhone-7-Negro-mate-3D-Touch.jpg"><img aria-describedby="caption-attachment-15403" src="https://cdn.macsfera.com/wp-content/uploads/2016/09/18124124/iPhone-7-Negro-mate-3D-Touch.jpg" alt="iPhone 7 Negro mate 3D Touch" width="2500" height="1667" class="size-full wp-image-15403" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/18124124/iPhone-7-Negro-mate-3D-Touch.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18124124/iPhone-7-Negro-mate-3D-Touch.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/18124124/iPhone-7-Negro-mate-3D-Touch.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-15403" class="wp-caption-text">Sigue a <a href="https://www.instagram.com/macsfera/" target="_blank">MacSfera en Instagram</a></p></div>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;No hay que preocuparse, mi teléfono irá a una persona que le sacará mucho partido y durante más tiempo que yo.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Personalmente, uno de los acabados más elegantes que recuerdo.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Lo lamento porque no es tan intuitivo como otros aspectos de iOS pero a la vez me encanta porque no tiene limitaciones, cada desarrollador puede implementarlo a su manera.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Para ello hay que desactivar el desbloqueo por pulsación y dejarlo como el desbloqueo normal de Touch ID.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/del-iphone-5s-al-iphone-7-primeras-impresiones/">Del iPhone 5s al iPhone 7: primeras impresiones</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/del-iphone-5s-al-iphone-7-primeras-impresiones/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nuevo iPad Pro de 9,7”</title>
+		<link>https://www.MacSfera.com/nuevo-ipad-pro-97/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 21 Mar 2016 23:59:03 +0000</pubDate>
+				<category><![CDATA[iPad]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Apple Pencil]]></category>
+		<category><![CDATA[iPad Pro]]></category>
+		<category><![CDATA[Let us loop you in]]></category>
+		<category><![CDATA[Live Photos]]></category>
+		<category><![CDATA[Noticias de iPad]]></category>
+		<category><![CDATA[Smart Connector]]></category>
+		<category><![CDATA[Smart Cover]]></category>
+		<category><![CDATA[Smart Keyboard]]></category>
+		<category><![CDATA[Touch ID]]></category>
+		<category><![CDATA[True Tone]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14254</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ipad-pro-97/">Nuevo iPad Pro de 9,7”</a></p>
+<p>Se ha hecho esperar, pero por fin está aquí el nuevo iPad Pro de 9,7”, el terminal con el mismo tamaño que</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ipad-pro-97/">Nuevo iPad Pro de 9,7”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ipad-pro-97/">Nuevo iPad Pro de 9,7”</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/22004211/iPad-Pro-9-7-pulgadas.jpg" rel="attachment wp-att-14256"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/22004211/iPad-Pro-9-7-pulgadas.jpg" alt="iPad Pro 9,7 pulgadas" width="1918" height="772" class="aligncenter size-full wp-image-14256" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/22004211/iPad-Pro-9-7-pulgadas.jpg 1918w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22004211/iPad-Pro-9-7-pulgadas.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22004211/iPad-Pro-9-7-pulgadas.jpg 1024w" sizes="(max-width: 1918px) 100vw, 1918px" /></a></p>
+<p>Se ha hecho esperar, pero <strong>por fin está aquí el nuevo iPad Pro de 9,7”,</strong> el terminal con el mismo tamaño que el iPad original pero con la potencia del <a target="_blank"title="Nuevo iPad Pro" href="www.macsfera.com/nuevo-ipad-pro/">iPad Pro de 12,9”</a>.</p>
+<p>Y es que en la keynote de hoy, <strong>Apple ha desvelado que el nuevo iPad no se llamará Air, sino que será Pro y viene para desbancar la idea de iPad que conocemos hasta ahora.</strong></p>
+<p><span id="more-14254"></span></p>
+<p>Por primera vez, <strong>dos modelos distintos de pantalla tienen la misma potencia en el mismo año.</strong> Ya no se busca competir entre unos y otros, sino en unirse para ofrecer posibilidades. ¿Necesitas la fantástica pantalla de 12,9 pulgadas? Adelante. ¿Que prefieres la movilidad del modelo de 9,7 pulgadas? Adelante también. Aquí están para cubrir necesidades, no para venderte un producto del que quieres la mitad y deseando la otra mitad de otro producto.</p>
+<h2>Ligero como una moto…</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/22004513/iPad-Pro-tamano-normal.jpg" rel="attachment wp-att-14257"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/22004513/iPad-Pro-tamano-normal.jpg" alt="iPad Pro tamaño normal" width="2500" height="1406" class="aligncenter size-full wp-image-14257" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/22004513/iPad-Pro-tamano-normal.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22004513/iPad-Pro-tamano-normal.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22004513/iPad-Pro-tamano-normal.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Cuando se filtró este iPad, se habló de que sería un poco más gordo que el iPad Air 2. También se comentó que incrementaría el peso. Es lógico si se piensa en la tecnología detrás del iPad Pro original, y de si vemos que tiene que ir en un modelo inferior. Además, todos sabemos que el iPad Air 2 es una obra de ingeniería y diseño.</p>
+<p><strong>Lo que no nos esperábamos es que teniendo más cosas el dispositivo midiese y pesase exactamente lo mismo que el Air 2.</strong></p>
+<p>Sí, el iPad Pro de 9,7” tiene las mismas cifras que el fantástico iPad Air 2, <strong>siendo así el mejor iPad creado hasta la fecha en su tamaño.</strong></p>
+<p>En los Mac uno tiene que decantarse entre <a target="_blank"title="Mi nuevo MacBook Pro Retina" href="www.macsfera.com/mi-nuevo-macbook-pro-retina/">potencia</a> o <a target="_blank"title="MacBook: Así es el futuro, y me encanta" href="www.macsfera.com/macbook-asi-es-el-futuro-y-me-encanta/">portabilidad</a>, <strong>siempre perdiendo por un lado o por otro.</strong> Ahora con el iPad eso no pasa, lo único que hay que mirar es la potencia. Si quieres más potencia, no pierdes en diseño. Si no necesitas más potencia, ahorras en dinero. <strong>Todos salimos ganando.</strong></p>
+<h2>Potente como un camión</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/22005047/iPad-Pro-rendimiento.jpg" rel="attachment wp-att-14258"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/22005047/iPad-Pro-rendimiento.jpg" alt="iPad Pro rendimiento" width="2500" height="957" class="aligncenter size-full wp-image-14258" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/22005047/iPad-Pro-rendimiento.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22005047/iPad-Pro-rendimiento.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22005047/iPad-Pro-rendimiento.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Y es que si hay algo que define a este iPad es la potencia. <strong>Con un chip A9x de 64 bits y el chip de movimiento M9,</strong> hereda la potencia del modelo de 12,9 pulgadas, pero en un espacio más compacto.</p>
+<p><strong>La cámara es la misma que la del <a target="_blank"title="iPhone 6s" href="www.macsfera.com/tag/iphone-6s">iPhone 6s</a> y el <a target="_blank"title="Nuevo iPhone SE" href="www.macsfera.com/nuevo-iphone-se/">nuevo iPhone SE</a>,</strong> 12 megapíxeles, Live Photos, enfoque automático, flash True Tone <sup class="modern-footnotes-footnote ">1</sup>, grabación de vídeo en 4K y cámara lenta de hasta 240 fps. La cámara interna mejora siendo de 5 megapíxeles y teniendo Retina Flash.</p>
+<p>Cuando digo que es igual que el iPad Pro de 12,9 pulgadas, digo que es igual: <strong>cuatro altavoces</strong> que darán un sonido envolvente integrados en la carcasa unibody. <strong>Smart Connector</strong> de 3 pines que nos permitirá conectar accesorios externos que no requieran ni de batería ni de conexión inalámbrica. <strong>Touch ID</strong> para desbloquearlo y mejorar la seguridad del dispositivo, a la par que agilizar compras y accesos seguros a ciertas apps.</p>
+<h2>Más novedades</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/22005401/Pantalla-True-Tone-iPad-Pro.jpg" rel="attachment wp-att-14259"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/22005401/Pantalla-True-Tone-iPad-Pro.jpg" alt="Pantalla True Tone iPad Pro" width="1440" height="580" class="aligncenter size-full wp-image-14259" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/22005401/Pantalla-True-Tone-iPad-Pro.jpg 1440w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22005401/Pantalla-True-Tone-iPad-Pro.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22005401/Pantalla-True-Tone-iPad-Pro.jpg 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p>La pantalla no es la de siempre, que va. <strong>La pantalla del iPad Pro ahora es más brillante</strong> y ofrece hasta un 25% más de saturación en los colores haciendo que sean más realistas y vivos que nunca. Esto se debe a que han adaptado el mismo espacio de color que la industria del cine digital.</p>
+<p>Siguiendo con la pantalla, <strong>incluye una nueva característica llamada True Tone que adapta el color de lo que estemos viendo al entorno que tengamos  para que la lectura sea más natural y cómoda.</strong> El objetivo es buscar un tono de color ideal para simular al propio papel, en la circunstancia que sea.</p>
+<p>Volviendo a la cámara, y como novedad, aunque negativa, <strong>obtenemos la misma protuberancia que en el iPhone 6 y 6s,</strong> algo que choca nada más verlo por varios motivos:</p>
+<ol>
+<li>No hay necesidad de poner una cámara tan buena en una tablet si eso conlleva cargarte el diseño</li>
+<li>Poner una protuberancia que altere el fondo plano de un dispositivo que va a ser usado en superficie lisa con el Apple Pencil no es la estrategia más inteligente. Veremos en un futuro cómo afecta realmente este suceso, ya lo probaré a fondo, pero no pinta del todo bien.</li>
+</ol>
+<p>En cuanto al diseño, por primera vez también incluye un nuevo color, <strong>el Rosa dorado</strong> que llevamos viendo en todos los productos de Apple, incluso <a target="_blank"title="Nuevos colores y correas para el Apple Watch" href="www.macsfera.com/nuevos-colores-y-correas-para-el-apple-watch/">cuando se actualizan</a>.</p>
+<h2>Los mismos accesorios, adaptados</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/22005651/iPad-Pro-con-Smart-Keyboard.jpg" rel="attachment wp-att-14260"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/22005651/iPad-Pro-con-Smart-Keyboard.jpg" alt="iPad Pro con Smart Keyboard" width="1165" height="910" class="aligncenter size-full wp-image-14260" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/22005651/iPad-Pro-con-Smart-Keyboard.jpg 1165w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22005651/iPad-Pro-con-Smart-Keyboard.jpg 256w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22005651/iPad-Pro-con-Smart-Keyboard.jpg 1024w" sizes="(max-width: 1165px) 100vw, 1165px" /></a></p>
+<p>Con el lanzamiento del iPad Pro original, <a target="_blank"title="Nuevo iPad Pro - Accesorios" href="www.macsfera.com/nuevo-ipad-pro/?#accesorios">Apple sacó dos accesorios exclusivos</a> para aprovechar al máximo este dispositivo. <strong>Ahora esos accesorios son compatibles con este modelo más pequeño.</strong></p>
+<p>Por un lado, <strong>el Smart Keyboard adaptará su tamaño a este modelo de 9,7 pulgadas</strong> y funcionará exactamente igual, a través del Smart Connector antes mencionado sin necesidad de recurrir al Bluetooth para conectarlo.</p>
+<p><strong>El Apple Pencil también funcionará en la pantalla del iPad Pro,</strong> Apple ha implementado el mismo sistema que refresca al doble de ratio las entrada táctil, permitiendo así mayor precisión para usar este accesorio.</p>
+<p>El Smart Keyboard <a target="_blank"href="http://www.apple.com/es/shop/product/MM2L2ZM/A/smart-keyboard-para-el-ipad-pro-de-9-7-pulgadas?fnode=9a">se vende</a> por un precio de 170€ <strong>pero no está disponible para la versión española</strong> <sup class="modern-footnotes-footnote ">2</sup> mientras que el Apple Pencil <a target="_blank"href="http://www.apple.com/es/shop/product/MK0C2/apple-pencil-para-el-ipad-pro">está disponible</a> por 110€.</p>
+<p>Por otro lado, la Smart Cover <a target="_blank"href="http://www.apple.com/es/shop/product/MM2D2ZM/A/funda-smart-cover-para-el-ipad-pro-de-9-7-pulgadas-productred?fnode=9a">está disponible</a> en 12 colores por un precio de 60€ <sup class="modern-footnotes-footnote ">3</sup>. La funda Silicone Case <a target="_blank"href="http://www.apple.com/es/shop/product/MM232ZM/A/funda-silicone-case-para-el-ipad-pro-de-9-7-pulgadas-color-piedra?fnode=9a">está disponible</a> en los mismos 11 colores por 80€.</p>
+<hr />
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/5_pMx7IjYKE" frameborder="0" allowfullscreen></iframe></p>
+<p>Tenía la esperanza de que el iPad Pro de 9,7” estuviese disponible en todas partes del mundo a la vez, <strong>pero lamentablemente no es así.</strong> En España se desconoce cuándo se podrá reservar y cuando saldrá a la venta. Estaré pendiente porque el primer día, si es posible, me haré con una unidad.</p>
+<p>En cuanto al precio y a las capacidades, allá van:</p>
+<ul>
+<li><strong>32GB</strong> WiFi 680€ / WiFi + 4G 830€</li>
+<li><strong>128GB</strong> WiFi 860€ / WiFi + 4G 1010€</li>
+<li><strong>256GB</strong> WiFi 1040€ / WiFi + 4G 1190€</li>
+</ul>
+<p>Como habéis podido ver, hay una nueva capacidad disponible: 2<strong>56GB de espacio interno.</strong> Esta capacidad (que también se aplica al modelo de 12,9”) es la que demuestra que, ahora sí, <strong>Apple quiere que el iPad en general</strong> (y no solo un modelo) <strong><a target="_blank"title="El iPad como equipo de trabajo" href="www.macsfera.com/el-ipad-como-equipo-de-trabajo/">sea un dispositivo capaz de trabajar</a>.</strong></p>
+<p>Tengo muchas ganas de ponerle las manos encima. Cuando acabe de hablar de todas las <a target="_blank"title="Let us loop you in" href="www.macsfera.com/tag/let-us-loop-you-in">novedades de esta keynote</a> <strong>expondré mis primeros pensamientos sobre este fantástico terminal</strong> que, <a target="_blank"title="Mi experiencia escribiendo a mano en el iPad - Mi futuro con el iPad Air 3" href="www.macsfera.com/mi-experiencia-escribiendo-a-mano-en-el-ipad/?#mi-futuro-con-el-ipad-air-3">por fin</a>, llega a nuestras vidas.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/es/ipad-pro/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Por primera vez incorporado en un iPad.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Y mira que ha pasado tiempo desde que lo presentaron</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Ya me contarás a qué viene la subida de precio respecto a las del iPad Air 2, si se supone que son iguales.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ipad-pro-97/">Nuevo iPad Pro de 9,7”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuevo iPhone SE</title>
+		<link>https://www.MacSfera.com/nuevo-iphone-se/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 21 Mar 2016 21:18:31 +0000</pubDate>
+				<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Apple Pay]]></category>
+		<category><![CDATA[iPhone SE]]></category>
+		<category><![CDATA[Live Photos]]></category>
+		<category><![CDATA[Noticias de iPhone]]></category>
+		<category><![CDATA[Touch ID]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14245</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iphone-se/">Nuevo iPhone SE</a></p>
+<p>En la keynote “Let us loop you in”, Apple ha introducido un nuevo modelo de iPhone, el iPhone SE. El iPhone SE</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iphone-se/">Nuevo iPhone SE</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iphone-se/">Nuevo iPhone SE</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/21220408/iPhone-SE.jpg" rel="attachment wp-att-14247"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/21220408/iPhone-SE.jpg" alt="iPhone SE" width="2300" height="1372" class="aligncenter size-full wp-image-14247" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/21220408/iPhone-SE.jpg 2300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/21220408/iPhone-SE.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/21220408/iPhone-SE.jpg 1024w" sizes="(max-width: 2300px) 100vw, 2300px" /></a></p>
+<p>En la <a target="_blank"title="Keynote Let us loop you in" href="www.macsfera.com/tag/let-us-loop-you-in/">keynote “Let us loop you in”</a>, <strong>Apple ha introducido un nuevo modelo de iPhone, el iPhone SE.</strong></p>
+<p><strong>El iPhone SE es un terminal de 4 pulgadas con el mismo diseño que el <a target="_blank"title="iPhone 5s" href="www.macsfera.com/tag/iphone-5s">iPhone 5s</a> pero con la potencia del <a target="_blank"title="iPhone 6s" href="www.macsfera.com/tag/iphone-6s">iPhone 6s</a>.</strong></p>
+<p><span id="more-14245"></span></p>
+<h2>Mismo diseño, mejores componentes</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/21220529/iPhone-SE-dorado.jpg" rel="attachment wp-att-14248"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/21220529/iPhone-SE-dorado.jpg" alt="iPhone SE dorado" width="2450" height="1646" class="aligncenter size-full wp-image-14248" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/21220529/iPhone-SE-dorado.jpg 2450w, https://cdn.macsfera.com/wp-content/uploads/2016/03/21220529/iPhone-SE-dorado.jpg 298w, https://cdn.macsfera.com/wp-content/uploads/2016/03/21220529/iPhone-SE-dorado.jpg 1024w" sizes="(max-width: 2450px) 100vw, 2450px" /></a></p>
+<p>Como se puede ver en las fotos, <strong>el diseño es exactamente el mismo <a target="_blank"title="Resumen de la keynote del 10 de septiembre" href="www.macsfera.com/resumen-de-la-keynote-del-10-de-septiembre/">que se estrenó en 2013</a></strong>, pero con una pequeña diferencia: se ha añadido el color rosa oro.</p>
+<p>En cambio, <strong>los componentes usados varían mucho de aquel iPhone que introdujo por primera vez el Touch ID.</strong></p>
+<p>Por un lado tenemos <strong>el chip A9 de 64 bits y el chip de movimiento M9.</strong> Esto hace que el teléfono tenga el mismo potencial que el 6s, duplique en velocidad de CPU al 5s y le triplique en velocidad de GPU.</p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/21220720/iPhone-SE-rosa.jpg" rel="attachment wp-att-14249"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/21220720/iPhone-SE-rosa.jpg" alt="iPhone SE rosa" width="1728" height="682" class="aligncenter size-full wp-image-14249" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/21220720/iPhone-SE-rosa.jpg 1728w, https://cdn.macsfera.com/wp-content/uploads/2016/03/21220720/iPhone-SE-rosa.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/21220720/iPhone-SE-rosa.jpg 1024w" sizes="(max-width: 1728px) 100vw, 1728px" /></a></p>
+<p><strong>La cámara también ha cambiado,</strong> siendo ahora de 12 megapíxeles con vídeo en 4K y <a target="_blank"title="Live Photos" href="www.macsfera.com/tag/live-photos">Live Photos</a>. La pantalla retina también actuará como Flash.</p>
+<p>Sin embargo, <strong>no cuenta con 3D Touch ni con el Touch ID de segunda generación.</strong></p>
+<p>Pero con lo que <strong>si que contará es con Apple Pay</strong> ya que Apple ha decidido meterle un chip NFC para poder usar el sistema de pagos de la empresa.</p>
+<p><strong>La batería también es otro de los beneficiados en este campo,</strong> ha mejorado notablemente respecto al modelo 5s alargándose varias horas en según que determinados usos.</p>
+<h2>Eres grande, pequeño</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/21221317/Nuevo-iPhone-SE.jpg" rel="attachment wp-att-14250"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/21221317/Nuevo-iPhone-SE.jpg" alt="Nuevo iPhone SE" width="2500" height="1651" class="aligncenter size-full wp-image-14250" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/21221317/Nuevo-iPhone-SE.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/03/21221317/Nuevo-iPhone-SE.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/21221317/Nuevo-iPhone-SE.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Apple ha sido claro con los motivos por los que ha lanzado este teléfono:</strong></p>
+<ol>
+<li>Algunas personas prefieren teléfonos pequeños</li>
+<li>Para algunas personas es su primer iPhone</li>
+</ol>
+<p>Por esta razón, creen que lo mejor que pueden hacer es crear un terminal de 4 pulgadas que sea igual de potente que las versiones top de la gama. Esto además, hará que los dispositivos sean más baratos y accesibles, permitiendo a más público acceder a ese contenido.</p>
+<p>Porque sí, a pesar de tener las mismas características que el iPhone 6s (salvo 3D Touch y el nuevo sensor del Touch ID), el iPhone SE es más barato: <strong>490€ en su modelo de 16GB y 590€ en el modelo de 64GB.</strong></p>
+<p>Ahora el iPhone es un poco más asequible para el resto de personas que quieran probarlo.</p>
+<hr />
+<p><strong>El iPhone SE se podrá reservar el 29 de marzo e intuyo que se pondrá a la venta a partir del 5 de abril.</strong></p>
+<p>30 millones de dispositivos de 4 pulgadas se vendieron en 2015. Buen movimiento por parte de Apple al darse cuenta de que este tamaño también gusta y ofrecerle a la gente la misma potencia que al resto de usuarios.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/es/iphone-se/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iphone-se/">Nuevo iPhone SE</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>El Monstruo de las Galletas protagoniza el nuevo anuncio de Apple</title>
+		<link>https://www.MacSfera.com/monstruo-las-galletas-protagoniza-nuevo-anuncio-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 17 Mar 2016 19:59:49 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[El Monstruo de las Galletas]]></category>
+		<category><![CDATA[iPhone 6s]]></category>
+		<category><![CDATA[Live Photos]]></category>
+		<category><![CDATA[Publicidad]]></category>
+		<category><![CDATA[Siri]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14137</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/monstruo-las-galletas-protagoniza-nuevo-anuncio-apple/">El Monstruo de las Galletas protagoniza el nuevo anuncio de Apple</a></p>
+<p>El Monstruo de las Galletas es el último protagonista de los anuncios de Apple. En particular, en uno que relata las bondades</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/monstruo-las-galletas-protagoniza-nuevo-anuncio-apple/">El Monstruo de las Galletas protagoniza el nuevo anuncio de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/monstruo-las-galletas-protagoniza-nuevo-anuncio-apple/">El Monstruo de las Galletas protagoniza el nuevo anuncio de Apple</a></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/CCbWyYr82BM" frameborder="0" allowfullscreen></iframe></p>
+<p>El Monstruo de las Galletas es el <a href="https://youtu.be/CCbWyYr82BM" target="_blank" rel="noopener noreferrer">último</a> protagonista de los anuncios de Apple. En particular, <strong>en uno que relata las bondades de hablar con Siri con el comando de voz <em>“Oye Siri”</em>.</strong> Como en el <a target=_blank" title="iPhone 6s" href="www.macsfera.com/tag/iphone-6s">iPhone 6s</a> no es necesario que esté conectado a una fuente de alimentación, ahora invocarlo sin manos es lo que quiere promocionar Apple.</p>
+<p>También os dejo <a href="https://youtu.be/YRRBs71p7II" target="_blank" rel="noopener noreferrer">este otro</a> en el que se promociona <a target=_blank" title="Live Photos" href="www.macsfera.com/tag/live-photos">Live Photos</a>, una propiedad que me encanta pero que lamento que sólo esté en exclusiva para el 6s.</p>
+<p><span id="more-14137"></span></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/YRRBs71p7II" frameborder="0" allowfullscreen></iframe></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/monstruo-las-galletas-protagoniza-nuevo-anuncio-apple/">El Monstruo de las Galletas protagoniza el nuevo anuncio de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Así funciona Live Photos fuera del iPhone 6s</title>
+		<link>https://www.MacSfera.com/asi-funciona-live-photos-fuera-del-iphone-6s/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2015 09:05:08 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Fotos]]></category>
+		<category><![CDATA[iPhone 6s]]></category>
+		<category><![CDATA[Live Photos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12394</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/asi-funciona-live-photos-fuera-del-iphone-6s/">Así funciona Live Photos fuera del iPhone 6s</a></p>
+<p>Con la introducción del nuevo iPhone 6s, Apple introdujo un concepto al que llamó Live Photos. Las Live Photos se basan en</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/asi-funciona-live-photos-fuera-del-iphone-6s/">Así funciona Live Photos fuera del iPhone 6s</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/asi-funciona-live-photos-fuera-del-iphone-6s/">Así funciona Live Photos fuera del iPhone 6s</a></p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg" alt="Live Photos" width="2500" height="1072" class="aligncenter size-full wp-image-12395" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Con la introducción del <a href="www.macsfera.com/nuevo-iphone-6s-y-6s-plus/" title="Nuevo iPhone 6s y 6s Plus" target="_blank">nuevo iPhone 6s</a>, Apple introdujo un concepto al que llamó Live Photos. <strong>Las Live Photos se basan en la toma de imágenes y sonido antes y después de sacar la fotografía.</strong> De esta forma, uno puede revivir los instantes antes y después de una fotografía en particular.</p>
+<p>Este formato de fotografía lo podemos reproducir en el iPhone 6s gracias al <a href="www.macsfera.com/nuevo-iphone-6s-y-6s-plus/?#3d-touch" title="Nuevo iPhone 6s y 6s Plus" target="_blank">3D Touch</a>. Al hacer presión sobre la pantalla, la imagen estática cobra vida como si de una fotografía de Harry Potter se tratase <sup class="modern-footnotes-footnote ">1</sup>. Pero <strong>¿qué ocurre cuando queremos exportar esa imagen hacia otros dispositivos o servicios?</strong></p>
+<p><span id="more-12394"></span></p>
+<p>Pues la cosa varía mucho en función del servicio utilizado y del dispositivo que quiera reproducirlo, así que vamos a hacer un repaso. Aunque ya os adelanto que <strong>en iOS es dónde está todo mejor planteado.</strong></p>
+<h2>AirDrop</h2>
+<p>AirDrop es uno de los métodos más satisfactorios a la hora de transmitir una Live Photo. Aunque <strong>sólo funciona de iOS a iOS.</strong> Si intentamos pasar de iOS a Mac o viceversa, el sistema lo reconoce como una foto normal. La foto que tomamos para ser exactos.</p>
+<h2>Mensajes</h2>
+<p>Curiosamente, <strong>el sistema de mensajería de Apple sirve para transmitir satisfactoriamente una Live Photo.</strong> Pero, una vez más, sólo desde dispositivos iOS.</p>
+<p>Podemos compartir la foto desde la propia aplicación de Fotos gracias a Sharesheets o desde la aplicación de Mensajes. <strong>El usuario que la reciba podrá reproducir la animación esté en un iPhone 6s o no.</strong> Recordemos que si está en un Mac no funcionará.</p>
+<h2>Fotos</h2>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/10/29180709/Live-Photos-en-Fotos-app.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/10/29180709/Live-Photos-en-Fotos-app.gif" alt="Live Photos en Fotos app" width="1017" height="605" class="aligncenter size-full wp-image-12396" /></a></p>
+<p>Tranquilos, iOS no es el único medio en el que se pueden reproducir y conservar las Live Photos. <strong>La aplicación Fotos,</strong> <a href="www.macsfera.com/la-caracteristica-que-hizo-que-adorase-la-aplicacion-fotos" title="La característica que hizo que adorase la aplicación Fotos" target="_blank">que tanto me gusta</a>, <strong>ahora me gusta más porque es compatible con Live Photos.</strong></p>
+<p>Fotos puede reproducir y guardar este nuevo formato de fotografía. <strong>Para ello hay que pasarlas a través del cable</strong> (como una importación normal) <strong>o por un álbum de fotos compartidas.</strong> Fotos en streaming todavía no es compatible y lo único que hace es sincronizar la foto original.</p>
+<p>Para reproducir la animación, <strong>basta con poner el cursor por encima, entrar en la fotografía o pulsar el botón <em>Live</em> que hay en la esquina inferior izquierda.</strong> De las tres opciones, la última es la que hará que se reproduzca también esa pequeña captura de sonido.</p>
+<p>Me ha entrado bastante curiosidad acerca de la exportación de este archivo. Ya os comenté que <a href="www.macsfera.com/como-recuperar-los-archivos-raw-importados-en-fotos/" title="Cómo recuperar los archivos RAW importados en Fotos" target="_blank">Fotos tiene una función llamada Exportar original sin modificar</a> que nos sirve para sacar el archivo original independientemente del formato que use Fotos para tratar esa imagen de forma interna. <strong>Pues usando esa misma función, uno descubre que Fotos genera la foto original y un vídeo en el que se reproduce la animación.</strong></p>
+<p>Así es cómo ha decidido Apple solventar el problema de compatibilidad actual de su formato y los formatos actuales de fotografía.</p>
+<h2>Distintas aplicaciones de mensajería</h2>
+<p><strong>Ninguna de las aplicaciones de mensajería comunes que he utilizado y probado son compatibles con este formato.</strong> Siempre que pasamos la imagen, el usuario que la recibe no recibe la animación. Da igual si lo compartes con Sharesheets o desde la propia aplicación, no funciona.</p>
+<h2>Servicios</h2>
+<p>He probado a intentar subir una Live Photo a cinco redes sociales: Twitter, Tumblr, Flickr, Instagram y Facebook; y a tres servicios de almacenamiento en la nube: iCloud, Dropbox y Google Drive.</p>
+<p><strong>Ninguno de ellos ha reconocido el formato de Live Photos,</strong> y eso que alguna de sus apps sí es compatible con 3D Touch <sup class="modern-footnotes-footnote ">2</sup>.</p>
+<h2>Cómo funciona en un dispositivo iOS</h2>
+<p><strong>El funcionamiento de Live Photos en un dispositivo que no tiene 3D Touch es exactamente igual que en uno que sí lo tiene.</strong> Al entrar en la fotografía (tanto desde la galería, como haciendo scroll lateral), la animación se muestra. Pero si queremos reproducirla de forma completa, deberemos dejar pulsada la pantalla. El gesto es similar al de hacer presión, pero obviamente, nuestro dispositivo no la detectará, aunque sí ejecutará la animación.</p>
+<h2>Cosas por hacer</h2>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/10/29182108/Live-Photos-en-un-iPhone-sin-3D-Touch.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/10/29182108/Live-Photos-en-un-iPhone-sin-3D-Touch.jpg" alt="Live Photos en un iPhone sin 3D Touch" width="2500" height="1667" class="aligncenter size-full wp-image-12398" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/10/29182108/Live-Photos-en-un-iPhone-sin-3D-Touch.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/10/29182108/Live-Photos-en-un-iPhone-sin-3D-Touch.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/10/29182108/Live-Photos-en-un-iPhone-sin-3D-Touch.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>El formato es nuevo, hay que tener en cuenta que <a href="www.macsfera.com/cronica-del-lanzamiento-del-iphone-6s-en-espana" title="Crónica del lanzamiento del iPhone 6s en España" target="_blank">el iPhone 6s no lleva con nosotros mucho tiempo</a>, y de hecho <strong>me ha sorprendido bastante ver que Fotos y Mensajes soportaban el formato</strong> <sup class="modern-footnotes-footnote ">3</sup><strong>, pero queda mucho camino por cubrir.</strong></p>
+<p>A la gente le gusta exportar sus fotografías y guardarlas en dispositivos externos, y más desde que <a href="www.macsfera.com/nuevo-iphone-6s-y-6s-plus/?#16gb" title="Nuevo iPhone 6s y 6s Plus - 16GB" target="_blank">Apple sigue emperrada en ofrecer 16GB como modelo base</a>. De modo que <strong>hay que poner facilidades para compartir ese nuevo formato,</strong> no solo entre tus dispositivos, también entre otras plataformas.</p>
+<p>Una de las posibles soluciones sería convertir la imagen a GIF, pero no creo que sea la solución adecuada por la pérdida del audio, la calidad y la limitación de los colores. Puede servir para un apaño, pero no creo que sea lo que Apple busque <sup class="modern-footnotes-footnote ">4</sup>.</p>
+<p>En <a href="www.macsfera.com/resumen-y-opinion-de-la-keynote-hey-siri-give-us-a-hint" title="Resumen y opinión de la keynote “Hey Siri, give us a hint”" target="_blank">la keynote se dijo</a> que Facebook iba a implementar este nuevo formato, no sabemos cuánto tardará o si lo hará al final, pero si lo hace, sin duda servirá para que el resto de plataformas se lancen a hacerse compatibles.</p>
+<p>Ya digo, no creo que Live Photos sea algo que vaya a cambiar la forma de ver las fotografías, es un concepto que lleva existiendo en aplicaciones de terceros desde hace tiempo, pero sí dan un dinamismo digno de aquél que sepa aprovecharlo, y como tal, <strong>me gustaría que se viese en algo más que en un iPhone. Y para conseguir eso no hay nadie mejor que Apple.</strong></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Aunque esta es más mágica porque tiene sonido &#x1f61d;</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Aunque no se necesite para reproducir la foto.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Me ha sorprendido más que funcione la transmisión a través de Mensajes, sinceramente.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Ni si quiera lo busca un usuario avanzado en fotografía.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/asi-funciona-live-photos-fuera-del-iphone-6s/">Así funciona Live Photos fuera del iPhone 6s</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuevo iPhone 6s y 6s Plus</title>
+		<link>https://www.MacSfera.com/nuevo-iphone-6s-y-6s-plus/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2015 21:32:26 +0000</pubDate>
+				<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[3d Touch]]></category>
+		<category><![CDATA[Apple Pay]]></category>
+		<category><![CDATA[Force Touch]]></category>
+		<category><![CDATA[iPhone 6s]]></category>
+		<category><![CDATA[iPhone 6s Plus]]></category>
+		<category><![CDATA[Live Photos]]></category>
+		<category><![CDATA[Taptic Engine]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=11995</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iphone-6s-y-6s-plus/">Nuevo iPhone 6s y 6s Plus</a></p>
+<p>No fue hasta el último momento, pero vino. Apple por fin presentó sus nuevos iPhone 6s y 6s Plus en la keynote</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iphone-6s-y-6s-plus/">Nuevo iPhone 6s y 6s Plus</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iphone-6s-y-6s-plus/">Nuevo iPhone 6s y 6s Plus</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/10210257/Nuevo-iPhone-6s.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/10210257/Nuevo-iPhone-6s.jpg" alt="Nuevo iPhone 6s" width="2500" height="1132" class="aligncenter size-full wp-image-12005" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/10210257/Nuevo-iPhone-6s.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10210257/Nuevo-iPhone-6s.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10210257/Nuevo-iPhone-6s.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>No fue hasta el último momento, pero vino. <strong>Apple por fin <a href="www.macsfera.com/keynote-hey-siri-give-us-a-hint-el-9-de-septiembre-con-streaming-oficial/" title="Keynote “Hey Siri, give us a hint” el 9 de septiembre con streaming oficial" target="_blank" rel="noopener noreferrer">presentó</a> sus nuevos iPhone 6s y 6s Plus en la keynote celebrada el 9 de septiembre.</strong> Un modelo con el mismo diseño que sus antecesores pero con muchas novedades que afectan al futuro.</p>
+<p>Me cuesta empezar a hablar de este dispositivo, <strong>porque realmente han hecho un gran cambio en la forma de interactuar con el teléfono,</strong> aunque como siempre empezaré por el diseño.</p>
+<p><span id="more-11995"></span></p>
+<h2>Diseño</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/10210624/Diseno-iPhone-6s.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/10210624/Diseno-iPhone-6s.jpg" alt="Diseno iPhone 6s" width="2500" height="1235" class="aligncenter size-full wp-image-12006" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/10210624/Diseno-iPhone-6s.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10210624/Diseno-iPhone-6s.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10210624/Diseno-iPhone-6s.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>El diseño es exactamente el mismo que el del iPhone 6 y iPhone 6 Plus, aunque hay una pequeña novedad:<strong> incluyen un nuevo color llamado oro rosa.</strong> De esta forma, se adaptan a los <a href="www.macsfera.com/watchos-2-disponible-el-16-de-septiembre" target="_blank" rel="noopener noreferrer">nuevos Apple Watch Sport</a> y al Apple Watch Edition.</p>
+<p>Los materiales también han cambiado, Apple ha escuchado al público con el famoso <em>Bendgate</em> e <strong>incorpora aluminio serie 7000</strong> que hace del cuerpo un elemento más duro y resistente. El cristal empleado en la pantalla también ha cambiado gracias al proceso de fabricación, siendo el más resistente hasta ahora.</p>
+<p>Y eso es lo más destacado en cuanto al diseño, los modelos s en el iPhone no suelen incorporar ningún elemento distinto, de modo que no se esperaba gran cosa.</p>
+<h2>Potencia</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/10210855/Chip-A9-iPhone-6s.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/10210855/Chip-A9-iPhone-6s.jpg" alt="Chip A9 iPhone 6s" width="1900" height="1195" class="aligncenter size-full wp-image-12007" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/10210855/Chip-A9-iPhone-6s.jpg 1900w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10210855/Chip-A9-iPhone-6s.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10210855/Chip-A9-iPhone-6s.jpg 1024w" sizes="(max-width: 1900px) 100vw, 1900px" /></a></p>
+<p><strong>Los nuevos iPhone 6s cuentan con un chip A9 de 64 bits</strong> que supone una mejora del 70% en la velocidad de la CPU y de un 90% en la de la GPU. El procesador M9 también ha sido mejorado para ser más preciso a la hora de calcular la actividad física que realizamos.</p>
+<p>Las antenas Wi-Fi ahora soportan velocidades de hasta 866 Mb/s y el LTE es compatible hasta con 23 bandas con una velocidad de hasta 300 Mb/s.</p>
+<p><strong>Touch ID se renueva a la segunda generación siendo más rápido y preciso que el modelo anterior.</strong></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/10211254/Taptic-Engine-iPhone-6s.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/10211254/Taptic-Engine-iPhone-6s.jpg" alt="Taptic Engine iPhone 6s" width="2560" height="1440" class="aligncenter size-full wp-image-12008" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/10211254/Taptic-Engine-iPhone-6s.jpg 2560w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10211254/Taptic-Engine-iPhone-6s.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10211254/Taptic-Engine-iPhone-6s.jpg 1024w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p>Por primera vez en un dispositivo iOS, <strong>el iPhone 6s incluye el modulo Taptic Engine</strong> que se encarga de comunicarse con nosotros con leves vibraciones como ya lo hace en el <a href="www.macsfera.com/tag/apple-watch" title="Apple Watch" target="_blank" rel="noopener noreferrer">Apple Watch</a> y en los <a href="www.macsfera.com/tag/force-touch/" title="Force Touch" target="_blank" rel="noopener noreferrer">trackpads Force Touch</a>. Esto viene dado porque hay una nueva tecnología de comunicación llamada <strong>3D Touch</strong> de la que os hablaré después.</p>
+<h2>Cámaras</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/10211611/Camara-iPhone-6s.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/10211611/Camara-iPhone-6s.jpg" alt="Camara iPhone 6s" width="1966" height="1160" class="aligncenter size-full wp-image-12009" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/10211611/Camara-iPhone-6s.jpg 1966w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10211611/Camara-iPhone-6s.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10211611/Camara-iPhone-6s.jpg 1024w" sizes="(max-width: 1966px) 100vw, 1966px" /></a></p>
+<p>Apple lleva años haciendo que las cámaras de sus teléfonos sean un punto a favor para el usuario, <strong>y el iPhone 6s no se iba a salvar de la mejora.</strong></p>
+<p><strong>Fotos a 12 megapixeles de resolución</strong> con estabilizador de imagen, HDR automático, apertura de f/2,2 y flash True Tone. <strong>La cámara de vídeo graba en resolución 4K</strong> con estabilizador de imagen en el modelo 6s Plus.</p>
+<p>Con la cámara, <strong>han aprovechado para presentar Live Photos,</strong> un detalle fotográfico muy interesante que personalmente me ha encantado. Live Photo permite capturar 1,5 segundos desde que tomamos la foto, de esa forma podremos ver la foto en sí, y un espacio de tiempo después de capturarla. Se mostrará a lo largo de nuestro carrete, sólo cuando queramos. De por sí veremos una imagen, pero al hacer presión sobre ella empezará la animación</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/10211746/iPhone-6s-grabando-4k.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/10211746/iPhone-6s-grabando-4k.jpg" alt="iPhone 6s grabando 4k" width="1654" height="1110" class="aligncenter size-full wp-image-12010" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/10211746/iPhone-6s-grabando-4k.jpg 1654w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10211746/iPhone-6s-grabando-4k.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10211746/iPhone-6s-grabando-4k.jpg 1024w" sizes="(max-width: 1654px) 100vw, 1654px" /></a></p>
+<p>Lo bueno es que Apple ha hecho una API <strong>para que otros servicios puedan usar esta tecnología con el objetivo de que no se quede encerrada en nuestro iPhone.</strong> No sé si se subirán como GIFs o tendrán un formato especial, pero el resto de dispositivos que se sincronizan con iCloud también deberán adaptarse.</p>
+<p><strong>La cámara delantera ahora tiene 5 MP de resolución y hay una pequeña novedad: tiene flash incorporado.</strong> Bueno, no es un flash como tal, aunque si actúa como flash. Apple ha decidido usar la pantalla Retina para iluminar ese momento en el que queramos hacernos una foto. Gracias al nuevo chip, la pantalla Retina no solo se ilumina, también adecua el color a la mejor situación, como hace el flash True Tone.</p>
+<h2><a name="3d-touch" class="relativo">3D Touch</a></h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/10212447/3D-Touch-iPhone-6s.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/10212447/3D-Touch-iPhone-6s.jpg" alt="3D Touch iPhone 6s" width="2500" height="1632" class="aligncenter size-full wp-image-12011" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/10211927/3D-Touch-iPhone-6s.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10211927/3D-Touch-iPhone-6s.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10211927/3D-Touch-iPhone-6s.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Llegamos al momento más esperado. La cualidad que ha hecho que todos flipemos bastante. <strong>3D Touch, el Force Touch en los dispositivos iOS.</strong></p>
+<p>Cuando conocimos esta tecnología <a href="www.macsfera.com/force-touch-asi-es-el-nuevo-trackpad-de-apple/" title="Force Touch: así es el nuevo trackpad de Apple" target="_blank" rel="noopener noreferrer">de la mano del Mac</a> y del Apple Watch, supimos que en iOS iba a estar, pero yo personalmente no me imaginaba que iba a suponer tanto impacto. Es decir, en el Apple Watch, hasta donde sé, todo lo que se hace con Force Touch se podría hacer dejando pulsado unos segundos, <strong>pero en <a href="www.macsfera.com/nuevo-ios-9/" title="Nuevo iOS 9" target="_blank" rel="noopener noreferrer">iOS 9</a> y en el iPhone 6s han ido más allá cambiando completamente el sistema y la manera en la que interactuamos con él.</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/10212447/3D-Touch-iPhone-6s.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/10212447/3D-Touch-iPhone-6s.jpg" alt="3D Touch iPhone 6s" width="1868" height="1252" class="aligncenter size-full wp-image-12012" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/10212447/3D-Touch-iPhone-6s.jpg 1868w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10212447/3D-Touch-iPhone-6s.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10212447/3D-Touch-iPhone-6s.jpg 1024w" sizes="(max-width: 1868px) 100vw, 1868px" /></a></p>
+<p><strong>Con 3D Touch</strong> <sup class="modern-footnotes-footnote ">1</sup> <strong>vamos a poder hacer cosas que antes no podíamos hacer.</strong> Apple <a href="http://www.apple.com/es/iphone-6s/3d-touch/" target="_blank" rel="noopener noreferrer">ha creado una sección</a> en la que muestra un montón de ejemplos de situaciones en las que funciona esta nueva tecnología.</p>
+<p><strong>Personalmente lo que más me ha gustado ha sido las acciones rápidas.</strong> Cada aplicación tiene un menú en el que poder obtener un listado de opciones rápidas para realizar a golpe de dedo. De ese modo la cámara nos permitirá poner el modo vídeo o cámara lenta, la aplicación de mapas ir a casa o marcar la ubicación y la aplicación de mensajes nos mostrará las conversaciones recientes.</p>
+<p><strong>Es una nueva forma de comunicarnos con el dispositivo, y lo mejor de todo es que cualquier aplicación puede usarlo.</strong> Realmente me ha gustado esta característica, hacía tiempo que no veía un cambio tan significativo en iOS, y me ha chocado muchísimo que lo presenten en una keynote con temática variada y al final.</p>
+<h2><a name="16gb" class="relativo">¡Otra vez no!</a></h2>
+<p>Sí amigos, otra vez sí. <strong>16GB como modelo base en ambos iPhone.</strong> Es increíble que otro año más, y estando en 2015, tengamos un modelo de 700€ que sólo tenga 16GB de capacidad. El resto son de 64GB y 128GB.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/10213242/Pantalla-iPhone-6s.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/10213242/Pantalla-iPhone-6s.jpg" alt="Pantalla iPhone 6s" width="2380" height="991" class="aligncenter size-full wp-image-12013" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/10213242/Pantalla-iPhone-6s.jpg 2380w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10213242/Pantalla-iPhone-6s.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/10213242/Pantalla-iPhone-6s.jpg 1024w" sizes="(max-width: 2380px) 100vw, 2380px" /></a></p>
+<p>Me gusta, me gusta lo presentado. Ya digo, hacía tiempo que no veía un cambio en las funciones de iOS tan radical como el de 3D Touch.</p>
+<p><strong>Ambos terminales estarán disponibles para reserva el 12 de septiembre y el 25 saldrán a la venta.</strong> Aunque no en España ni México. No será hasta la segunda oleada cuando realmente esto ocurra, aunque se desconoce la fecha.</p>
+<p>Los precios tampoco se conocen, aunque todo apunta a una subida de precios generalizada en Europa.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/es/iphone-6s/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;No entiendo porqué no se llama Force Touch</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iphone-6s-y-6s-plus/">Nuevo iPhone 6s y 6s Plus</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

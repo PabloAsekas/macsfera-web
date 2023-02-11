@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Swift Playgrounds &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/swift-playgrounds/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:28:38 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Cursos gratuitos de Hora del código del 5 al 11 de diciembre en las Apple Store</title>
+		<link>https://www.MacSfera.com/cursos-gratuitos-hora-del-codigo-del-5-al-11-diciembre-las-apple-store/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 21 Nov 2016 15:49:16 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Angela Ahrendts]]></category>
+		<category><![CDATA[Apple Store Física]]></category>
+		<category><![CDATA[Craig Federighi]]></category>
+		<category><![CDATA[Hora del código]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Swift Playgrounds]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15897</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/cursos-gratuitos-hora-del-codigo-del-5-al-11-diciembre-las-apple-store/">Cursos gratuitos de Hora del código del 5 al 11 de diciembre en las Apple Store</a></p>
+<p>Apple ha anunciado que va a realizar cursos gratuitos sobre programación para niños del 5 al 11 de diciembre en todas las</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/cursos-gratuitos-hora-del-codigo-del-5-al-11-diciembre-las-apple-store/">Cursos gratuitos de Hora del código del 5 al 11 de diciembre en las Apple Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/cursos-gratuitos-hora-del-codigo-del-5-al-11-diciembre-las-apple-store/">Cursos gratuitos de Hora del código del 5 al 11 de diciembre en las Apple Store</a></p>
+<div id="attachment_15902" style="width: 2510px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/21164423/Chico-en-Hora-del-Codigo-Apple.jpg"><img aria-describedby="caption-attachment-15902" src="https://cdn.macsfera.com/wp-content/uploads/2016/11/21164423/Chico-en-Hora-del-Codigo-Apple.jpg" alt="Chico en Hora del Codigo Apple" width="2500" height="1667" class="size-full wp-image-15902" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/21164423/Chico-en-Hora-del-Codigo-Apple.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/11/21164423/Chico-en-Hora-del-Codigo-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/11/21164423/Chico-en-Hora-del-Codigo-Apple.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-15902" class="wp-caption-text">Imagen de <a href="http://www.apple.com/newsroom/2016/11/free-hour-of-code-workshops-december-5-through-11-at-every-apple-store.html" target="_blank" rel="noopener noreferrer">Apple</a></p></div>
+<p><strong>Apple ha anunciado que va a realizar cursos gratuitos sobre programación para niños del 5 al 11 de diciembre en todas las Apple Store,</strong> incluidas las españolas.</p>
+<p>Los cursos, llamados Hora del código, <strong>pretenden promover la programación entre los más pequeños con el apoyo de tutoriales adaptados a su nivel y un equipo técnico que pueda ejecutar ese código.</strong></p>
+<p><span id="more-15897"></span></p>
+<p>Apple ha colaborado junto a Code.org para realizar los cursos y estos van a ser impartidos, entre otros, en la nueva aplicación Swift Playgrounds que se introdujo en <a target="_blank"title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/">iOS 10</a>. Recordemos que Swift Playgrounds es <a target="_blank"href="https://geo.itunes.apple.com/es/app/swift-playgrounds/id908519492?mt=8&amp;at=1010l9LC">una sencilla aplicación</a> por la que los más pequeños pueden aprender los conceptos básicos de la programación y aplicarlos a ejemplos menos conceptuales para aprenderlos con facilidad.</p>
+<p><strong><a target="_blank"title="Angela Ahredts" href="www.macsfera.com/tag/angela-ahrendts">Angela Ahrendts</a>,</strong> Vicepresidenta senior de tiendas en Apple, ha comentado:</p>
+<blockquote>
+<p>Hora del código resalta nuestra visión de las Apple Store como lugares para que la comunidad se reúna, aprenda y se entretenga. Estamos muy orgullosos de introducir la aplicación Swift Playgoruds dentro de los talleres y encantados de trabajar de nuevo codo a codo con Code.org en esta importantísima iniciativa. Hora del código es una de las cosas más destacadas del año para nuestro equipo y las familias que visitan nuestras tiendas.</p>
+</blockquote>
+<p>Por su parte, <strong>Hadi Partovi,</strong> fundador de Code.org, ha dicho:</p>
+<blockquote>
+<p>Desde que empezamos Hora del código en 2013, Apple ha aumentado su participación y ha encontrado formas para introducir a más niños en la informática. La huella global que Apple ofrece a través de sus tiendas y su talentoso equipo ha atraído a cientos de niños, y con la introducción de La hora del código en Swift Playgrounds podemos introducir la programación mucho más.</p>
+</blockquote>
+<p><strong><a target="_blank"title="Craig Federighi" href="www.macsfera.com/tag/craig-federighi">Craig Federighi</a>,</strong> Vicepresidente senior de ingeniería del software de Apple, ha añadido:</p>
+<blockquote>
+<p>Programar es como cualquier otro lenguaje, cuanto más pronto estés expuesto a él, más exitoso serás. En una Apple Store, en clase o en tu casa con un iPad, Swift Playgrounds nos trae los conceptos de la programación real y confieren a la siguiente generación las cualidades que necesitan para expresar su creatividad.</p>
+</blockquote>
+<div id="attachment_15905" style="width: 2510px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/21164431/Tim-Cook-en-Hora-del-codigo.jpg"><img aria-describedby="caption-attachment-15905" src="https://cdn.macsfera.com/wp-content/uploads/2016/11/21164431/Tim-Cook-en-Hora-del-codigo.jpg" alt="Tim Cook en Hora del codigo" width="2500" height="1667" class="size-full wp-image-15905" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/21164431/Tim-Cook-en-Hora-del-codigo.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/11/21164431/Tim-Cook-en-Hora-del-codigo.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/11/21164431/Tim-Cook-en-Hora-del-codigo.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-15905" class="wp-caption-text">Imagen de <a href="http://www.apple.com/newsroom/2016/11/free-hour-of-code-workshops-december-5-through-11-at-every-apple-store.html" target="_blank" rel="noopener noreferrer">Apple</a></p></div>
+<h2 class="review no">Del 5 al 11 de diciembre</h2>
+<p>De modo que, <strong>entre el 5 y el 11 de diciembre será posible acudir a nuestra Apple Store más cercana y recibir una clase de programación para nuestr@ hij@.</strong> Lo único que hay que hacer es registrarse a una hora que nos convenga y acudir ese día.</p>
+<p>Aquí tenéis <a target="_blank"href="https://concierge.apple.com/workshops/R450/es_ES/">el enlace</a> para la Apple Store de Sol. Para acudir a otra tienda, basta con buscarla en el desplegable de <em>«Cambiar tienda»</em> y reservar a la hora que más nos convenga de las disponibles.</p>
+<p>La iniciativa no es mala, a los niños les viene bien ir metiéndose en este mundillo que va a ir creciendo más y más, por ello, tal y como dice Federighi, <strong>cuanto antes empiecen mejor.</strong></p>
+<div class="galerias medio" data-layout="21" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2016/11/21164425/Certificados-Ninos-en-Hora-del-Codigo-Apple.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2016/11/21164421/Ninos-en-Hora-del-Codigo-Apple.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2016/11/21164428/Chica-en-Hora-del-Codigo-Apple.jpg" title="" alt="" />
+
+</div>
+<p><span class="source">Vía</span> <span class="via"><a href="http://www.apple.com/newsroom/2016/11/free-hour-of-code-workshops-december-5-through-11-at-every-apple-store.html" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/cursos-gratuitos-hora-del-codigo-del-5-al-11-diciembre-las-apple-store/">Cursos gratuitos de Hora del código del 5 al 11 de diciembre en las Apple Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

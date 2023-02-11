@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WWDC 2012 &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/wwdc-2012/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:53:46 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Resumen Keynote 11 de junio de apertura de la WWDC</title>
+		<link>https://www.MacSfera.com/resumen-keynote-11-de-junio-de-apertura-de-la-wwdc/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 12 Jun 2012 15:48:49 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Craig Federighi]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 6]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[Nuevo MacBook Pro]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Pantalla Retina]]></category>
+		<category><![CDATA[Phil Schiller]]></category>
+		<category><![CDATA[Retina Display]]></category>
+		<category><![CDATA[Scott Forstall]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC 2012]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6812</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-11-de-junio-de-apertura-de-la-wwdc/">Resumen Keynote 11 de junio de apertura de la WWDC</a></p>
+<p>La keynote del 11 de junio de apertura de la WWDC ya ha pasado y aquí, como siempre, os traemos el resumen</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-11-de-junio-de-apertura-de-la-wwdc/">Resumen Keynote 11 de junio de apertura de la WWDC</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-11-de-junio-de-apertura-de-la-wwdc/">Resumen Keynote 11 de junio de apertura de la WWDC</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Keynote-de-Apple-WWDC.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Keynote-de-Apple-WWDC.png" alt="Keynote de Apple WWDC" title="Keynote de Apple WWDC" width="550" height="364" class="aligncenter size-full" /></a></p>
+<p>La <strong><a href="www.macsfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/" title="Keynote de la WWDC el lunes 11 de junio" target="_blank" rel="noopener noreferrer">keynote del 11 de junio de apertura de la WWDC</a></strong> ya ha pasado y aquí, como siempre, os traemos el resumen de todas las novedades presentadas.</p>
+<p><span id="more-6812"></span></p>
+<p>El evento empezón con <strong>Siri contando algunos chistes</strong> (bastante graciosos a mi parecer) y seguidamente apareció <strong><a href="www.macsfera.com/tag/tim-cook" title="Tim Cook" target="_blank" rel="noopener noreferrer">Tim Cook</a></strong> el cual planteó la semana de talleres y charlas de la <strong>WWDC</strong>.. El primer tema que trató, como es habitual, fueron las cifras de la empresa, en este caso de la <strong>App Store</strong>.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/La-App-Store-en-32-países-más.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/La-App-Store-en-32-países-más.jpg" alt="La App Store en 32 países más" title="La App Store en 32 países más" width="550" height="364" class="aligncenter size-full" /></a></p>
+<p><strong>La App Store tiene más de 400 millones de cuentas con un método de pago,</strong> más de 650.000 aplicaciones y 225.000 hechas para el iPad, se han superado los 30 billones de descargas y se han entregado más de 5 mil millones de dólares a los desarrolladores. Como buena novedad destaca la <strong>adición de la tienda a 32 nuevos países</strong> (los que están en azul clarito son los que faltan).</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/MacBook-Air-MacBook-Pro-y-MacBook-Pro-Pantalla-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/MacBook-Air-MacBook-Pro-y-MacBook-Pro-Pantalla-Retina.jpg" alt="MacBook Air, MacBook Pro y MacBook Pro Pantalla Retina" title="MacBook Air, MacBook Pro y MacBook Pro Pantalla Retina" width="550" height="364" class="aligncenter size-full" /></a></p>
+<p>Tras agradecer un montón a los desarrolladores su trabajo, <strong>Cook</strong> invitó a <strong>Phil Schiller</strong> a que saliese. Phil fue al grano y presentó la <strong><a href="www.macsfera.com/nuevos-macbook-air-y-macbook-pro-con-procesadores-ivy-bridge/" title="Nuevos MacBook Air y MacBook Pro con procesadores Ivy Bridge" target="_blank" rel="noopener noreferrer">actualización de los MacBook Air y MacBook Pro</a></strong> e introdujo el <strong><a href="www.macsfera.com/apple-introduce-la-nueva-generacion-de-los-macbook-pro/" title="Apple introduce la nueva generación de los MacBook Pro" target="_blank" rel="noopener noreferrer">nuevo MacBook Pro con pantalla retina</a></strong>.</p>
+<p>Tras esta novedad, <strong>Schiller invitó a Craig Federighi al escenario para hablar de las novedades de OS X Mountain Lion</strong> que <a href="www.macsfera.com/os-x-10-8-mountain-lion-nuevo-sistema-operativo-para-mac/" title="OS X 10.8 Mountain Lion: nuevo sistema operativo para Mac" target="_blank" rel="noopener noreferrer">ya anunciaron en febrero</a> y ya de paso incluir algunas otras características como integración con Facebook o la nueva aplicación <strong>Power Nap</strong> que actualiza nuestro email, contactos, calendario, sistema, etc, cuando está suspendido. <strong><a href="www.macsfera.com/os-x-mountain-lion-disponible-en-julio-por-1999-dolares/" title="OS X Mountain Lion disponible en Julio por 19,99 dólares" target="_blank" rel="noopener noreferrer">Mountain Lion se venderá por 15,99 euros en el mes de julio</a></strong>.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Características-iOS-6.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Características-iOS-6.jpg" alt="Características iOS 6" title="Características iOS 6" width="550" height="364" class="aligncenter size-full" /></a></p>
+<p>Después de hablar de los <strong>Mac</strong> le tocaba el turno a <strong>iOS</strong> presentado por <strong>Scott Forstall</strong>, no se introdujo ningún dispositivo nuevo pero si <strong>se habló de iOS 6 y todas las mejoras que integraría</strong> como una nueva aplicación de mapas, <strong>Siri en español y con nuevas temáticas,</strong> integración con Facebook, nuevo concepto de Fotos en streaming, Passbook (aplicación que ayuda a llevar nuestras «tarjetas» en el iPhone).</p>
+<p>También se permite FaceTime sobre 3G, nuevas características en la aplicación de móvil, posibilidad de insertar fotos y vídeos en Mail, un nuevo Safari más rápido y con sincronización de pestañas con otros dispositivos y por último <strong>más accesibilidad para facilitar el trabajo a los discapacitados.</strong></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Tim-Cook-despidiendo-la-Keynote-del-11-de-junio-WWDC.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Tim-Cook-despidiendo-la-Keynote-del-11-de-junio-WWDC.jpg" alt="Tim Cook despidiendo la Keynote del 11 de junio WWDC" title="Tim Cook despidiendo la Keynote del 11 de junio WWDC" width="550" height="364" class="aligncenter size-full" /></a></p>
+<p>En general <strong>una keynote cargada de novedades en una amplia gama de los dispositivos y servicios de la empresa.</strong> Para obtener más información acerca de los productos de los <strong>Mac</strong> podéis seguir los enlaces adjuntos y para obtener toda la información de las novedades de iOS podéis ver un enlace a la web de <strong>Apple</strong> más abajo.</p>
+<p>Más info iOS | <a href="http://www.apple.com/es/ios/ios6/" target="_blank" rel="noopener noreferrer">Apple</a><br />
+Imágenes | <a href="http://live.theverge.com/wwdc-2012-live-blog/" target="_blank" rel="noopener noreferrer">TheVerge</a> </p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-11-de-junio-de-apertura-de-la-wwdc/">Resumen Keynote 11 de junio de apertura de la WWDC</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WWDC Alerts: Recibe una notificación cuando Apple empiece a vender las entradas del evento</title>
+		<link>https://www.MacSfera.com/wwdc-alerts-recibe-una-notificacion-cuando-apple-empiece-a-vender-las-entradas-del-evento/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 07 Jan 2012 16:21:33 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Entradas]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC 2012]]></category>
+		<category><![CDATA[WWDC Alerts]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6112</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/wwdc-alerts-recibe-una-notificacion-cuando-apple-empiece-a-vender-las-entradas-del-evento/">WWDC Alerts: Recibe una notificación cuando Apple empiece a vender las entradas del evento</a></p>
+<p>Si eres un de los afortunados desarrolladores que puede ir este año al evento WWDC que celebra Apple, puede que te sirva</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/wwdc-alerts-recibe-una-notificacion-cuando-apple-empiece-a-vender-las-entradas-del-evento/">WWDC Alerts: Recibe una notificación cuando Apple empiece a vender las entradas del evento</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/wwdc-alerts-recibe-una-notificacion-cuando-apple-empiece-a-vender-las-entradas-del-evento/">WWDC Alerts: Recibe una notificación cuando Apple empiece a vender las entradas del evento</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2012/01/WWDC-Alerts.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2012/01/WWDC-Alerts.png" alt="" title="WWDC Alerts" width="550" height="363" class="aligncenter size-full wp-image-6113" srcset="https://www.MacSfera.com/wp-content/uploads/2012/01/WWDC-Alerts.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/01/WWDC-Alerts-300x198.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Si eres un de los afortunados desarrolladores que puede ir este año al evento <strong><a href="www.macsfera.com/tag/wwdc" title="WWDC" target="_blank" rel="noopener noreferrer">WWDC</a></strong> que celebra <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong>, puede que te sirva esta web llamada <strong>WWDC Alerts</strong>.</p>
+<p><span id="more-6112"></span></p>
+<p>Esta página <strong>se encargará de notificarte vía SMS cuando Apple pone a la venta las entradas del evento</strong> y teniendo en cuenta que el año pasado tardaron unas 10 horas en venderse todas, no estaría demás saber cuando empieza el comercio.</p>
+<p>Para recibir el aviso <strong>debemos meter nuestro número de teléfono móvil con el código internacional,</strong> a continuación recibiremos un SMS con un código de activación y al confirmar nuestro número <strong>estaremos apuntados para el aviso.</strong></p>
+<p>Su política de privacidad es clara:</p>
+<ul>
+<li>No vamos a reenviar tus datos a nadie, jamás de los jamases Amén.</li>
+<li>Solo contactaremos contigo para hacerte saber que los tickets están a la venta.</li>
+<li>Ni si quiera queremos saber tu nombre.</li>
+</ul>
+<p>Me parece una buena iniciativa para <strong>aquellas personas que no estén tan atentas a los medios sociales o les pueda coger trabajando</strong> ya que <strong>Apple</strong> nunca avisa cuando se pondrán a la venta las entradas.</p>
+<p>Vía | <a href="http://thenextweb.com/apple/2012/01/03/wwdc-alerts-ensures-that-you-know-the-minute-apple-puts-2012-tickets-on-sale/" target="_blank" rel="noopener noreferrer">TheNextWeb</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/wwdc-alerts-recibe-una-notificacion-cuando-apple-empiece-a-vender-las-entradas-del-evento/">WWDC Alerts: Recibe una notificación cuando Apple empiece a vender las entradas del evento</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

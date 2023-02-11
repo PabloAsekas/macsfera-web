@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apple HealthKit &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/apple-healthkit/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:20:08 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Un regalo para cada Pebbler: Introduciendo Pebble Health y el Firmware 3.8</title>
+		<link>https://www.MacSfera.com/regalo-pebbler-introduciendo-pebble-health-firmware-3-8/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2015 09:23:30 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Apple HealthKit]]></category>
+		<category><![CDATA[Pebble]]></category>
+		<category><![CDATA[Pebble Classic]]></category>
+		<category><![CDATA[Pebble Health]]></category>
+		<category><![CDATA[Pebble Time]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12673</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/regalo-pebbler-introduciendo-pebble-health-firmware-3-8/">Un regalo para cada Pebbler: Introduciendo Pebble Health y el Firmware 3.8</a></p>
+<p>Pebble ha anunciado recientemente que ha introducido Pebble Health y su nueva versión compatible con el Pebble Classic. Pebble Health traquea tu</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/regalo-pebbler-introduciendo-pebble-health-firmware-3-8/">Un regalo para cada Pebbler: Introduciendo Pebble Health y el Firmware 3.8</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/regalo-pebbler-introduciendo-pebble-health-firmware-3-8/">Un regalo para cada Pebbler: Introduciendo Pebble Health y el Firmware 3.8</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/12/16102035/Pebble-Health.png" rel="attachment wp-att-12675"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/12/16102035/Pebble-Health.png" alt="Pebble Health" width="1280" height="800" class="aligncenter size-full wp-image-12675" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/12/16102035/Pebble-Health.png 1280w, https://cdn.macsfera.com/wp-content/uploads/2015/12/16102035/Pebble-Health.png 300w, https://cdn.macsfera.com/wp-content/uploads/2015/12/16102035/Pebble-Health.png 768w, https://cdn.macsfera.com/wp-content/uploads/2015/12/16102035/Pebble-Health.png 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p>Pebble <a href="https://blog.getpebble.com/2015/12/15/health/" target="_blank" rel="noopener noreferrer">ha anunciado recientemente</a> que <strong>ha introducido Pebble Health y su nueva versión compatible con el Pebble Classic.</strong></p>
+<blockquote class="enlace">
+<p>Pebble Health traquea tu actividad diaria y automáticamente detecta tus fases de sueño.</p>
+</blockquote>
+<blockquote class="enlace">
+<p>Estamos muy contentos de anunciar que timeline, aplicaciones ilimitadas y más son ahora compatibles con el Pebble Classic con el lanzamiento de la versión 3.8 del firmware.</p>
+</blockquote>
+<p>Personalmente me viene de perlas que el nuevo sistema esté disponible para <a title="Pebble Classic" href="http://www.mylaif.es/post/118863403825/gracias-a-isabelgines-por-dejarme-su-pebble-para" target="_blank" rel="noopener noreferrer">el Pebble Classic</a>, llevo esperándolo desde que lo anunciaron. En cuanto a Pebble Health, no tengo un Pebble Time (a pesar de que <a title="Pebble Time" href="http://www.mylaif.es/post/111988924215/pebble-time" target="_blank" rel="noopener noreferrer">he pensando varias veces en comprarlo</a> –y sigo pensándolo), pero será interesante ver la implementación que tiene con Apple HealthKit y la precisión que tiene.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/regalo-pebbler-introduciendo-pebble-health-firmware-3-8/">Un regalo para cada Pebbler: Introduciendo Pebble Health y el Firmware 3.8</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

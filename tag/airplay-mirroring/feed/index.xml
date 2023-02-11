@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AirPlay Mirroring &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/airplay-mirroring/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:50 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Modelos compatibles y características mínimas para actualizar a Mountain Lion</title>
+		<link>https://www.MacSfera.com/modelos-compatibles-y-caracteristicas-minimas-para-actualizar-a-mountain-lion/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 13 Jul 2012 12:37:32 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[AirDrop]]></category>
+		<category><![CDATA[AirPlay Mirroring]]></category>
+		<category><![CDATA[Características mínimas]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Mac Mini]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Modelos compatibles]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Power Nap]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6977</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/modelos-compatibles-y-caracteristicas-minimas-para-actualizar-a-mountain-lion/">Modelos compatibles y características mínimas para actualizar a Mountain Lion</a></p>
+<p>El lanzamiento oficial de OS X Mountain Lion está cada vez más cerca y Apple ha publicado en su web los modelos</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/modelos-compatibles-y-caracteristicas-minimas-para-actualizar-a-mountain-lion/">Modelos compatibles y características mínimas para actualizar a Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/modelos-compatibles-y-caracteristicas-minimas-para-actualizar-a-mountain-lion/">Modelos compatibles y características mínimas para actualizar a Mountain Lion</a></p>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/15163026/OS-X-Mountain-Lion.jpg" rel="attachment wp-att-13810"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/15163026/OS-X-Mountain-Lion.jpg" alt="OS X Mountain Lion" width="580" height="335" class="aligncenter size-full wp-image-13810" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/15163026/OS-X-Mountain-Lion.jpg 580w, https://cdn.macsfera.com/wp-content/uploads/2016/03/15163026/OS-X-Mountain-Lion.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" /></a></p>
+<p>El lanzamiento oficial de <strong><a href="www.macsfera.com/tag/os-x-mountain-lion" title="OS X Mountain Lion" target="_blank" rel="noopener noreferrer">OS X Mountain Lion</a></strong> está cada vez más cerca y <strong>Apple ha publicado en su web los modelos compatibles y las especificaciones técnicas para actualizar.</strong></p>
+<p><span id="more-6977"></span></p>
+<p>Empecemos con los modelos:</p>
+<ul>
+<li><strong>iMac</strong> desde mediados de 2007 en adelante.</li>
+<li><strong>MacBook</strong> desde finales de 2008 de aluminio o de principios de 2009 en adelante.</li>
+<li><strong>MacBook Pro</strong> desde mediados o finales de 2007 en adelante.</li>
+<li><strong>Xserve</strong> desde principios de 2009.</li>
+<li><strong>MacBook Air</strong> desde finales de 2008 en adelante.</li>
+<li><strong>Mac Mini</strong> desde principios de 2009 en adelante.</li>
+<li><strong>Mac Pro</strong> desde principios de 2007 en adelante.</li>
+</ul>
+<p>Todos los modelos que no estén en esa lista no podrán actualizarse al nuevo sistema operativo. Vamos ahora con las especificaciones técnicas mínimas de los ordenadores para realizar la actualización:</p>
+<ul>
+<li>Debe tener al menos <strong>OS X 10.6.8</strong> para poder actualizarlo.</li>
+<li><strong>2GB de RAM</strong> al menos.</li>
+<li><strong>8GB de espacio en disco</strong> al menos.</li>
+<li>Un <strong><a href="www.macsfera.com/tag/id-de-apple" title="ID de Apple" target="_blank" rel="noopener noreferrer">ID de Apple</a></strong>.</li>
+<li>Conexión a Internet.</li>
+</ul>
+<p>En cuanto a algunas cualidades dentro de <strong>OS X Mountain Lion</strong> se han restringido a ciertos modelos compatibles con el modelo en general. Los siguientes modelos son los que los soportan:</p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Dock-de-OS-X-Mountain-Lion.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Dock-de-OS-X-Mountain-Lion.jpg" alt="Dock de OS X Mountain Lion" title="Dock de OS X Mountain Lion" width="550" height="113" class="aligncenter size-full wp-image-6985" srcset="https://www.MacSfera.com/wp-content/uploads/2012/07/Dock-de-OS-X-Mountain-Lion.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/07/Dock-de-OS-X-Mountain-Lion-300x62.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<ul>
+<li><strong>AirDrop</strong>:
+<ul>
+<li><strong>MacBook Pro</strong> desde finales de 2008 en adelante.</li>
+<li><strong>MacBook Air</strong> desde finales de 2010 en adelante.</li>
+<li><strong>MacBook</strong> desde finales de 2008 en adelante.</li>
+<li><strong>iMac</strong> desde principios de 2009 en adelante.</li>
+<li><strong>Mac Mini</strong> desde mediados de 2010 en adelante.</li>
+<li><strong>Mac Pro</strong> desde principios de 2009 con un <strong>AirPort Extreme</strong> o de mediados de 2010.</li>
+</ul>
+</li>
+<li><strong>AirPlay Mirroring</strong> (requiere mínimo un <strong>Apple TV de segunda generación</strong>):
+<ul>
+<li><strong>iMac</strong> de mediados de 2011 en adelante.</li>
+<li><strong>Mac Mini</strong> de mediados de 2011 en adelante.</li>
+<li><strong>MacBook Air</strong> de mediados de 2011 en adelante.</li>
+<li><strong>MacBook Pro</strong> de principios de 2011 en adelante.</li>
+</ul>
+</li>
+<li><strong>Power Nap</strong>:
+<ul>
+<li><strong>MacBook Air</strong> de finales de 2010 en adelante.</li>
+<li><strong>MacBook Pro con pantalla Retina</strong>.</li>
+</ul>
+</li>
+</ul>
+<p>Por supuesto las aplicaciones que requieran de cámara o micrófono habrá que tenerlo (ya sea integrado o de forma externa) para poder disfrutar de ellas. Por si tenéis dudas sobre que modelo es vuestro equipo basta con <strong>ir al símbolo de la manzana, acceder a Acerca de este Mac y luego en Más información&#8230;</strong></p>
+<p>Sabiendo ya las compatibilidades solo nos queda esperar a que se lance al público la versión definitiva y así por lo menos <strong>ya sabremos lo que nuestro modelo puede hacer o no puede hacer.</strong></p>
+<p>Más info e imágenes | <a href="http://www.apple.com/osx/specs/" target="_blank" rel="noopener noreferrer">Apple</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/modelos-compatibles-y-caracteristicas-minimas-para-actualizar-a-mountain-lion/">Modelos compatibles y características mínimas para actualizar a Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La versión Golden Master de OS X Mountain Lion ya está disponible</title>
+		<link>https://www.MacSfera.com/la-version-golden-master-de-os-x-mountain-lion-ya-esta-disponible/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 10 Jul 2012 10:57:42 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[AirPlay Mirroring]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Centro de Notificaciones]]></category>
+		<category><![CDATA[Game Center]]></category>
+		<category><![CDATA[Gatekeeper]]></category>
+		<category><![CDATA[Golden Master]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[iMessage]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[Notas]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Recordatorios]]></category>
+		<category><![CDATA[Share Sheets]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6959</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-version-golden-master-de-os-x-mountain-lion-ya-esta-disponible/">La versión Golden Master de OS X Mountain Lion ya está disponible</a></p>
+<p>Apple ha publicado la última versión beta de OS X Mountain Lion, la Golden Master. Esta versión es especial por un motivo,</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-version-golden-master-de-os-x-mountain-lion-ya-esta-disponible/">La versión Golden Master de OS X Mountain Lion ya está disponible</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-version-golden-master-de-os-x-mountain-lion-ya-esta-disponible/">La versión Golden Master de OS X Mountain Lion ya está disponible</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/03/OS-X-Mountain-Lion.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/03/OS-X-Mountain-Lion.jpg" alt="OS X Mountain Lion" title="OS X Mountain Lion" width="550" height="322" class="aligncenter size-full wp-image-6520" srcset="https://www.MacSfera.com/wp-content/uploads/2012/03/OS-X-Mountain-Lion.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/03/OS-X-Mountain-Lion-300x176.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Apple</strong> ha publicado la última versión beta de <strong><a href="www.macsfera.com/tag/os-x-mountain-lion" title="OS X Mountain Lion" target="_blank" rel="noopener noreferrer">OS X Mountain Lion</a></strong>, la Golden Master.</p>
+<p><span id="more-6959"></span></p>
+<p>Esta versión es especial por un motivo, <strong>significa que la versión definitiva y disponible al público de Mountain Lion está mucho más cerca</strong> puesto que la Golden Master es la que pretende ser la última versión de prueba.</p>
+<p>Recordemos algunas de las <strong><a href="www.macsfera.com/os-x-mountain-lion-inspirado-en-el-ipad-re-imaginado-para-el-mac/" title="OS X Mountain Lion: Inspirado en el iPad. Re-imaginado para el Mac" target="_blank" rel="noopener noreferrer">novedades más destacadas</a></strong> de este nuevo sistema operativo: Mejor sincronización con <strong>iCloud</strong>, aplicación nativa de <strong>Mensajes</strong>, <strong>Recordatorios</strong> y <strong>Notas</strong>, centro de Notificaciones, <strong>Share Sheets</strong>, integración con Twitter, Game Center, AirPlay Mirroring y el sistema de seguridad <strong>GateKeeper</strong>.</p>
+<p>Además de esas características, <strong>Apple</strong> mostró otras nuevas funciones en la <strong><a href="www.macsfera.com/resumen-keynote-11-de-junio-de-apertura-de-la-wwdc/" title="Resumen Keynote 11 de junio de apertura de la WWDC" target="_blank" rel="noopener noreferrer">última keynote</a></strong> como es la nueva función de <strong>Dictado</strong>, <strong>Power Nap</strong> y las nuevas características de <strong>Safari</strong>.</p>
+<p>La versión final será lanzada a través de la <strong>Mac App Store</strong> y por <strong><a href="www.macsfera.com/os-x-mountain-lion-disponible-en-julio-por-1999-dolares/" title="OS X Mountain Lion disponible en Julio por 19,99 dólares" target="_blank" rel="noopener noreferrer">un precio de 15,99€</a></strong>, unos 9€ más barato que la versión actual aunque todavía se desconoce la fecha de lanzamiento pero <strong>está prevista para este mes.</strong></p>
+<p>Vía | <a href="http://www.macrumors.com/2012/07/09/apple-seeds-golden-master-of-os-x-mountain-lion-to-developers/" target="_blank" rel="noopener noreferrer">MacRumors</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-version-golden-master-de-os-x-mountain-lion-ya-esta-disponible/">La versión Golden Master de OS X Mountain Lion ya está disponible</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Curiosidades y novedades de OS X Mountain Lion</title>
+		<link>https://www.MacSfera.com/curiosidades-y-novedades-de-os-x-mountain-lion/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2012 18:41:15 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[AirPlay Mirroring]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Calendario]]></category>
+		<category><![CDATA[Centro de Notificaciones]]></category>
+		<category><![CDATA[Contactos]]></category>
+		<category><![CDATA[iCal]]></category>
+		<category><![CDATA[iChat]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[iMessage]]></category>
+		<category><![CDATA[Intel Core i5]]></category>
+		<category><![CDATA[Intel Core i7]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Mac Mini Server]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[Notas]]></category>
+		<category><![CDATA[Novedades]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Recordatorios]]></category>
+		<category><![CDATA[Vídeo Oficial]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6390</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/curiosidades-y-novedades-de-os-x-mountain-lion/">Curiosidades y novedades de OS X Mountain Lion</a></p>
+<p>Con la reciente salida de OS X Mountain Lion y su versión beta para desarrolladores hemos podido descubrir muchas curiosidades y novedades</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/curiosidades-y-novedades-de-os-x-mountain-lion/">Curiosidades y novedades de OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/curiosidades-y-novedades-de-os-x-mountain-lion/">Curiosidades y novedades de OS X Mountain Lion</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/Mountain-Lion.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/Mountain-Lion.jpg" alt="" title="Mountain Lion" width="550" height="378" class="aligncenter size-full wp-image-6412" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/Mountain-Lion.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/Mountain-Lion-300x206.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Con la reciente salida de <strong><a href="www.macsfera.com/tag/os-x-mountain-lion" title="OS X Mountain Lion" target="_blank" rel="noopener noreferrer">OS X Mountain Lion</a></strong> y su versión beta para desarrolladores <strong>hemos podido descubrir muchas curiosidades y novedades que trae el nuevo sistema operativo.</strong> En este post vamos a intentar destacar las más notables y las que nos pueden afectar.</p>
+<p><span id="more-6390"></span></p>
+<p>La primera cosa más destacable es la «<strong>iOSificación</strong>» que va sufriendo el sistema, fuimos viendo un poco este proceso con <strong>Lion</strong>, pero <strong>ahora se hace mucho más notable</strong> con novedades como el <strong>Centro de Notificaciones o las aplicaciones Notas y Recordatorios.</strong></p>
+<p>Dentro estos cambios, las aplicaciones <strong>iCal y Agenda varian su nombre y se llamarán Calendario y Contactos</strong> como en los dispositivos portátiles, además, iChat desaparece para dar paso a la aplicación <strong>Mensajes que nos permita interactuar con iMessages de iOS.</strong> Por supuesto seguirá siendo compatible con AIM, Yahoo!, Jabber y Google Talk.</p>
+<p>Hasta ahora las actualizaciones de sistema se realizaban desde el menú , pero en <strong>Mountain Lion se harán desde la <a href="www.macsfera.com/tag/mac-app-store" title="Mac App Store" target="_blank" rel="noopener noreferrer">Mac App Store</a>,</strong> da igual que sea una actualización grande o pequeña, todas se harán desde allí.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/No-AirPlay-Mirroring-para-todos-los-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/No-AirPlay-Mirroring-para-todos-los-Mac.jpg" alt="" title="No AirPlay Mirroring para todos los Mac" width="550" height="413" class="aligncenter size-full wp-image-6413" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/No-AirPlay-Mirroring-para-todos-los-Mac.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/No-AirPlay-Mirroring-para-todos-los-Mac-300x225.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Se ha descubierto recientemente que tal vez <strong>no todos los ordenadores que soporten</strong> <strong>Mountain Lion</strong> <strong>puedan soportar <a href="www.macsfera.com/tag/airplay-mirroring/" title="AirPlay Mirroring" target="_blank" rel="noopener noreferrer">AirPlay Mirroring</a>,</strong> recordemos que el sistema incluiría esta nueva característica tan jugosa. De momento se piensa en la posibilidad de que solo lo soporte los <strong>chip i5 e i7.</strong></p>
+<p>Por desgracia, con esta nueva actualización, <strong>Apple</strong> ha dejado obsoletos algunos <strong>Mac</strong>, estos son los que tengan una tarjeta gráfica lenta que pueda dificultar el correcto funcionamiento del sistema. En especial todos los modelos inferiores a los <strong>iMac de mediados de 2007, Mac Pro de principios de 2008, Mac Mini Xserve de principios de 2009, los MacBook basados en Intel Core 2 Duo y el MacBook Air original de 2008.</strong></p>
+<p>Por último os queremos dejar el vídeo oficial de <strong>Apple</strong> en el que presentan las novedades más destacadas del sistema.</p>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/DoR08T26IPU" frameborder="0" allowfullscreen></iframe></p>
+<p>Vía | <a href="http://9to5mac.com/2012/02/17/os-x-mountain-lions-airplay-mirroritly-not-supported-on-all-macs/?utm_source=feedburner&#038;utm_medium=twitter&#038;utm_campaign=Feed%3A+9To5Mac-MacAllDay+(9+to+5+Mac+-+Apple+Intelligence)" target="_blank" rel="noopener noreferrer">9To5Mac</a> | <a href="http://9to5mac.com/2012/02/16/did-your-mac-make-the-mountain-lion-obsolescence-list/" target="_blank" rel="noopener noreferrer">9To5Mac</a> | <a href="http://9to5mac.com/2012/02/16/heres-a-list-of-things-that-mountain-lion-killed-today/" target="_blank" rel="noopener noreferrer">9To5Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/curiosidades-y-novedades-de-os-x-mountain-lion/">Curiosidades y novedades de OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OS X Mountain Lion: Inspirado en el iPad. Re-imaginado para el Mac</title>
+		<link>https://www.MacSfera.com/os-x-mountain-lion-inspirado-en-el-ipad-re-imaginado-para-el-mac/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 16 Feb 2012 17:09:26 +0000</pubDate>
+				<category><![CDATA[iPad]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[AirPlay Mirroring]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Características]]></category>
+		<category><![CDATA[Centro de Notificaciones]]></category>
+		<category><![CDATA[Game Center]]></category>
+		<category><![CDATA[Gatekeeper]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[iMessage]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[Notas]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Share Sheets]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6379</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-mountain-lion-inspirado-en-el-ipad-re-imaginado-para-el-mac/">OS X Mountain Lion: Inspirado en el iPad. Re-imaginado para el Mac</a></p>
+<p>Apple ha dado hace escasas horas una nota de prensa en la que anunciaba la presentación de un nuevo sistema operativo para</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-mountain-lion-inspirado-en-el-ipad-re-imaginado-para-el-mac/">OS X Mountain Lion: Inspirado en el iPad. Re-imaginado para el Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-mountain-lion-inspirado-en-el-ipad-re-imaginado-para-el-mac/">OS X Mountain Lion: Inspirado en el iPad. Re-imaginado para el Mac</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/Características-Mountain-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/Características-Mountain-Lion.png" alt="" title="Características Mountain Lion" width="550" height="352" class="aligncenter size-full wp-image-6380" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/Características-Mountain-Lion.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/Características-Mountain-Lion-300x192.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Apple</strong> ha dado hace escasas horas una nota de prensa en la que anunciaba la presentación de un <strong><a href="https://www.MacSfera.com/os-x-10-8-mountain-lion-nuevo-sistema-operativo-para-mac/" title="OS X 10.8 Mountain Lion: Nuevo sistema operativo para Mac" target="_blank" rel="noopener noreferrer">nuevo sistema operativo para Mac llamado OS X Mountain Lion</a></strong>. Veamos algunas de sus características.<br />
+<span id="more-6379"></span></p>
+<h2>iCloud</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/iCloud-en-Mountain-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/iCloud-en-Mountain-Lion.png" alt="" title="iCloud en Mountain Lion" width="550" height="344" class="aligncenter size-full wp-image-6381" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/iCloud-en-Mountain-Lion.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/iCloud-en-Mountain-Lion-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a><br />
+Completa integración de <strong>Mountain Lion</strong> con <strong><a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a></strong>. Cuando encendemos nuestro <strong>Mac</strong> por primera vez, insertamos nuestro <strong>ID de Apple</strong> y <strong>iCloud</strong> se encarga de mantener nuestro correo electrónico, calendarios, contactos, documentos y completa sincronización con nuestros dispositivos iOS.</p>
+<h2>Mensajes</h2>
+<p><strong>Mensajes</strong> es la nueva aplicación que sustituye <strong>iChat</strong>. Este cliente está totalmente integrado con iMessage de modo que podemos comunicarnos <strong>de Mac a Mac o de Mac a dispositivo iOS</strong> compartiendo fotos, vídeos, chats multiples y con acceso directo a videollamadas a través de <strong>FaceTime</strong>. <strong>Mensajes</strong> dispone de una beta para todos los usuarios de <strong>Lion</strong> que podemos <a href="http://www.apple.com/macosx/mountain-lion/messages-beta/" target="_blank" rel="noopener noreferrer">descargar</a> desde la web oficial de <strong>Apple</strong>.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/Mensajes-en-Mountain-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/Mensajes-en-Mountain-Lion.png" alt="" title="Mensajes en Mountain Lion" width="550" height="344" class="aligncenter size-full wp-image-6385" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/Mensajes-en-Mountain-Lion.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/Mensajes-en-Mountain-Lion-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<h2>Recordatorios</h2>
+<p>La aplicación <strong>Recordatorios</strong> se adapta al <strong>Mac</strong> como aplicación independiente abandonando <strong>iCal</strong> y obteniendo un mayor espacio. Sigue teniendo la característica de que puede compartirse todo con nuestros dispositivos iOS de modo que podemos editar todo en todos los dispositivos que tengamos.</p>
+<h2>Notas</h2>
+<p><strong>Notas</strong> también se adapta a la pantalla grande como aplicación independiente permitiendo crear y modificar notas agregando imágenes y archivos adjuntos. Esta aplicación se suma a las compatibles con <strong>iCloud</strong> para poder disfrutar de ella en todos nuestros dispositivos.</p>
+<h2>Centro de Notificaciones</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/Centro-de-Notificaciones-en-Mountain-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/Centro-de-Notificaciones-en-Mountain-Lion.png" alt="" title="Centro de Notificaciones en Mountain Lion" width="550" height="344" class="aligncenter size-full wp-image-6382" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/Centro-de-Notificaciones-en-Mountain-Lion.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/Centro-de-Notificaciones-en-Mountain-Lion-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Apple</strong> ha exportado el <strong>Centro de Notificaciones</strong> de iOS a los <strong>Mac</strong> materializándose como una barra que sale en el lateral de la pantalla. Las aplicaciones no nativas de <strong>Mac</strong> podrán utilizar esta nueva función para avisar de lo que sea. Primero sale un mensaje flotante en la esquina superior derecha y luego es cuando se almacena en la barra si no decidimos tocar nada.</p>
+<h2>Share Sheets</h2>
+<p><strong>Share Sheets</strong> es una de las nuevas propiedades que tiene <strong>Mountain Lion</strong> con la que podremos compartir información a golpe de ratón. Podremos compartir contenido, ya sean fotos, vídeos, notas, mensajes, correos, enlaces, etc, entre nuestros amigos, contactos, Twitter u otros sistemas en la web.</p>
+<h2>Twitter</h2>
+<p>Al igual que pasó con iOS 5, todo OS X se verán integrado con <strong>Twitter</strong> de modo que podremos compartir contenido o publicar tweets en la red de una manera más rápida y práctica. Lo mejor de esta característica es que podremos hacerlo todo sin salir de la aplicación en la que estemos navegando en ese momento.</p>
+<h2>Game Center</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/Game-Center-en-Mountain-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/Game-Center-en-Mountain-Lion.png" alt="" title="Game Center en Mountain Lion" width="550" height="344" class="aligncenter size-full wp-image-6383" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/Game-Center-en-Mountain-Lion.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/Game-Center-en-Mountain-Lion-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Game Center</strong> también se extrapola a la versión de escritorio para poder seguir lo que hacen nuestros amigos y poder retarles en juegos multijugador. Para jugar entre plataformas los dos juegos deben estar adaptados, eso hará que todo el catálogo que tiene <strong>Mac</strong> aumente considerablemente.</p>
+<h2>AirPlay Mirroring</h2>
+<p><strong>AirPlay Mirroring</strong> es una propiedad de iOS 5 que permitía enlazar nuestro iPad o iPhone con el <strong>Apple TV</strong> para reproducir la pantalla de este en un televisor. Ahora podemos hacer lo mismo pero con <strong>Mac</strong>, reproducir completamente el escritorio o alguna película sin cables.</p>
+<h2>Gatekeeper</h2>
+<p><strong>Gatekeeper</strong> es una propiedad de <strong><a href="www.macsfera.com/tag/os-x-mountain-lion" title="Mountain Lion" target="_blank" rel="noopener noreferrer">Mountain Lion</a></strong> que aporta mucha más seguridad al <strong>Mac</strong>. Nos ayudará a no descargare instalar software malicioso que pueda poner en peligro nuestro ordenador o sus datos dándonos el poder sobre las aplicaciones que descargamos.</p>
+<h2>Nuevas características para China</h2>
+<p>Si bien esta opción no nos afecta directamente, la comentamos porque es una nueva característica. <strong>Mountain Lion</strong> da soporte a muchos servicios populares chinos con una fácil configuración e integración con el sistema.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/Mountain-Lion-Este-verano.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/Mountain-Lion-Este-verano.jpg" alt="" title="Mountain Lion Este verano" width="550" height="230" class="aligncenter size-full wp-image-6387" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/Mountain-Lion-Este-verano.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/Mountain-Lion-Este-verano-300x125.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Estas son las características más notables que <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> nos ha querido proporcionar a la hora de su presentación al público. Recordemos <strong>Mountain Lion</strong> solo está disponible para desarrolladores. El público podrá disfrutar de él a finales de verano.</p>
+<p>Más info | <a href="http://www.apple.com/macosx/mountain-lion/features.html" target="_blank" rel="noopener noreferrer">Apple</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-mountain-lion-inspirado-en-el-ipad-re-imaginado-para-el-mac/">OS X Mountain Lion: Inspirado en el iPad. Re-imaginado para el Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Adobe Photoshop &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/adobe-photoshop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:23:44 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Fallos en Rosetta tras la actualización de seguridad de Snow Leopard</title>
+		<link>https://www.MacSfera.com/fallos-en-rosetta-tras-la-actualizacion-de-seguridad-de-snow-leopard/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2012 19:23:36 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización de Seguridad]]></category>
+		<category><![CDATA[Adobe Photoshop]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Fallo]]></category>
+		<category><![CDATA[FileMarker 7]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Microsoft Office 2004]]></category>
+		<category><![CDATA[Microsoft Office X]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Snow Leopard]]></category>
+		<category><![CDATA[Power PC]]></category>
+		<category><![CDATA[Quicke]]></category>
+		<category><![CDATA[Rosetta]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6297</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fallos-en-rosetta-tras-la-actualizacion-de-seguridad-de-snow-leopard/">Fallos en Rosetta tras la actualización de seguridad de Snow Leopard</a></p>
+<p>El pasado miércoles, junto con la actualización de OS X Lion, los usuarios de Snow Leopard recibieron una actualización del sistema clasificada</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fallos-en-rosetta-tras-la-actualizacion-de-seguridad-de-snow-leopard/">Fallos en Rosetta tras la actualización de seguridad de Snow Leopard</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fallos-en-rosetta-tras-la-actualizacion-de-seguridad-de-snow-leopard/">Fallos en Rosetta tras la actualización de seguridad de Snow Leopard</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/02/Rosetta.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/02/Rosetta.jpg" alt="" title="Rosetta" width="550" height="214" class="aligncenter size-full wp-image-6298" srcset="https://www.MacSfera.com/wp-content/uploads/2012/02/Rosetta.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/02/Rosetta-300x117.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>El pasado miércoles, junto con la <strong><a href="https://www.MacSfera.com/os-x-lion-10-7-3-disponible-con-solucion-de-errores-safari-5-1-3-y-traduccion-en-catalan/" title="Actualización de OS X Lion a la versión 10.7.3" target="_blank" rel="noopener noreferrer">actualización de OS X Lion</a></strong>, los usuarios de <strong>Snow Leopard</strong> recibieron una actualización del sistema clasificada como Actualización de Seguridad que provoca fallos en la aplicación Rosetta.</p>
+<p><span id="more-6297"></span></p>
+<p>Esta actualización corrige varios errores encontrados en <strong>OS X</strong> sobre la seguridad de este, aunque también <strong>provoca una series de fallos con aquellas aplicaciones Power PC que queramos correr gracias a Rosetta.</strong></p>
+<p>Algunos usuarios <strong>anuncian problemas en la aplicación</strong> incluyendo fallos al intentar utilizar los comandos para ejecutar los menús desplegables. <strong>Se reportan fallos en aplicaciones como Microsoft Office X y 2004, las versiones anteriores de Adobe Photoshop, Quicke, FileMarker 7 y otras aplicaciones.</strong></p>
+<p>Recordemos que <strong>Rosetta</strong> es una aplicación muy compleja y potente diseñada por <strong>Apple</strong> que permitía <strong>ejecutar programas y aplicaciones diseñadas para los modelos de Mac Power PC antes de dar el salto a Intel.</strong> <strong>Apple</strong> decidió no instalar <strong>Rosetta</strong> en <strong>Lion</strong> pero dejó la posibilidad de <strong><a href="www.macsfera.com/tag/snow-leopard" title="Snow Leopard" target="_blank" rel="noopener noreferrer">Snow Leopard</a></strong> y aunque pueda parecer raro sigue siendo muy usado.</p>
+<p>Tal y como se <a href="https://discussions.apple.com/thread/3706348" target="_blank" rel="noopener noreferrer">reportan</a> en los <strong>foros de Apple</strong>, un usuario está trabajando en el problema y <strong>ha conseguido crear un parche que solventa el problema, aunque por desgracia no funciona para todas las aplicaciones compatibles con Rosetta.</strong></p>
+<p>Los usuarios que se han puesto en contacto con el servicio técnico han obtenido distintas respuestas, una de ellas es que no saben cual es el problema, otra es que no hay problema y otra respuesta es que <strong>Rosetta</strong> ha dejado de lado su suporte en <strong>Snow Leopard</strong> pero <strong>esta última se descarta porque es una actualización de seguridad menor.</strong></p>
+<p>Vía | <a href="http://www.macrumors.com/2012/02/03/snow-leopard-security-update-kills-powerpc-apps-using-rosetta/" target="_blank" rel="noopener noreferrer">MacRumors</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fallos-en-rosetta-tras-la-actualizacion-de-seguridad-de-snow-leopard/">Fallos en Rosetta tras la actualización de seguridad de Snow Leopard</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Inkling, dibuja en papel y guardalo en tu Mac vectorizado</title>
+		<link>https://www.MacSfera.com/inkling-dibuja-en-papel-y-guardalo-en-tu-mac-vectorizado/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 02 Sep 2011 11:51:39 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Adobe Illustrator]]></category>
+		<category><![CDATA[Adobe Photoshop]]></category>
+		<category><![CDATA[Autodesk SketchBook Pro]]></category>
+		<category><![CDATA[Imágenes]]></category>
+		<category><![CDATA[Inkling]]></category>
+		<category><![CDATA[SketchBook Designer]]></category>
+		<category><![CDATA[Wacom]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4791</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/inkling-dibuja-en-papel-y-guardalo-en-tu-mac-vectorizado/">Inkling, dibuja en papel y guardalo en tu Mac vectorizado</a></p>
+<p>Inkling es el nuevo accesorio de Wacom con el que podrás crear tus dibujos en un papel normal con un boli y</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/inkling-dibuja-en-papel-y-guardalo-en-tu-mac-vectorizado/">Inkling, dibuja en papel y guardalo en tu Mac vectorizado</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/inkling-dibuja-en-papel-y-guardalo-en-tu-mac-vectorizado/">Inkling, dibuja en papel y guardalo en tu Mac vectorizado</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/Inkling-de-Wacom.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/Inkling-de-Wacom.jpg" alt="" title="Inkling de Wacom" width="550" height="367" class="aligncenter size-full wp-image-4793" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/Inkling-de-Wacom.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/09/Inkling-de-Wacom-300x200.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Inkling</strong> es el nuevo <strong><a href="www.macsfera.com/tag/accesorios" title="Accesorio" target="_blank" rel="noopener noreferrer">accesorio</a></strong> de <strong>Wacom</strong> con el que podrás <strong>crear tus dibujos en un papel normal con un boli y obtener ese mismo dibujo pero en formato virtual</strong> compatible con varias <strong>apps</strong> de tratamiento de fotos y vectores.<br />
+<span id="more-4791"></span><br />
+<strong>Inkling</strong> se compone principalmente de un bolígrafo especial y un receptor, el receptor es el que <strong>capta todos los movimientos</strong> haciendo distinción entre los trazos en los que ejerces más o menos presión.</p>
+<p>Como características especiales tenemos que con el receptor <strong>podemos crear capas de dibujo</strong> y cuando la exportemos al programa adecuado poder editarlas individualmente. En cuanto a lo antes mencionado de la presión de los trazos, hay <strong>1.024 niveles de sensibilidad.</strong> Las <strong><a href="www.macsfera.com/tag/aplicaciones" title="Aplicaciones" target="_blank" rel="noopener noreferrer">aplicaciones</a></strong> con las que está implementadas son <strong>Adobe Photoshop e Illustrator (del CS3 en adelante), Autodesk SketchBook Pro o SketchBook Designer (2011 o superior).</strong> Los formatos compatibles de imagen son <strong>JPG, BMP, TIFF, PNG, SVG o PDF.</strong></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/Inkling-de-Wacom-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/Inkling-de-Wacom-para-Mac.jpg" alt="" title="Inkling de Wacom para Mac" width="550" height="310" class="aligncenter size-full wp-image-4796" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/Inkling-de-Wacom-para-Mac.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/09/Inkling-de-Wacom-para-Mac-300x169.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>El sensor capta los trazos de hasta un papel DIN A4 y gracias a la pinza del receptor puedes engancharlo en distintas posiciones.</p>
+<p>Ambos dispositivos funcionan con batería y se cargan en un estuche. El cartucho del boli se puede acabar, pero <strong>disponen de 4 más por si acaso</strong> (una vez acabado esos tal vez puedas comprar más).El <strong>Inkling</strong> tiene un precio de <strong>169,90 euros.</strong></p>
+<p>Creo que comparado con una tableta digitalizadora o gráfica <strong>es una muy buena solución,</strong> sobre todo a la hora de hacer el dibujo aunque no puedas modificiarle el color en el momento. Si que es verdad que una buena tableta con pantalla es una buena opción, pero frente a las tabletas que solo tienen el panel de sensor y tienes que fijarte en la pantalla del ordenador no. Siempre es más cómodo dibujar en papel que no de forma virtual.</p>
+<p style="center"><iframe width="550" height="355" src="http://www.youtube.com/embed/FQQiklzH5WE" frameborder="0" allowfullscreen></iframe></p>
+<p>Más info | <a href="http://www.wacom.eu/index2.asp?lang=es&#038;pid=9226&#038;gm=4" target="_blank" rel="noopener noreferrer">Wacom</a><br />
+Vídeos de muestra | <a href="http://inkling.wacom.eu/pages/Inkling-es-inkling.html" target="_blank" rel="noopener noreferrer">Wacom</a><br />
+Comra | <a href="http://es.shop.wacom.eu/Inkling" target="_blank" rel="noopener noreferrer">Wacom</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/inkling-dibuja-en-papel-y-guardalo-en-tu-mac-vectorizado/">Inkling, dibuja en papel y guardalo en tu Mac vectorizado</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

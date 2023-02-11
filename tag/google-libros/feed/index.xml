@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Google Libros &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/google-libros/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:24:53 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Google Book Downloader. Descarga los libros que encuentres en Google Libros</title>
+		<link>https://www.MacSfera.com/google-book-downloader-descarga-los-libros-que-encuentres-en-google-libros/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 25 Mar 2011 13:20:39 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Google Book Downloader]]></category>
+		<category><![CDATA[Google Libros]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1544</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/google-book-downloader-descarga-los-libros-que-encuentres-en-google-libros/">Google Book Downloader. Descarga los libros que encuentres en Google Libros</a></p>
+<p>Una de las posibilidades que tiene Google es la del apartado Libros, aquí se encuentran muchos libros para leer online pero por</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/google-book-downloader-descarga-los-libros-que-encuentres-en-google-libros/">Google Book Downloader. Descarga los libros que encuentres en Google Libros</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/google-book-downloader-descarga-los-libros-que-encuentres-en-google-libros/">Google Book Downloader. Descarga los libros que encuentres en Google Libros</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/03/Google-Book-Downloader.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/03/Google-Book-Downloader.png" alt="" title="Google Book Downloader" width="550" height="176" class="aligncenter size-full wp-image-3492" srcset="https://www.MacSfera.com/wp-content/uploads/2011/03/Google-Book-Downloader.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/03/Google-Book-Downloader-300x96.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Una de las posibilidades que tiene Google es la del apartado Libros, aquí se encuentran muchos libros para leer online pero por desgracia <strong>no podemos descargarlos,</strong> tan solo leerlos.<br />
+<span id="more-1544"></span><br />
+Buscando el otro día poder descargarlos me di de lleno con esta aplicación llamada <strong>Google Book Downloader</strong> disponible para <strong><a href="www.macsfera.com/" title="Mac">Mac</a></strong> que permitía hacer esta función. <strong>El programa tiene una interfaz muy simple y su cometido lo hace a la perfección,</strong> descargando un documento en <strong>PDF</strong> del libro que quieres.</p>
+<p>Tan <strong>solo necesitamos la URL o el ID para descargarlo,</strong> después debemos esperar a que todo se descargue y por último lo pase al formato PDF.</p>
+<p>Gracias a esta <strong><a href="www.macsfera.com/tag/aplicaciones" title="aplicaciones">aplicación</a></strong> <strong>podremos obtener los libros para leerlos</strong> desde nuestro ordenador o si lo preferimos pasarlo a un dispositivo portátil compatible. Es una <strong>aplicación</strong> <strong>gratuita</strong> y muy sencilla, está en inglés pero no es necesario tener un conocimiento avanzado.</p>
+<p>Descarga | <a href="http://github.com/downloads/hac/googlebookdownloader/Google%20Book%20Downloader%201.2.dmg">Google Book Downloader</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/google-book-downloader-descarga-los-libros-que-encuentres-en-google-libros/">Google Book Downloader. Descarga los libros que encuentres en Google Libros</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Reseñas &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/resenas/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:26:48 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Nueva API para reseñas en las apps de iOS y macOS</title>
+		<link>https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 25 Jan 2017 11:00:55 +0000</pubDate>
+				<category><![CDATA[App Store]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Betas]]></category>
+		<category><![CDATA[Daring Fireball]]></category>
+		<category><![CDATA[Noticias de iOS]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[Reseñas]]></category>
+		<category><![CDATA[The Loop]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16282</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a></p>
+<p>Ayer Apple lanzó una nueva beta para macOS y para iOS con varios cambios. Entre ellos se encontraba una nueva API para</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/25115310/API-de-resenas-de-iOS-y-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/25115310/API-de-resenas-de-iOS-y-macOS.jpg" alt="API de reseñas de iOS y macOS" width="2000" height="1250" class="aligncenter size-full wp-image-16284" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/25115310/API-de-resenas-de-iOS-y-macOS.jpg 2000w, https://cdn.macsfera.com/wp-content/uploads/2017/01/25115310/API-de-resenas-de-iOS-y-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/25115310/API-de-resenas-de-iOS-y-macOS.jpg 1024w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></p>
+<p>Ayer Apple lanzó una nueva beta para macOS y para iOS con varios cambios. Entre ellos se encontraba <strong>una nueva API para desarrolladores relacionada con las reseñas de sus aplicaciones.</strong></p>
+<p>Hay varios cambios en este aspecto y según han podido saber en <a target="_blank" href="http://www.loopinsight.com/2017/01/24/apple-explains-the-new-app-reviews-api-for-developers/" rel="noopener noreferrer">The Loop</a> y en <a target="_blank" href="http://daringfireball.net/2017/01/new_app_store_review_features" rel="noopener noreferrer">Daring Fireball</a>, estos son:</p>
+<p><span id="more-16282"></span></p>
+<p><strong>Los desarrolladores tendrán la posibilidad de responder a las reseñas que les han dejado.</strong> Por fin va a haber una comunicación bilateral entre ambos. El sistema permitirá al desarrollador responder una vez por cada reseña. tras hacerlo, la reseña y la contestación quedarán unidas para futuros usuarios que quieran leerla. Además, cuando una reseña obtenga una respuesta, el usuario podrá modificarla a modo de respuesta, y el desarrollador podrá hacer lo mismo una vez más. De esta forma se evitan largos hilos de comentarios y se mantiene siempre la última modificación.</p>
+<p>Ahora cuando nos pregunten por una reseña en una aplicación, <strong>no saldremos de dicha aplicación para poder evaluarla.</strong> Se permitirá al usuario valorar la app y seguir con lo que estaba haciendo, facilitando así la posibilidad de dejar reseñas <a target="_blank" title="La importancia de dejar una reseña de una aplicación" href="www.macsfera.com/la-importancia-de-dejar-una-resena-de-una-aplicacion/" rel="noopener noreferrer">que tanto pueden beneficiar</a>.</p>
+<p>A todos nos han preguntado alguna vez sobre si podíamos evaluar una app, <strong>pues ahora esa petición se ve reducida a un límite de 3 veces al año.</strong> No 3 veces por versión, sino 3 veces por cada año natural. Si el usuario deja la reseña, no volverá a aparecer. Si el usuario dice que no al dialogo emergente con la petición 3 veces, no volverá a mostrase hasta dentro de un año.</p>
+<p>A su vez, <strong>se ha habilitado un botón en los ajustes que impedirá a cualquier aplicación preguntar al usuario si quiere escribir una reseña.</strong> Si el usuario desactiva esta propiedad, ninguna app podrá pedirlo, aunque no se haya cumplido el límite de 3 veces al año.</p>
+<p><strong>Los usuarios <a target="_blank" title="Mi review del iPhone 7" href="www.macsfera.com/review-del-iphone-7/" rel="noopener noreferrer">cuyo iPhone tenga 3D Touch</a> podrán marcar una review como «Útil» al hacer el gesto de presión.</strong> Imagino que ese tipo de reviews aparecerán más arriba o serán más visibles de cara al desarrollador.</p>
+<p>Por ahora no hay una fecha inminente para que los desarrolladores implementen esta API, pero en algún momento llegará a ser obligatorio.</p>
+<p>Si bien estos cambios vienen muy bien para los desarrolladores y los usuarios <sup class="modern-footnotes-footnote ">1</sup> <strong>hay otros cambios que también se podrían hacer.</strong></p>
+<p>En particular, tal y como destaca John Gruber, la política de que desaparezca la media de estrellas obtenidas cada vez que un desarrollador lanza una actualización, aunque dicha actualización sea menor. Esto puede hacer que los desarrolladores tarden más en actualizar sus aplicaciones por miedo a perder las buenas reseñas, o algunos a lanzar actualizaciones vacías para que desaparezca la mala puntuación bien merecida.</p>
+<p>Apple no se ha pronunciado y no ha dicho nada sobre este apartado, de modo que no sabemos si en un futuro veremos cambios en las puntuaciones.</p>
+<p>En cualquier caso, <strong>estas mejoras van a venirnos muy bien,</strong> tanto a usuarios como desarrolladores, la comunicación será más fluida y no se molestará tanto al usuario final.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Un sistema para poder responder reseñas por parte de un desarrollador se lleva pidiendo demasiados años, prácticamente desde el inicio de la App Store.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sobre las reseñas negativas en la App Store durante las betas de iOS y OS X</title>
+		<link>https://www.MacSfera.com/sobre-las-resenas-negativas-en-la-app-store-durante-las-betas-de-ios-y-os-x/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 22 Jul 2015 10:05:13 +0000</pubDate>
+				<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Beta]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Reseñas]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=11289</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/sobre-las-resenas-negativas-en-la-app-store-durante-las-betas-de-ios-y-os-x/">Sobre las reseñas negativas en la App Store durante las betas de iOS y OS X</a></p>
+<p>Si lleváis unos años con iOS y OS X como vuestros sistemas operativos principales os habréis percatado de que, durante la época</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/sobre-las-resenas-negativas-en-la-app-store-durante-las-betas-de-ios-y-os-x/">Sobre las reseñas negativas en la App Store durante las betas de iOS y OS X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/sobre-las-resenas-negativas-en-la-app-store-durante-las-betas-de-ios-y-os-x/">Sobre las reseñas negativas en la App Store durante las betas de iOS y OS X</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/22100513/Mala-resena-por-compatibilidad-con-beta.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/22100513/Mala-resena-por-compatibilidad-con-beta.jpg" alt="Mala resena por compatibilidad con beta" width="976" height="638" class="aligncenter size-full wp-image-11297" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/22100513/Mala-resena-por-compatibilidad-con-beta.jpg 976w, https://cdn.macsfera.com/wp-content/uploads/2015/07/22100513/Mala-resena-por-compatibilidad-con-beta.jpg 300w" sizes="(max-width: 976px) 100vw, 976px" /></a></p>
+<p>Si lleváis unos años con iOS y OS X como vuestros sistemas operativos principales os habréis percatado de que, durante la época en la que Apple publica betas de dichos sistemas, <strong>las reseñas de la App Store muestran un descontento generalizado porque <em>“no son compatibles con la beta del sistema”</em>.</strong></p>
+<p>Esto ocurre cuando el que instala la beta es una persona que no es desarrollador. Sólo quiere la nueva versión del sistema para probar las novedades y disfrutar del día a día de una versión inestable e inacabada y por ello, sin conocimiento alguno de cómo funcionan las cosas, <strong>baja la puntuación de las aplicaciones porque no son compatibles con el sistema que está usando.</strong></p>
+<p>Federico Viticci <a href="http://www.macstories.net/stories/on-negative-app-store-reviews-during-betas-of-ios-and-os-x/" target="_blank" rel="noopener noreferrer">habla sobre</a> este fatídico suceso implorando a que los usuarios dejen de hacerlo mientras que Apple no aporte una solución. Además, arroja un poco de luz sobre porqué ocurre esto y cómo los desarrolladores no pueden hacer nada ante ello.</p>
+<blockquote class="enlace">
+<p>De nuevo: no es que tu aplicación favorita no se haya actualizado con compatibilidad hacia iOS 9 y El Capitan porque el desarrollador está entretenido contando sus millones o porque se haya olvidado de ti. Los desarrolladores no tienen todavía las herramientas necesarias para mandar actualizaciones con soporte para iOS 9 y El Capitan. No hay nada que ellos puedan hacer. No es su culpa.</p>
+</blockquote>
+<p>Además, <strong>se queja de que lleva viendo este problema 6 años.</strong> Él colabora muy de cerca con desarrolladores, sus aplicaciones, y sus betas, sabe de buena mano la frustración que tienen encima y por ello aporta varios consejos para evitar que esto pase. Razones para que un usuario no valore negativamente una aplicación por no ser compatible con una beta <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<p>Por suerte, estos consejos se quedan en nada más que consejos porque hoy hemos sabido que <strong>Apple,</strong> por fin, <strong><a href="http://www.macrumors.com/2015/07/22/ios-9-beta-app-store-reviews-disabled/" target="_blank" rel="noopener noreferrer">ha desactivado</a> las reviews que se puedan hacer a una aplicación desde una beta,</strong> aunque no al 100%. No es posible escribir una reseña, pero si dejar una valoración con el sistema de estrellas.</p>
+<p>Con la posibilidad de que usuarios normales se instalasen la beta ya debía de haber un filtro para que esto no ocurriese, pero con la salida de betas públicas que cualquiera puede instalar, debería ser algo obligatorio porque no es justo para los desarrolladores. Y por fin lo es.</p>
+<p>Y mucho ojo, <a href="www.macsfera.com/la-importancia-de-dejar-una-resena-de-una-aplicacion/" title="La importancia de dejar una reseña de una aplicación" target="_blank" rel="noopener noreferrer">es importante dejar reseñas</a> ya sean positivas o negativas. Pero hay que escribirlas cuando estemos en una versión oficial del sistema operativo, no cuando se trata de una versión de prueba.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Aunque el mero hecho de decirte que los desarrolladores no pueden enviar ninguna actualización a la App Store porque ésta no es capaz de soportarla creo que es suficiente.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/sobre-las-resenas-negativas-en-la-app-store-durante-las-betas-de-ios-y-os-x/">Sobre las reseñas negativas en la App Store durante las betas de iOS y OS X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La importancia de dejar una reseña de una aplicación</title>
+		<link>https://www.MacSfera.com/la-importancia-de-dejar-una-resena-de-una-aplicacion/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 12 Aug 2011 11:44:44 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Reseñas]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4407</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-importancia-de-dejar-una-resena-de-una-aplicacion/">La importancia de dejar una reseña de una aplicación</a></p>
+<p>Aunque parezca una tontería, el simple gesto de dejar tu opinión en el apartado de reseñas de una aplicación ayuda tanto a</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-importancia-de-dejar-una-resena-de-una-aplicacion/">La importancia de dejar una reseña de una aplicación</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-importancia-de-dejar-una-resena-de-una-aplicacion/">La importancia de dejar una reseña de una aplicación</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Reseña-Mac-App-Store.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Reseña-Mac-App-Store.png" alt="" title="Reseña Mac App Store" width="550" height="256" class="aligncenter size-full" /></a></p>
+<p>Aunque parezca una tontería, el simple gesto de dejar tu opinión en el apartado de reseñas de una <strong><a href="www.macsfera.com/tag/aplicaciones" title="Aplicación" target="_blank">aplicación</a></strong> ayuda tanto a los usuarios como a los desarrolladores.<br />
+<span id="more-4407"></span><br />
+Opinar sobre lo que te gusta o no te gusta públicamente de la <strong>aplicación</strong> que has comprado o has descargado <strong>suele ayudar mucho más a los usuarios que a los desarrolladores,</strong> sobre todo si dichos desarrolladores vienen de una gran empresa, pero el tema de ayudar a los usuarios puede hacerles pensar sobre si comprar o no comprar.</p>
+<p>Unas cuantas veces he decidido no comprar una <strong>aplicación</strong> porque tenía opiniones muy negativas, si no llegase a existir esta opción yo habría comprado una <strong>aplicación</strong> cuyo bug no me dejaría haber pasado de la 2ª pantalla por error con el servidor que ellos pusieron.</p>
+<p>En función del tipo de desarrollador que haya programado la <strong>app</strong> <strong>puede que escuche y solucione los problemas</strong> que hayas encontrado o incluso que acepte tus sugerencias. Esto me pasó a mi con una aplicación llamada <strong><a href="www.macsfera.com/tag/lock-screen/" title="Lock Screen" target="_blank">Lock Screen</a></strong>, contacté con el desarrollador y en su siguiente actualización incluyó unas cuantas mejoras que yo le sugerí.</p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Reseña-MacSfera-En-OS-X-Lion.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Reseña-MacSfera-En-OS-X-Lion.png" alt="" title="Reseña MacSfera En OS X Lion" width="550" height="84" class="aligncenter size-full" /></a></p>
+<p>El truco para que tu reseña sea leída y pueda ayudar a los demás usuarios es<strong> ser concreto y conciso</strong> puesto que es más probable que lean tu reseña si es corta y precisa que si es un buen texto. <strong>Es preferible que especifiques los errores y que generalices la parte buena de la</strong> <strong>app</strong>. eso ayuda mucho, los errores detallados son importantes tanto para el usuario como para el desarrollador.</p>
+<p>Aclaro que el hecho de que dejes una reseña mostrando errores o sugerencias en una <strong>aplicación</strong> no significa que el desarrollador vaya a hacerte caso, muchas veces estos ni las leen, algo que en mi opinión es un grave error, pero recordad, que la reseña es más para otros usuarios que para el desarrollador, por cierto, el sistema de estrellas de la <strong><a href="www.macsfera.com/tag/mac-app-store" title="Mac App Store" target="_blank">Mac App Store</a></strong> (y <strong>App Store</strong>) es muy bueno también, no olvidéis utilizarlo.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-importancia-de-dejar-una-resena-de-una-aplicacion/">La importancia de dejar una reseña de una aplicación</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

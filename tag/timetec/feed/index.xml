@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Timetec &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/timetec/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 20 Jan 2019 13:25:42 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Ampliando la memoria RAM de mi iMac</title>
+		<link>https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 20 Jan 2019 13:25:42 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Consejos]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Memoria RAM]]></category>
+		<category><![CDATA[Timetec]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17051</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a></p>
+<p>En 2012 el iMac llegó a mi vida, y antes de comprarlo tuve que hacer una pequeña elección: más memoria RAM o</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135611/Cambiar-memoria-RAM-iMac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135611/Cambiar-memoria-RAM-iMac.jpg" alt="Cambiar memoria RAM iMac" width="2500" height="1670" class="aligncenter size-full wp-image-17053" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135611/Cambiar-memoria-RAM-iMac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135611/Cambiar-memoria-RAM-iMac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135611/Cambiar-memoria-RAM-iMac.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En 2012 el iMac llegó a mi vida, y antes de comprarlo tuve que hacer una pequeña elección: <strong>más memoria RAM o Fusion Drive.</strong> En aquel momento los SSDs no eran tan populares como hoy en día y un joven Pablo dudaba entre una cosa u otra. <strong>Acabé eligiendo Fusion Drive.</strong></p>
+<p>Hoy, 7 años después, puedo afirmar con rotundidad que fue una gran decisión. El motivo por el cual opté por <a href="https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/" title="Fusion Drive: nuevo sistema de almacenamiento para los iMac" target="_blank">Fusion Drive</a> fue muy sencillo: <strong>el día de mañana, cambiar la memoria RAM es más fácil que cambiar el disco duro.</strong> Lo que no esperaba es que pasasen tantos años hasta que ese momento llegase.</p>
+<p><span id="more-17051"></span></p>
+<p>Estos últimos meses, si bien mi uso del iMac ha sido más relajado que en otros momentos de mi vida, sí he notado ese envejecimiento del ordenador y cómo sus características iniciales se iban quedando anticuadas para rendir a un ritmo adecuado. ¿Mi solución? <strong>revitalizarlo ampliando la RAM.</strong></p>
+<p>La verdad es que poco hay que contar sobre el proceso de ampliación de RAM para Mac. En los Macs que lo permiten, es sumamente sencillo, y Apple cuenta con <a target="_blank" href="https://support.apple.com/es-es/HT201191">instrucciones para todos ellos</a>: desde el tipo de RAM que necesita cada ordenador, hasta los pasos a seguir para instalarla satisfactoriamente.</p>
+<p>Aún así, me parece digno mencionar un par de cosas al respecto:</p>
+<h2>Los “Made for Mac” no son necesarios</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135631/Memoria-RAM-para-iMac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135631/Memoria-RAM-para-iMac.jpg" alt="Memoria RAM para iMac" width="2500" height="1670" class="aligncenter size-full wp-image-17054" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135631/Memoria-RAM-para-iMac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135631/Memoria-RAM-para-iMac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135631/Memoria-RAM-para-iMac.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Si bien la memoria RAM que yo he comprado tiene un gran y vistoso <em>“Made for Mac”</em> en la caja, <strong>desde ya os digo que no es necesario.</strong> Las memorias tienen una serie de características, de modo que con comprar una que tenga las mismas cualidades que describe Apple, debería bastarnos.</p>
+<p>Pero, aun así, yo he comprado una con el <em>“Made for Mac”</em>, ¿por qué? Muy sencillo: <strong>porque era,</strong> con diferencia, <strong><a target="_blank" href="https://www.MacSfera.com/enlaces/memoria-ram-imac/">más barata</a> que el resto de opciones que estuve mirando.</strong> Sin más.</p>
+<p>Aparte de esas características que se mencionan en fábrica, hay otras muchas que hacen que dos memorias del mismo tipo sean de mejor o peor calidad. Está claro que las más baratas serán de peor calidad, pero a lo que voy es a que la etiqueta <em>“Made for Mac”</em> <strong>no debe hacer que el precio sea superior,</strong> deben ser esas características. Y de vosotros dependerá si queréis pagar más o menos para tener una memoria de mayor calidad.</p>
+<p>Así que antes de comprar nada, evaluad bien las diferencias entre los modelos que estéis valorando <sup class="modern-footnotes-footnote ">1</sup>, y cuando veáis que el precio está justificado, decidid la que queráis, pero no os tiréis a por la que está <em>“Made for Mac”</em> sólo por este simple hecho.</p>
+<p>No está demás que una vez que tengáis un modelo elegido, busquéis qué tal funciona en Mac, para ver las opiniones del resto de clientes.</p>
+<h2>Los 3 pitidos de la muerte</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135649/Memoria-RAM-de-Apple-iMac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135649/Memoria-RAM-de-Apple-iMac.jpg" alt="Memoria RAM de Apple iMac" width="2500" height="1670" class="aligncenter size-full wp-image-17055" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135649/Memoria-RAM-de-Apple-iMac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135649/Memoria-RAM-de-Apple-iMac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135649/Memoria-RAM-de-Apple-iMac.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>A pesar de que la instalación es un proceso sencillo, siempre puede salir algo mal, y es importante saber cómo nos lo va a hacer saber nuestro Mac.</p>
+<p><strong>Si la instalación de RAM no ha ido bien, nuestro Mac emitirá 3 pitidos cada pocos segundos.</strong></p>
+<p>Nos bastará con apagar el ordenador y revisar cómo hemos instalado las tarjetas de memoria. Estas son algunas de las acciones que podéis hacer:</p>
+<ul>
+<li>La zona está expuesta al polvo, de modo que hacer una limpieza de las tarjetas y las ranuras puede ayudar</li>
+<li>Revisad que las tarjetas se han insertado bien en sus ranuras. Al no tener un seguro de plástico –<a href="https://www.MacSfera.com/wp-content/uploads/2019/01/seguro-memoria-ram.jpg" title="Seguro memoria RAM" target="_blank">como muchas placas base de ordenadores de sobremesa</a>– es difícil saber si hemos insertado correctamente las ranuras, hay que revisarlo para estar seguros de que están bien colocadas</li>
+<li>Si como en mi caso el Mac permite más de dos tarjetas, y vais a conservar las originales de Apple, insertad las nuevas en los huecos restantes aunque aparentemente no tenga sentido el orden final <sup class="modern-footnotes-footnote ">2</sup></li>
+</ul>
+<p>Después de revisar la instalación, iniciamos el ordenador y todo debería ir bien. Si no, <strong>revisadlo todo,</strong> incluidas las características de la memoria RAM, no vaya a ser que nos hayamos confundido al comprarla, o nos la hayan mandado mal.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135705/Memoria-RAM-iMac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135705/Memoria-RAM-iMac.jpg" alt="Memoria RAM iMac" width="2500" height="1670" class="aligncenter size-full wp-image-17056" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135705/Memoria-RAM-iMac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135705/Memoria-RAM-iMac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135705/Memoria-RAM-iMac.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Por ahora, con este sencillo movimiento, he conseguido que mi iMac vaya mejor. Y tengo muy claro que <strong>el siguiente paso será <a target="_blank" title="Habilita la orden TRIM si has instalado un SSD" href="www.macsfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/">instalar un SSD</a>,</strong> como ya hice en <a target="_blank" title="Nuevo MacBook Pro para el blog" href="www.macsfera.com/nuevo-macbook-pro-para-el-blog/">mi antiguo</a> –y aún funcional– MacBook Pro.</p>
+<p>Por lo que he podido ver, esta situación <a target="_blank" href="https://twitter.com/MatthieusP/status/1085995803297103877">se repite</a> en <a target="_blank" href="https://twitter.com/pablo1medina/status/1086255546351697920">varios de vosotros</a>, <strong>así que me alegra saber que con una inversión mínima el buen resultado se nota,</strong> haciendo que nuestros cerrados Macs amplíen un poco más su vida. Es por eso por lo que celebré que <a target="_blank" title="Resumen y opinión de la keynote “There’s more in the making” - Nuevo Mac mini" href="www.macsfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/?#nuevo-mac-mini">el nuevo Mac mini</a> recuperase la modularidad en la memoria RAM.</p>
+<p>En cualquier caso, <a target="_blank" href="https://www.MacSfera.com/enlaces/memoria-ram-imac/">aquí os dejo</a> la memoria RAM que yo he comprado, por si os puede ayudar a la hora de elegir componente para darle más vida a vuestro Mac.</p>
+<p><span class="source">Memoria RAM</span> <span class="via"><a target="_blank" href="https://www.MacSfera.com/enlaces/memoria-ram-imac/">Amazon</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Google es vuestro amigo para todas las características que no conozcáis.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;En mi iMac las tarjetas de Apple estaban en las posiciones 2 y 4. Mi nueva memoria RAM ha sido insertada en las posiciones 1 y 3, de modo que están todas ellas mezcladas, algo que puede chocar, pero es totalmente normal.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

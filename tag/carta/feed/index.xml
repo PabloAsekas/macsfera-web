@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Carta &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/carta/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:53:33 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Un mensaje para nuestros usuarios</title>
+		<link>https://www.MacSfera.com/un-mensaje-para-nuestros-usuarios/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 17 Feb 2016 13:52:20 +0000</pubDate>
+				<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Carta]]></category>
+		<category><![CDATA[Encriptación]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Privacidad]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=13000</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/un-mensaje-para-nuestros-usuarios/">Un mensaje para nuestros usuarios</a></p>
+<p>Tim Cook ha hecho pública una carta dirigida a todos los usuarios de Apple relacionada con una petición del gobierno de los</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/un-mensaje-para-nuestros-usuarios/">Un mensaje para nuestros usuarios</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/un-mensaje-para-nuestros-usuarios/">Un mensaje para nuestros usuarios</a></p>
+<div id="attachment_13002" style="width: 2510px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/02/17142512/Tim-Cook-CEO-de-Apple.jpg" rel="attachment wp-att-13002"><img aria-describedby="caption-attachment-13002" src="https://cdn.macsfera.com/wp-content/uploads/2016/02/17142512/Tim-Cook-CEO-de-Apple.jpg" alt="Tim Cook CEO de Apple" width="2500" height="1667" class="size-full wp-image-13002" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/02/17142512/Tim-Cook-CEO-de-Apple.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/02/17142512/Tim-Cook-CEO-de-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/02/17142512/Tim-Cook-CEO-de-Apple.jpg 768w, https://cdn.macsfera.com/wp-content/uploads/2016/02/17142512/Tim-Cook-CEO-de-Apple.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-13002" class="wp-caption-text">Imagen de <a href="https://flic.kr/p/bWmqBT" target="_blank" rel="noopener noreferrer">Mike Deerkoski</a></p></div>
+<p><strong>Tim Cook ha hecho pública <a href="http://www.apple.com/customer-letter/" target="_blank" rel="noopener noreferrer">una carta</a> dirigida a todos los usuarios de Apple relacionada con una petición del gobierno de los Estados Unidos para desarrollar un software con el objetivo de acceder a los datos cifrados de un iPhone.</strong></p>
+<p>El Caso San Bernardino es el responsable de que el FBI pidiese a Apple el desarrollo o la modificación de iOS para que ellos pudiesen realizar distintos ataques a un dispositivo encontrado que pertenece presuntamente a los terroristas que llevaron a cabo el atroz atentado.</p>
+<blockquote class="enlace">
+<p>Durante muchos años, hemos usado la encriptación para proteger la información personal de nuestros usuarios porque creemos que es el único camino para mantener dicha información a salvo. Incluso hemos puesto esa información lejos de nuestro propio alcance porque realmente creemos que el contenido del iPhone no es de nuestra incumbencia.</p>
+</blockquote>
+<blockquote class="enlace">
+<p>Tenemos un gran respeto por los profesionales del FBI, y creemos que sus intenciones son buenas. Llegados a este punto, hemos hecho todo lo que nos permite nuestro poder y la ley para ayudarles. Pero ahora el gobierno de los Estados Unidos nos ha pedido que hagamos algo que simplemente no podemos hacer, y es algo que consideramos peligroso de crear. Nos han pedido que construyamos una puerta trasera (backdoor) para el iPhone.</p>
+</blockquote>
+<p>La puerta trasera es un pequeño mecanismo que permite a Apple (o cualquiera que sepa) acceder al contenido interno de un dispositivo (el iPhone en este caso) sin pasar por los procedimientos habituales y seguros. <strong>Tim Cook y su equipo se han negado en rotundo con distintos motivos expuestos en el escrito.</strong></p>
+<p>Esta carta es una nueva declaración pública de que <a title="Apple y su compromiso con la privacidad" href="www.macsfera.com/apple-y-su-compromiso-con-la-privacidad/" target="_blank" rel="noopener noreferrer">Apple tiene un compromiso con la privacidad de sus usuarios</a>, que no van a vender nuestros datos, que no los van a recolectar para aprender más sobre nosotros como individuos y que, ante peticiones legales –como esta– van a oponerse en rotundo, aunque el fin sea bueno <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<p>Así pues, ahora toca esperar a ver cómo reaccionarán ante esta carta pública el resto de implicados (si es que lo hacen), <strong>pero a mí me alegra personalmente que estas cosas salgan a la luz demostrando la posición de la empresa,</strong> una vez más, <strong>ante la privacidad de sus usuarios.</strong></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;El FBI quiere obtener más detalles sobre el atentado y las personas que lo han hecho.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/un-mensaje-para-nuestros-usuarios/">Un mensaje para nuestros usuarios</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tim Cook manda una carta a los empleados recordando el fallecimiento de Steve Jobs</title>
+		<link>https://www.MacSfera.com/tim-cook-manda-una-carta-a-los-empleados-recordando-el-fallecimiento-de-steve-jobs/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 05 Oct 2013 07:44:35 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Aniversario]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Carta]]></category>
+		<category><![CDATA[Fallecimiento]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10019</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-manda-una-carta-a-los-empleados-recordando-el-fallecimiento-de-steve-jobs/">Tim Cook manda una carta a los empleados recordando el fallecimiento de Steve Jobs</a></p>
+<p>El CEO de Apple Tim Cook ha enviado una carta a través del correo interno a todos los empleados en la que</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-manda-una-carta-a-los-empleados-recordando-el-fallecimiento-de-steve-jobs/">Tim Cook manda una carta a los empleados recordando el fallecimiento de Steve Jobs</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-manda-una-carta-a-los-empleados-recordando-el-fallecimiento-de-steve-jobs/">Tim Cook manda una carta a los empleados recordando el fallecimiento de Steve Jobs</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/Steve-Jobs-riéndose.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/Steve-Jobs-riéndose.png" alt="Steve Jobs riéndose" width="710" height="402" class="aligncenter size-full" /></a></p>
+<p><strong>El CEO de Apple <a href="www.macsfera.com/tag/tim-cook" title="Tim Cook" target="_blank" rel="noopener noreferrer">Tim Cook</a> ha enviado una carta a través del correo interno a todos los empleados en la que recuerda que, hace dos años, falleció <a href="www.macsfera.com/tag/steve-jobs" title="Steve Jobs" target="_blank" rel="noopener noreferrer">Steve Jobs</a>.</strong></p>
+<p><span id="more-10019"></span></p>
+<blockquote>
+<p>Equipo,</p>
+<p>Mañana es el segundo aniversario de la muerte de Steve. Espero que todo el mundo refleje lo que él significo para todos nosotros y para todo el mundo. Steve fue una persona maravillosa y dejó el mundo como un lugar mejor. Pienso en él a menudo y encuentro mucha fuerza en el recuerdo de su amistad, su visión y su liderazgo. Nos dejó una compañía que solo él podría haber construido y su espíritu siempre será la fundación de Apple. Continuaremos con el honor a su memoria dedicándonos al trabajo que tanto amaba. No hay mayor tributo a su memoria. Se que estaría orgulloso de todos vosotros.<br />
+Saludos,</p>
+<p>Tim</p>
+</blockquote>
+<p><center><iframe width="710" height="399" src="//www.youtube.com/embed/dInYmYI7Q20" frameborder="0" allowfullscreen></iframe></center></p>
+<p>Os dejamos el vídeo que publicó Apple el año pasado en honor a su co fundador que relata las cosas que hizo después de volver a la compañía y salvarla de la situación en la que estaba.</p>
+<p><span class="source">Fuente</span> <span class="via"><a href="http://9to5mac.com/2013/10/04/tim-cook-reflects-on-second-anniversary-of-steve-jobs-passing-in-letter-to-employees/" target="_blank" rel="noopener noreferrer">9To5Mac</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-manda-una-carta-a-los-empleados-recordando-el-fallecimiento-de-steve-jobs/">Tim Cook manda una carta a los empleados recordando el fallecimiento de Steve Jobs</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tim Cook se disculpa mediante una carta por el servicio de Apple en China</title>
+		<link>https://www.MacSfera.com/tim-cook-se-disculpa-mediante-una-carta-por-el-servicio-de-apple-en-china/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 04 Apr 2013 13:04:19 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Carta]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Garantía]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Reparación]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8735</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-se-disculpa-mediante-una-carta-por-el-servicio-de-apple-en-china/">Tim Cook se disculpa mediante una carta por el servicio de Apple en China</a></p>
+<p>En los últimos meses, Apple ha sido muy criticada y difamada por parte del gobierno y medios chinos debido al servicio de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-se-disculpa-mediante-una-carta-por-el-servicio-de-apple-en-china/">Tim Cook se disculpa mediante una carta por el servicio de Apple en China</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-se-disculpa-mediante-una-carta-por-el-servicio-de-apple-en-china/">Tim Cook se disculpa mediante una carta por el servicio de Apple en China</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/04/Apple-en-china.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/04/Apple-en-china.jpg" alt="Apple en china" width="550" height="348" class="aligncenter size-full wp-image-8736" srcset="https://www.MacSfera.com/wp-content/uploads/2013/04/Apple-en-china.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2013/04/Apple-en-china-300x190.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En los últimos meses, <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a> ha sido muy criticada y difamada por parte del gobierno y medios chinos</strong> debido al servicio de reparación de la empresa. Por ello <strong>Tim Cook ha escrito una carta dirigida a los clientes.</strong></p>
+<p><span id="more-8735"></span></p>
+<p>En la carta, el CEO se disculpa <strong>prometiendo mejorar el servicio aumentando la formación del personal de sus tiendas y los distribuidores oficiales a la par que mejorar el sistema de reparaciones del iPhone 4 y el 4S.</strong></p>
+<p>La carta la podéis sacar de la <a href="http://www.apple.com.cn/support/warranties/" target="_blank" rel="noopener noreferrer">web de Apple en China</a> y traducirla con las herramientas de Google, pero lo que más destaca de los cambios que van a hacer es lo siguiente:</p>
+<ul>
+<li>Mejorar la política de reparación del iPhone 4 y iPhone 4S.</li>
+<li>Proporcionar información más clara y precisa sobre la política de garantía y reparaciones en la web oficial.</li>
+<li>Aumentar la supervisión y la formación de los proveedores autorizados de Apple.</li>
+<li>Asegurar que los clientes pueden comunicarse fácilmente con el servicio de opinión de Apple.</li>
+</ul>
+<p>Además, <strong><a href="www.macsfera.com/tag/tim-cook" title="Tim Cook" target="_blank" rel="noopener noreferrer">Tim Cook</a></strong> ha añadido:</p>
+<blockquote><p>
+Somos conscientes de que debido a la falta de comunicación externa en el proceso, se ha dado lugar a la especulación de que en Apple somos arrogantes y no nos importa, o no damos importancia, a las opiniones de nuestros clientes. Expresamos nuestras más sinceras disculpas por cualquier problema o malentendido que esto haya ocasionado a los consumidores.
+</p></blockquote>
+<p><strong>Las últimas acciones de Apple han demostrado que para ellos el mercado asiático es muy importante</strong> por lo que han decidido intervenir ante la campaña de difamación y pedir disculpas, a la par que plantear soluciones.</p>
+<p>Vía | <a href="http://www.applesfera.com/apple/tim-cook-responde-a-las-criticas-en-china-mediante-una-carta-abierta-prometiendo-mejorar-el-servicio-de-apple" target="_blank" rel="noopener noreferrer">Applesfera</a><br />
+Imagen | <a href="http://applezona.com/wp-content/uploads/2013/01/china-apple-2010-7-10-3-10-0.jpg" target="_blank" rel="noopener noreferrer">Applezona</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-se-disculpa-mediante-una-carta-por-el-servicio-de-apple-en-china/">Tim Cook se disculpa mediante una carta por el servicio de Apple en China</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Richard Stallman no sentía tanto aprecio hacia Steve Jobs</title>
+		<link>https://www.MacSfera.com/richard-stallman-no-sentia-tanto-aprecio-hacia-steve-jobs/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 09 Oct 2011 14:36:00 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Carta]]></category>
+		<category><![CDATA[Richard Stallman]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5214</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/richard-stallman-no-sentia-tanto-aprecio-hacia-steve-jobs/">Richard Stallman no sentía tanto aprecio hacia Steve Jobs</a></p>
+<p>No todo iban a ser tributos y palabras tristes hacia Steve Jobs tras su muerte. Richard Stallman ha enviado una carta abierta</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/richard-stallman-no-sentia-tanto-aprecio-hacia-steve-jobs/">Richard Stallman no sentía tanto aprecio hacia Steve Jobs</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/richard-stallman-no-sentia-tanto-aprecio-hacia-steve-jobs/">Richard Stallman no sentía tanto aprecio hacia Steve Jobs</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/10/Richard-Stallman-Conferencia.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/10/Richard-Stallman-Conferencia.jpg" alt="" title="Richard Stallman Conferencia" width="550" height="344" class="aligncenter size-full wp-image-5215" srcset="https://www.MacSfera.com/wp-content/uploads/2011/10/Richard-Stallman-Conferencia.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/10/Richard-Stallman-Conferencia-300x188.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>No todo iban a ser tributos y palabras tristes hacia <strong><a href="www.macsfera.com/tag/steve-jobs" title="Steve Jobs" target="_blank" rel="noopener noreferrer">Steve Jobs</a></strong> tras su <a href="https://www.MacSfera.com/steve-jobs-ha-fallecido-esta-madrugada/" title="Muerte de Steve Jobs" target="_blank" rel="noopener noreferrer">muerte</a>. <strong>Richard Stallman ha enviado una carta abierta en la que expresa lo que piensa sobre Steve.</strong></p>
+<p><span id="more-5214"></span></p>
+<blockquote><p>Steve Jobs, el pionero de un ordenador que es como una cárcel, diseñado para cortar la libertad a los tontos, ha muerto.</p>
+<p>Como el alcalde de Chicago Harold Washington dijo sobre el corrupto ex alcalde Dale, «No estoy contento de que esté muerto, pero me alegro de que se haya ido.» Nadie merece morir &#8211; ni Jobs, ni Señor Bill, ni siquiera a los culpables de los males más grandes. Pero todos nos merecemos el fin de la influencia maligna de Jobs en la informática de las personas.</p>
+<p>Por desgracia, la influencia continúa a pesar de su ausencia. Sólo podemos esperar de sus sucesores en su intento de continuar con su legado, que será menos efectivo.</p></blockquote>
+<p>Al parecer este hombre <strong>es un «claro defensor» de la libertad y el software libre</strong> y critica a <strong>Jobs</strong> por producir sistemas tan cerrados como lo son el del iPhone y el <strong><a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a></strong>.</p>
+<p>No solo se dedica a <strong>atacar a un difunto</strong> sino que también <strong>se ha dedicado a insultarnos,</strong> a nosotros, los usuarios que hemos decidido comprar algún producto creado por <strong>Apple</strong>. Tal y como dice <strong>F.Manuel de Genbeta,</strong> a este hombre no se le puede considerar un defensor de la libertad puesto que <strong>no respeta las opiniones o ideas de los demás que difieren con la suya</strong> y lo ha demostrado claramente con ese despectivo.</p>
+<p>De por si me parece mal que diga esto abiertamente y <strong>más de forma gratuita.</strong> Si te preguntan, puede. Pero si no, por muy liberal que seas y te creas que tienes todo el derecho del mundo (que lo tienes) <strong>debes mostrar un mínimo de respeto, cosa que él no ha hecho.</strong></p>
+<p>Y lo peor no es que no haya mostrado respeto hacia <strong>Steve Jobs</strong> (simplemente por estar muerto) sino que no lo ha mostrado por nosotros, los usuarios. <strong>No puedes creer y defender algo que ni tu mismo respetas.</strong></p>
+<p>Fuente | <a href="http://www.genbeta.com/genbeta/carta-abierta-a-richard-stallman-por-sus-desafortunadas-declaraciones-tras-la-muerte-de-steve-jobs#cronologico" target="_blank" rel="noopener noreferrer">Genbeta</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/richard-stallman-no-sentia-tanto-aprecio-hacia-steve-jobs/">Richard Stallman no sentía tanto aprecio hacia Steve Jobs</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tim Cook «Apple no va a cambiar»</title>
+		<link>https://www.MacSfera.com/tim-cook-apple-no-va-a-cambiar/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2011 14:50:33 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Carta]]></category>
+		<category><![CDATA[CEO]]></category>
+		<category><![CDATA[CEO de Apple]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4640</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-apple-no-va-a-cambiar/">Tim Cook «Apple no va a cambiar»</a></p>
+<p>El nuevo CEO de Apple, Tim Cook tomó las riendas de la empresa tras la carta de Steve Jobs y ya empezaron</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-apple-no-va-a-cambiar/">Tim Cook «Apple no va a cambiar»</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-apple-no-va-a-cambiar/">Tim Cook «Apple no va a cambiar»</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/08/Tim-Cook-CEO-de-Apple.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/08/Tim-Cook-CEO-de-Apple.png" alt="" title="Tim Cook CEO de Apple" width="550" height="326" class="aligncenter size-full wp-image-4642" srcset="https://www.MacSfera.com/wp-content/uploads/2011/08/Tim-Cook-CEO-de-Apple.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/08/Tim-Cook-CEO-de-Apple-300x178.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>El nuevo <strong>CEO de Apple</strong>, <strong><a href="www.macsfera.com/tag/tim-cook" title="Tim Cook" target="_blank" rel="noopener noreferrer">Tim Cook</a></strong> tomó las riendas de la empresa tras la <strong><a href="https://www.MacSfera.com/carta-oficial-de-steve-jobs-a-apple/" title="Carta oficial de Steve Jobs" target="_blank" rel="noopener noreferrer">carta de Steve Jobs</a></strong> y ya empezaron las conjeturas de que <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> iba a ir de mal en peor a pesar de que Jobs dijo que los mejores momentos de la empresa estaban por venir.<br />
+<span id="more-4640"></span></p>
+<blockquote><p>
+Equipo:</p>
+<p>Espero que la increíble oportunidad de servir como director ejecutivo de la empresa más innovadora en el mundo. Unirse a Apple fue la mejor decisión que he tomado y que ha sido el privilegio de una vida trabajar para Apple y Steve por más de 13 años. Comparto el optimismo de Steve para el brillante futuro de Apple.</p>
+<p>Steve ha sido un líder increíble y sin duda un buen mentor para mí, así como a todo el equipo ejecutivo y empleados. Estamos con muchas ganas de ver la actual orientación de Steve y la inspiración como nuestro Presidente.</p>
+<p>Estoy seguro de que Apple no va a cambiar. Aprecio y comparto principios únicos de Apple y sus valores. Steve construyó una empresa y la cultura que es diferente a cualquier otra parte del mundo y vamos a permanecer fieles a esta ya que está en nuestro ADN. Vamos a seguir haciendo los mejores productos del mundo que aprecian nuestros clientes y hacer que nuestros empleados estén muy orgullosos de lo que hacen.</p>
+<p>Me encanta Apple y estoy esperando a bucear en mi nuevo papel. Todo el increíble apoyo de la Junta, el equipo ejecutivo y muchos de ustedes ha sido inspirador. Confío en nuestros mejores años están por delante de nosotros y que juntos vamos a seguir haciendo de Apple el lugar mágico que es.</p>
+<p>Tim</p></blockquote>
+<p>Como vemos una carta motivadora y esperanzadora por este cambio que ha sufrido la empresa, creo que va más para los inversores que para el público pero si que puede ser un alivio para los empleados aunque llevan bajo su mando unos cuantos meses.</p>
+<p>Vía | <a href="http://9to5mac.com/2011/08/25/tim-cook-addresses-apple-team-in-an-email-as-newly-appointed-ceo/?utm_source=feedburner&#038;utm_medium=twitter&#038;utm_campaign=Feed%3A+9To5Mac-MacAllDay+(9+to+5+Mac+-+Apple+Intelligence)" target="_blank" rel="noopener noreferrer">9To5Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/tim-cook-apple-no-va-a-cambiar/">Tim Cook «Apple no va a cambiar»</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Carta oficial de Steve Jobs a Apple</title>
+		<link>https://www.MacSfera.com/carta-oficial-de-steve-jobs-a-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2011 14:29:46 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Carta]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4635</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/carta-oficial-de-steve-jobs-a-apple/">Carta oficial de Steve Jobs a Apple</a></p>
+<p>Hace nada hemos anunciado la subida al cargo de CEO de Tim Cook y ahora tenemos aquí la carta oficial de Steve</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/carta-oficial-de-steve-jobs-a-apple/">Carta oficial de Steve Jobs a Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/carta-oficial-de-steve-jobs-a-apple/">Carta oficial de Steve Jobs a Apple</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Steve-Jobs-de-joven.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  class="size-full wp-image-4176 aligncenter" title="Steve Jobs de joven" src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Steve-Jobs-de-joven.jpg" alt="Steve Jobs de joven" width="494" height="373" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Steve-Jobs-de-joven.jpg 494w, https://www.MacSfera.com/wp-content/uploads/2011/02/Steve-Jobs-de-joven-300x227.jpg 300w" sizes="(max-width: 494px) 100vw, 494px" /></a></p>
+<p>Hace nada hemos anunciado la <strong><a title="Tim Cook será el nuevo CEO de Apple" href="https://www.MacSfera.com/steve-jobs-deja-de-ser-el-ceo-de-apple-y-se-convierte-en-el-presidente-de-la-junta-directiva/" target="_blank" rel="noopener noreferrer">subida al cargo de CEO de Tim Cook</a></strong> y ahora tenemos aquí la carta oficial de <strong><a title="Steve Jobs" href="www.macsfera.com/tag/steve-jobs" target="_blank" rel="noopener noreferrer">Steve Jobs</a></strong> publicada por Applesfera.<br />
+<span id="more-4635"></span></p>
+<blockquote><p>CUPERTINO, California (EEUU) —24 de agosto de 2011— El Consejo de Administración de Apple ha anunciado hoy que Steve Jobs ha presentado su dimisión como CEO (consejero delegado), y que el Consejo ha nombrado a Tim Cook, hasta ahora COO (director general), nuevo CEO de la compañía. Jobs ha sido elegido presidente del Consejo de Administración y Cook se incorporará como consejero, con efecto inmediato.<br />
+“La extraordinaria visión y el liderazgo de Steve salvaron a Apple y la han llevado a convertirse en la compañía de tecnología más innovadora y valiosa del mundo”, dice Art Levinson, presidente de Genentech, en nombre del Consejo de Administración de Apple. “Steve ha realizado innumerables contribuciones al éxito de Apple, y ha atraído e inspirado a los tremendamente creativos empleados y al excepcional equipo directivo con que cuenta Apple. En su nuevo cargo como Presidente del Consejo de Administración, Steve continuará sirviendo a Apple con su visión particular, creatividad e inspiración. “</p>
+<p>“El Consejo de Administración tiene plena confianza en que Tim es la persona adecuada para ser nuestro próximo CEO”, añadió Levinson. “Los 13 años de servicio de Tim en Apple han estado marcados por un rendimiento excepcional, y ha demostrado un gran talento y buen juicio en todo lo que hace.”</p>
+<p>Jobs ha comunicado hoy su dimisión al Consejo de Administración, y ha recomendado encarecidamente que el Consejo de Administración pusiera en práctica el plan de sucesión y nombrara CEO a Tim Cook.</p>
+<p>Como COO, Cook ha sido responsable de las ventas y operaciones de la compañía a nivel mundial, incluida la gestión completa de la cadena de suministro de Apple, de las actividades de venta, y de las actividades de servicio y soporte en todos los mercados y países. Ha dirigido también la división Macintosh de Apple y ha desempeñado un papel clave en el desarrollo de relaciones estratégicas con los canales de venta y proveedores, asegurando la flexibilidad de respuesta en un mercado cada vez más exigente.</p></blockquote>
+<p>Vía | <a href="http://www.applesfera.com/apple/steve-jobs-deja-su-puesto-de-consejero-delegado-en-apple" target="_blank" rel="noopener noreferrer">Applesfera</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/carta-oficial-de-steve-jobs-a-apple/">Carta oficial de Steve Jobs a Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

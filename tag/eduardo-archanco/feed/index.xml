@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eduardo Archanco &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/eduardo-archanco/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:53:22 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Un vistazo a APFS, otro paso hacia la unificación de los equipos y sistemas de Apple</title>
+		<link>https://www.MacSfera.com/vistazo-apfs-paso-hacia-la-unificacion-los-equipos-sistemas-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 26 Jan 2017 14:24:34 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[APFS]]></category>
+		<category><![CDATA[Apple File System]]></category>
+		<category><![CDATA[Applesfera]]></category>
+		<category><![CDATA[Eduardo Archanco]]></category>
+		<category><![CDATA[WWDC16]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16300</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/vistazo-apfs-paso-hacia-la-unificacion-los-equipos-sistemas-apple/">Un vistazo a APFS, otro paso hacia la unificación de los equipos y sistemas de Apple</a></p>
+<p>En la WWDC DE 2016, Apple introdujo su nuevo sistema de archivos llamado Apple File System (APFS) que se implantaría tanto en</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/vistazo-apfs-paso-hacia-la-unificacion-los-equipos-sistemas-apple/">Un vistazo a APFS, otro paso hacia la unificación de los equipos y sistemas de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/vistazo-apfs-paso-hacia-la-unificacion-los-equipos-sistemas-apple/">Un vistazo a APFS, otro paso hacia la unificación de los equipos y sistemas de Apple</a></p>
+<div id="attachment_16302" style="width: 1376px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/26152153/Un-vistazo-a-APFS-otro-paso-hacia-la-unificaci%C3%B3n-de-los-equipos-y-sistemas-de-Apple.jpg"><img aria-describedby="caption-attachment-16302" src="https://cdn.macsfera.com/wp-content/uploads/2017/01/26152153/Un-vistazo-a-APFS-otro-paso-hacia-la-unificaci%C3%B3n-de-los-equipos-y-sistemas-de-Apple.jpg" alt="Un vistazo a APFS, otro paso hacia la unificación de los equipos y sistemas de Apple" width="1366" height="911" class="size-full wp-image-16302" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/26152153/Un-vistazo-a-APFS-otro-paso-hacia-la-unificaci%C3%B3n-de-los-equipos-y-sistemas-de-Apple.jpg 1366w, https://cdn.macsfera.com/wp-content/uploads/2017/01/26152153/Un-vistazo-a-APFS-otro-paso-hacia-la-unificaci%C3%B3n-de-los-equipos-y-sistemas-de-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/26152153/Un-vistazo-a-APFS-otro-paso-hacia-la-unificaci%C3%B3n-de-los-equipos-y-sistemas-de-Apple.jpg 1024w" sizes="(max-width: 1366px) 100vw, 1366px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-16302" class="wp-caption-text">Imagen de <a href="https://www.applesfera.com/general/un-vistazo-a-afps-otro-paso-hacia-la-unificacion-de-los-equipos-y-sistemas-de-apple" target="_blank" rel="noopener noreferrer">Applesfera</a></p></div>
+<p>En la <a target="_blank" title="WWDC16" href="www.macsfera.com/tag/wwdc16" rel="noopener noreferrer">WWDC DE 2016</a>, <strong>Apple introdujo su nuevo sistema de archivos llamado Apple File System (APFS) que se implantaría tanto en macOS como en iOS.</strong></p>
+<p>En su momento <a target="_blank" title="Adiós HFS+, hola Apple File System" href="www.macsfera.com/adios-hfs-hola-apple-file-system/" rel="noopener noreferrer">obtuvimos unos pocos detalles sobre el nuevo sistema</a>, pero ahora nos viene bien saber más porque la versión beta de iOS 10.3 ya lo incluye (entre <a target="_blank" title="Nueva API para reseñas en las apps de iOS y macOS" href="www.macsfera.com/nueva-api-para-resenas-apps-ios-y-macos/" rel="noopener noreferrer">otras novedades</a>).</p>
+<p>Es por eso que Eduardo Archanco <a target="_blank" href="https://www.applesfera.com/general/un-vistazo-a-afps-otro-paso-hacia-la-unificacion-de-los-equipos-y-sistemas-de-apple" rel="noopener noreferrer">repasa</a> <strong>las características de este nuevo sistema que poco a poco irá llegando a todos los dispositivos de Apple:</strong> qué es, de qué se encarga, de dónde viene, porqué Apple lo desarrolla, etc.</p>
+<p>En la universidad he estudiado los sistemas de archivos más comunes y es cierto que es algo que para el público general carece de valor, a pesar de que es sumamente importante. Por eso me gusta tanto esta frase de Eduardo:</p>
+<blockquote class="enlace">
+<p>Es interesante ver cómo la compañía de Cupertino hace apuestas de este tipo, más centradas en el largo plazo de sus equipos y sistemas. APFS puede convertirse en una de esas novedades que pasan casi desapercibidas pero que acaban teniendo un impacto significativo en el día a día de millones de usuarios.</p>
+</blockquote>
+<p>Si os interesa la informática, echadle un vistazo a las novedades que va a traer este nuevo sistema porque es interesantísimo ver cómo van a mejorar nuestros dispositivos gracias a ello.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/vistazo-apfs-paso-hacia-la-unificacion-los-equipos-sistemas-apple/">Un vistazo a APFS, otro paso hacia la unificación de los equipos y sistemas de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

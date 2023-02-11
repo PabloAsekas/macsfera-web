@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2016/01/Multicuentas-iPad-iOS-9.3.jpg?simply_static_page=264369">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2016/01/Multicuentas-iPad-iOS-9.3.jpg?simply_static_page=264369";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2016/01/Multicuentas-iPad-iOS-9.3.jpg?simply_static_page=264369">https://www.macsfera.com/wp-content/uploads/2016/01/Multicuentas-iPad-iOS-9.3.jpg?simply_static_page=264369</a></p>
+	</body>
+</html>

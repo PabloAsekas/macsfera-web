@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Clips &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/clips/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Fri, 07 Apr 2017 14:58:25 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Cómo usar Clips: la nueva aplicación de vídeo de Apple</title>
+		<link>https://www.MacSfera.com/como-usar-clips-la-nueva-aplicacion-de-video-de-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 07 Apr 2017 14:55:34 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Clips]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16524</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-usar-clips-la-nueva-aplicacion-de-video-de-apple/">Cómo usar Clips: la nueva aplicación de vídeo de Apple</a></p>
+<p>Ayer Apple lanzaba su nueva aplicación Clips, una pequeña herramienta para iPhone y iPad que nos permite grabar y montar vídeos con</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-usar-clips-la-nueva-aplicacion-de-video-de-apple/">Cómo usar Clips: la nueva aplicación de vídeo de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-usar-clips-la-nueva-aplicacion-de-video-de-apple/">Cómo usar Clips: la nueva aplicación de vídeo de Apple</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163428/Como-usar-Clips-de-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163428/Como-usar-Clips-de-Apple.jpg" alt="Como usar Clips de Apple" width="2500" height="1667" class="aligncenter size-full wp-image-16526" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163428/Como-usar-Clips-de-Apple.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163428/Como-usar-Clips-de-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163428/Como-usar-Clips-de-Apple.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Ayer Apple lanzaba su <a target="_blank" title="Clips: nueva aplicación de Apple para crear vídeos" href="www.macsfera.com/clips-nueva-aplicacion-apple-crear-videos/">nueva aplicación Clips</a>,</strong> una pequeña herramienta para iPhone y iPad que nos permite grabar y montar vídeos con títulos, música, filtros, etc.</p>
+<p>Me la bajé para probarla, y con la tontería he descubierto que es una herramienta más poderosa de lo que parece a primera vista. <strong>Así que vamos a aprender cómo usar Clips, todas sus propiedades y todos sus filtros.</strong></p>
+<p><span id="more-16524"></span></p>
+<h2>Entendiendo Clips</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163458/Clips-de-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163458/Clips-de-Apple.jpg" alt="Clips de Apple" width="2342" height="1932" class="aligncenter size-full wp-image-16527" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163458/Clips-de-Apple.jpg 2342w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163458/Clips-de-Apple.jpg 242w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163458/Clips-de-Apple.jpg 1024w" sizes="(max-width: 2342px) 100vw, 2342px" /></a></p>
+<p>Lo primero que tenemos que hacer es <strong>entender cómo funciona Clips,</strong> así que vamos a dar una vuelta por su interfaz para ubicar todos los elementos.</p>
+<p>En la parte superior tenemos los iconos de los distintos efectos que podemos aplicar. <strong>Estos iconos nos permitirán personalizar todos los aspectos de nuestro vídeo:</strong></p>
+<ul>
+<li><strong>Subtítulos:</strong> lista de estilos que nos permitirá elegir la forma en la que aparece el texto en vídeo mientras hablamos en la grabación</li>
+<li><strong>Filtros:</strong> lista de filtros que modificarán la imagen original de nuestro vídeo</li>
+<li><strong>Iconos:</strong> lista de iconos que podremos insertar en cualquier parte del vídeo para darle un toque especial</li>
+<li><strong>Títulos:</strong> lista de títulos a pantalla completa que podemos utilizar para representar texto animado</li>
+</ul>
+<p>Seguidamente, <strong>en la esquina superior derecha hay un icono para añadir canciones.</strong> Estas canciones pueden salir de nuestra biblioteca de Música o de una biblioteca de Apple con clips de audio libre de derechos.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163515/Clips-de-Apple-para-iPhone.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163515/Clips-de-Apple-para-iPhone.jpg" alt="Clips de Apple para iPhone" width="2342" height="1932" class="aligncenter size-full wp-image-16528" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163515/Clips-de-Apple-para-iPhone.jpg 2342w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163515/Clips-de-Apple-para-iPhone.jpg 242w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163515/Clips-de-Apple-para-iPhone.jpg 1024w" sizes="(max-width: 2342px) 100vw, 2342px" /></a></p>
+<p><strong>En la parte central de la app tenemos el visor del vídeo.</strong> Aquí se irán mostrando los clips que vayamos grabando, con los distintos filtros que les queramos aplicar, ajustarlos a la proporción 2&#215;2, etc. Es lo que nos permitirá ver cómo avanza nuestro vídeo, clip a clip.</p>
+<p>Justo debajo del visor, <strong>tenemos la fuente de entrada.</strong> Sí, esos tres botones en los que pone <em>“Foto”</em>, <em>“Vídeo”</em> y <em>“Biblioteca”</em>. Nos permitirá elegir de qué va a estar compuesto nuestro clip. O bien de una foto sacada en el acto, o bien de un vídeo grabado en el acto, o bien de una foto o un vídeo de nuestra biblioteca.</p>
+<p>El clip que elijamos o grabemos será al que le podamos aplicar filtros, subtítulos, ponerle voz encima, etc.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163540/Clips-app-de-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163540/Clips-app-de-Apple.jpg" alt="Clips app de Apple" width="2342" height="1932" class="aligncenter size-full wp-image-16529" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163540/Clips-app-de-Apple.jpg 2342w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163540/Clips-app-de-Apple.jpg 242w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163540/Clips-app-de-Apple.jpg 1024w" sizes="(max-width: 2342px) 100vw, 2342px" /></a></p>
+<p><strong>Luego tenemos el botón de grabar y el micrófono.</strong> El botón de grabar nos permitirá iniciar una grabación, tanto de la cámara como de voz. El del micrófono nos permitirá silenciar la entrada de audio. Mezclando estos dos botones podemos añadir nuestros vídeos, darle vida a los títulos, añadir texto dictado pero sin que aparezca nuestra voz, etc.</p>
+<p>Por último, el elemento más importante, <strong>la línea de tiempo.</strong> Aquí veremos los distintos clips que hemos añadido a nuestro vídeo, podremos recortarlos, moverlos de sitio, repetirlos, quitarles el audio, etc.</p>
+<p>No os preocupéis porque ahora veremos todos y cada uno de estos elementos individualmente para sacarle el máximo provecho:</p>
+<h2>Concepto principal de Clips</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163558/Como-usar-Clips.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163558/Como-usar-Clips.gif" alt="Como usar Clips" width="376" height="500" class="aligncenter size-full wp-image-16530" /></a></p>
+<p>Antes de meternos en cada parte individual de la aplicación, <strong>quiero que entendáis el funcionamiento principal de Clips, el cómo graba los vídeos.</strong></p>
+<p>Digamos que por un lado tenemos la entrada de vídeo, y por otro lado la salida.</p>
+<p><strong>La salida es el resultado de vídeo que se añade a la línea de tiempo y que va a formar parte del vídeo final.</strong></p>
+<p><strong>La entrada está compuesta de un vídeo o una foto y el tiempo que queramos nosotros añadir de ese vídeo o esa foto a la línea de tiempo.</strong> Ese <em>“tiempo”</em> viene definido por <strong>el tiempo que dejamos pulsado el botón rojo.</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163618/Como-grabar-Clips.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163618/Como-grabar-Clips.gif" alt="Como grabar Clips" width="376" height="500" class="aligncenter size-full wp-image-16531" /></a></p>
+<p>Pongamos varios ejemplos:</p>
+<ul>
+<li><strong>Si añadimos una foto estática</strong> y dejamos pulsado el botón 20 segundos, se añadirá un clip de 20 segundos con esa foto. Si hablamos, se añadirá esa voz, y si queremos silenciarla, también se silenciará.</li>
+<li><strong>Si queremos grabar un vídeo,</strong> el vídeo durará el tiempo que dejemos pulsado el botón. Es exactamente igual que en otras plataformas como WhatsApp, Instagram, etc.</li>
+<li><strong>Si añadimos un vídeo de la biblioteca,</strong> este no se añadirá por completo ni nada por el estilo. <strong>Tendremos que “grabar sobre ese vídeo”</strong> para que se añada a la línea de tiempo. Imaginemos que cargamos un vídeo de la biblioteca de 20 segundos y queremos sólo añadir 5 segundos de ese vídeo. Nos posicionamos donde queremos que empiecen esos 5 segundos <strong>y dejamos pulsado el botón rojo 5 segundos.</strong> Al soltar, <strong>se habrán añadido a la línea de tiempo los 5 segundos de ese vídeo de 20 segundos.</strong></li>
+</ul>
+<p>Y de esta forma funciona Clips, <em>regrabando</em> lo que queremos añadir a la línea de tiempo. Ahora veamos cómo son en profundidad los distintos apartados de la aplicación y cómo podemos utilizarlos.</p>
+<h2>Subtítulos en Clips</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163640/Subtitulos-en-Clips.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163640/Subtitulos-en-Clips.jpg" alt="Subtitulos en Clips" width="1844" height="1829" class="aligncenter size-full wp-image-16532" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163640/Subtitulos-en-Clips.jpg 1844w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163640/Subtitulos-en-Clips.jpg 202w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163640/Subtitulos-en-Clips.jpg 1024w" sizes="(max-width: 1844px) 100vw, 1844px" /></a></p>
+<p>Como he dicho, <strong>esta pestaña nos permitirá añadir texto dictado simplemente con la voz.</strong></p>
+<p>Para ello, lo único que tenemos que hacer es elegir es el estilo, <strong>elegir el clip sobre el qué queremos que aparezcan</strong> (una foto, un vídeo, un título o incluso en directo grabando un vídeo mientras hablamos) <strong>y dejar pulsado el botón de grabar para que empiece a convertir nuestra voz en texto.</strong></p>
+<p>Probadlo porque las combinaciones que pueden salir son bastante buenas. Estas son algunas que se me ocurren:</p>
+<ul>
+<li>Poner una foto estática y hablar para que salga el texto encima (con nuestra voz incluida)</li>
+<li>Poner un vídeo de la biblioteca y hablar para que salga el texto encima mientras se reproduce el propio vídeo (con nuestra voz encima)</li>
+<li>Poner un título y hablar para que aparezcan las letras sobre el título (con nuestra voz de fondo) <sup class="modern-footnotes-footnote ">1</sup></li>
+<li>Poner uno de los tres elementos antes mencionados, silenciar el audio y dejar que el texto aparezca sin nuestra voz de fondo</li>
+<li>Poner uno de los tres elementos antes mencionados y poner una canción de fondo mientras se reproducen las letras (con o sin nuestra voz)</li>
+</ul>
+<p>Como veis, <strong>de una forma fácil y sencilla podemos meter subtítulos o pequeños clips de texto a nuestras creaciones dictando únicamente con nuestra voz.</strong></p>
+<h2>Filtros de vídeo en Clips</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163657/Filtros-de-video-en-Clips.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163657/Filtros-de-video-en-Clips.jpg" alt="Filtros de video en Clips" width="1844" height="1829" class="aligncenter size-full wp-image-16533" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163657/Filtros-de-video-en-Clips.jpg 1844w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163657/Filtros-de-video-en-Clips.jpg 202w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163657/Filtros-de-video-en-Clips.jpg 1024w" sizes="(max-width: 1844px) 100vw, 1844px" /></a></p>
+<p><strong>Los filtros de vídeo son unas transformaciones del estado normal del vídeo o la imagen.</strong> Los conocemos todos por aplicaciones <a target="_blank" title="MacSfera en Instagram" href="https://www.instagram.com/macsfera">como Instagram</a> y Snapchat, así que tampoco hay mucho que explicar.</p>
+<p><strong>Basta con elegirlos para aplicarlos sobre un vídeo o una foto de la biblioteca, o sobre un clip que vayamos a grabar en ese momento.</strong> Para lo único para lo que no funcionan es para los títulos.</p>
+<p>Una vez elegidos, <strong>se aplicarán y podremos disfrutar de ellos en el vídeo final que grabemos.</strong></p>
+<h2>Iconos en clips</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163715/Iconos-en-Clips.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163715/Iconos-en-Clips.jpg" alt="Iconos en Clips" width="1844" height="1829" class="aligncenter size-full wp-image-16534" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163715/Iconos-en-Clips.jpg 1844w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163715/Iconos-en-Clips.jpg 202w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163715/Iconos-en-Clips.jpg 1024w" sizes="(max-width: 1844px) 100vw, 1844px" /></a></p>
+<p><strong>Los iconos son unos pequeños gráficos que podemos añadir en cualquier parte del vídeo.</strong></p>
+<p>Para añadirlos, basta con elegir uno. <strong>Dentro del vídeo podremos moverlo, rotarlo, cambiarle el tamaño y, si tiene texto, modificarlo.</strong></p>
+<p>Lo único que no podemos hacer es elegir cuándo aparece el icono en ese clip de vídeo que vamos a grabar en ese momento. Estará disponible de principio a fin.</p>
+<p>La lista de iconos está compuesta por dos páginas, <strong>en la primera tenemos algunos gráficos propios de Apple mientras que en la segunda podréis añadir emojis.</strong> Creo que los emojis disponibles son elegidos por Apple, pero no sé si podremos añadir más.</p>
+<p>Si habéis utilizado alguna vez los stickers de Snapchat, no tendréis ningún problema en utilizar estos.</p>
+<h2>Títulos en Clips</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163736/Titulos-en-Clips.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163736/Titulos-en-Clips.jpg" alt="Titulos en Clips" width="1844" height="1829" class="aligncenter size-full wp-image-16535" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163736/Titulos-en-Clips.jpg 1844w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163736/Titulos-en-Clips.jpg 202w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163736/Titulos-en-Clips.jpg 1024w" sizes="(max-width: 1844px) 100vw, 1844px" /></a></p>
+<p>Como os he resumido, <strong>los títulos nos permiten poner texto y audio con un estilo particular y un efecto interesante a modo de introducción, avance de capítulo, presentación, etc.</strong></p>
+<p>Hay 12 diseños, por ahora, <strong>y podemos personalizarlos con nuestro propio texto y nuestro propio audio.</strong></p>
+<p>Elegimos uno de ellos, añadimos el texto <strong>y podemos hacer varias cosas:</strong></p>
+<ul>
+<li>Darle a grabar y meter audio de fondo</li>
+<li>Darle a grabar y no meter audio para que se vea el título sólo</li>
+<li>Darle a grabar y meter un subtítulo que aparezca junto al título predeterminado <sup class="modern-footnotes-footnote ">2</sup></li>
+<li>Darle a grabar y meter música posteriormente</li>
+</ul>
+<p><strong>El resultado va a ser una animación que saque el texto principal y lo mezcle con lo que hayáis decidido acompañar al título.</strong></p>
+<p>Mi consejo es que probéis todos porque cada uno tiene una animación distinta y os puede servir para lo que queráis.</p>
+<p>Un pequeño truco: si veis que no sabéis cómo quitar un título o salir de la zona de títulos, <strong>pulsad sobre el texto <em>“Vídeo”</em> justo encima del botón rojo de <em>“Mantén pulsado para grabar”</em>.</strong></p>
+<h2>Música en Clips</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163805/Musica-en-Clips.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163805/Musica-en-Clips.jpg" alt="Musica en Clips" width="1844" height="1829" class="aligncenter size-full wp-image-16536" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163805/Musica-en-Clips.jpg 1844w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163805/Musica-en-Clips.jpg 202w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163805/Musica-en-Clips.jpg 1024w" sizes="(max-width: 1844px) 100vw, 1844px" /></a></p>
+<p>Por último, y para acabar con las opciones de la barra superior, <strong>está la pestaña de música.</strong> Esta pestaña nos permitirá añadir clips de música a las producciones que hagamos.</p>
+<p>Tenemos dos opciones:</p>
+<ul>
+<li><strong>Añadir música de la biblioteca de Apple:</strong> unos cuantos clips libres de derecho que podemos utilizar para personalizar nuestros vídeos</li>
+<li><strong>Añadir música de nuestra biblioteca de música:</strong> elegir canciones que tengamos en la aplicación Música para que el resultado sea más personalizado</li>
+</ul>
+<p><strong>Me temo que no podremos personalizar cuándo empieza y cuándo acaba el audio,</strong> empezará a sonar al inicio del vídeo y se parará cuando éste acabe o cuando el clip de audio se acabe.</p>
+<p><strong>Al menos sabemos que Apple ha controlado el volumen de forma automática.</strong> Cuando detecte que haya voces, bajará el volumen de la música y la pondrá como música de fondo.</p>
+<h2>El visor de vídeo en Clips</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163836/Visor-de-Clips.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163836/Visor-de-Clips.jpg" alt="Visor de Clips" width="1844" height="1829" class="aligncenter size-full wp-image-16537" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163836/Visor-de-Clips.jpg 1844w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163836/Visor-de-Clips.jpg 202w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163836/Visor-de-Clips.jpg 1024w" sizes="(max-width: 1844px) 100vw, 1844px" /></a></p>
+<p><strong>El visor de vídeo es donde vamos a ver toda nuestra producción,</strong> nos servirá para saber qué estamos grabando, qué hemos grabado, los filtros que estamos aplicando, cómo cuadrar un icono, editar un título, ajustar la posición de un clip, etc.</p>
+<p>Al principio puede parecer un poco lioso, pero basta con tener en cuenta algunas cosas:</p>
+<ul>
+<li><strong>Cuanto vemos el botón rojo de “Mantén pulsado para grabar” es porque vamos a añadir a nuestro vídeo un clip con lo que se vea en el visor.</strong> Da igual si está la cámara activada, si hay una imagen estática o si hay un título. <strong>Para añadirlo a nuestro vídeo tenemos que pulsar ese botón.</strong> Al acabar de grabar, veremos cómo el clip se baja a la barra de tiempo inferior.</li>
+<li><strong>Cuando vemos 3 iconos</strong> (Audio, tijeras, papelera) <strong>es porque hemos elegido un clip de la línea de tiempo y podemos verlo, quitarle el sonido, recortarlo o eliminarlo.</strong> Esto solo afecta a ese clip en particular, no a todo el vídeo entero</li>
+</ul>
+<p>El último dato que hay que saber del visor de vídeo es que cuando añadimos un vídeo o una foto, como tiene una proporción distinta a la del visor, <strong>podemos desplazarlo, ajustarlo, meter zoom, quitarlo, etc.</strong> Pero esto sólo se puede hacer antes de grabar. Una vez que se empieza a grabar o se ha grabado no se puede tocar.</p>
+<h2>La línea de tiempo en Clips</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163856/Timeline-en-Clips.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163856/Timeline-en-Clips.jpg" alt="Timeline en Clips" width="1844" height="1829" class="aligncenter size-full wp-image-16538" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163856/Timeline-en-Clips.jpg 1844w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163856/Timeline-en-Clips.jpg 202w, https://cdn.macsfera.com/wp-content/uploads/2017/04/07163856/Timeline-en-Clips.jpg 1024w" sizes="(max-width: 1844px) 100vw, 1844px" /></a></p>
+<p>Una vez que grabamos algo, <strong>pasa automáticamente a la línea de tiempo.</strong> Es en ese momento cuando el clip pasa a formar parte del vídeo final.</p>
+<p><strong>En la línea de tiempo podremos reproducir todos los clips que componen el vídeo final, alterar su orden y reproducirlos independientemente.</strong></p>
+<p>Desde la línea de tiempo <strong>también podremos editar superficialmente clips individuales:</strong> recortarlos, eliminar el audio y añadir filtros e iconos. Basta con seleccionar el clip adecuado y editarlo en el visor de vídeo como os menciono en el apartado anterior.</p>
+<p>Y, en general, ese es el uso de la línea de tiempo. Es importante comprender que el orden de los clips dicta el orden en el que van a salir en el vídeo final. Como en cualquier programa de edición de vídeo. De modo que si queréis adelantar o atrasar uno, debéis pinchar y arrastrar por la línea de tiempo.</p>
+<h2>Compartir un vídeo en Clips</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163913/Exportar-video-Clips.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/04/07163913/Exportar-video-Clips.gif" alt="Exportar video Clips" width="376" height="500" class="aligncenter size-full wp-image-16539" /></a></p>
+<p>Una vez que hemos metido en la línea de tiempo todos los clips que van a formar nuestro vídeo, <strong>querremos generar el vídeo final que los una todos y que compartiremos por nuestras redes sociales o con nuestros contactos.</strong></p>
+<p>Para ello, lo que tenemos que hacer es <strong>darle a la flecha que hay en la esquina superior izquierda.</strong> Se desplazará el visor para abajo y mostrará todos los vídeos que hemos grabado.</p>
+<p>Basta con seleccionar el que se quiera mandar <strong>y darle al botón de compartir situado en la esquina inferior derecha.</strong> Ahí podremos compartirlo con distintas aplicaciones e incluso guardarlo en el carrete.</p>
+<hr />
+<p class="medio"><iframe width="860" height="860" src="https://twitter.com/i/videos/tweet/850061044290658304" frameborder="0" allowfullscreen></iframe></p>
+<p><strong>Y esto sería un vistazo general de la nueva aplicación Clips de Apple.</strong> Con ella podremos crear vídeos originales y caseros de forma sencilla y rápida. Sorprendentemente rápida.</p>
+<p>En el tiempo que he estado jugando con ella me he dado cuenta del potencial que tiene, para lo sencilla que parece.</p>
+<p><strong>Dictado en directo, procesamiento de efectos en directo, renderizado de títulos y efectos en un instante, y rápido renderizado del vídeo final.</strong></p>
+<p>En un mundo donde cada red social lucha por incorporar su editor de vídeo y foto personal, con sus filtros, sus textos y sus propias herramientas, <strong>Apple ha optado por crear una aplicación capaz de crear contenido a todas ellas.</strong></p>
+<p>Y he de decir que cuenta con algunas características no vistas antes que pueden dar mucho juego a algunas creaciones.</p>
+<p>Sé que no va a ser una aplicación que entre en los anales de la historia por su máxima utilidad, pero como persona que ha dedicado un tiempo de su vida a crear vídeos y editar vídeos, soy capaz de apreciar el gran trabajo que han hecho y el potencial que tiene la app <strong>si consideramos que está siendo ejecutada en un móvil.</strong></p>
+<p><strong>Espero que os haya servido para comprender mejor la aplicación Clips,</strong> que puede ser un poco liosa al principio, pero que una vez que se domina puede servirnos para producir unos vídeos divertidos y originales en muy poco tiempo.</p>
+<p><span class="source">Descarga</span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/clips/id1212699939?mt=8&#038;at=1010l9LC" target="_blank">App Store</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Esto no tiene mucho sentido, pero se puede hacer.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Esto no tiene mucho sentido, pero se puede hacer.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-usar-clips-la-nueva-aplicacion-de-video-de-apple/">Cómo usar Clips: la nueva aplicación de vídeo de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Clips: nueva aplicación de Apple para crear vídeos</title>
+		<link>https://www.MacSfera.com/clips-nueva-aplicacion-apple-crear-videos/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 21 Mar 2017 15:52:16 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Clips]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Susan Prescott]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16469</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/clips-nueva-aplicacion-apple-crear-videos/">Clips: nueva aplicación de Apple para crear vídeos</a></p>
+<p>Las novedades no paran, primero un nuevo iPhone 7 (PRODUCT)RED y luego un nuevo iPad de tamaño normal y propiedades básicas más</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/clips-nueva-aplicacion-apple-crear-videos/">Clips: nueva aplicación de Apple para crear vídeos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/clips-nueva-aplicacion-apple-crear-videos/">Clips: nueva aplicación de Apple para crear vídeos</a></p>
+<div class="galerias medio" data-layout="3" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/03/21164150/Clips-app-de-Apple.gif" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/03/21164153/Clips-app-de-video-de-Apple.gif" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/03/21164156/Clips-app-de-Apple-para-videos.gif" title="" alt="" />
+
+</div>
+<p>Las novedades no paran, primero un <a target="_blank" title="Nuevo iPhone 7 (PRODUCT)RED" href="www.macsfera.com/nuevo-iphone-7-product-red/">nuevo iPhone 7 (PRODUCT)RED</a> y luego un <a target="_blank" title="Nuevo iPad, asekas" href="www.macsfera.com/nuevo-ipad-asekas/">nuevo iPad</a> de tamaño normal y propiedades básicas más barato. <strong>Apple también nos sorprende con una nueva aplicación llamada Clips.</strong></p>
+<p>Esta nueva aplicación, para iPhone y iPad, <strong>busca hacer que el usuario cree vídeos personales y originales de una forma sencilla y directa para conservarlos o compartirlos por las redes sociales.</strong></p>
+<p><span id="more-16469"></span></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.apple.com/newsroom/embed/videos/?embedvideoid=1490052105800" frameborder="0" allowfullscreen></iframe></p>
+<p>Destaca la tecnología de los títulos en vivo, <strong>mediante la cual un usuario puede meter títulos animados en el vídeo usando simplemente su voz.</strong> Además, s<strong>e pueden meter efectos, música, emojis y filtros en todas las creaciones, haciendo que el vídeo sea más personal y original.</strong></p>
+<p><strong>Susan Prescott,</strong> vicepresidenta de Aplicaciones Producto Marketing ha dicho:</p>
+<blockquote>
+<p>Clips ofrece a los usuarios de Phone y iPad una nueva forma de expresarse a través del vídeo, y es increíblemente fácil de usar.</p>
+<p>Los efectos, filtros y los nuevos e increíbles títulos en vivo que hemos diseñado para Clips permiten a cualquier persona hacer vídeos de gran calidad y fácilmente compartibles con solo unos pocos toques.</p>
+</blockquote>
+<p class="medio"><iframe src="https://www.apple.com/newsroom/embed/videos/?embedvideoid=1490051752843" width="860" height="484" allowfullscreen></iframe></p>
+<p>La aplicación no está todavía disponible, pero con ella, <strong>Apple quiere meterse en la producción de contenido propio al alcance de cualquiera</strong> con un formato que estamos viendo constantemente en todas las redes sociales.</p>
+<p>Si mezclamos la potencia de los dispositivos móviles de Apple y la simplicidad de la app, podemos encontrar un buen aliado para los que disfrutamos grabando momentos de nuestras vidas.</p>
+<div class="galerias grande" data-layout="22" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/03/21164710/Clips-para-iPad-con-filtros.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/03/21164715/Clips-para-iPhone-con-filtros.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/03/21164714/Clips-para-iPhone-con-titulo.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2017/03/21164712/Clips-para-iPad-con-titulo.jpg" title="" alt="" />
+
+</div>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/clips-nueva-aplicacion-apple-crear-videos/">Clips: nueva aplicación de Apple para crear vídeos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2015/09/Spotify-en-vez-de-Apple-Music.jpg?simply_static_page=262527">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2015/09/Spotify-en-vez-de-Apple-Music.jpg?simply_static_page=262527";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2015/09/Spotify-en-vez-de-Apple-Music.jpg?simply_static_page=262527">https://www.macsfera.com/wp-content/uploads/2015/09/Spotify-en-vez-de-Apple-Music.jpg?simply_static_page=262527</a></p>
+	</body>
+</html>

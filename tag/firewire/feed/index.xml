@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Firewire &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/firewire/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:53:35 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Apple, el diseño y sus adaptadores</title>
+		<link>https://www.MacSfera.com/apple-el-diseno-y-sus-adaptadores/</link>
+					<comments>https://www.MacSfera.com/apple-el-diseno-y-sus-adaptadores/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2014 09:32:51 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Adaptadores]]></category>
+		<category><![CDATA[Diseño]]></category>
+		<category><![CDATA[Ethernet]]></category>
+		<category><![CDATA[Firewire]]></category>
+		<category><![CDATA[HDMI]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Thunderbolt]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10232</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-el-diseno-y-sus-adaptadores/">Apple, el diseño y sus adaptadores</a></p>
+<p>El otro día un amigo se compró un MacBook Pro Retina, un muy buen equipo con unas características y prestaciones increíbles. Pero</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-el-diseno-y-sus-adaptadores/">Apple, el diseño y sus adaptadores</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-el-diseno-y-sus-adaptadores/">Apple, el diseño y sus adaptadores</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2014/10/Adaptador-FireWire-800-Apple.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2014/10/Adaptador-FireWire-800-Apple.png" alt="Adaptador FireWire 800 Apple" width="710" height="399" class="aligncenter size-full" /></a></p>
+<p>El otro día un amigo se compró un <a href="www.macsfera.com/tag/macbook-pro-retina" title="MacBook Pro Retina" target="_blank" rel="noopener noreferrer">MacBook Pro Retina</a>, un muy buen equipo con unas características y prestaciones increíbles. Pero mi amigo <strong>no entendía por qué pese ser tan buen equipo y tan caro, tenía ciertas carencias en cuanto a puertos de conexión se refería.</strong> Hoy vengo a plasmar el motivo por el que Apple usa accesorios para acceder a puertos universales como un puerto Ethernet.</p>
+<p><span id="more-10232"></span></p>
+<p>Lo primero que pensó mi amigo al ver que esos adaptadores tenían un sobreprecio fue que <strong>Apple lo único que buscaba era sacar dinero,</strong> y no está del todo equivocado, pero hay más razones a parte del dinero.</p>
+<h2>Diseño</h2>
+<p>Sabemos que Apple está obsesionada con el diseño, busca siempre hacer sus dispositivos bonitos, finos, elegantes, etc. y <strong>eso conlleva que a veces haya que hacer una serie de sacrificios.</strong> Del modelo de MacBook Pro normal al unibody se perdió el puerto DVI que nos permitía enchufar nuestro Mac a un monitor externo, y con el cambio el nuevo modelo redujo su grosor. Al pasar del MacBook Pro Unibody al MacBook Pro Retina, <a href="www.macsfera.com/nuevos-accesorios-conversor-magsafe-a-magsafe-2-y-adaptadores-thunderbolt-para-firewire-800-y-ethernet/" title="Nuevos accesorios: conversor MagSafe a MagSafe 2 y adaptadores Thunderbolt para FireWire 800 y Ethernet" target="_blank" rel="noopener noreferrer">se han perdido los puertos Ethernet y Fireware</a>, <strong>y nuevamente el grosor del ordenador ha disminuido.</strong></p>
+<p>De modo que si, Apple elimina componentes estándar de sus equipos con el fin de mejorar sus diseños. Como no puede cambiar el tamaño de esos puertos a voluntad, decide eliminarlos por completo y ofrecer un adaptador propio donde si controla las medidas (como es el caso del puerto Thunderbolt que es el usado para conectar los adaptadores).</p>
+<h2>Usos</h2>
+<p>Otro de los motivos por los que Apple elimina estos puertos es porque <strong>el uso de dichos puertos empieza a ser menor.</strong> Hay mejores puertos para la retransmisión de vídeo, la tecnología de acceso a Internet inalámbrica está presente prácticamente en todos lados (y los Macs puede aprovechar al máximo sus velocidades) y se están estandarizando mucho más los puertos de transferencia de datos como el USB 3.0 o el puerto Thunderbolt.</p>
+<p>Al igual que pasó con las disqueteras, <strong>Apple no ve un problema retirar esos puertos y ofrecer al cliente una sencilla</strong> (aunque costosa) <strong>solución por si quiere recurrir a ellos</strong> nuevamente si eso significa que puede mejorar más sus equipos o su diseño.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2014/10/Puerto-Thunderbolt.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2014/10/Puerto-Thunderbolt.png" alt="Puerto Thunderbolt" width="710" height="396" class="aligncenter size-full" /></a></p>
+<h2>¿Esto justifica el vender accesorios?</h2>
+<p><strong>Si y no.</strong> Por una parte tenemos el punto de vista del cliente: <a href="http://www.linio.com.pe/apple/" target="_blank" rel="noopener noreferrer">los accesorios de Apple</a> son caros y puede suponer una molestia tener que pagar por algo tan básico como un puerto Ethernet en tu equipo. Por otro lado, Apple no solo busca sacar dinero y <strong>esto lo demuestran al incorporar un puerto HDMI en el equipo,</strong> de modo que ya no es necesario comprar un adaptador para conectar un segundo monitor a tu Mac (cosa que no pasaba en las antiguas versiones).</p>
+<h2>Conclusión</h2>
+<p>La conclusión a la que mi amigo y yo llegamos fue que, a pesar de que Apple añade con cuentagotas los puertos a sus equipos, si el estándar del momento no se interpone en su diseño, no hay problema en añadirlo. Pero si su diseño peligra por un solo puerto, buscan una alternativa como es la de vender un adaptador por separado. Prueba de esto es la incorporación del puerto HDMI, un estándar que no ha hecho que su diseño peligre.</p>
+<p><span class="source">Imagen</span> <span class="via"><a href="https://youtu.be/qwv80xl1A3A" target="_blank" rel="noopener noreferrer">Jonathan Morrison TLD</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-el-diseno-y-sus-adaptadores/">Apple, el diseño y sus adaptadores</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/apple-el-diseno-y-sus-adaptadores/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Disponible el adaptador Apple de Thunderbolt a FireWire</title>
+		<link>https://www.MacSfera.com/disponible-el-adaptador-apple-de-thunderbolt-a-firewire/</link>
+					<comments>https://www.MacSfera.com/disponible-el-adaptador-apple-de-thunderbolt-a-firewire/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 01 Aug 2012 20:29:20 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Adaptadores]]></category>
+		<category><![CDATA[Apple Store Online]]></category>
+		<category><![CDATA[Firewire]]></category>
+		<category><![CDATA[MacBook Pro Retina]]></category>
+		<category><![CDATA[Thunderbolt]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7151</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/disponible-el-adaptador-apple-de-thunderbolt-a-firewire/">Disponible el adaptador Apple de Thunderbolt a FireWire</a></p>
+<p>Con la última keynote y sus respectivas novedades, se presentaron unos adaptadores para el MacBook Pro Retina, finalmente el adaptador de Thunderbolt</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/disponible-el-adaptador-apple-de-thunderbolt-a-firewire/">Disponible el adaptador Apple de Thunderbolt a FireWire</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/disponible-el-adaptador-apple-de-thunderbolt-a-firewire/">Disponible el adaptador Apple de Thunderbolt a FireWire</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/08/Adaptador-Apple-de-Thunderbolt-a-FireWire.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/08/Adaptador-Apple-de-Thunderbolt-a-FireWire.png" alt="Adaptador Apple de Thunderbolt a FireWire" title="Adaptador Apple de Thunderbolt a FireWire" width="550" height="347" class="aligncenter size-full wp-image-7152" srcset="https://www.MacSfera.com/wp-content/uploads/2012/08/Adaptador-Apple-de-Thunderbolt-a-FireWire.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/08/Adaptador-Apple-de-Thunderbolt-a-FireWire-300x189.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Con la última keynote y sus respectivas novedades, se presentaron unos <strong><a href="www.macsfera.com/nuevos-accesorios-conversor-magsafe-a-magsafe-2-y-adaptadores-thunderbolt-para-firewire-800-y-ethernet/" title="Nuevos accesorios: conversor MagSafe a MagSafe 2 y adaptadores Thunderbolt para FireWire 800 y Ethernet" target="_blank" rel="noopener noreferrer">adaptadores</a></strong> para el <strong>MacBook Pro Retina</strong>, <strong>finalmente el adaptador de Thunderbolt a FireWire está disponible en la Apple Store on-line.</strong></p>
+<p><span id="more-7151"></span></p>
+<p>En el momento de la presentación, <strong>Apple no puso a la venta este adaptador,</strong> solo puso el adaptador a ethernet y finalmente, <strong>hoy ya podemos adquirirlo.</strong></p>
+<p>La finalidad de este adaptador es simple, <strong>permite utilizar dispositivos con puerto FireWire 800 en el <strong><a href="www.macsfera.com/tag/macbook-pro-retina" title="MacBook Pro Retina" target="_blank" rel="noopener noreferrer">MacBook Pro Retina</a></strong> a través del puerto Thunderbolt</strong> ya que, por diseño, el <strong>FireWire</strong> fue eliminado de los componentes del ordenador.</p>
+<p>Al parecer ha habido un par de problemas al principio de su publicación, <strong>el producto ha aparecido y ha desaparecido,</strong> pero ya está disponible sin ningún problema.</p>
+<p>Compra | <a href="http://store.apple.com/es/product/MD464" target="_blank" rel="noopener noreferrer">Apple</a><br />
+Vía | <a href="http://www.cultofmac.com/182249/apple-starts-selling-then-quietly-pulls-new-thunderbolt-to-firewire-adapter-through-online-store/" target="_blank" rel="noopener noreferrer">Cult Of Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/disponible-el-adaptador-apple-de-thunderbolt-a-firewire/">Disponible el adaptador Apple de Thunderbolt a FireWire</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/disponible-el-adaptador-apple-de-thunderbolt-a-firewire/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lo que Steve Wozniak se lleva en los viajes</title>
+		<link>https://www.MacSfera.com/lo-que-steve-wozniak-se-lleva-en-los-viajes/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 19 Jul 2012 12:48:38 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[AirPort Express]]></category>
+		<category><![CDATA[Batería]]></category>
+		<category><![CDATA[Belkin]]></category>
+		<category><![CDATA[Firewire]]></category>
+		<category><![CDATA[GPS Garmin]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPhone 4S]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[iPod Nano]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[MiFi]]></category>
+		<category><![CDATA[Mochila]]></category>
+		<category><![CDATA[Mophie]]></category>
+		<category><![CDATA[Motorola DROID RAZR]]></category>
+		<category><![CDATA[Mutewatch]]></category>
+		<category><![CDATA[Samsung Galaxy Nexus]]></category>
+		<category><![CDATA[Steve Wozniak]]></category>
+		<category><![CDATA[TSA]]></category>
+		<category><![CDATA[USB]]></category>
+		<category><![CDATA[Viaje]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7026</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/lo-que-steve-wozniak-se-lleva-en-los-viajes/">Lo que Steve Wozniak se lleva en los viajes</a></p>
+<p>Recientemente se ha conseguido sacar una foto con el contenido de la bolsa que suele llevar Steve Wozniak a sus viajes y</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/lo-que-steve-wozniak-se-lleva-en-los-viajes/">Lo que Steve Wozniak se lleva en los viajes</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/lo-que-steve-wozniak-se-lleva-en-los-viajes/">Lo que Steve Wozniak se lleva en los viajes</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Bolsa-de-Steve-Wozniak.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Bolsa-de-Steve-Wozniak.jpeg" alt="Bolsa de Steve Wozniak" title="Bolsa de Steve Wozniak" width="550" height="309" class="aligncenter size-full wp-image-7027" srcset="https://www.MacSfera.com/wp-content/uploads/2012/07/Bolsa-de-Steve-Wozniak.jpeg 550w, https://www.MacSfera.com/wp-content/uploads/2012/07/Bolsa-de-Steve-Wozniak-300x169.jpeg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Recientemente se ha conseguido sacar <strong>una foto con el contenido de la bolsa que suele llevar <a href="www.macsfera.com/tag/steve-wozniak" title="Stev Wozniak" target="_blank" rel="noopener noreferrer">Steve Wozniak</a> a sus viajes</strong> y sinceramente, el contenido de la bolsa es tremendamente caro.</p>
+<p><span id="more-7026"></span></p>
+<p>Ya sabemos que <strong>el co-fundador de Apple es un enamorado de la tecnología</strong> y por eso no es difícil pensar en todo lo que lleva, repasémoslo:</p>
+<ul>
+<li>Cuatro iPhone 4S, dos para él y dos para su esposa.</li>
+<li>Un <strong>MacBook Pro</strong>.</li>
+<li>Dos iPad.</li>
+<li>Un Motorola DROID RAZR.</li>
+<li>Dos Galaxy Nexus.</li>
+<li>Un Kindle.</li>
+<li>Dos iPod Nano (con su respectiva correa).</li>
+<li>Dos aparatos MiFi 3G.</li>
+<li>Dos aparatos MiFi 4G.</li>
+<li>Dos GPS Garmin.</li>
+<li>Dos relojes Mutewatch.</li>
+<li>Un dock Mophie.</li>
+<li>Dos cargadores USB Belkin doble, uno para él y otro para su esposa.</li>
+<li>Cargador de su cámara Canon y de su <strong>MacBook Pro</strong>.</li>
+<li>Varios cables de transferencia de datos (USB, Firewire).</li>
+<li>Un adaptador para MiFi 3G.</li>
+<li>Un teclado físico para iPad.</li>
+<li>Batería extra para los teléfonos.</li>
+<li>Un <strong><a href="www.macsfera.com/tag/airport-express" title="AirPort Express" target="_blank" rel="noopener noreferrer">AirPort Express</a></strong>.</li>
+<li>Un disco duro externo.</li>
+</ul>
+<p>Suele llevar también una GameBoy (y sus respectivos cables), adaptadores de corriente, cascos, binoculares, lápices, plumas y bolis, punteros láser, tarjetas  (de crédito, vuelos, hoteles) y gotas para los ojos.</p>
+<p>Como vemos, una bolsa bien cargada de productos tecnológicos los cuales usará y disfrutará en todos los viajes que hace,  que no son pocos. <strong>El valor total de la mochila puede alcanzar los 25.000 dólares.</strong> <strong>Wozniak</strong> ha añadido:</p>
+<blockquote><p>Algunas personas me preguntan cuan pesada es mi mochila. [&#8230;] Yo suelo decir que mi mochila pesa unas 50 libras (22Kg más o menos). No estoy seguro, pero tengo que llevarla a cada paso por los aeropuertos. Estoy seguro de que soy más bajo que antes y además no suelo andar muy rápido. Todo lo que tengo está en mi mochila.</p>
+<p>A veces la TSA (Trasnportation Security Administration) tarda mucho tiempo en devolvérmela (de todo lo que lleva). Un par de veces me pidieron sacar todo lo electrónico y yo les pregunté si tenían 7 contenedores, los cuales llené, además de mi MacBook Pro y la bolsa. Todo pasó a través de los rayos X y a continuación tuve que volver a meterlo de nuevo.
+</p></blockquote>
+<p>Vía | <a href="http://www.cultofmac.com/179279/inside-steve-wozniaks-amazing-25000-gadget-bag/" target="_blank" rel="noopener noreferrer">Cult Of Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/lo-que-steve-wozniak-se-lleva-en-los-viajes/">Lo que Steve Wozniak se lleva en los viajes</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MacBook Pro con pantalla retina. Su diseño al detalle</title>
+		<link>https://www.MacSfera.com/macbook-pro-con-pantalla-retina-su-diseno-al-detalle/</link>
+					<comments>https://www.MacSfera.com/macbook-pro-con-pantalla-retina-su-diseno-al-detalle/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 12 Jun 2012 12:41:08 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Altavoces]]></category>
+		<category><![CDATA[Batería]]></category>
+		<category><![CDATA[Ethernet]]></category>
+		<category><![CDATA[Firewire]]></category>
+		<category><![CDATA[HDMI]]></category>
+		<category><![CDATA[Kensington]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[MacBook Pro Retina]]></category>
+		<category><![CDATA[MagSafe 2]]></category>
+		<category><![CDATA[Micrófono]]></category>
+		<category><![CDATA[Nuevo MacBook Pro]]></category>
+		<category><![CDATA[Pantalla Retina]]></category>
+		<category><![CDATA[RAM]]></category>
+		<category><![CDATA[Retina Display]]></category>
+		<category><![CDATA[SSD]]></category>
+		<category><![CDATA[SuperDrive]]></category>
+		<category><![CDATA[Thunderbolt]]></category>
+		<category><![CDATA[USB 2]]></category>
+		<category><![CDATA[USB 3]]></category>
+		<category><![CDATA[Ventiladores]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6859</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/macbook-pro-con-pantalla-retina-su-diseno-al-detalle/">MacBook Pro con pantalla retina. Su diseño al detalle</a></p>
+<p>Hace escasas horas Apple ha presentado un nuevo MacBook Pro con pantalla retina y ahora que tenemos toda la información en la</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/macbook-pro-con-pantalla-retina-su-diseno-al-detalle/">MacBook Pro con pantalla retina. Su diseño al detalle</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/macbook-pro-con-pantalla-retina-su-diseno-al-detalle/">MacBook Pro con pantalla retina. Su diseño al detalle</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Nuevo-MacBook-Pro-Pantalla-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Nuevo-MacBook-Pro-Pantalla-Retina.jpg" alt="Nuevo MacBook Pro Pantalla Retina" title="Nuevo MacBook Pro Pantalla Retina" width="550" height="295" class="aligncenter size-full wp-image-6862" srcset="https://www.MacSfera.com/wp-content/uploads/2012/06/Nuevo-MacBook-Pro-Pantalla-Retina.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/06/Nuevo-MacBook-Pro-Pantalla-Retina-300x161.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Hace escasas horas <strong>Apple</strong> ha presentado un <strong><a href="https://www.MacSfera.com/apple-introduce-la-nueva-generacion-de-los-macbook-pro/" title="Apple introduce la nueva generación de los MacBook Pro" target="_blank" rel="noopener noreferrer">nuevo MacBook Pro con pantalla retina</a></strong> y ahora que tenemos toda la información en la web oficial vamos a detallar su diseño.</p>
+<p><span id="more-6859"></span></p>
+<p>El nuevo modelo de la familia Pro <strong>ha disminuido considerablemente su tamaño</strong> alcanzando el grosor del <strong>Macbook Air</strong>. Para conseguirlo han prescindido de la SúperDrive, de un disco duro normal instalando un SSD que aporta más velocidad y eliminando algunos puertos.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Pantalla-Retina-Nuevo-MacBook-Pro.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Pantalla-Retina-Nuevo-MacBook-Pro.png" alt="Pantalla Retina Nuevo MacBook Pro" title="Pantalla Retina Nuevo MacBook Pro" width="550" height="323" class="aligncenter size-full wp-image-6868" srcset="https://www.MacSfera.com/wp-content/uploads/2012/06/Pantalla-Retina-Nuevo-MacBook-Pro.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/06/Pantalla-Retina-Nuevo-MacBook-Pro-300x176.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Solo está disponible en 15,4 pulgadas porque ese ha de ser el tamaño más óptimo para la nueva <strong>pantalla retina,</strong> la cual <strong>Apple</strong> ha sabido extrapolar del iPhone al iPad y luego al <strong>Mac</strong>. La resolución de dicha pantalla es de 2880&#215;1800, además <strong>ha desaparecido el panel de vidrio que protegía las pantallas antes</strong>, con lo que se ha hecho más fina.</p>
+<p>Actualmente los MacBook Pro «respiran» por la unión de la pantalla con el cuerpo, pero en este nuevo modelo <strong>se han hecho nuevas aberturas laterales por las que entra el aire</strong> (a parte de la antes mencionada) y se han creado unos ventiladores que favorecen la eliminación de más cantidad de aire y con menos ruido.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Ventilación-Nuevo-MacBook-Pro-pantalla-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2012/06/Ventilación-Nuevo-MacBook-Pro-pantalla-Retina.jpg" alt="Ventilación Nuevo MacBook Pro pantalla Retina" title="Ventilación Nuevo MacBook Pro pantalla Retina" width="550" height="232" class="aligncenter size-full wp-image-6870" srcset="https://www.MacSfera.com/wp-content/uploads/2012/06/Ventilación-Nuevo-MacBook-Pro-pantalla-Retina.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/06/Ventilación-Nuevo-MacBook-Pro-pantalla-Retina-300x127.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Con estos nuevos componentes se han visto obligados a aumentar notablemente el tamaño de las baterías, pero por desgracia <strong>la duración total ha disminuido a unas 7 horas.</strong></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Puertos-y-conexiones-MacBook-Pro.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Puertos-y-conexiones-MacBook-Pro.png" alt="Puertos y conexiones MacBook Pro" title="Puertos y conexiones MacBook Pro" width="550" height="202" class="aligncenter size-full wp-image-6865" srcset="https://www.MacSfera.com/wp-content/uploads/2012/06/Puertos-y-conexiones-MacBook-Pro.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/06/Puertos-y-conexiones-MacBook-Pro-300x110.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Ahora <strong>los puertos se encuentran a ambos lados del dispositivo.</strong> En el <strong>lateral izquierdo</strong> nos encontramos con un conector <strong>MagSafe 2</strong> (diferente al usado corrientemente), incorpora dos puertos <strong><a href="www.macsfera.com/tag/thunderbolt" title="Thunderbolt" target="_blank" rel="noopener noreferrer">Thunderbolt</a></strong>, un puerto USB 2 compatible con USB 3 y por último una entrada y salida de audio. En el <strong>lateral derecho</strong> tenemos otro puerto USB 2 compatible con USB 3, un puerto HDMI y un lector de tarjetas SD.</p>
+<p>Dos preguntas me planteo con esta configuración: <strong>¿cuántas pantallas se pueden conectar a este nuevo ordenador?</strong>, <strong>¿y el ethernet y el FireWire 800?</strong> Para la primera de momento no tenemos respuesta hasta que no se envíen las primeras unidades, para la segunda, lo que <strong>Apple</strong> ha hecho ha sido lanzar <a href="www.macsfera.com/nuevos-accesorios-conversor-magsafe-a-magsafe-2-y-adaptadores-thunderbolt-para-firewire-800-y-ethernet/" title="Nuevos accesorios: conversor MagSafe a MagSafe 2 y adaptadores Thunderbolt para FireWire 800 y Ethernet" target="_blank" rel="noopener noreferrer">unos adaptadores que se conectan a la entrada <strong>Thunderbolt</strong></a> para proveer de los puertos mencionados.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Altavoces-y-micrófono-MacBook-Pro-Pantalla-Retina.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2012/06/Altavoces-y-micrófono-MacBook-Pro-Pantalla-Retina.png" alt="Altavoces y micrófono MacBook Pro Pantalla Retina" title="Altavoces y micrófono MacBook Pro Pantalla Retina" width="550" height="174" class="aligncenter size-full wp-image-6866" srcset="https://www.MacSfera.com/wp-content/uploads/2012/06/Altavoces-y-micrófono-MacBook-Pro-Pantalla-Retina.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/06/Altavoces-y-micrófono-MacBook-Pro-Pantalla-Retina-300x95.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Para acabar, se han instalado lo que <strong>Apple</strong> considera los mejores altavoces diseñados para un portátil logrando un sonido poderoso y también hemos visto que han insertado un doble micrófono para tener un mejor audio.</p>
+<p>Sin duda un portátil muy potente con un diseño espectacular, pero echamos en falta algunas cosas como el <strong>espacio para un candado kensington</strong> o la posibilidad de cambiar nosotros mismos la RAM (no se puede porque está soldada a la base).</p>
+<p>Su precio empieza en <strong>2.279 € disponible ya en las tiendas on-line.</strong></p>
+<p>Más info e imágenes | <a href="http://www.apple.com/es/macbook-pro/" target="_blank" rel="noopener noreferrer">Apple</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/macbook-pro-con-pantalla-retina-su-diseno-al-detalle/">MacBook Pro con pantalla retina. Su diseño al detalle</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/macbook-pro-con-pantalla-retina-su-diseno-al-detalle/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nuevos accesorios: conversor MagSafe a MagSafe 2 y adaptadores Thunderbolt para FireWire 800 y Ethernet</title>
+		<link>https://www.MacSfera.com/nuevos-accesorios-conversor-magsafe-a-magsafe-2-y-adaptadores-thunderbolt-para-firewire-800-y-ethernet/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 12 Jun 2012 10:58:13 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Adaptadores]]></category>
+		<category><![CDATA[Ethernet]]></category>
+		<category><![CDATA[Firewire]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[MagSafe]]></category>
+		<category><![CDATA[MagSafe 2]]></category>
+		<category><![CDATA[Thunderbolt]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6875</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevos-accesorios-conversor-magsafe-a-magsafe-2-y-adaptadores-thunderbolt-para-firewire-800-y-ethernet/">Nuevos accesorios: conversor MagSafe a MagSafe 2 y adaptadores Thunderbolt para FireWire 800 y Ethernet</a></p>
+<p>Tras la keynote de la WWDC y la presentación de los nuevos MacBook Pro con pantalla retina, Apple ha introducido tres nuevos</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevos-accesorios-conversor-magsafe-a-magsafe-2-y-adaptadores-thunderbolt-para-firewire-800-y-ethernet/">Nuevos accesorios: conversor MagSafe a MagSafe 2 y adaptadores Thunderbolt para FireWire 800 y Ethernet</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevos-accesorios-conversor-magsafe-a-magsafe-2-y-adaptadores-thunderbolt-para-firewire-800-y-ethernet/">Nuevos accesorios: conversor MagSafe a MagSafe 2 y adaptadores Thunderbolt para FireWire 800 y Ethernet</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Conversor-MagSafe-a-MagSafe-2-y-adaptador-Thunderbolt-a-Ethernet.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Conversor-MagSafe-a-MagSafe-2-y-adaptador-Thunderbolt-a-Ethernet.png" alt="Conversor MagSafe a MagSafe 2 y adaptador Thunderbolt a Ethernet" title="Conversor MagSafe a MagSafe 2 y adaptador Thunderbolt a Ethernet" width="550" height="440" class="aligncenter size-full wp-image-6876" srcset="https://www.MacSfera.com/wp-content/uploads/2012/06/Conversor-MagSafe-a-MagSafe-2-y-adaptador-Thunderbolt-a-Ethernet.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/06/Conversor-MagSafe-a-MagSafe-2-y-adaptador-Thunderbolt-a-Ethernet-300x240.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Tras la <strong><a href="www.macsfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/" title="Keynote de la WWDC el lunes 11 de junio" target="_blank" rel="noopener noreferrer">keynote de la WWDC</a></strong> y la presentación de los <strong><a href="www.macsfera.com/apple-introduce-la-nueva-generacion-de-los-macbook-pro/" title="Apple introduce la nueva generación de los MacBook Pro" target="_blank" rel="noopener noreferrer">nuevos MacBook Pro con pantalla retina</a></strong>, Apple ha introducido tres nuevos accesorios: <strong>Un conversor MagSafe y dos adaptadores Thunderbolt.</strong></p>
+<p><span id="more-6875"></span></p>
+<p>El <strong>conversor <a href="www.macsfera.com/tag/magsafe" title="MagSafe" target="_blank" rel="noopener noreferrer">MagSafe</a> a MagSafe 2</strong> nos sirve para utilizar los cargadores que vienen desde los equipos unibody con este nuevo ordenador que se ha visto obligado a reducir el tamaño del puerto, de ese modo, en caso de que se nos rompa el que viene con la caja, <strong>podemos usar alguno que tuviésemos de un modelo anterior.</strong> Este accesorio <strong>tiene un precio de 10€ en la tienda de Apple.</strong></p>
+<p>Los <strong>adaptadores <a href="www.macsfera.com/tag/thunderbolt" title="Thunderbolt" target="_blank" rel="noopener noreferrer">Thunderbolt</a> son unos adaptadores para FireWire 800 y Ethernet</strong> que <strong>Apple</strong> ha diseñado para que podamos cubrir esos puertos en el nuevo dispositivo ya que por grosor se han eliminado. Puesto que tiene dos puertos, <strong>uno lo podemos usar para el adaptador y otro para conectar una pantalla o un disco duro.</strong></p>
+<p>De momento, en la web de <strong>Apple</strong>, <strong>solo está disponible el adaptador a Ethernet, tiene un precio de 29 euros</strong> y solo es compatible con el <strong>MacBook Air</strong> y el <strong>nuevo MacBook Pro</strong>. Cuando tengamos el enlace y especificaciones del adaptador para FireWire 800 lo pondremos.</p>
+<p>Compra | <a href="http://store.apple.com/es/product/MD504" target="_blank" rel="noopener noreferrer">Conversor</a> | <a href="http://store.apple.com/es/product/MD463" target="_blank" rel="noopener noreferrer">Adaptador</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevos-accesorios-conversor-magsafe-a-magsafe-2-y-adaptadores-thunderbolt-para-firewire-800-y-ethernet/">Nuevos accesorios: conversor MagSafe a MagSafe 2 y adaptadores Thunderbolt para FireWire 800 y Ethernet</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple introduce la nueva generación de los MacBook Pro</title>
+		<link>https://www.MacSfera.com/apple-introduce-la-nueva-generacion-de-los-macbook-pro/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 11 Jun 2012 17:42:06 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Ethernet]]></category>
+		<category><![CDATA[Firewire]]></category>
+		<category><![CDATA[Flash]]></category>
+		<category><![CDATA[HDMI]]></category>
+		<category><![CDATA[Kepler]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[MagSafe]]></category>
+		<category><![CDATA[MagSafe 2]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Nueva Generación]]></category>
+		<category><![CDATA[Pantalla Retina]]></category>
+		<category><![CDATA[Retina Display]]></category>
+		<category><![CDATA[Thunderbolt]]></category>
+		<category><![CDATA[Trackpad]]></category>
+		<category><![CDATA[USB 2]]></category>
+		<category><![CDATA[USB 3]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6816</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-introduce-la-nueva-generacion-de-los-macbook-pro/">Apple introduce la nueva generación de los MacBook Pro</a></p>
+<p>Apple ha introducido la nueva generación de los MacBook Pro en su línea de portátiles súper fino. En la keynote de apertura</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-introduce-la-nueva-generacion-de-los-macbook-pro/">Apple introduce la nueva generación de los MacBook Pro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-introduce-la-nueva-generacion-de-los-macbook-pro/">Apple introduce la nueva generación de los MacBook Pro</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Próxima-generación-MacBook-Pro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Próxima-generación-MacBook-Pro.jpg" alt="Próxima generación MacBook Pro" title="Próxima generación MacBook Pro" width="550" height="364" class="aligncenter size-full" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> <strong>ha introducido la nueva generación de los MacBook Pro en su línea de portátiles súper fino.</strong></p>
+<p><span id="more-6816"></span></p>
+<p>En la <strong><a href="www.macsfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/" title="Keynote de la WWDC el lunes 11 de junio" target="_blank" rel="noopener noreferrer">keynote de apertura de la WWDC</a></strong> se ha enseñado <strong>los nuevos modelos de MacBook Pro los cuales son tan delgados como el MacBook Air, tienen Retina Display con un tamaño de 15,4&#8243; la cual tiene una resolución de 2880&#215;1800.</strong></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Próxima-generación-MacBook-Pro-Retina-Display.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Próxima-generación-MacBook-Pro-Retina-Display.jpg" alt="Próxima generación MacBook Pro Retina Display" title="Próxima generación MacBook Pro Retina Display" width="550" height="364" class="aligncenter size-full" /></a></p>
+<p>Se ha utilizado el <strong>procesador Intel Core i7,</strong> aumento de la batería aunque la duración baja a 7 horas, se puede colocar <strong>hasta 16 GB de memoria RAM,</strong> usa la <strong>siguiente generación Kepler de memorias gráficas</strong> y con un disco duro en <strong>memoria flash de 768GB.</strong></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Próxima-generación-MacBook-Pro1.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Próxima-generación-MacBook-Pro1.jpg" alt="Próxima generación MacBook Pro" title="Próxima generación MacBook Pro" width="550" height="364" class="aligncenter size-full" /></a></p>
+<p>Por otro lado un pequeño rediseño, <strong>en la parte izquierda nueva conexión MagSafe 2, 2 puertos Thunderbolt, USB3 y 2 en uno mismo y puerto para cascos. En el lado derecho USB 3 y 2, conector HDMI y una ranura para tarjetas SD.</strong></p>
+<p>Se añaden <strong>dos transformadores Thunderbolt,</strong> uno para FireWire 800 y el otro para la conexión ethernet, teclado retroiluminado, dos micrófonos, trackpad multitáctil y Bluetooth 4.0.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/06/Nuevos-MacBook-Pro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/06/Nuevos-MacBook-Pro.jpg" alt="Nuevos MacBook Pro" title="Nuevos MacBook Pro" width="550" height="364" class="aligncenter size-full" /></a></p>
+<p>El precio es caro, <strong>los ordenadores empiezan en 2.199 dólares y están a la venta hoy.</strong></p>
+<p>Imágenes | <a href="http://live.theverge.com/wwdc-2012-live-blog/" target="_blank" rel="noopener noreferrer">The Verge</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-introduce-la-nueva-generacion-de-los-macbook-pro/">Apple introduce la nueva generación de los MacBook Pro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ByteDock, una estación base para tu Mac más accesible</title>
+		<link>https://www.MacSfera.com/bytedock-una-estacion-base-para-tu-mac-mas-accesible/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 09 Sep 2011 13:53:07 +0000</pubDate>
+				<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ByteDock]]></category>
+		<category><![CDATA[Dock]]></category>
+		<category><![CDATA[DVI]]></category>
+		<category><![CDATA[Ethernet]]></category>
+		<category><![CDATA[Firewire]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Mini DisplayPort]]></category>
+		<category><![CDATA[Thunderbolt]]></category>
+		<category><![CDATA[USB]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4880</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bytedock-una-estacion-base-para-tu-mac-mas-accesible/">ByteDock, una estación base para tu Mac más accesible</a></p>
+<p>ByteDock es una nueva estación base con forma de dock para tu MacBook Pro de 13, 15 o 17 pulgadas en el</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bytedock-una-estacion-base-para-tu-mac-mas-accesible/">ByteDock, una estación base para tu Mac más accesible</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bytedock-una-estacion-base-para-tu-mac-mas-accesible/">ByteDock, una estación base para tu Mac más accesible</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/bytedock.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/bytedock.png" alt="" title="bytedock" width="550" height="268" class="aligncenter size-full wp-image-4883" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/bytedock.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/09/bytedock-300x146.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>ByteDock</strong> es una nueva estación base con forma de dock para tu <strong><a href="www.macsfera.com/tag/macbook-pro" title="MacBook Pro" target="_blank" rel="noopener noreferrer">MacBook Pro</a></strong> de 13, 15 o 17 pulgadas en el que lo tienes todo incluido sin desperdiciar ninguna función.</p>
+<p><span id="more-4880"></span></p>
+<p><strong>ByteDock</strong> permite colocar tu <strong><a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a></strong> cerrado y de forma vertical con los conectores hacia abajo para que puedas tener mucho más recogido todo el escritorio <strong>en caso de usar una pantalla externa o TV.</strong></p>
+<p>Lo bueno que tiene esta base es que aunque <strong>los conectores queden ocultos</strong>, hay unos hembra en la parte frontal y trasera del accesorio de modo que no se desperdician y puedes utilizar todo lo utilizable. Cuenta con un puerto <strong>Ethernet</strong>, un <strong>FireWire 800</strong>, un <strong>DVI</strong>, el nuevo puerto <strong><a href="www.macsfera.com/tag/thunderbolt" title="Thunderbolt" target="_blank" rel="noopener noreferrer">Thunderbolt</a></strong> (que también es <strong>Mini DisplayPort</strong>), <strong>dos USBs</strong> y un puerto de <strong>entrada</strong> y otro de <strong>salida de audio.</strong></p>
+<p>Lo que me gusta de este dock es que todos los cables y conexiones las lleva en su interior, puede que aumente el peso del accesorio pero, todo va en el interior de modo que es más cómodo, tan solo tienes que conectar el cargador <strong>MagSafe</strong> aparte y luego meterlo en la estación.</p>
+<p>Viene muy bien sobre todo si tienes una pantalla externa que actúa de principal con un teclado externo, yo es así como lo tengo y el ordenador abierto ocupa bastante espacio, que aunque se puede tener, <strong>quedaría mejor si estuviera de forma vertical.</strong> Donde de verdad creo que sería obligatorio tenerlo es <strong>si utilizamos una tele y nuestro Mac funciona como equipo multimedia</strong> porque resulta que es 100% compatible con el <strong>Apple Remote</strong>.</p>
+<p>El <strong>ByteDock</strong> tiene un precio de <strong>172 euros</strong> (149,99£) y lo podemos comprar desde su web hoy mismo.</p>
+<p><iframe width="550" height="335" src="http://www.youtube.com/embed/N4PJcvMnZSQ" frameborder="0" allowfullscreen></iframe></p>
+<p>Web | <a href="http://www.byte-dock.com/" target="_blank" rel="noopener noreferrer">ByteDock</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bytedock-una-estacion-base-para-tu-mac-mas-accesible/">ByteDock, una estación base para tu Mac más accesible</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuevos MacBook Pro renovados con muy buena pinta</title>
+		<link>https://www.MacSfera.com/nuevos-macbook-pro-renovados-con-muy-buena-pinta/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2011 16:05:53 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[AirPort]]></category>
+		<category><![CDATA[AMD]]></category>
+		<category><![CDATA[Cámara FaceTime HD]]></category>
+		<category><![CDATA[Cámaras]]></category>
+		<category><![CDATA[Express Car]]></category>
+		<category><![CDATA[Facetime]]></category>
+		<category><![CDATA[Firewire]]></category>
+		<category><![CDATA[Intel Core i5]]></category>
+		<category><![CDATA[Intel Core i7]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Pantalla Antirreflejante]]></category>
+		<category><![CDATA[Pantalla Reflejante]]></category>
+		<category><![CDATA[Sandy Bridge]]></category>
+		<category><![CDATA[SuperDrive]]></category>
+		<category><![CDATA[Thunderbolt]]></category>
+		<category><![CDATA[Unibody]]></category>
+		<category><![CDATA[USB]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1301</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevos-macbook-pro-renovados-con-muy-buena-pinta/">Nuevos MacBook Pro renovados con muy buena pinta</a></p>
+<p>Tal y como predijimos, los nuevos MaBook Pro se asoman por las Apple Store y traen más o menos lo hablado hasta</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevos-macbook-pro-renovados-con-muy-buena-pinta/">Nuevos MacBook Pro renovados con muy buena pinta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevos-macbook-pro-renovados-con-muy-buena-pinta/">Nuevos MacBook Pro renovados con muy buena pinta</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/MacBook-Pro-2011.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/MacBook-Pro-2011.png" alt="" title="MacBook Pro 2011" width="550" height="283" class="aligncenter size-full wp-image-3438" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/MacBook-Pro-2011.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/02/MacBook-Pro-2011-300x154.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Tal y como predijimos, los nuevos <strong><a href="www.macsfera.com/tag/macbook-pro" title="MacBook Pro">MaBook Pro</a></strong> se asoman por las <strong>Apple Store</strong> y traen más o menos lo hablado hasta el momento.<br />
+<span id="more-1301"></span><br />
+Emepecemos:</p>
+<h2>Especificaciones de diseño</h2>
+<p>Los nuevos <strong>MacBook Pro</strong> <strong>siguen conservando su carcasa unibody de aluminio</strong> (desechamos la opción del <strong>LiquidMetal</strong>). Incorporan una <strong>cámara FaceTime HD</strong> más fina que la del <strong>iPhone 4</strong> para que pueda competir con algunos periféricos que han salido al mercado recientemente. Incluye un puerto <strong><a href="www.macsfera.com/tag/thunderbolt" title="Thunderbolt">Thunderbolt</a></strong> que permite una transmisión de datos de 10 Gb/s y conservan los <strong>puertos USB, Firewire 800, y en caso del modelo de 17&#8243; la Express Car.</strong></p>
+<p>El grabador de DVD ahora <strong>alcanza una velocidad muy elevada ya que incluye SuperDrive a 8x</strong> y puedes grabar discos de doble capa.</p>
+<p>En los modelos de 15&#8243; y 17&#8243; <strong>se pueden escoger un tipo de pantalla distinto,</strong> bien el <strong>reflejante</strong> como hasta ahora, o el <strong>Antirreflectante</strong> que es más o menos como el del <strong>MacBook Air</strong>.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/MacBook-Pro-2011.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/MacBook-Pro-2011.jpg" alt="" title="MacBook Pro 2011" width="550" height="335" class="aligncenter size-full wp-image-3439" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/MacBook-Pro-2011.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/02/MacBook-Pro-2011-300x183.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<h2>Componentes internos</h2>
+<p>Vienen con procesadores <strong>Core i5 e i7 con Sandy Bridge</strong> cada uno aportando mayor velocidad.</p>
+<p>Los modelos de 15 y 17&#8243; <strong>incluyen gráficas AMD Radeon 3000</strong> que permite trabajar con proyectos en HD, agilizar la conexión de <strong>FaceTime</strong> para una llamada en HD.</p>
+<p>Las baterías <strong>reducen su capacidad en cuanto a tiempo</strong> porque aguantan un máximo de 7 horas aunque visto que todos vienen con Cores i5 e i7 y esas gráficas va muy bien.</p>
+<p><strong>Con AirPort te puedes conectar a tu iPhone y compartir la conexión 3G</strong> siempre y cuando tu operador te lo permita.</p>
+<h2>Precios</h2>
+<h3>MacBook Pro 13&#8243;</h3>
+<p>Core i5 2,3 GHz de doble núcleo, 4 GB de RAM y 320 GB de disco duro por 1.149€.<br />
+Core i7 2,7 GHz de doble núcleo, 4 GB de RAM y 500 GB de disco duro por 1.449€.</p>
+<h3>MacBook Pro 15&#8243;</h3>
+<p>Core i7 a 2 GHz de cuatro núcleos, 4 GB de RAM y 500 GB de disco duro por 1.749€.<br />
+Core i7 a 2,2 GHz de cuatro núcleos, 4 GB de RAM y 750 GB de disco duro por 2.149€.</p>
+<h3>MacBook Pro 17&#8243;</h3>
+<p>Core i7 a 2,2 GHz de cuatro núcleos, 4 GB de RAM y 750 GB de disco duro de 2.499€.</p>
+<p>A mi punto de vista no están tan mal, van bastante bien y tienen muy buena pinta, intentaremos contar más cosas y especificaciones de los nuevos complementos más a fondo.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevos-macbook-pro-renovados-con-muy-buena-pinta/">Nuevos MacBook Pro renovados con muy buena pinta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Review del hardware del MacBook Pro 13&#8243;</title>
+		<link>https://www.MacSfera.com/review-del-hardware-del-macbook-pro-13/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 04 Aug 2010 13:17:00 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Ethernet]]></category>
+		<category><![CDATA[Firewire]]></category>
+		<category><![CDATA[iSight]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[MagSafe]]></category>
+		<category><![CDATA[Mini DisplayPort]]></category>
+		<category><![CDATA[Trackpad]]></category>
+		<category><![CDATA[USB]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/08/review-del-hardware-del-macbook-pro-13/</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/review-del-hardware-del-macbook-pro-13/">Review del hardware del MacBook Pro 13&#8243;</a></p>
+<p>Hoy he decidido agregar a este blog un post sobre el hardware de mi MacBook Prode 13&#8243;, es decir, para aquel que</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/review-del-hardware-del-macbook-pro-13/">Review del hardware del MacBook Pro 13&#8243;</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/review-del-hardware-del-macbook-pro-13/">Review del hardware del MacBook Pro 13&#8243;</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2010/08/carcasa-macbook-pro.png"><img src="http://cdn.MacSfera.com/wp-content/uploads/2010/08/carcasa-macbook-pro.png" alt="" title="carcasa macbook pro" width="550" height="186" class="alignnone size-full wp-image-3040" srcset="https://www.MacSfera.com/wp-content/uploads/2010/08/carcasa-macbook-pro.png 550w, https://www.MacSfera.com/wp-content/uploads/2010/08/carcasa-macbook-pro-300x101.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Hoy he decidido agregar a este blog un post sobre el hardware de <a href="www.macsfera.com/nuevo-macbook-pro-para-el-blog/">mi MacBook Prode 13&#8243;</a>, es decir, para aquel que no se entere mucho del significado de la palabra, todo lo relaccionado con los puertos, el teclado, la pantalla, etc.orientarse<br />
+Es bastante simple.</p>
+<p><span id="more-136"></span></p>
+<p>Cuenta con la toma de carga <strong>MagSafe</strong> que es un imán, por si acaso alguna vez se desconecta de forma espontánea y a lo bestia, el cargador se soltaría y el ordenador no se movería de su sitio, algo que no pasaría con otros ordenadores al estar encajado a la carcasa.</p>
+<p>También aprovecho para mencionar que el diseño del adaptador que se conecta con la pieza unibody puede ser muy útil o un poco puñetero, ¿por qué? porque su diseño en función de donde se encuentre el enchufe, puede orientarse de una forma u otra, cuando el enchufe se encuentra en un punto que no está en la misma línea recta del cable, este acaba por doblarse y acaba deformándose e incluso rompiéndose, si se encuentra en la línea, puede conectarse de la forma buena o la regular tirando a mala.</p>
+<p>La buena es cuando el cabe va en linea recta por detrás del ordenador en línea recta, el cable más cercano a la toma de la batería está en línea recta y no sufre, ningún puerto queda anegado.</p>
+<p>La forma regular tirando a mal es la misma forma que la buena solo que el cable va paralelo al ordenador siguiendo la trayectoria de los puertos, de tal manera que el puerto de ethernet y el firewire 800 quedan ocultados sin posibilidad de utilizarlo y los demás puertos quedan ocultados, si se quieren utilizar hay que forzar un poco el cable y creedme, viendo el precio de un cargador a parte, no hace mucha gracia forzarlo, por muy poco que sea.</p>
+<ul>
+<li>Cuenta con el puerto <strong>ethernet</strong>, en caso de no disponer de una red Wi-Fi que utilizar, simplemente lo conectamos y listo.</li>
+<li>Trae un puerto <strong>firewere 800</strong> que nos permite transmitir datos de un sitio a otro con una velocidad superior.</li>
+<li>Un puerto <strong>Mini DisplayPort</strong> que nos sirve para conectar el <strong>Mac</strong> a un monitor externo (que sea de la propia marca) o con un adaptador de <strong>Apple</strong> (para monitores de otra marca).</li>
+<li>Incorpora dos puertos <strong>USB 2.0</strong> que pueden parecer escasos, pero en caso de necesitar más, podemos comprar un amplificador para contar con más unidades.</li>
+<li><strong>Ranura para tarjetas de memoria SD</strong>, nos sirve para cualquier cámara de fotos o video, un marco digital, etc&#8230; También existen adaptadores que conectando a la ranura con forma SD podemos insertar tarjetas con otros formatos.</li>
+<li><strong>Salida y entrada de audio</strong>, cuando queramos conectar unos altavoces o unos cascos, he leído que también sirve para micrófonos, pero es algo que debo de comprobar.</li>
+<li>Los famosos <strong>8 LED indicadores de la batería</strong>, son muy útiles si queremos saber cual es más o menos la carga de la batería.</li>
+<li>En el frontal encontramos una <strong>ranura de infrarrojos</strong> para los controles externos (mando que se compra a parte) y también una pequeña <strong>luz en forma rectangular de color blanco </strong>que nos indica si el ordenador está en suspensión o si la pantalla está apagada que el disco duro rígido está en funcionamiento.</li>
+<li>En el otro lateral hayamos una <strong>ranura de seguridad</strong> y la <strong>unidad de CDs y DVDs</strong>.</li>
+</ul>
+<p>En el interior:</p>
+<ul>
+<li>Su <strong>trackpad</strong> es un único botón que funciona como el del click de un ratón normal, para acceder al click secundario o click derecho, podemos darle con dos dedos, pulsando ctrl+click o configurándolo para que las esquinas inferiores izquierda y derecha sean el click secundario. Además es multitactil, de modo que si hacemos un gesto con dos dedos en una dirección, el Mac hace una cosa, y si lo hacemos en otra dirección o con más dedos, éste, responde de otra manera.</li>
+<li>Cuenta con un <strong>teclado retroiluminado</strong>, cuando la luz no es la suficiente, éste se enciende. Cuenta con los botones de fn, cntrl y alt, al igual que en un PC, pero incluye uno nuevo, <strong>cmd</strong>, que sustituye la mayoría de los comandos que se ejecutan en Windows con cntrl. A la altura de los botones F1, F2, F3, etc&#8230; tenemos unos accesos directos a funciones del <strong>Mac</strong>, como en un PC, pero sin la necesidad de pulsar fn+Fx, simplemente lo pulsamos. Tenemos el de la <strong>intensidad del brillo de la pantalla</strong>, el de <strong>todas las ventanas</strong>, para sacar el <strong>dashboard</strong>, para controlar el <strong>brillo del teclado</strong>, <strong>controles de canciones</strong> (retroceder, Play/pausa, Avanzar), <strong>silenciar, disminuir o aumentar el volumen</strong> y el de <strong>expulsar un CD</strong>.</li>
+<li>Encima de la tecla esc cuenta con una serie de agujero que actúan de <strong>micrófono</strong>.</li>
+<li>Una <strong>pantalla de 13 pulgadas</strong> retroiluminada por LED.</li>
+<li><strong>Cámara iSide</strong> integrada en el frontal de la pantalla, queda medio oculta, de modo que no pega fuerte impacto visual. Cuando ésta se enciende, un LED verde se enciende a su izquierda.</li>
+<li>A la derecha de la <strong>Cámara iSight</strong> tiene un <strong>sensor de luz</strong> que es la que controla el brillo de la pantalla y la luz del teclado de forma automática.</li>
+<li>Cuenta con las<strong> conexiones</strong> por Bluetooth y por Wi-Fi.</li>
+</ul>
+<p>Eso sería básicamente el hardware del <strong>MacBook Pro de 13&#8243;</strong> sin mencionar los chips, la RAM y demás.<br />
+Éste es el vídeo que he hecho para que se aclaren algunas cosas que pueden ser confusas en texto.</p>
+<div style="text-align: center;"><iframe width="550" height="335" src="http://www.youtube.com/embed/QBKeKAcNxtE" frameborder="0" allowfullscreen></iframe></div>
+<p>&nbsp;</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/review-del-hardware-del-macbook-pro-13/">Review del hardware del MacBook Pro 13&#8243;</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

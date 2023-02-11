@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Reinstalar macOS &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/reinstalar-macos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sat, 02 Dec 2017 10:28:15 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Recuperación por Internet: cuando el modo Recovery no es suficiente</title>
+		<link>https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/</link>
+					<comments>https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2016 16:13:31 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Recovery]]></category>
+		<category><![CDATA[Recuperación por Internet]]></category>
+		<category><![CDATA[Reinstalar macOS]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15664</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/">Recuperación por Internet: cuando el modo Recovery no es suficiente</a></p>
+<p>La semana pasada, a parte de un ataque masivo a medio Internet, yo tuve mi pequeña batalla personal con el mundo tecnológico:</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/">Recuperación por Internet: cuando el modo Recovery no es suficiente</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/">Recuperación por Internet: cuando el modo Recovery no es suficiente</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175639/Recuperacion-Internet-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175639/Recuperacion-Internet-macOS.jpg" alt="Recuperacion Internet macOS" width="2500" height="1875" class="aligncenter size-full wp-image-15666" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175639/Recuperacion-Internet-macOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27175639/Recuperacion-Internet-macOS.jpg 267w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27175639/Recuperacion-Internet-macOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La semana pasada, a parte de un ataque masivo a medio Internet, yo tuve mi pequeña batalla personal con el mundo tecnológico: <strong>mi iMac fallaba como nunca y por eso decidí intervenir a base de formateo y reinstalación.</strong></p>
+<p>Hoy os vengo a contar <strong>qué hacer cuando el modo Recovery no es suficiente y hay que recurrir al modo Recuperación por Internet.</strong></p>
+<p><span id="more-15664"></span></p>
+<p>Cuando actualicé a <a target="_blank"title="macOS Sierra" href="www.macsfera.com/tag/sierra">macOS Sierra</a> todo iba bien, hasta que un día empecé a notar que algunas tareas sencillas hacían aparecer la pelota de playa con más frecuencia de la que me gustaría reconocer.</p>
+<p>Poco a poco las tareas con las que se bloqueaba aumentaron, al igual que el tiempo de bloqueo, resultando imposible hacer nada con él.</p>
+<p>Así que la solución era sencilla: <strong>formateo e instalo macOS Sierra de cero.</strong> No hay nada como una instalación limpia para evitar arrastrar errores en el sistema.</p>
+<p>Para ello usé el modo Recovery, <strong>una utilidad de Apple para <a target="_blank"title="Recovery: cómo reinstalar macOS" href="www.macsfera.com/recovery-reinstalar-macos/">reinstalar macOS</a>.</strong> Este modo nos provee de herramientas necesarias para formatear e instalar una copia del sistema actual que tengamos, y se manifiesta como una partición del disco ocult, que está disponible para nosotros siempre que queramos invocarla.</p>
+<p>En vista de que todo el sistema me iba fatal, llegué a pensar que me resultaría imposible reinstalarlo, <strong>pero curiosamente el modo Recovery iba genial en cuanto a velocidad.</strong> No mostraba ningún síntoma de fallo o inestabilidad.</p>
+<p>Pero cuando intenté formatear el disco, <strong>éste me arrojó distintos errores que me impidieron realizar la acción.</strong></p>
+<p>Para salir del paso <strong>intenté reinstalar macOS sin formatear,</strong> para ver si luego podía volver a acceder al modo Recovery y reinstalar todo, <strong>pero curiosamente no pude,</strong> otro error me lo impidió.</p>
+<h2>Recuperación por Internet como solución</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175855/Instalando-macOS-Mountain-Lion-como-recuperacion-por-Internet.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175855/Instalando-macOS-Mountain-Lion-como-recuperacion-por-Internet.jpg" alt="Instalando macOS Mountain Lion como recuperacion por Internet" width="2500" height="1875" class="aligncenter size-full wp-image-15667" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175855/Instalando-macOS-Mountain-Lion-como-recuperacion-por-Internet.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27175855/Instalando-macOS-Mountain-Lion-como-recuperacion-por-Internet.jpg 267w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27175855/Instalando-macOS-Mountain-Lion-como-recuperacion-por-Internet.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ahí fue cuando me vi en las últimas. Pensaba que era fallo del disco duro y me iba a tocar abrir el ordenador, cambiarle el disco duro y volver a montarlo, <strong>pero de casualidad me encontré con el modo Recuperación por Internet y mis problemas se solucionaron.</strong></p>
+<p><strong>Resulta que este modo carga una imagen igual que Recovery pero basada en el sistema operativo con el que compramos el Mac.</strong> En mi caso, es un iMac de 2012 así que el modo me puso toda la interfaz de Mountain Lion.</p>
+<p>Yo esto, a la hora de ejecutar el modo, no lo sabía, así que imaginad mi cara al ver esa interfaz que llevaba tiempo sin ver.</p>
+<p>Ya os digo, <strong>este modo es exactamente igual que el Recovery,</strong> así que vais a tener las mismas herramientas. De modo que el proceso que iba a intentar era el mismo:</p>
+<ul>
+<li>Intentar formatear el disco duro</li>
+<li>Intentar instalar Mountain Lion</li>
+<li>Actualizar a macOS Sierra desde Mountain Lion</li>
+</ul>
+<p><strong>Y curiosamente funcionó.</strong> La herramienta Utilidad de discos me dejó formatear el disco duro sin problemas, y fui capaz de ejecutar el instalador de Mountain Lion a la primera y sin ningún error en la ejecución.</p>
+<p>Tras configurar Mountain Lion, lo primero que hice fue actualizar a Sierra y una vez hecho, <strong>volví a entrar en el modo Recovery para instalarlo de cero desde el propio Sierra.</strong></p>
+<p>Nuevamente, <strong>todo salió bien y sin problemas.</strong></p>
+<h2>Cómo acceder al modo Recuperación por Internet</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/02112750/Entrar-al-modo-recuperacion-por-Internet-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/02112750/Entrar-al-modo-recuperacion-por-Internet-macOS.jpg" alt="Entrar al modo recuperacion por Internet macOS" width="2407" height="1518" class="aligncenter size-full wp-image-16772" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/02112750/Entrar-al-modo-recuperacion-por-Internet-macOS.jpg 2407w, https://cdn.macsfera.com/wp-content/uploads/2016/10/02112750/Entrar-al-modo-recuperacion-por-Internet-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/02112750/Entrar-al-modo-recuperacion-por-Internet-macOS.jpg 1024w" sizes="(max-width: 2407px) 100vw, 2407px" /></a></p>
+<p>Para acceder al modo Recuperación por Internet, lo único que hay que hacer es pulsar las teclas <strong>mayúsculas+cmd+alt+R</strong> cuando el ordenador se acabe de encender o se esté reiniciando.</p>
+<p>Aparecerá una bola del mundo y una barra de progreso. Cuando la barra se complete, <strong>podremos acceder a todas las herramientas disponibles.</strong></p>
+<p>Pensad que el proceso depende enteramente de Internet, así que la velocidad de ejecución dependerá de la velocidad de vuestra conexión.</p>
+<hr />
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/27180754/iMac-recuperado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/27180754/iMac-recuperado.jpg" alt="iMac recuperado" width="2500" height="1667" class="aligncenter size-full wp-image-15669" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/27180754/iMac-recuperado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27180754/iMac-recuperado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27180754/iMac-recuperado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Podéis leer <a target="_blank"href="https://twitter.com/PabloAsekas/status/789472158825246720">este hilo en Twitter</a> en el que estuve contando todos y cada uno de los pasos que di desde que inicié el proceso hasta que encontré la solución:</strong> modo recovery, modo seguro, intento de recuperación de datos, recuperación por Internet, diversos fallos, etc.</p>
+<p>Ha sido una alegría poder recuperar el ordenador sin necesidad de abrirlo y sabiendo que no es un fallo mayor, aparentemente.</p>
+<p><strong>Todavía estoy en modo observación porque no me fío de que el fallo se vuelva a repetir,</strong> al fin y al cabo, cuando me empezó a fallar no fue algo que ocurrió de la noche a la mañana, sino que fue progresivo.</p>
+<p>De todas formas, ya sabéis que aunque el modo Recovery no os ayude, <strong>podéis intentar usar el modo Recuperación por Internet para salir del paso</strong> y así evitar visitar el servicio técnico de Apple.</p>
+<p>Si esto no funciona, no dudéis en llevarlo al servicio técnico  donde le harán un diagnóstico completo y os darán detalles sobre el error. Es posible que no sea un fallo por software sino que haya algún componente afectado, de modo que ellos van a ser los que mejor lo detecten.</p>
+<p>A mí me ha salido bien, por eso he querido compartir con vosotros el caso, no vaya a ser que a alguno le ocurra algo similar y se ahorre el disgusto <strong>gracias al modo Recuperación por Internet.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/">Recuperación por Internet: cuando el modo Recovery no es suficiente</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

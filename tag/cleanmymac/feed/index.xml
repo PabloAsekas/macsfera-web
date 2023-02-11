@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CleanMyMac &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/cleanmymac/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:22:25 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Setapp ya disponible en su versión final</title>
+		<link>https://www.MacSfera.com/setapp-ya-disponible-en-su-version-final/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 25 Jan 2017 15:52:01 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[CleanMyMac]]></category>
+		<category><![CDATA[Focused]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[MacPaw]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Setapp]]></category>
+		<category><![CDATA[Ulysses]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16293</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/setapp-ya-disponible-en-su-version-final/">Setapp ya disponible en su versión final</a></p>
+<p>A principios de diciembre os introduje un nuevo servicio llamado Setapp, un servicio de apps a la carta para que podamos usar</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/setapp-ya-disponible-en-su-version-final/">Setapp ya disponible en su versión final</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/setapp-ya-disponible-en-su-version-final/">Setapp ya disponible en su versión final</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/25164706/Setapp.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/25164706/Setapp.jpg" alt="Setapp" width="1440" height="1024" class="aligncenter size-full wp-image-16295" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/25164706/Setapp.jpg 1440w, https://cdn.macsfera.com/wp-content/uploads/2017/01/25164706/Setapp.jpg 281w, https://cdn.macsfera.com/wp-content/uploads/2017/01/25164706/Setapp.jpg 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p>A principios de diciembre <strong>os introduje un nuevo servicio llamado <a href="www.macsfera.com/tag/setapp" title="Setapp" target="_blank" rel="noopener noreferrer">Setapp</a>,</strong> un servicio de apps a la carta para que podamos usar distintas aplicaciones por un precio fijo al mes.</p>
+<p>En ese momento también os dije que estaba en fase beta, pero tras un mes y medio de intenso desarrollo, <strong>el servicio ha alcanzado su versión final.</strong></p>
+<p><span id="more-16293"></span></p>
+<p><strong>El precio final de Setapp se mantiene en 10€ al mes</strong> y se lanza con un total de 61 aplicaciones de distintas categorías:</p>
+<ul>
+<li><strong>Aeon Timeline:</strong> app de visionado en forma de línea de tiempo para escritura creativa y gestión de proyectos</li>
+<li><strong>Alternote:</strong> bonita aplicación para tomar notas</li>
+<li><strong>Archiver:</strong> gestor de archivos inteligente que nos permitirá abrirlos, previsualizarlos, crearlos y convertirlos</li>
+<li><strong>Base:</strong> editor de bases de datos SQLite</li>
+<li><strong>Be Focused:</strong> herramienta que nos ayudará a estar más concentrados gracias al método Pomodoro y a un buen gestor de tareas</li>
+<li><strong>Blogo:</strong> simple pero eficaz herramienta para gestionar tu blog de WordPress, Blogger y Medium</li>
+<li><strong>Capto:</strong> herramienta para capturar, grabar y editar la pantalla de nuestro Mac</li>
+<li><strong>Chronicle:</strong> gestor de pagos y facturas con recordatorios incluidos</li>
+<li><strong>Chronosync express:</strong> herramienta para copias de seguridad y sincronización de carpetas de forma automática</li>
+<li><strong><a target="_blank" title="CleanMyMac" href="www.macsfera.com/tag/cleanmymac" rel="noopener noreferrer">CleanMyMac</a>:</strong> herramienta para limpiar el Mac de basura</li>
+<li><strong>Cloud Outliner:</strong> gestor de planes para tenerlo todo organizado</li>
+<li><strong>CodeRunner:</strong> un entorno multiprogramación para Mac</li>
+<li><strong>Deckset:</strong> sencillo creador de presentaciones en Markdown</li>
+<li><strong>DiskDrill:</strong> herramienta para recuperar datos borrados para Mac</li>
+<li><strong>Downie:</strong> gestor de vídeos de YouTube y Vimeo (entre otros) con los que podremos descargarlos al Mac</li>
+<li><strong>Elmedia Player:</strong> reproductor multifuncional que puede reproducir cualquier vídeo online</li>
+<li><strong>Findings:</strong> poderosa aplicación para gestionar nuestras investigaciones</li>
+<li><strong>Flumeapp:</strong> cliente de Instagram para Mac</li>
+<li><strong><a target="_blank" title="Typed: simple editor de Markdown" href="www.macsfera.com/typed-simple-editor-de-markdown/" rel="noopener noreferrer">Focused</a>:</strong> editor Markdown minimalista</li>
+<li><strong>Folx:</strong> poderoso gestor de descargar y cliente torrent para Mac</li>
+<li><strong>Forecast Bar:</strong> cliente metereológico para nuestro Mac</li>
+<li><strong><a target="_blank" title="Gemini 2 llega para limpiar tu Mac de archivos duplicados" href="www.macsfera.com/gemini-2-llega-para-limpiar-tu-mac-de-archivos-duplicados/" rel="noopener noreferrer">Gemini</a>:</strong> gestor para encontrar archivos duplicados en el Mac y ahorrar espacio</li>
+<li><strong>Get Backup Pro:</strong> avanzado gestor de copias de seguridad, archivos, clonación de discos y sincronización de carpetas</li>
+<li><strong>Gifox:</strong> sencillo y elegante grabador de GIFs para Mac</li>
+<li><strong>GoodTask:</strong> un gestor de tareas basado en los recordatorios y calendarios de Apple</li>
+<li><strong>Hazeover:</strong> una aplicación que nos ayudará a centrarnos en  la tarea que queremos realizar</li>
+<li><strong>Home Inventory:</strong> gestor de pertenencias en el Mac</li>
+<li><strong>Hype:</strong> editor de HTML5 con el que podremos crear contenido animado e interactivo</li>
+<li><strong>iFlicks:</strong> gestor de vídeos en Mac integrado con iTunes</li>
+<li><strong>Image2Icon:</strong> una aplicación que nos permitirá personalizar los iconos del Mac</li>
+<li><strong>iMazing:</strong> una herramienta poderosa para gestionar nuestro iPhone, iPad o iPod</li>
+<li><strong>iStat Menus:</strong> monitor avanzado de estadísticas de uso de los componentes de nuestro Mac</li>
+<li><strong>iThoughtsX:</strong> un editor de mapas mentales para el Mac</li>
+<li><strong>Jump Desktop:</strong> herramienta que nos permitirá compartir escritorio a través de Internet</li>
+<li><strong>Lacona:</strong> asistente virtual para Mac muy potente</li>
+<li><strong>Manuscripts:</strong> un editor para documentos complejos</li>
+<li><strong>Marked:</strong> un editor de Markdown extendido</li>
+<li><strong>MoneyWiz:</strong> gestor de cuentas financieras</li>
+<li><strong>My Wonderful Days:</strong> diario donde podremos escribir nuestro día a día</li>
+<li><strong>Numi:</strong> una bonita y práctica calculadora</li>
+<li><strong>Pagico:</strong> gestor de tareas</li>
+<li><strong>Paste:</strong> un gestor de portapapeles y atajos de teclado</li>
+<li><strong>PDF Squeezer:</strong> compresor de PDF’s</li>
+<li><strong>Permute:</strong> conversor de vídeo, audio e imágenes</li>
+<li><strong>Pixa:</strong> gestor de imágenes para tenerlas todas clasificadas</li>
+<li><strong>Polarr:</strong> editor de fotos para Mac</li>
+<li><strong>Rapidweaver:</strong> editor de webs sin conocimientos previos</li>
+<li><strong>Remote Mouse:</strong> herramienta para convertir nuestro iPhone en un control remoto para Mac</li>
+<li><strong>Renamer:</strong> potente herramienta para renombrar archivos en Mac</li>
+<li><strong>Screens:</strong> herramienta para acceder y controlar a nuestro Mac desde otros equipos</li>
+<li><strong>Shimo:</strong> cliente VPN para Mac</li>
+<li><strong>Simon:</strong> gestor de servidores que nos notificará en caso de errores o cambios</li>
+<li><strong>Sip:</strong> gestor de colores</li>
+<li><strong>SQLPro Studio:</strong> gestor de bases de datos</li>
+<li><strong>Squash:</strong> compresor de imágenes</li>
+<li><strong>Studies:</strong> creador de notas de estudio</li>
+<li><strong>Taskpaper:</strong> gestor de tareas para Mac</li>
+<li><strong>Timing:</strong> gestor de tareas y productividad</li>
+<li><strong><a target="_blank" title="Ulysses" href="www.macsfera.com/tag/ulysses" rel="noopener noreferrer">Ulysses</a>:</strong> mi querido y amado editor de texto Markdown</li>
+<li><strong>Wifi Explorer:</strong> herramienta para escanear, monitorizar y solucionar problemas con las redes Wi-Fi</li>
+<li><strong>Xmind:</strong> editor de mapas mentales para Mac</li>
+<li><strong>Yummy FTP Pro:</strong> cliente de FTP y SFTP para web</li>
+</ul>
+<p>Como veis, un gran número de aplicaciones disponibles al 100% por sólo 10€ al mes. Al principio de la beta empezaron con 50 títulos <strong>y en tan sólo un mes y medio los han incrementado.</strong> Lo mejor es que esa será la tónica general a lo largo del tiempo, añadir más y más aplicaciones de calidad.</p>
+<p>Hay 1 mes gratuito para probar el servicio, y seguidamente empezarán a cobrarnos el primer mes. </p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/79Hcl6dSIBc" frameborder="0" allowfullscreen></iframe></p>
+<p><strong>Setapp</strong> trae un concepto ya conocido a un mundo donde antes no se había aplicado, el de las aplicaciones. Gracias a ello, <strong>tenemos un montón de herramientas disponibles para usarlas siempre que queramos,</strong> en la última versión y sin pagar por actualizaciones individuales.</p>
+<p>Dadle una oportunidad al servicio porque si hay un par de herramientas que uséis con frecuencia, probablemente os merezca la pena.</p>
+<p>Si queréis, podéis saber más sobre <strong><a target="_blank" title="Setapp: nuevo e increíble servicio de apps a la carta" href="www.macsfera.com/setapp-nuevo-increible-servicio-apps-a-la-carta/" rel="noopener noreferrer">cómo funciona Setapp</a></strong> y cómo se desenvuelve en vuestro Mac.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://setapp.com/" target="_blank" rel="noopener noreferrer">Setapp</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/setapp-ya-disponible-en-su-version-final/">Setapp ya disponible en su versión final</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CleanMyMac, Gemini y Hider con un 30% de descuento por Navidad</title>
+		<link>https://www.MacSfera.com/cleanmymac-gemini-hider-con-30-descuento-navidad/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 26 Dec 2016 11:45:56 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[CleanMyMac]]></category>
+		<category><![CDATA[Descuentos]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[Hider]]></category>
+		<category><![CDATA[MacPaw]]></category>
+		<category><![CDATA[Navidad]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16145</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/cleanmymac-gemini-hider-con-30-descuento-navidad/">CleanMyMac, Gemini y Hider con un 30% de descuento por Navidad</a></p>
+<p>MacPaw, empresa que está detrás de CleanMyMac, Gemini y Hider (entre otros), ha anunciado que hará un descuento del 30% en todas</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/cleanmymac-gemini-hider-con-30-descuento-navidad/">CleanMyMac, Gemini y Hider con un 30% de descuento por Navidad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/cleanmymac-gemini-hider-con-30-descuento-navidad/">CleanMyMac, Gemini y Hider con un 30% de descuento por Navidad</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/26124345/Descuento-navidad-macpaw.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/26124345/Descuento-navidad-macpaw.jpg" alt="Descuento navidad MacPaw" width="2500" height="1667" class="aligncenter size-full wp-image-16148" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/12/26124345/Descuento-navidad-macpaw.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/12/26124345/Descuento-navidad-macpaw.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/12/26124345/Descuento-navidad-macpaw.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong><a target="_blank" title="MacPaw" href="www.macsfera.com/tag/macpaw" rel="noopener noreferrer">MacPaw</a>,</strong> empresa que está detrás de CleanMyMac, Gemini y Hider (entre otros), <strong>ha anunciado que hará un descuento del 30% en todas sus apps.</strong></p>
+<p>La promoción está disponible tanto para las aplicaciones de la empresa como para los paquetes de aplicaciones en los que ya antes te ahorrabas dinero al comprar dos o más apps.</p>
+<p><span id="more-16145"></span></p>
+<p><strong><a target="_blank" title="CleanMyMac" href="www.macsfera.com/tag/cleanmymac" rel="noopener noreferrer">CleanMyMac</a> es un <a target="_blank" title="CleanMyMac 3: limpia y optimiza OS X Yosemite" href="www.macsfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/" rel="noopener noreferrer">limpiador para Mac</a> que nos permitirá poner el sistema a punto</strong> borrando toda la basura que se genera con el uso, las apps, etc. Además nos servirá para desinstalar aplicaciones completamente, entre otras cosas. Habitualmente tiene un precio de 40€, pero con el descuento <a target="_blank" href="https://macpaw.7eer.net/c/327929/94160/1733" rel="noopener noreferrer">se queda en 28€</a>.</p>
+<p><strong><a target="_blank" title="Gemini" href="www.macsfera.com/tag/gemini" rel="noopener noreferrer">Gemini</a> es una útil herramienta que nos ayudará a <a target="_blank" title="Gemini 2 llega para limpiar tu Mac de archivos duplicados" href="www.macsfera.com/gemini-2-llega-para-limpiar-tu-mac-de-archivos-duplicados/" rel="noopener noreferrer">encontrar archivos duplicados en nuestro Mac</a></strong> que no sabíamos que teníamos en el disco duro para poder eliminarlos con el objetivo de poder ahorrar espacio. Habitualmente tiene un precio de 20€ pero con el descuento <a target="_blank" href="https://macpaw.7eer.net/c/327929/194302/1733" rel="noopener noreferrer">se queda en 14€</a>.</p>
+<p><strong><a target="_blank" title="Hider" href="www.macsfera.com/tag/hider/" rel="noopener noreferrer">Hider</a> es un gestor que nos permitirá encriptar, gestionar y ocultar archivos importantes</strong> para que no estén a la vista de cualquiera. El precio sin descuento alcanza los 20€, pero con la promoción de fin de año <a target="_blank" href="https://macpaw.7eer.net/c/327929/205053/1733" rel="noopener noreferrer">se queda en 14€</a>.</p>
+<p>Si queremos comprar varias aplicaciones, estos son los dos packs que tienen disponibles:</p>
+<ul>
+<li><strong>Paquete completo para Mac:</strong> con CleanMyMac, Gemini y Hider <a target="_blank" href="https://macpaw.7eer.net/c/327929/248490/1733" rel="noopener noreferrer">por 44€</a> (antes del descuento 63€)</li>
+<li><strong>Paquete de recuperación de espacio:</strong> Con CleanMyMac y Gemini <a target="_blank" href="https://macpaw.7eer.net/c/327929/248490/1733" rel="noopener noreferrer">por 38€</a> (antes del descuento 54€)</li>
+</ul>
+<p>Soy usuario de CleanMyMac desde que lanzó su primera versión, es una aplicación que siempre recomiendo, de modo que disponer de estos pequeños descuentos para que sus aplicaciones sean más accesibles es una delicia.</p>
+<p><strong><a target="_blank" href="https://macpaw.7eer.net/c/327929/248490/1733" rel="noopener noreferrer">La oferta</a> estará disponible hasta el 29 de diciembre</strong> así que si teníais pensado haceros con una de estas aplicaciones, hacedlo cuanto antes para ahorraros así unos euros.</p>
+<p><span class="source">Compra</span> <span class="via"><a href="https://macpaw.7eer.net/c/327929/248490/1733" target="_blank" rel="noopener noreferrer">MacPaw</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/cleanmymac-gemini-hider-con-30-descuento-navidad/">CleanMyMac, Gemini y Hider con un 30% de descuento por Navidad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Setapp: nuevo e increíble servicio de apps a la carta</title>
+		<link>https://www.MacSfera.com/setapp-nuevo-increible-servicio-apps-a-la-carta/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 06 Dec 2016 14:39:22 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[CleanMyMac]]></category>
+		<category><![CDATA[Focused]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[MacPaw]]></category>
+		<category><![CDATA[Setapp]]></category>
+		<category><![CDATA[Ulysses]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16017</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/setapp-nuevo-increible-servicio-apps-a-la-carta/">Setapp: nuevo e increíble servicio de apps a la carta</a></p>
+<p>En la lucha de los desarrolladores por ser la aplicación de referencia en su campo, ha nacido un nuevo servicio de apps</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/setapp-nuevo-increible-servicio-apps-a-la-carta/">Setapp: nuevo e increíble servicio de apps a la carta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/setapp-nuevo-increible-servicio-apps-a-la-carta/">Setapp: nuevo e increíble servicio de apps a la carta</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/06153323/Setapp-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/06153323/Setapp-para-Mac.jpg" alt="Setapp para Mac" width="1442" height="869" class="aligncenter size-full wp-image-16019" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/12/06153323/Setapp-para-Mac.jpg 1442w, https://cdn.macsfera.com/wp-content/uploads/2016/12/06153323/Setapp-para-Mac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/12/06153323/Setapp-para-Mac.jpg 1024w" sizes="(max-width: 1442px) 100vw, 1442px" /></a></p>
+<p>En la lucha de los desarrolladores por ser la aplicación de referencia en su campo, ha nacido un nuevo servicio de apps a la carta que ha venido para cambiarnos el concepto de consumo de aplicaciones, <strong>os hablo de SetApp.</strong></p>
+<p><strong>SetApp es un servicio que nos ofrece un amplio catálogo de aplicaciones para usar libremente pagando una pequeña cantidad de dinero al mes por ello,</strong> en vez de la licencia completa por cada aplicación.</p>
+<p><span id="more-16017"></span></p>
+<p><strong>Y es que el concepto es tan sencillo que no necesita mucha más explicación.</strong> Para que os hagáis una idea, es el <a target="_blank"title="Spotify" href="www.macsfera.com/tag/spotify">Spotify</a> o el Netflix de las apps para Mac.</p>
+<h2>Apps a la carta</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/06153554/Setapp-apps-a-la-carta.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/06153554/Setapp-apps-a-la-carta.jpg" alt="Setapp apps a la carta" width="882" height="548" class="aligncenter size-full wp-image-16020" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/12/06153554/Setapp-apps-a-la-carta.jpg 882w, https://cdn.macsfera.com/wp-content/uploads/2016/12/06153554/Setapp-apps-a-la-carta.jpg 300w" sizes="(max-width: 882px) 100vw, 882px" /></a></p>
+<p>De modo que sí, <strong>SetApp nos va a permitir tener a nuestra disposición un montón de aplicaciones en nuestro Mac para que podamos usar la que queramos y la que necesitemos.</strong></p>
+<p>Gracias a su catálogo, podremos obtener herramientas de distinta utilidad, y todas ellas están ahí esperándonos para que podamos usarlas.</p>
+<p><strong>Este es el catálogo inicial:</strong></p>
+<ul>
+<li><strong>Aeon Timeline:</strong> app de visionado en forma de línea de tiempo para escritura creativa y gestión de proyectos</li>
+<li><strong>Alternote:</strong> bonita aplicación para tomar notas</li>
+<li><strong>Archiver:</strong> gestor de archivos inteligente que nos permitirá abrirlos, previsualizarlos, crearlos y convertirlos</li>
+<li><strong>Base:</strong> editor de bases de datos SQLite</li>
+<li><strong>Be Focused:</strong> herramienta que nos ayudará a estar más concentrados gracias al método Pomodoro y a un buen gestor de tareas</li>
+<li><strong>Blogo:</strong> simple pero eficaz herramienta para gestionar tu blog de WordPress, Blogger y Medium</li>
+<li><strong>Capto:</strong> herramienta para capturar, grabar y editar la pantalla de nuestro Mac</li>
+<li><strong>Chronicle:</strong> gestor de pagos y facturas con recordatorios incluidos</li>
+<li><strong>Chronosync express:</strong> herramienta para copias de seguridad y sincronización de carpetas de forma automática</li>
+<li><strong><a target="_blank"title="CleanMyMac" href="www.macsfera.com/tag/cleanmymac">CleanMyMac</a>:</strong> herramienta para limpiar el Mac de basura</li>
+<li><strong>CodeRunner:</strong> un entorno multiprogramación para Mac</li>
+<li><strong>Deckset:</strong> sencillo creador de presentaciones en Markdown</li>
+<li><strong>Downie:</strong> gestor de vídeos de YouTube y Vimeo (entre otros) con los que podremos descargarlos al Mac</li>
+<li><strong>Elmedia Player:</strong> reproductor multifuncional que puede reproducir cualquier vídeo online</li>
+<li><strong>Findings:</strong> poderosa aplicación para gestionar nuestras investigaciones</li>
+<li><strong><a target="_blank"title="Typed: simple editor de Markdown" href="www.macsfera.com/typed-simple-editor-de-markdown/">Focused</a>:</strong> editor Markdown minimalista</li>
+<li><strong>Folx:</strong> poderoso gestor de descargar y cliente torrent para Mac</li>
+<li><strong><a target="_blank"title="Gemini 2 llega para limpiar tu Mac de archivos duplicados" href="www.macsfera.com/gemini-2-llega-para-limpiar-tu-mac-de-archivos-duplicados/">Gemini</a>:</strong> gestor para encontrar archivos duplicados en el Mac y ahorrar espacio</li>
+<li><strong>Get Backup Pro:</strong> avanzado gestor de copias de seguridad, archivos, clonación de discos y sincronización de carpetas</li>
+<li><strong>Gifox:</strong> sencillo y elegante grabador de GIFs para Mac</li>
+<li><strong>GoodTask:</strong> un gestor de tareas basado en los recordatorios y calendarios de Apple</li>
+<li><strong>Hazeover:</strong> una aplicación que nos ayudará a centrarnos en  la tarea que queremos realizar</li>
+<li><strong>Hype:</strong> editor de HTML5 con el que podremos crear contenido animado e interactivo</li>
+<li><strong>Image2Icon:</strong> una aplicación que nos permitirá personalizar los iconos del Mac</li>
+<li><strong>iMazing:</strong> una herramienta poderosa para gestionar nuestro iPhone, iPad o iPod</li>
+<li><strong>iStat Menus:</strong> monitor avanzado de estadísticas de uso de los componentes de nuestro Mac</li>
+<li><strong>iThoughtsX:</strong> un editor de mapas mentales para el Mac</li>
+<li><strong>Jump Desktop:</strong> herramienta que nos permitirá compartir escritorio a través de Internet</li>
+<li><strong>Manuscripts:</strong> un editor para documentos complejos</li>
+<li><strong>Marked:</strong> un editor de Markdown extendido</li>
+<li><strong>MoneyWiz:</strong> gestor de cuentas financieras</li>
+<li><strong>My Wonderful Days:</strong> diario donde podremos escribir nuestro día a día</li>
+<li><strong>Numi:</strong> una bonita y práctica calculadora</li>
+<li><strong>Paste:</strong> un gestor de portapapeles y atajos de teclado</li>
+<li><strong>PDF SQUEEZER:</strong> compresor de PDF’s</li>
+<li><strong>Permute:</strong> conversor de vídeo, audio e imágenes</li>
+<li><strong>Pixa:</strong> gestor de imágenes para tenerlas todas clasificadas</li>
+<li><strong>Rapidweaver:</strong> editor de webs sin conocimientos previos</li>
+<li><strong>Remote Mouse:</strong> herramienta para convertir nuestro iPhone en un control remoto para Mac</li>
+<li><strong>Renamer:</strong> potente herramienta para renombrar archivos en Mac</li>
+<li><strong>Screens:</strong> herramienta para acceder y controlar a nuestro Mac desde otros equipos</li>
+<li><strong>Simon:</strong> gestor de servidores que nos notificará en caso de errores o cambios</li>
+<li><strong>Sip:</strong> gestor de colores</li>
+<li><strong>Squash:</strong> compresor de imágenes</li>
+<li><strong>Taskpaper:</strong> gestor de tareas para Mac</li>
+<li><strong>Timing:</strong> gestor de tareas y productividad</li>
+<li><strong><a target="_blank"title="Ulysses" href="www.macsfera.com/tag/ulysses">Ulysses</a>:</strong> mi querido y amado editor de texto Markdown</li>
+<li><strong>Wifi Explorer:</strong> herramienta para escanear, monitorizar y solucionar problemas con las redes Wi-Fi</li>
+<li><strong>Xmind:</strong> editor de mapas mentales para Mac</li>
+<li><strong>Yummy FTP Pro:</strong> cliente de FTP y SFTP para web</li>
+</ul>
+<p><strong>Una licencia en todas estas aplicaciones suma un total de 1270 dólares.</strong> Lo que correspondería a pagar 10 años por Setapp, y eso que no contamos con las próximas aplicaciones que el servicio va a incluir.</p>
+<p>Como podéis ver además, son aplicaciones muy útiles que buscan contentar a varios sectores dentro de los usuarios de Mac. Y es que esta es una de las bondades de Setapp, han sido elegidas a mano para aportar valor al usuario final, no por el simple hecho de que el desarrollador acepte estar en el servicio.</p>
+<h2>Cómo funciona Setapp</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/06153755/Ulysses-Setapp.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/06153755/Ulysses-Setapp.jpg" alt="Ulysses Setapp" width="860" height="706" class="aligncenter size-full wp-image-16021" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/12/06153755/Ulysses-Setapp.jpg 860w, https://cdn.macsfera.com/wp-content/uploads/2016/12/06153755/Ulysses-Setapp.jpg 244w" sizes="(max-width: 860px) 100vw, 860px" /></a></p>
+<p>Setapp tiene un funcionamiento similar a Dropbox y a Netflix.</p>
+<p><strong>Instalamos la aplicación que nos creará una carpeta en el sistema en la que tendremos todas las apps disponibles.</strong></p>
+<p>Para usar una, la abrimos normal y nos aparecerá una descripción con toda la información sobre lo que hace y unas capturas. En ese momento, si queremos ejecutarla, <strong>le damos a abrir y ya la tendremos en el sistema sin problemas.</strong></p>
+<p>Cuando digo que la tenemos en el sistema, digo que <strong>está como una aplicación nativa,</strong> pudiendo elegir dónde guardarla, configurarla para que abra archivos de forma predeterminada, lanzarla por Spotlight, etc.</p>
+<p>En cuanto a las actualizaciones que reciban esas apps, <strong>Setapp las gestionará de forma interna dándonos la versión más actualizada en todo momento.</strong></p>
+<p>Y si queremos borrar una aplicación descargada, l<strong>a llevamos a la papelera de reciclaje y listo,</strong> en la carpeta seguirá estando el icono disponible por si queremos descargarla de nuevo.</p>
+<h2>Precio y versión beta</h2>
+<p>A día de la publicación, <strong>el servicio está en versión beta,</strong> podéis <a target="_blank"href="https://setapp.com/">solicitar una cuenta de prueba</a> para ver qué tal funciona.</p>
+<p><a href="http://bit.ly/2g7Pp1V" target="_blank" rel="noopener noreferrer">Aquí tenéis 50 invitaciones</a> para probar la beta. Sólo hay 50 y las recibirán los primeros que la soliciten.</p>
+<p><strong>Cuando salga la versión final pasará a costar $10 USD al mes,</strong> y automáticamente irá añadiendo las nuevas aplicaciones a su servicio.</p>
+<p>Y como todo servicio de pago, podemos darnos de baja en cualquier momento.</p>
+<hr />
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/LJBZ8dwTJoM" frameborder="0" allowfullscreen></iframe></p>
+<p><strong>Es un concepto muy bueno.</strong> En cuanto entré en la beta privada pude ver la sencillez y utilidad del servicio, y me encantó.</p>
+<p>Muchas de estas aplicaciones tienen un precio bastante elevado y que puedas usarlas todas ellas por $10 USD al mes es una gran noticia. Es un avance muy grande para el consumo de software y creo que es una gran medida contra la piratería como lo ha sido Spotify, Netflix o Apple Music.</p>
+<p>Además, Setapp es de la empresa <a target="_blank"title="MacPaw" href="www.macsfera.com/tag/macpaw">MacPaw</a>, un gran desarrollador que tiene títulos tan buenos como CleanMyMac o Gemini, de modo que tienen toda la confianza del sector a sus espaldas.</p>
+<p>El CEO de MacPaw, Oleksandr Kosovan ha comentado:</p>
+<blockquote>
+<p>La forma en la que obtienes software en el Mac va a cambiar mucho. Ambos usuarios (aficionados o casuales) se van a quedar impresionados por el nuevo e innovador software que hay disponible en Setapp. Sin anuncios. Sin actualizaciones de pago. Sin cargos adicionales. Simplemente Setapp y ya está todo listo.</p>
+</blockquote>
+<p>Y es que de verdad es así, tan sencillo y simple como eso. Lo quieres, lo tienes.</p>
+<p>Me encanta disfrutar del buen software, de las buenas ideas y de las ejecuciones perfectas, <strong>por eso me encanta Setapp,</strong> porque cumple todos esos requisitos y además ayuda a que las buenas herramientas estén en manos de todos de forma legal y adecuada.</p>
+<p>Uniros a la beta si podéis, y probad el servicio porque vais a quedar encantados. Si además os digo que esperan que el catálogo va a llegar a las 300 aplicaciones, entonces se convierte en un recurso obligatorio de tener en cada Mac independientemente de nuestro nivel de uso.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://setapp.com/" target="_blank" rel="noopener noreferrer">Setapp</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/setapp-nuevo-increible-servicio-apps-a-la-carta/">Setapp: nuevo e increíble servicio de apps a la carta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Black Friday de MacPaw con descuentos en sus apps y packs</title>
+		<link>https://www.MacSfera.com/black-friday-macpaw-descuentos-apps-packs/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2016 08:47:31 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Black Friday]]></category>
+		<category><![CDATA[CleanMyMac]]></category>
+		<category><![CDATA[Encrypto]]></category>
+		<category><![CDATA[Hider]]></category>
+		<category><![CDATA[MacPaw]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15939</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/black-friday-macpaw-descuentos-apps-packs/">Black Friday de MacPaw con descuentos en sus apps y packs</a></p>
+<p>El Black Friday ha llegado a MacPaw, la empresa creadora de fantásticas aplicaciones para Mac y Windows, y en esta ocasión no</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/black-friday-macpaw-descuentos-apps-packs/">Black Friday de MacPaw con descuentos en sus apps y packs</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/black-friday-macpaw-descuentos-apps-packs/">Black Friday de MacPaw con descuentos en sus apps y packs</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/25094410/Black-Friday-de-MacPaw.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/11/25094410/Black-Friday-de-MacPaw.jpg" alt="Black Friday de MacPaw" width="1200" height="630" class="aligncenter size-full wp-image-15941" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/25094410/Black-Friday-de-MacPaw.jpg 1200w, https://cdn.macsfera.com/wp-content/uploads/2016/11/25094410/Black-Friday-de-MacPaw.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/11/25094410/Black-Friday-de-MacPaw.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<p><strong>El Black Friday ha llegado a MacPaw,</strong> la empresa creadora de fantásticas aplicaciones para Mac y Windows, y en esta ocasión no solo trae rebajas en sus aplicaciones individuales, sino que también las trae paquetes especiales para ahorrarnos aún más dinero por la compra de varias apps.</p>
+<p><span id="more-15939"></span></p>
+<p><strong>MacPaw es la empresa detrás de <a target="_blank"title="CleanMyMac" href="www.macsfera.com/tag/cleanmymac">CleanMyMac</a></strong> <sup class="modern-footnotes-footnote ">1</sup><strong>, <a target="_blank"title="Gemini" href="www.macsfera.com/tag/gemini">Gemini</a></strong> <sup class="modern-footnotes-footnote ">2</sup> <strong>y otras herramientas gratuitas y útiles como <a target="_blank"title="Encrypto: Sencilla herramienta para encriptar archivos" href="www.macsfera.com/encrypto-sencilla-herramienta-encriptar-archivos/">Encrypto, un cifrador de archivos gratuito para Mac</a>.</strong></p>
+<p>Como podéis ver, me gustan mucho sus aplicaciones, por eso las recomiendo. Soy consciente de que no siempre es el mejor momento para comprarlas y por ello me encanta contaros el descuento que tienen:</p>
+<ul>
+<li><strong>CleanMyMac 3:</strong> antes 40€ <a target="_blank"href="https://macpaw.7eer.net/c/327929/94160/1733">ahora 28€</a>. Una buena app para limpiar de basura nuestro sistema</li>
+<li><strong>Gemini 2:</strong> antes 20€ <a target="_blank"href="https://macpaw.7eer.net/c/327929/194302/1733">ahora 14€</a>. Una buena herramienta para eliminar duplicados de nuestro sistema</li>
+<li><strong>Hider 2:</strong> antes por 20€ <a target="_blank"href="https://macpaw.7eer.net/c/327929/205053/1733">ahora por 14€</a>. Una gestor de contenido que permitirá cifrar y ocultar archivos para que sólo nosotros podamos acceder a ellos</li>
+<li><strong>CleanMyPC:</strong> antes por 40€ <a target="_blank"href="https://macpaw.7eer.net/c/327929/154407/1733">ahora por 28€</a>. Como CleanMyMac pero para PC</li>
+</ul>
+<h2>Paquetes de aplicaciones de MacPaw</h2>
+<p>Además, y como he comentado antes, MacPaw ofrece paquetes de sus aplicaciones con los que podremos comprar varias juntas y ahorrarnos algo que si las comprásemos por separado.</p>
+<p>De esta forma, así quedan los precios y las apps que incluyen:</p>
+<ul>
+<li><strong>Pack de Mac:</strong> antes 63€ <a target="_blank"href="https://macpaw.7eer.net/c/327929/248490/1733">ahora 44€</a>. Contiene CleanMyMac 3, Gemini 2 y Hider 2 <sup class="modern-footnotes-footnote ">3</sup>.</li>
+<li><strong>Pack recuperación de espacio:</strong> antes 54€ <a target="_blank"href="https://macpaw.7eer.net/c/327929/248490/1733">ahora 38€</a>. Contiene CleanMyMac 3 y Gemini 2 <sup class="modern-footnotes-footnote ">4</sup></li>
+<li><strong>Pack limpieza universal:</strong> antes 68€ <a target="_blank"href="https://macpaw.7eer.net/c/327929/248490/1733">ahora 48€</a>. Contiene la aplicación CleanMyMac 3 y CleanMyPC <sup class="modern-footnotes-footnote ">5</sup></li>
+</ul>
+<p>Sin duda, <strong>una buena oportunidad si nos llaman más la atención más de una aplicación.</strong></p>
+<hr />
+<p>El software de MacPaw se compra a través de <a target="_blank"href="https://macpaw.7eer.net/c/327929/248490/1733">su tienda online</a>, y tiene precios individuales o colectivos (varios ordenadores), <strong>así que echadle un ojo si queréis usarlo en más de uno.</strong></p>
+<p>Si os gustan las apps de calidad, <strong>pasaros también por el <a target="_blank"title="Black Friday de Readdle con descuentos de hasta el 50% en sus apps" href="www.macsfera.com/black-friday-readdle-con-descuentos-hastal-50-en-apps/">Black Friday de Readdle</a> que llega hasta el 50% de descuento</strong> en algunas apps de su catálogo.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Cuya <a target="_blank"title="CleanMyMac 3: limpia y optimiza OS X Yosemite" href="www.macsfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/">última versión analicé</a>.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;También <a target="_blank"title="Gemini 2 llega para limpiar tu Mac de archivos duplicados" href="www.macsfera.com/gemini-2-llega-para-limpiar-tu-mac-de-archivos-duplicados/">analicé su última versión</a></div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Valor de las apps con descuento por separado: 56€</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Valor de las apps con descuento por separado: 42€.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;Valor de las apps con descuento por separado: 56€.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/black-friday-macpaw-descuentos-apps-packs/">Black Friday de MacPaw con descuentos en sus apps y packs</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Consejos de CleanMyMac para preparar nuestro sistema operativo para la llegada de El Capitan</title>
+		<link>https://www.MacSfera.com/consejos-de-cleanmymac-para-preparar-nuestro-sistema-operativo-para-la-llegada-de-el-capitan/</link>
+					<comments>https://www.MacSfera.com/consejos-de-cleanmymac-para-preparar-nuestro-sistema-operativo-para-la-llegada-de-el-capitan/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2015 11:41:43 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[CleanMyMac]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12257</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/consejos-de-cleanmymac-para-preparar-nuestro-sistema-operativo-para-la-llegada-de-el-capitan/">Consejos de CleanMyMac para preparar nuestro sistema operativo para la llegada de El Capitan</a></p>
+<p>Hoy sale OS X El Capitan y los chicos de CleanMyMac han preparado una breve pero útil explicación para preparar nuestro actual</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/consejos-de-cleanmymac-para-preparar-nuestro-sistema-operativo-para-la-llegada-de-el-capitan/">Consejos de CleanMyMac para preparar nuestro sistema operativo para la llegada de El Capitan</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/consejos-de-cleanmymac-para-preparar-nuestro-sistema-operativo-para-la-llegada-de-el-capitan/">Consejos de CleanMyMac para preparar nuestro sistema operativo para la llegada de El Capitan</a></p>
+<p><a href="www.macsfera.com/os-x-el-capitan-disponible-el-30-de-septiembre" title="OS X El Capitan disponible el 30 de septiembre" target="_blank" rel="noopener noreferrer">Hoy sale OS X El Capitan</a> y <strong>los chicos de <a href="www.macsfera.com/tag/cleanmymac" title="CleanMyMac" target="_blank" rel="noopener noreferrer">CleanMyMac</a> han preparado una breve pero útil explicación para preparar nuestro actual sistema para su llegada.</strong></p>
+<blockquote class="enlace">
+<p>Un nuevo OS X necesita un Mac fresco. Así que para empezar, vamos a limpiar algunas cosas. La forma más sencilla (y rápida) de limpiar el Mac es iniciando un escaneo con CleanMyMac 3.</p>
+</blockquote>
+<p>En <a href="https://macpaw.7eer.net/c/327929/226376/1733" target="_blank" rel="noopener noreferrer">el artículo</a> se especifican algunos puntos en los que hay que hacer hincapié, <strong>aunque la mayoría están por defecto en un análisis normal de la aplicación.</strong></p>
+<p><a href="www.macsfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/" title="CleanMyMac 3: limpia y optimiza OS X Yosemite" target="_blank" rel="noopener noreferrer">CleanMyMac 3</a> es un software que <strong>permite iniciar tareas de limpieza y mantenimiento para deshacernos de todos los archivos temporales y residuos del sistema.</strong> Su versión actual funciona con Yosemite, pero se espera una actualización que haga la aplicación 100% compatible con El Capitan y sus recursos.</p>
+<p><span class="source">Compra</span> <span class="via"><a href="http://macpaw.7eer.net/c/327929/226376/1733" target="_blank" rel="noopener noreferrer">MacPaw</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/consejos-de-cleanmymac-para-preparar-nuestro-sistema-operativo-para-la-llegada-de-el-capitan/">Consejos de CleanMyMac para preparar nuestro sistema operativo para la llegada de El Capitan</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/consejos-de-cleanmymac-para-preparar-nuestro-sistema-operativo-para-la-llegada-de-el-capitan/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Grandes actualizaciones con descuento</title>
+		<link>https://www.MacSfera.com/grandes-actualizaciones-con-descuento/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 06 Jun 2015 17:13:59 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[CleanMyMac]]></category>
+		<category><![CDATA[Desarrolladores]]></category>
+		<category><![CDATA[Descuentos]]></category>
+		<category><![CDATA[MacPaw]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10798</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/grandes-actualizaciones-con-descuento/">Grandes actualizaciones con descuento</a></p>
+<p>El objetivo de todo desarrollador que quiere ganarse la vida con su software es el de vender licencias de uso de sus</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/grandes-actualizaciones-con-descuento/">Grandes actualizaciones con descuento</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/grandes-actualizaciones-con-descuento/">Grandes actualizaciones con descuento</a></p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/06/06175317/App-Store-iPad.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/06/06175317/App-Store-iPad.jpg" alt="App Store iPad" width="2500" height="1667" class="aligncenter size-full wp-image-10801" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/06175317/App-Store-iPad.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/06/06175317/App-Store-iPad.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/06175317/App-Store-iPad.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>El objetivo de todo desarrollador que quiere ganarse la vida con su software <strong>es el de vender licencias de uso de sus aplicaciones.</strong> Por ello pone un precio para que personas como tú y como yo podamos disfrutar de los beneficios de su aplicación. Nosotros pagamos una vez y obtenemos una aplicación con una pequeña garantía de actualización de mejoras y corrección de errores.</p>
+<p><strong>El problema viene cuando se acaba el ciclo de actualización de la aplicación y el desarrollador quiere sacar una nueva versión.</strong> Obviamente, el usuario no quiere pagar puesto que ya compró en su momento la licencia, pero no es justo que el desarrollador tenga que trabajar de forma gratuita en la producción de un nuevo software sin poder cobrar por ello. <strong>Ante este problema se les ocurrió una solución muy ingeniosa que solventó todo conflicto.</strong></p>
+<p><span id="more-10798"></span></p>
+<p>El usuario que tenía la versión anterior comprada obtenía un jugoso descuento a la hora de comprar el nuevo software, y el desarrollador que había dedicado tanto tiempo en realizar la aplicación podía ver recompensado su esfuerzo. <strong>Ambos salían ganando.</strong></p>
+<p>Cuando Apple lanzó la App Store y <a href="www.macsfera.com/la-mac-app-store-llega-a-nuestras-vidas/" title="La Mac App Store llega a nuestras vidas" target="_blank">luego la Mac App Store</a> hubo un festejo general: un lugar dónde poder conseguir aplicaciones, sin gran riesgo a que te timasen <sup class="modern-footnotes-footnote ">1</sup>, centralizando los pagos, facilitando la instalación de las aplicaciones y consiguiendo un mínimo de calidad en el software obtenido. Era una unión perfecta entre desarrolladores y usuarios, <strong>pero tal vez es hora de avanzar un poco más.</strong></p>
+<p><strong>¿Y si la App Store y la Mac App Store implementasen un sistema de actualizaciones con descuento?</strong> Apple sabe en todo momento qué aplicación hemos comprado y cuál no, por ello no sería problema mostrar un descuento sólo a los usuarios que quieran comprarla aún teniendo la versión anterior.</p>
+<p>De esta forma, los usuarios verían un incentivo para cambiar de versión, remunerando al desarrollador por su trabajo, aumentando las ventas que por otro lado podrían no llegar nunca <strong>y todos saldrían ganando.</strong></p>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/06/06175429/Actualizar-aplicaciones-App-Store.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/06/06175429/Actualizar-aplicaciones-App-Store.jpg" alt="Actualizar aplicaciones App Store" width="2500" height="1139" class="aligncenter size-full wp-image-10802" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/06175429/Actualizar-aplicaciones-App-Store.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/06/06175429/Actualizar-aplicaciones-App-Store.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/06175429/Actualizar-aplicaciones-App-Store.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Algunos desarrolladores son muy ingeniosos y para ayudar a que los usuarios compren su nuevo software deciden lanzarlo con un descuento global. Esto está bien en general, pero no en particular <strong>ya que suelen tener el descuento por tiempo limitado y un usuario puede no percatarse del lanzamiento.</strong></p>
+<p>Esta fórmula le funciona muy bien a MacPaw con cada <a href="www.macsfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/" title="CleanMyMac 3: limpia y optimiza OS X Yosemite" target="_blank">nueva versión de CleanMyMac</a>. Gracias al 50% de descuento los usuarios pueden tener las nuevas funcionalidades y compatibilidades recompensando a sus autores, y la verdad es que venden mucho más.</p>
+<p>Evidentemente no debe ser un requisito indispensable para poder tener las aplicaciones en la tienda virtual, pero si que creo que <strong>Apple no debe coartar los planes de negocio de las empresas y pequeños desarrolladores,</strong> por ello debe proveer de las mejores herramientas posibles para gestión, y esta no creo que fuese una mala inclusión.</p>
+<p><a href="www.macsfera.com/la-wwdc-de-2015-se-celebrara-del-8-al-12-de-junio/" title="La WWDC de 2015 se celebrará del 8 al 12 de junio" target="_blank">El mayor evento de desarrolladores</a> se celebrará dentro de dos días y veremos si esta u otras ideas salen a la palestra con su <a href="www.macsfera.com/habra-streaming-oficial-de-la-keynote-de-la-wwdc/" title="Habrá streaming oficial de la keynote de la WWDC" target="_blank">keynote que podremos disfrutar en directo</a>.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Y si te timan, una empresa detrás hace de intermediario y solventa todos los problemas.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/grandes-actualizaciones-con-descuento/">Grandes actualizaciones con descuento</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CleanMyMac 3: limpia y optimiza OS X Yosemite</title>
+		<link>https://www.MacSfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/</link>
+					<comments>https://www.MacSfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 26 Apr 2015 15:05:52 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Archivos]]></category>
+		<category><![CDATA[Archivos temporales]]></category>
+		<category><![CDATA[CleanMyMac]]></category>
+		<category><![CDATA[Limpiar]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[MacPaw]]></category>
+		<category><![CDATA[Optimizar]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Residuos]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10656</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/">CleanMyMac 3: limpia y optimiza OS X Yosemite</a></p>
+<p>Si bien nuestros Macs suelen ser muy eficientes, hay cosas que no se pueden evitar como llenar la caché del sistema, ocupar</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/">CleanMyMac 3: limpia y optimiza OS X Yosemite</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/">CleanMyMac 3: limpia y optimiza OS X Yosemite</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/26162042/CleanMyMac-3-en-un-MacBook-Pro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/26162042/CleanMyMac-3-en-un-MacBook-Pro.jpg" alt="CleanMyMac 3 en un MacBook Pro" width="2500" height="1667" class="aligncenter size-full wp-image-10662" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/26162042/CleanMyMac-3-en-un-MacBook-Pro.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/04/26162042/CleanMyMac-3-en-un-MacBook-Pro.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/26162042/CleanMyMac-3-en-un-MacBook-Pro.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Si bien nuestros Macs suelen ser muy eficientes, hay cosas que no se pueden evitar como llenar la caché del sistema, ocupar la papelera con objetos borrados, almacenar archivos que no sabíamos que estaban allí, etc. Todo esto hace que nuestro espacio en disco y su rendimiento se vea afectado y no tengamos posibilidad de solucionarlo de una manera eficaz. <strong>Para eso nació CleanMyMac, una aplicación que conoce a la perfección nuestro sistema y nos ayudará a mantenerlo limpio y ordenado.</strong></p>
+<p>Estrenando su tercera versión recientemente, <strong>CleanMyMac se ha vuelto en el gestor de limpieza y mantenimiento adecuado para nuestros equipos Mac.</strong> Con él podremos hacer una limpieza en profundidad del sistema, desinstalar aplicaciones de forma precisa, planificar acciones de mantenimiento regulares y optimizar el sistema.</p>
+<p><span id="more-10656"></span></p>
+<h2>Análisis del sistema</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/26163548/CleanMyMac-3-analisis-del-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/26163548/CleanMyMac-3-analisis-del-Mac.jpg" alt="CleanMyMac 3 analisis del Mac" width="1212" height="755" class="aligncenter size-full wp-image-10666" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/26163548/CleanMyMac-3-analisis-del-Mac.jpg 1212w, https://cdn.macsfera.com/wp-content/uploads/2015/04/26163548/CleanMyMac-3-analisis-del-Mac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/26163548/CleanMyMac-3-analisis-del-Mac.jpg 1024w" sizes="(max-width: 1212px) 100vw, 1212px" /></a></p>
+<p>La forma más sencilla de ver a CleanMyMac en acción es ejecutar su análisis. <strong>Este análisis buscará basura del sistema, basura en nuestra biblioteca de iPhoto</strong> <sup class="modern-footnotes-footnote ">1</sup><strong>, archivos adjuntos a emails descargados en las carpetas del sistema</strong> (no los que nosotros nos hemos descargado manualmente)<strong>, problemas y duplicados de nuestra biblioteca de iTunes, análisis del tamaño de la papelera de reciclaje y una lista con los archivos más grandes que hay en el sistema</strong> independientemente de donde estén almacenados.</p>
+<p>Una vez acabado el análisis de limpieza podremos obtener una visión más precisa de todos los apartados y saber que archivos se van a eliminar, pudiendo conservar los que más nos interesan sin que eso afecte al resultado final.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/26163804/CleanMyMac-3-Resultado-analisis.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/26163804/CleanMyMac-3-Resultado-analisis.jpg" alt="CleanMyMac 3 Resultado analisis" width="1184" height="727" class="aligncenter size-full wp-image-10667" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/26163804/CleanMyMac-3-Resultado-analisis.jpg 1184w, https://cdn.macsfera.com/wp-content/uploads/2015/04/26163804/CleanMyMac-3-Resultado-analisis.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/26163804/CleanMyMac-3-Resultado-analisis.jpg 1024w" sizes="(max-width: 1184px) 100vw, 1184px" /></a></p>
+<p><strong>Una de las cosas que más me han gustado de este análisis es que es muy preciso, pero sólo si queremos verlo a tal nivel.</strong> Al principio lo único que se te plantea es el tamaño de los archivos que se van a eliminar por cada parte del análisis, pero si necesitas más información lo único que tienes que hacer es acceder al detalle del apartado y podrás ver todos y cada uno de los archivos que se van a borrar: su peso, su localización e incluso podremos previsualizarlos. Es una manera muy sencilla y cómoda de mostrar la información más precisa en caso de que queramos ir un poco más allá.</p>
+<h2>Utilidades</h2>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/26141620/CleanMyMac-3-Utilidades.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/26141620/CleanMyMac-3-Utilidades.jpg" alt="CleanMyMac 3 Utilidades" width="700" height="400" class="aligncenter size-full wp-image-10659" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/26141620/CleanMyMac-3-Utilidades.jpg 700w, https://cdn.macsfera.com/wp-content/uploads/2015/04/26141620/CleanMyMac-3-Utilidades.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Limpiar el sistema no es la única función de CleanMyMac, <strong>también podremos configurar una serie de utilidades para mantener nuestro Mac funcional.</strong></p>
+<ul>
+<li><strong>Desinstalador:</strong> Con el desinstalador podremos eliminar aplicaciones de forma segura sabiendo que también nos desharemos de todos y cada uno de los archivos generados por la aplicación.</li>
+<li><strong>Mantenimiento:</strong> Podemos configurar un mantenimiento periódico del sistema basado en la limpieza de recursos y optimización de funciones. De todas las tareas podemos destacar los comandos de mantenimiento, la verificación de los discos o acelerar Mail.</li>
+<li><strong>Privacidad:</strong> En función de los navegadores y aplicaciones de mensajería que tengamos instalados en el sistema, podremos eliminar ciertos archivos de rastreo o privacidad que hemos ido almacenando acorde al uso que le dámos a la aplicación. Este apartado también realiza operaciones sobre Finder y sus listas sobre archivos recientes.</li>
+<li><strong>Extensiones:</strong> Tanto el sistema como varias aplicaciones nativas tienen la posibilidad de instalar plugins o extensiones que nos aportan más utilidades que las normales. En este modo podremos ver todas esas extensiones y eliminarlas en caso de que no queramos hacer más uso de ellas.</li>
+<li><strong>Trituradora:</strong> La trituradora es un apartado especial de CleanMyMac 3 que permite eliminar cualquier archivo o documento de forma segura y sin dejar ningún rastro en el sistema.</li>
+</ul>
+<h2>Dashboard</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/26164152/CleanMyMac-3-Dashboard.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/26164152/CleanMyMac-3-Dashboard.jpg" alt="CleanMyMac 3 Dashboard" width="1280" height="800" class="aligncenter size-full wp-image-10668" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/26164152/CleanMyMac-3-Dashboard.jpg 1280w, https://cdn.macsfera.com/wp-content/uploads/2015/04/26164152/CleanMyMac-3-Dashboard.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/26164152/CleanMyMac-3-Dashboard.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p>Una de las nuevas características es el Dashboard, <strong>un panel de control de las características principales del ordenador.</strong> El Dashboard aporta información sobre el espacio en disco, la memoria RAM, la batería (en caso de que sea un portátil) y el procesador.</p>
+<p>De un vistazo podemos ver cómo de lleno está nuestro disco duro y a qué dedicamos ese espacio (Fotos, Aplicaciones, Música, etc.). También podremos ver el estado de la memoria RAM y liberar un poco en caso de que esté muy llena. El apartado de la batería nos indicará como está de cargada, horas restantes de uso, ciclos realizados y la salud general. Por último, el procesador nos indicará el porcentaje de uso con una gráfica que se actualiza en tiempo real.</p>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/26141733/CleanMyMac-3-Dashboard-forzar-cierre.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/26141733/CleanMyMac-3-Dashboard-forzar-cierre.jpg" alt="CleanMyMac 3 Dashboard forzar cierre" width="533" height="324" class="aligncenter size-full wp-image-10661" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/26141733/CleanMyMac-3-Dashboard-forzar-cierre.jpg 533w, https://cdn.macsfera.com/wp-content/uploads/2015/04/26141733/CleanMyMac-3-Dashboard-forzar-cierre.jpg 300w" sizes="(max-width: 533px) 100vw, 533px" /></a></p>
+<p>Es una herramienta muy interesante ya que viene genial para saber un poco más acerca del estado del hardware de tu Mac. <strong>CleanMyMac ahora no sólo se preocupa por su software.</strong> En caso de que no queramos tener abierta siempre la aplicación, podemos colocarla en la barra de menús para obtener todos estos detalles a golpe de click.</p>
+<p><strong>Dicho menú también nos servirá como panel de gestión</strong> en caso de que haya alguna aplicación que queramos desinstalar, algún proceso falle o salte un aviso por consumo elevado de RAM o memoria en el disco. En dicho caso obtendremos mediante la ventana flotante las opciones necesarias para realizar según qué caso.</p>
+<blockquote class="medio">
+<p>El mejor software para tener a punto nuestro Mac</p>
+</blockquote>
+<p>Al igual que pasaba en versiones antiguas, <strong>podemos configurar alertas y revisiones periódicas.</strong> De esta forma podemos olvidarnos del cuidado del sistema ya que si algo va mal seremos notificados o nos recordará pasar la revisión periódica.</p>
+<p>Un Mac es una herramienta que funciona muy bien, pero como toda buena máquina necesita un mantenimiento. <strong>CleanMyMac es el software perfecto para realizar ese mantenimiento gracias a la experiencia que tienen sus desarrolladores.</strong></p>
+<p>Está prácticamente adaptada a OS X Yosemite obteniendo el máximo rendimiento posible tras los análisis y las tareas. Gestionar la librería de Fotos es lo único que he detectado que no está al 100% implementado, al ser una aplicación nueva veo normal que no esté adaptada como lo está con iPhoto, pero <strong>espero actualizaciones que habiliten esa optimización.</strong></p>
+<p>Personalmente <a href="www.macsfera.com/deshazte-de-los-archivos-temporales-y-limpia-tu-mac-para-ponerlo-a-punto/" title="Deshazte de los archivos temporales y limpia tu Mac para ponerlo a punto" target="_blank" rel="noopener noreferrer">conozco esta aplicación desde su primera versión</a>, <strong>fue una de las herramientas que primero instalé cuando llegué a la plataforma Mac y ha estado conmigo desde entonces,</strong> ayudándome a tener limpio el sistema con todos los archivos que escapan a nuestro control.</p>
+<p>CleanMyMac 3 está disponible por <a href="https://macpaw.7eer.net/c/327929/226376/1733" target="_blank" rel="noopener noreferrer">40€ en su tienda</a> con distintos descuentos si queremos comprar licencias para usar en varios Macs. En caso de que seáis usuarios de CleanMyMac en sus versiones anteriores, podéis obtener un 50% de descuento para actualizar a lo último.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://macpaw.7eer.net/c/327929/95625/1733" target="_blank" rel="noopener noreferrer">MacPaw</a></span></p>
+<div class="alerta">
+<p>Por la compra de CleanMyMac, obtienes un <a href="https://macpaw.7eer.net/c/327929/194302/1733" target="_blank" rel="noopener noreferrer">30% de descuento</a> en la compra de <a href="www.macsfera.com/gemini-2-llega-para-limpiar-tu-mac-de-archivos-duplicados/" title="Gemini 2 llega para limpiar tu Mac de archivos duplicados" target="_blank" rel="noopener noreferrer">Gemini 2, una potente herramienta para eliminar duplicados en Mac</a>.</p>
+</div>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Detecta la librería de la <a href="www.macsfera.com/os-x-10-10-3-disponible-con-la-nueva-aplicacion-fotos/" title="OS X 10.10.3 disponible con la nueva aplicación Fotos" target="_blank" rel="noopener noreferrer">nueva aplicación Fotos</a>, pero no hay notas sobre si soporta todas las funciones.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/">CleanMyMac 3: limpia y optimiza OS X Yosemite</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Deshazte de los archivos temporales y limpia tu Mac para ponerlo a punto</title>
+		<link>https://www.MacSfera.com/deshazte-de-los-archivos-temporales-y-limpia-tu-mac-para-ponerlo-a-punto/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 13 Mar 2011 22:28:17 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Archivos]]></category>
+		<category><![CDATA[Archivos temporales]]></category>
+		<category><![CDATA[CleanMyMac]]></category>
+		<category><![CDATA[OnyX]]></category>
+		<category><![CDATA[Residuos]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1463</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/deshazte-de-los-archivos-temporales-y-limpia-tu-mac-para-ponerlo-a-punto/">Deshazte de los archivos temporales y limpia tu Mac para ponerlo a punto</a></p>
+<p>Si quieres que tu Mac mantenga el rendimiento debes hacer algo para evitar una pequeña ralentización en el sistema. Para esto lo</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/deshazte-de-los-archivos-temporales-y-limpia-tu-mac-para-ponerlo-a-punto/">Deshazte de los archivos temporales y limpia tu Mac para ponerlo a punto</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/deshazte-de-los-archivos-temporales-y-limpia-tu-mac-para-ponerlo-a-punto/">Deshazte de los archivos temporales y limpia tu Mac para ponerlo a punto</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/03/Limpia-los-archivos-temporales-de-tu-Mac.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/03/Limpia-los-archivos-temporales-de-tu-Mac.png" alt="" title="Limpia los archivos temporales de tu Mac" width="550" height="344" class="aligncenter size-full wp-image-3460" srcset="https://www.MacSfera.com/wp-content/uploads/2011/03/Limpia-los-archivos-temporales-de-tu-Mac.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/03/Limpia-los-archivos-temporales-de-tu-Mac-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Si quieres que tu <strong><a href="www.macsfera.com/" title="Mac">Mac</a></strong> mantenga el rendimiento debes hacer algo para evitar una pequeña ralentización en el sistema. Para esto lo mejor es usar <strong><a href="www.macsfera.com/tag/aplicaciones" title="Aplicaciones">aplicaciones</a></strong> que lo hagan automáticamente y hoy os exponemos dos:</p>
+<p><span id="more-1463"></span></p>
+<h2>CleanMyMac</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/03/CleanMyMac.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/03/CleanMyMac.png" alt="" title="CleanMyMac" width="550" height="490" class="aligncenter size-full wp-image-3458" srcset="https://www.MacSfera.com/wp-content/uploads/2011/03/CleanMyMac.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/03/CleanMyMac-300x267.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<div class="aviso">
+<p>Hay una nueva versión disponible, aquí tenéis la <a href="https://www.MacSfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/" title="CleanMyMac 3: limpia y optimiza OS X Yosemite" target="_blank">revisión completa de CleanMyMac 3</a>.</p>
+</div>
+<p><strong>CleanMyMac</strong> te <strong>ayuda a optimizar el sistema</strong> de la manera más sencilla que te puedas imaginar.</p>
+<p><strong>Puedes elegir que quiere que busque y elimine y puedes darle permisos para eliminar archivos que lo requieran.</strong> Además también <strong>sirve como desinstalador de aplicaciones,</strong> para borrar las <strong>apps</strong> y los posibles archivos que se puedan quedar en el sistema. Además <strong>te da la posibilidad de borrar los idiomas del sistema</strong> que te sean innecesarios, pudiendo dejar libre más memoria.</p>
+<p>Puedes elegir hacer limpieza en <strong>Caché, Registros, Traducciones, Binarios universales, Residuos del sistema y Otros residuos.</strong> También tiene otro apartado para <strong>desinstalar extensiones</strong> y otro para <strong>un borrado rápido de archivos.</strong></p>
+<p><strong>Es un programa muy sencillo que cumple su función a la perfección y es muy completo,</strong> la única «pega» que se puede encontrar es que de <strong>30$</strong> aunque se puede comprar medio año por 15$ pero merece la pena.</p>
+<p>Compra | <a href="https://macpaw.7eer.net/c/327929/95625/1733" target="_blank">MacPaw.com</a></p>
+<h2>OnyX</h2>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/03/OnyX.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/03/OnyX.png" alt="" title="OnyX" width="550" height="326" class="aligncenter size-full wp-image-3459" srcset="https://www.MacSfera.com/wp-content/uploads/2011/03/OnyX.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/03/OnyX-300x178.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>OnyX es un programa que también permite limpiar todos los archivos de residuos del sistema</strong> y cumple un montón de funciones más. Nosotros lo mencionamos solo por la limpieza, pero que sepáis que <strong>es capaz de mirar si el disco duro está con buen funcionamiento, un montón de cosas que requieren ya de conocimiento y algunos cambios visuales que no podemos hacer en Preferencias del Sistema.</strong></p>
+<p>En general <strong>es un programa muy completo</strong> y en el apartado de la limpieza <strong>permite activar y desactivar muchas componentes</strong> y lo separa todo por pestañas como: <strong>Sistema | Usuario | Internet | Fuentes | Registros | Otros.</strong></p>
+<p>Una vez hecha la selección de lo que queremos que mire, le damos a ejecutar y de el resto se encarga solo. También <strong>elimina los archivos que necesitan permisos ya que te pide que te identifiques al principio</strong> y lo hace todo de una manera muy sencilla.</p>
+<p>La ventaja que tiene este programa <strong>es que es gratuito</strong> y cumple un montón de funcionalidades para tener nuestro sistema apunto.<br />
+Descarga | <a href="http://www.apple.com/downloads/macosx/system_disk_utilities/onyx.html">Apple</a></p>
+<h2>Conclusión</h2>
+<p><strong>Creo que CleanMyMac hace las funciones a la perfección,</strong> además <strong>es sencillo y la interfaz gráfica está genial,</strong> para un usuario medio creo que está genial.</p>
+<p><strong>OnyX</strong>, por otro lado, <strong>es más para un usuario más avanzado que no solo busca la típica limpieza</strong> y tiene la ventaja de que es gratuito, las configuraciones que puedas hacer son para niveles avanzados y <strong>la verdad es que son dignas de mirar porque puedes modificar cosas como la posición de las flechas de scroll de una ventana.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/deshazte-de-los-archivos-temporales-y-limpia-tu-mac-para-ponerlo-a-punto/">Deshazte de los archivos temporales y limpia tu Mac para ponerlo a punto</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

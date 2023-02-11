@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Applets Java &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/applets-java/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:59:03 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Nueva actualización de seguridad contra Flashback</title>
+		<link>https://www.MacSfera.com/nueva-actualizacion-de-seguridad-contra-flashback/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 12 Apr 2012 21:34:10 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Actualización de Software]]></category>
+		<category><![CDATA[Applets Java]]></category>
+		<category><![CDATA[Flashback]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6691</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-actualizacion-de-seguridad-contra-flashback/">Nueva actualización de seguridad contra Flashback</a></p>
+<p>Apple acaba de lanzar una nueva actualización para prevenir a sus usuarios del malware Flashback. Ya recibimos una hace actualización de seguridad</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-actualizacion-de-seguridad-contra-flashback/">Nueva actualización de seguridad contra Flashback</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-actualizacion-de-seguridad-contra-flashback/">Nueva actualización de seguridad contra Flashback</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/04/Actualización-de-seguridad-Java-contra-Flashback.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/04/Actualización-de-seguridad-Java-contra-Flashback.png" alt="Actualización de seguridad Java contra Flashback" title="Actualización de seguridad Java contra Flashback" width="550" height="343" class="aligncenter size-full wp-image-6692" srcset="https://www.MacSfera.com/wp-content/uploads/2012/04/Actualización-de-seguridad-Java-contra-Flashback.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/04/Actualización-de-seguridad-Java-contra-Flashback-300x187.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Apple</strong> acaba de lanzar una <strong>nueva actualización para prevenir a sus usuarios del malware</strong> <strong><a href="www.macsfera.com/tag/flashback" title="Flashback" target="_blank" rel="noopener noreferrer">Flashback</a></strong>.</p>
+<p><span id="more-6691"></span></p>
+<p>Ya recibimos <strong><a href="www.macsfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/" title="Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad" target="_blank" rel="noopener noreferrer">una hace actualización de seguridad</a></strong> poco y ahora han lanzado otra cuyo objetivo es el de <strong>mejorar la seguridad en Java eliminando la mayoría de las variantes comunes de Flashback.</strong> Otra de las funciones que tiene es la de configurar el módulo web <strong>Java</strong> desactivando la ejecución automática de <strong>applets Java</strong>.</p>
+<p>De este modo <strong>no solo se elimina el malware sino que se previene la reinstalación por error o accidente.</strong> Cualquier persona puede <strong>activar de nuevo la ejecución automática de applets Java desde Preferencias de Java,</strong> pero para evitar problemas, si se detecta que no se ha ejecutado ninguno en un periodo largo de tiempo <strong>se volverá a desactivar.</strong></p>
+<p>Recordemos que <strong>Flashback</strong> es un malware que pone en riesgo los datos de tu <strong><a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a></strong> y compromete la seguridad de éste pudiendo cambiar archivos y configuraciones para <strong>sonsacar toda la información personal y privada que pueda.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-actualizacion-de-seguridad-contra-flashback/">Nueva actualización de seguridad contra Flashback</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

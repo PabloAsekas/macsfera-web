@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Guantes táctiles &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/guantes-tactiles/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Fri, 09 Dec 2016 16:44:17 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Trucos a la hora de usar el iPhone 7 con guantes táctiles</title>
+		<link>https://www.MacSfera.com/trucos-usar-iphone-7-con-guantes-tactiles/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 09 Dec 2016 16:44:17 +0000</pubDate>
+				<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[3d Touch]]></category>
+		<category><![CDATA[Assistive Touch]]></category>
+		<category><![CDATA[Elevar para activar]]></category>
+		<category><![CDATA[Guantes táctiles]]></category>
+		<category><![CDATA[iPhone 7]]></category>
+		<category><![CDATA[Multitarea]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16049</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/trucos-usar-iphone-7-con-guantes-tactiles/">Trucos a la hora de usar el iPhone 7 con guantes táctiles</a></p>
+<p>«Winter is coming» como diría un buen Stark, y con el invierno viene su gélido frío. Cada vez nos vamos poniendo más</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/trucos-usar-iphone-7-con-guantes-tactiles/">Trucos a la hora de usar el iPhone 7 con guantes táctiles</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/trucos-usar-iphone-7-con-guantes-tactiles/">Trucos a la hora de usar el iPhone 7 con guantes táctiles</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173425/Usar-iPhone-7-con-guantes-tactiles.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173425/Usar-iPhone-7-con-guantes-tactiles.jpg" alt="Usar iPhone 7 con guantes tactiles" width="2500" height="1667" class="aligncenter size-full wp-image-16051" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173425/Usar-iPhone-7-con-guantes-tactiles.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/12/09173425/Usar-iPhone-7-con-guantes-tactiles.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/12/09173425/Usar-iPhone-7-con-guantes-tactiles.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><em>«Winter is coming»</em> como diría un buen Stark, y con el invierno viene su gélido frío. Cada vez nos vamos poniendo más prendas de ropa y llegará un momento en el que decidamos usar guantes.</p>
+<p>Y claro, los guantes que nosotros poseemos (o vamos a poseer) son táctiles, para poder usar el móvil mientras los tenemos puestos, pero <strong>¿qué hacemos cuando el botón de inicio del iPhone 7 no es un botón y no reconoce nuestra pulsación?</strong></p>
+<p><span id="more-16049"></span></p>
+<p>Por suerte, <strong>existe una serie de trucos en iOS que nos van a permitir usar el iPhone sin tocar ni una sola vez el botón de inicio con nuestros guantes táctiles puestos.</strong></p>
+<p>He identificado 3 pasos fundamentales que seguimos a la hora de utilizar nuestro iPhone según lo sacamos del bolsillo y aquí están las soluciones para cada una de ellas:</p>
+<h2>1. Encender el dispositivo</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173542/Elevar-para-activar.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173542/Elevar-para-activar.gif" alt="Elevar para activar" width="700" height="394" class="aligncenter size-full wp-image-16052" /></a></p>
+<p><strong>La primera opción que os recomiendo para encender el dispositivo es <em>Elevar para activar</em>.</strong> Esta función permite encender el teléfono automáticamente en cuanto detecta que lo hemos levantado.</p>
+<p>De esta forma, siempre que lo saquemos del bolsillo estará encendido para que podamos interactuar con la pantalla sin pulsar un solo botón.</p>
+<p><strong>Para activarlo:</strong></p>
+<ol>
+<li>Accedemos a <strong>Preferencias</strong></li>
+<li>Vamos a la sección <strong>Pantalla y brillo</strong></li>
+<li>Activamos la opción <strong>Elevar para activar</strong></li>
+</ol>
+<p>Podríamos suprimir este truco si decidiésemos encender el iPhone con el botón de bloqueo y desbloqueo, pero el iPhone 7 tiene un toque resbaladizo que ya hace que se escurra de la mano desnuda, imaginaos con unos guantes de lana puestos. Por eso creo que es mejor evitar líos y dejar que el teléfono se encienda solo cuando lo levantemos.</p>
+<h2>2. Sacar el panel de números</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173618/Desbloquear-iPhone-con-notificacion.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173618/Desbloquear-iPhone-con-notificacion.gif" alt="Desbloquear iPhone con notificacion" width="700" height="394" class="aligncenter size-full wp-image-16053" /></a></p>
+<p>Desde <a target="_blank"title="iOS 10" href="www.macsfera.com/tag/ios-10">iOS 10</a>, el famoso y característico <em>«Deslizar para desbloquear»</em> no existe, por eso ahora hay que pulsar el botón de inicio si queremos que salga el panel de números. Lo normal sería usar Touch ID, pero como nuestro dedo está protegido por un guante, no va a funcionar, <strong>así que tendremos que meter el código de seguridad.</strong></p>
+<p>Ahora bien, el botón de inicio no reconoce nuestro dedo con el guante, así que tendremos que buscarnos la manera adecuada para forzar la petición del código de seguridad. <strong>Yo he encontrado 3 formas:</strong></p>
+<ol>
+<li><strong>Utilizar una notificación:</strong> si tenemos una notificación en pantalla, bastará con interactuar con ella para que nos pida el código de acceso y acceder a todo el teléfono</li>
+<li><strong>Utilizar la cámara:</strong> si bien para acceder a la cámara no hay que poner ningún código de seguridad, para acceder a todas las fotos sí, así que eso haremos: acceder a la cámara, luego a la galería de fotos (que estará vacía) y por último a <em>Todas las fotos</em></li>
+<li><strong>Utilizar los widgets:</strong> los widgets nos permiten interactuar con las aplicaciones de forma superficial, si queremos realizar tareas más complejas, nos pedirán el código y conseguiremos acceder al contenido del teléfono</li>
+</ol>
+<p><strong>Sé que son métodos poco prácticos,</strong> pero esto lo podemos hacer siempre y cuando el botón no registre ninguna pulsación. En las pruebas que he hecho con mis guantes reconocía muy pocas, de modo que también podéis intentar que os reconozca alguna.</p>
+<p>Sólo necesitáis que os reconozca una vez para sacar el panel de números así que por probar no creo que pase nada. Si aún así por el tipo de guante no lo reconoce <sup class="modern-footnotes-footnote ">1</sup> siempre podéis recurrir a alguno de los métodos que os he dicho arriba.</p>
+<h2>3. Multitarea, cambio y cierre de aplicaciones</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173649/Multitarea-con-3D-Touch.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173649/Multitarea-con-3D-Touch.gif" alt="Multitarea con 3D Touch" width="700" height="394" class="aligncenter size-full wp-image-16054" /></a></p>
+<p>Como el botón de inicio no funciona, no podremos usarlo para salir de aplicaciones ya abiertas o para acceder a la multitarea, pero la solución de esto es muy sencilla: <strong>3D Touch.</strong></p>
+<p><strong>Gracias a 3D Touch,</strong> tal y como os dije en <a target="_blank"title="Mi review del iPhone 7" href="www.macsfera.com/review-del-iphone-7/">mi review del iPhone 7</a>, <strong>podremos acceder a la multitarea, cambiar entre aplicaciones e incluso ir a la pantalla de inicio.</strong></p>
+<p>Basta con hacer presión en el marco lateral izquierdo y veremos cómo la propia app empieza a deslizarse a la derecha. Vemos que pueden pasar dos cosas:</p>
+<ol>
+<li><strong>Cambiar a la segunda aplicación abierta:</strong> esto se consigue con un deslizamiento completo, como si pasásemos de página</li>
+<li><strong>Acceder a la multitarea:</strong> se consigue soltando a mitad de recorrido, veremos cómo el panel de multitarea se despliega y podremos navegar entre todas las aplicaciones, <strong>incluida la pantalla de inicio</strong></li>
+</ol>
+<p>El punto número dos lo tendremos que hacer cada vez que queramos salir a la pantalla de inicio, así que acostumbraros a él porque es el que más utilidad tiene.</p>
+<h2>BONUS. Activar AssitiveTouch</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173716/Assistive-Touch-iPhone-7.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173716/Assistive-Touch-iPhone-7.gif" alt="Assistive Touch iPhone 7" width="700" height="394" class="aligncenter size-full wp-image-16055" /></a></p>
+<p><strong>El sistema AssistiveTouch es un asistente que permite realizar diferentes tareas mediante un botón virtual siempre presente en la pantalla.</strong></p>
+<p>Lo podemos personalizar como queramos, pero básicamente permite realizar con pulsaciones algunas acciones que requieren una interacción mayor: accionar el centro de notificaciones, centro de control, bloquear la pantalla, activar Siri, etc.</p>
+<p><strong>Una de esas acciones táctiles es emular el botón de inicio,</strong> de modo que si activamos AssistiveTouch, podremos acceder de forma táctil al botón y con él invocar el panel de números.</p>
+<p>Es más, <strong>es compatible con 3D Touch,</strong> de modo que bastará con hacer una pulsación fuerte para activar el panel de números, salir de apps, etc.</p>
+<p>Para activarlo:</p>
+<ol>
+<li>Ir a <strong>Preferencias</strong></li>
+<li>Ir a <strong>General</strong></li>
+<li>Ir a <strong>Accesibilidad</strong></li>
+<li>Ir a <strong>Assistive Touch</strong></li>
+<li><strong>Activar Assistive Touch</strong></li>
+</ol>
+<p>Esta es la opción que menos me gusta <strong>porque implica tener constantemente el botón virtual en medio de la pantalla.</strong> Está muy bien si se usa siempre, pero tenerlo ahí sólo para cuando usas los guantes táctiles me parece excesivo.</p>
+<p>Aún así que cada uno elija, yo por si acaso os doy la opción.</p>
+<hr />
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173754/Usar-iPhone-7-con-guantes.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173754/Usar-iPhone-7-con-guantes.jpg" alt="Usar iPhone 7 con guantes" width="2500" height="1667" class="aligncenter size-full wp-image-16056" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/12/09173754/Usar-iPhone-7-con-guantes.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/12/09173754/Usar-iPhone-7-con-guantes.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/12/09173754/Usar-iPhone-7-con-guantes.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Y con estos pasos podremos navegar fácil y plenamente por nuestro iPhone 7 con los guantes táctiles sin necesidad de tocar el botón de inicio.</strong></p>
+<p>Sé que el paso de desbloquear el teléfono es el más costoso, sobre todo si el botón de inicio no detecta una pulsación con los guantes, pero no se me ha ocurrido mucho más, y eso que he interrogado a Siri de mil formas para que me saque el teclado numérico.</p>
+<p><strong>Espero que os resulten útiles estos trucos para usar vuestro iPhone 7 sin depender de ninguna forma del botón de inicio,</strong> y tened cuidado que el iPhone resbala con guantes.</p>
+<p><span class="source">Guantes táctiles</span> <span class="via"><a href="http://amzn.to/2gsOdtu" target="_blank">Amazon</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Que es lo más normal.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/trucos-usar-iphone-7-con-guantes-tactiles/">Trucos a la hora de usar el iPhone 7 con guantes táctiles</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

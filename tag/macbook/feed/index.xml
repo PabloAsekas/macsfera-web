@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MacBook &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/macbook/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:37 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Resumen y opinión de la keynote de la WWDC17</title>
+		<link>https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 09 Jun 2017 13:08:09 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[HomePod]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[iMac Pro]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 11]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPad Pro]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[macOS High Sierra]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Resumen]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC17]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
+<p>Esta semana ha sido la keynote de la WWDC, el anual evento de desarrolladores que organiza Apple en el que presenta el</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg" alt="Tim Cook WWDC17" width="2500" height="1089" class="aligncenter size-full wp-image-16610" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Esta semana ha sido <a target="_blank" title="La WWDC17 se celebrará del 5 al 9 de junio en San José" href="www.macsfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/" rel="noopener noreferrer">la keynote de la WWDC</a>, el anual evento de desarrolladores que organiza Apple en el que presenta el futuro de los sistemas operativos de la empresa, entre otras cosas.</p>
+<p>El evento fue uno de los más largos que recuerdo, más de dos horas de información en la que no hubo tiempo ni para analizar lo que estaban diciendo. Muchísimos datos, muchísimos detalles, muchas novedades y unos cuantos lanzamientos.</p>
+<p><span id="more-16607"></span></p>
+<p>Este año me vais a perdonar, lejos de hacer un artículo detallado con todas las novedades y luego un resumen con mi opinión, <strong>voy a hacer sólo el resumen y opinión.</strong> El tiempo no me da para más, por ello en este artículo vais a encontrar más opinión que datos o novedades. Aún así, os enlazaré a otras webs que traten bien esas novedades para que sepáis exactamente qué es todo lo nuevo <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<p>Así que sin más, <strong>vamos con las 6 novedades que presentaron ayer.</strong></p>
+<h2>Nuevo tvOS</h2>
+<p>La única novedad que incluye esta versión es que <strong>Amazon Prime Now,</strong> el servicio de vídeo bajo demanda de Amazon, <strong>se incorpora al Apple TV.</strong></p>
+<p>Hubo una referencia a más cambios en el sistema de cara al futuro, cosa que no me gustó porque bueno, porque estamos en un evento en el que los protagonistas son los sistemas operativos.</p>
+<p>Supongo que ese futuro coincidirá con el lanzamiento de la nueva versión del Apple TV, pero aún así.</p>
+<p><a href="https://www.applesfera.com/apple-tv/wwdc17-amazon-prime-video-llegara-al-apple-tv" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo watchOS 4</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg" alt="watchOS 4" width="2500" height="1085" class="aligncenter size-full wp-image-16611" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La nueva versión de watchOS, la versión 4, <strong>hace mucho énfasis en la incorporación de Siri en todo el sistema.</strong></p>
+<p>El asistente tiene ahora su propia esfera, una en la que la información se muestra de forma ordenada e inteligente para que tengamos todo lo que necesitamos a mano.</p>
+<p><strong>A través del aprendizaje automático, el reloj es capaz de averiguar la información más útil que ha de mostrar, consiguiendo tener en la muñeca todo lo necesario a un solo golpe de corona.</strong></p>
+<p>Hubo presentaciones de nuevas esferas, pero seguimos sin tener una forma oficial de desarrollo de esferas por parte de terceros. Sinceramente, esto es lo que más echo en falta en el Apple Watch.</p>
+<p>Como es habitual, si Apple lanza un nuevo Apple Watch este año, habrá más novedades en todo el sistema.</p>
+<p><a href="https://www.applesfera.com/apple-watch/todas-las-novedades-de-watchos-4-en-la-wwdc17" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo macOS High Sierra</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg" alt="macOS High Sierra" width="2500" height="1500" class="aligncenter size-full wp-image-16612" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Al igual que pasó en el <a target="_blank" title="Nuevo OS X El Capitan" href="www.macsfera.com/nuevo-os-x-el-capitan/" rel="noopener noreferrer">salto de Yosemite a El Capitan</a>, High Sierra es una versión perfeccionada y optimizada de Sierra. </p>
+<p><strong>Que Apple File System llegue de forma definitiva es una gran noticia,</strong> en iOS ha venido muy bien, así que en Mac pasará más de lo mismo. Además, los estándares de compresión de vídeo nuevos ayudarán mucho al usuario final.</p>
+<p>Metal 2 no es más que un pequeño escalón más por dotar al Mac de potencia de procesamiento gráfico, <strong>y parece que ha funcionado por la compatibilidad que va a traer con la realidad virtual.</strong> Por fin Apple nos dota de una herramienta capaz de crear contenido en condiciones para esta nueva tecnología que está captando mucho nuestra atención.</p>
+<p>Y si eso fuera poco, ahora trae compatibilidad nativa con hardware externo, básicamente podremos hacer que un MacBook Pro utilice tarjetas gráficas externas sin complicación para procesar todo tipo de contenido gráfico. Este componente hace que los equipos más antiguos puedan estar a la altura de la realidad virtual, por ejemplo.</p>
+<p>Ha habido un leve rediseño en algunas aplicaciones, adaptándose a la guía que hay en Apple Music para iOS. También ha habido mejoras en aplicaciones, estoy deseando probar esa nueva versión de Fotos y de Safari, y la nueva propiedad de compartir archivos de iCloud.</p>
+<p>Por último, <strong>destacar los esfuerzos que está haciendo Apple por dotar de inteligencia artificial a los sistemas,</strong> veremos a ver si finalmente tiene resultado, pero es algo que ha estado muy presente en toda la keynote y que me llama mucho la atención.</p>
+<p>En un futuro, como ha pasado otros años, <strong>puede que veamos más mejoras,</strong> pero de momento no ha habido un gran cambio, sino una perfección de lo ya existente.</p>
+<p><a href="http://www.faq-mac.com/2017/06/macos-sera-en-septiembre-macos-high-sierra/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Renovación de los Mac</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg" alt="Nuevos iMac y MacBook Pro" width="1856" height="1056" class="aligncenter size-full wp-image-16613" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg 1856w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg 1024w" sizes="(max-width: 1856px) 100vw, 1856px" /></a></p>
+<p><strong>Dar el salto a la séptima generación de los procesadores de Intel siempre es una buena noticia,</strong> y que haya una pequeña actualización de componentes también. Por eso, todos los modelos de iMac, MacBook Pro y MacBook han visto actualizados los componentes internos.</p>
+<p>Mejores procesadores, mejores SSDs, mejores pantallas, mejores gráficas y nuevos puertos.</p>
+<p><strong>En el terreno de los iMac me hubiese gustado algún pequeño rediseño,</strong> en lo que a marcos se refiere sobre todo. Llevo meses mirando mi iMac y pensando que tiene un diseño frontal basado en una tendencia pasada y me hubiera encantado que Apple hubiese hecho algo al respecto, pero no ha sido así, sólo ha sido una actualización de componentes.</p>
+<p>Apple ha dejado claro que quiere que sus equipos sean potentes, y así lo ha demostrado.</p>
+<p><a href="http://www.faq-mac.com/2017/06/apple-actualiza-el-imac-macbook-macbook-air-y-macbook-pro/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo iMac Pro</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg" alt="iMac Pro" width="2500" height="1582" class="aligncenter size-full wp-image-16614" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La empresa nos sorprendió con un nuevo iMac, <strong>el iMac Pro, un equipo cuya potencia supera a la del actual Mac Pro y que promete ser una alternativa de escritorio digna de profesionales.</strong></p>
+<p>Digo que nos sorprendió, no porque <a target="_blank" title="El futuro del Mac Pro, el iMac y las pantallas de Apple" href="www.macsfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/" rel="noopener noreferrer">no supiésemos que iban a sacar un iMac para profesionales</a>, que sí lo sabíamos, <strong>sino porque lo hicieron más pronto que tarde,</strong> y eso no suele ser habitual en Apple.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/a38_qR-S8Yo" frameborder="0" allowfullscreen></iframe></p>
+<p>El ordenador es una máquina increíble, potencia pura para procesar lo que le eches encima, y más. Es un gran equipo para el sector profesional y que puede ser expandido en un futuro con accesorios externos gracias a la compatibilidad de macOS High Sierra.</p>
+<p>Este no va a ser un ordenador que muchos de nosotros compremos, pero que Apple vuelva a poner sobre la mesa <sup class="modern-footnotes-footnote ">2</sup> un equipo destinado al público profesional, <strong>creo que ayudará mucho a que el Mac se implante en entornos de trabajo.</strong></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/XPIrnAcmCSk" frameborder="0" allowfullscreen></iframe></p>
+<p><a href="https://www.applesfera.com/sobremesa/apple-presenta-el-imac-pro-una-autentica-bestia-para-los-mas-exigentes-wwdc17" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo iOS 11</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg" alt="iOS 11" width="2500" height="744" class="aligncenter size-full wp-image-16615" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Llegamos a uno de los puntos clave del evento, la presentación del nuevo sistema operativo móvil, <strong>iOS 11.</strong> No os voy a engañar, me encantó todo lo que vi. </p>
+<ul>
+<li>Aplicación Archivos (incluso para servicios en la nube de terceros)</li>
+<li>Nuevo dock en el iPad</li>
+<li>Multitarea mejorada</li>
+<li>Arrastrar y soltar</li>
+<li>Teclado implementado</li>
+<li>Más opciones para las Live Photos</li>
+<li>Rediseños generales de aplicaciones</li>
+</ul>
+<p>Veo que se siguen rompiendo los moldes y estamos empezando a ver cosas útiles que se saltan el esquema de lo más intuitivo, cosas para gente más avanzada. <strong>Para los que realmente las necesiten.</strong></p>
+<p>No es que antes no estuvieran, pero había que liarla un poco para conseguirlas. <strong>Ahora todo es más sencillo una vez que se conoce el mecanismo.</strong> Es menos intuitivo, pero más útil. Por suerte contamos con 7 años de experiencia en interfaces gráficas táctiles como para que no suponga tanto esfuerzo.</p>
+<p>El mejor ejemplo de esto es el arrastrar y soltar, por fin lo tenemos nativo, antes podíamos transferir archivos entre aplicaciones, pero era todo más complejo. <strong>Ahora es fácil, sencillo y potente,</strong> como <a target="_blank" href="#" rel="noopener noreferrer">el que implementó Readdle hace poco</a>.</p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg" alt="Multitarea iOS 11" width="2348" height="1348" class="aligncenter size-full wp-image-16616" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg 2348w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg 1024w" sizes="(max-width: 2348px) 100vw, 2348px" /></a></p>
+<p>Al igual que <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/" rel="noopener noreferrer">con iOS 10</a> el gran beneficiado fue el iPhone, <strong>con iOS 11 el gran beneficiado ha sido el iPad,</strong> sin lugar a dudas.</p>
+<p>Estoy deseando que salgan las betas públicas para poder usarlo y trastear con esa nueva multitarea, el dock y demás propiedades.</p>
+<p>Estoy muy contento con el trabajo realizado, y eso que no hemos visto ni la mitad de las novedades que esta versión trae, y traerá.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/Yy1JEyxRzIc" frameborder="0" allowfullscreen></iframe></p>
+<p>Este vídeo muestra un repaso por todas esas novedades que se han ido descubriendo con el paso de los días y la beta de desarrolladores número 1.</p>
+<p><a href="http://www.faq-mac.com/2017/06/ios-11-presenta-nuevas-y-potentes-funciones-para-iphone-y-ipad-este-otono/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevos iPad Pro</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg" alt="Nuevo iPad Pro 10,5 pulgadas" width="2320" height="666" class="aligncenter size-full wp-image-16617" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg 2320w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg 1024w" sizes="(max-width: 2320px) 100vw, 2320px" /></a></p>
+<p>Después de iOS <sup class="modern-footnotes-footnote ">3</sup>, <strong>presentaron los nuevos iPad Pro: el modelo de 12,9” y uno nuevo de 10,5”</strong> que sustituye <a target="_blank" title="iPad Pro: lo que esperaba, y mucho más" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/" rel="noopener noreferrer">al de 9,7”</a>.</p>
+<p>Mejores pantallas (con mayor ratio de refresco y mayor luminosidad), más potencia gracias al chip A10X, cámaras mejoradas y Touch ID de segunda generación. Son solo algunas de las novedades de estos nuevos equipos.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/UR5ODc5Wbbo" frameborder="0" allowfullscreen></iframe></p>
+<p>Eliminar el equipo de 9,7” pulgadas no me parece una mala jugada, <strong>sobre todo si han reducido los bordes ya que el aumento de tamaño no es tan descarado.</strong></p>
+<p>Celebro la subida de espacio que ha habido (de 32GB a 64GB), aunque el nuevo dispositivo lleva consigo también una subida de precio respecto al Pro de 9,7”.</p>
+<p><a href="http://www.faq-mac.com/2017/06/nuevos-ipad-pro-de-105-pulgadas-y-129-pulgadas/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo HomePod</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg" alt="Nuevo HomePod" width="1808" height="1596" class="aligncenter size-full wp-image-16618" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg 1808w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg 227w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg 1024w" sizes="(max-width: 1808px) 100vw, 1808px" /></a></p>
+<p>Y llegamos a la última gran presentación de la WWDC17, <strong>el HomePod.</strong></p>
+<p><strong>El HomePod es un altavoz inteligente que está diseñado para ponernos música y emitirla de forma inteligente.</strong> Siri está presente en el sistema y es la única forma de interactuar con el altavoz <sup class="modern-footnotes-footnote ">4</sup>.</p>
+<p>Sólo funcionará con Apple Music (hasta donde sabemos) y puede realizar las labores de asistente virtual. <strong>Siri ha sido modificada para entender un montón de frases relacionadas con el ámbito de la música pero también para dar información y realizar esas tareas comunes</strong> que realiza en el resto de dispositivos.</p>
+<p>Personalmente, este es uno de los productos que menos gracia me han hecho. <strong>No me gustan los asistentes virtuales del hogar,</strong> me parecen poco útiles y que violan nuestra privacidad de una manera de la que no somos conscientes, para el beneficio que aportan <sup class="modern-footnotes-footnote ">5</sup>.</p>
+<p>Aún así, <strong>Apple lo vende principalmente como un altavoz inalámbrico,</strong> no como un asistente del hogar. Dentro de lo malo, al menos lo han dotado de buenas características para reproducir audio, que es algo que la competencia no tiene.</p>
+<p>Digamos que es el mismo producto, pero potenciando características distintas.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/1hw9skL-IXc" frameborder="0" allowfullscreen></iframe></p>
+<p>He de destacar que sí hay una cosa que me ha encantado, y es <strong>la escucha local que realiza el dispositivo.</strong> Como cualquier asistente, responde a un comando de voz para que empiece a funcionar. Para ello, el asistente tiene que escuchar y procesar todo lo que oye con el fin de encontrar el patrón de palabras clave <sup class="modern-footnotes-footnote ">6</sup>.</p>
+<p>Otros asistentes hacen esa comprobación de palabras en los servidores de sus fabricantes, es decir, escuchan todo lo que les llega, lo envían a la compañía y (como poco) lo procesan <sup class="modern-footnotes-footnote ">7</sup>. </p>
+<p><strong>El HomePod no hace eso,</strong> para garantizar nuestra privacidad, <strong>el HomePod es capaz de analizar esas palabras en local, sin necesidad de enviar nada fuera.</strong> Cuando detecta que se han dicho las palabras adecuadas, ya sí que inicia la conexión con los servidores de Apple con el objetivo de procesar la petición del usuario.</p>
+<p>Es un gran gesto por parte de Apple el limitar las escuchas que realiza, <strong>garantizando al usuario que va a meter un micrófono en su casa que estará 24/7 escuchando, de que no va a escuchar nada que no deba.</strong></p>
+<p>Desconozco si esta medida se habrá implementado en los demás dispositivos <sup class="modern-footnotes-footnote ">8</sup>, pero sin duda es algo que debería pasar si no está ya.</p>
+<p><a href="http://www.faq-mac.com/2017/06/homepod-reinventa-la-musica-en-el-hogar/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<hr />
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/FC0pT9xg1oI" frameborder="0" allowfullscreen></iframe></p>
+<p><strong>Y así es como terminamos la keynote de presentación de la WWDC17,</strong> un evento que, <a target="_blank" href="http://www.faq-mac.com/2017/06/una-keynote-para-consumo/" rel="noopener noreferrer">como dice Carlos Burges</a>, ha sido más para el público que para los desarrolladores.</p>
+<p>Han presentado demasiadas cosas, han ido demasiado rápido y, de lo importante <sup class="modern-footnotes-footnote ">9</sup>, <strong>se han dejado mucha información en el tintero.</strong></p>
+<p>No critico que el evento haya sido como ha sido, simplemente critico que hay infinidad de aspectos técnicos interesantes que no se han comentado. Prueba de ello son los distintos descubrimientos que se están haciendo según se prueban las versiones beta.</p>
+<p>En cualquier caso, <strong>Apple se ha puesto las pilas en muchos de los campos más demandados y más importantes para los usuarios.</strong> Ha incluido muchas novedades que hace 2-3 años hubiesen sido impensables y lo ha hecho de una forma muy natural.</p>
+<p>Todos los usuarios hemos salido muy beneficiados de esta keynote, el futuro pinta muy bien y estoy deseando ver más.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Os podría enlazar a la propia web de Apple pero como la van cambiando, no serviría de referencia para el futuro, así que prefiero enlazaros a artículos que sé que no van a desaparecer y que mantienen la información independientemente del año en que se consulte.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Y no solo con palabras.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Y antes de presentar las propiedades exclusivas del sistema para el iPad.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Salvo para controlar el volumen y poner o pausar la canción.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;Salvo que se padezca alguna discapacidad que dificulte la relación con los dispositivos informáticos tal y como los conocemos hoy.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;<em>”Oye Siri”</em> es la frase en español.</div><div>7&nbsp;&nbsp;&nbsp;&nbsp;Vete tú a saber si a parte de procesarlo lo almacenan, buscan patrones de comportamiento, pronunciación, etc.</div><div>8&nbsp;&nbsp;&nbsp;&nbsp;Los compatibles con <em>“Oye Siri”</em>.</div><div>9&nbsp;&nbsp;&nbsp;&nbsp;Los sistemas operativos y las tecnologías detrás de ellos.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Así es la promoción Vuelta a clase en EEUU este año</title>
+		<link>https://www.MacSfera.com/asi-es-la-promocion-vuelta-a-clase-en-eeuu-este-ano/</link>
+					<comments>https://www.MacSfera.com/asi-es-la-promocion-vuelta-a-clase-en-eeuu-este-ano/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2016 14:45:43 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Beats]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPad Pro]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Promoción]]></category>
+		<category><![CDATA[Vuelta a Clase]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14838</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/asi-es-la-promocion-vuelta-a-clase-en-eeuu-este-ano/">Así es la promoción Vuelta a clase en EEUU este año</a></p>
+<p>Todos los años, Apple lanza una promoción en verano llamada Vuelta a clase con algún descuento o regalo para los estudiantes, este</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/asi-es-la-promocion-vuelta-a-clase-en-eeuu-este-ano/">Así es la promoción Vuelta a clase en EEUU este año</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/asi-es-la-promocion-vuelta-a-clase-en-eeuu-este-ano/">Así es la promoción Vuelta a clase en EEUU este año</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/02163945/Vuelta-al-cole-EEUU-2016.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/02163945/Vuelta-al-cole-EEUU-2016.jpg" alt="Vuelta al cole EEUU 2016" width="2500" height="1089" class="aligncenter size-full wp-image-14840" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/02163945/Vuelta-al-cole-EEUU-2016.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/02163945/Vuelta-al-cole-EEUU-2016.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/02163945/Vuelta-al-cole-EEUU-2016.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Todos los años, Apple lanza una promoción en verano llamada <em>Vuelta a clase</em> con algún descuento o regalo para los estudiantes, este año viene mucho más pronto que <a target="_blank" title="Así es la campaña Vuelta a clase en EEUU" href="www.macsfera.com/asi-es-la-campana-vuelta-a-clase-en-eeuu/" rel="noopener noreferrer">el año pasado</a> y los regalos son de la misma temática, <strong>cascos Beats.</strong></p>
+<p>Aunque este año las cosas están mucho mejor ya que los regalos son mejores y hay más posibilidades. Por eso, así quedan los regalos:</p>
+<p><span id="more-14838"></span></p>
+<p>Por la compra de un Mac, <strong>nos llevamos unos <a target="_blank" title="Beats Solo2 inalámbricos: mi opinión" href="www.macsfera.com/beats-solo2-inalambricos-mi-opinion/" rel="noopener noreferrer">Beats Solo2 inalámbricos</a> del color que queramos a elegir entre los 11 disponibles.</strong> El año pasado hubo solo tres colores y para obtener el modelo inalámbrico <a target="_blank" title="Ya tenemos campaña de Vuelta a Clase en España" href="www.macsfera.com/ya-tenemos-campana-de-vuelta-a-clase-en-espana/" rel="noopener noreferrer">había que poner 100€ más</a>. Estos cascos están valorados en 300 euros así que, a parte del descuento que se aplica por estudiante, es un muy buen regalo.</p>
+<p>Cualquier Mac está incluido en la promoción salvo el Mac Mini.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144914/Beats-Solo2-Inalambricos-Gris-Espacial.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144914/Beats-Solo2-Inalambricos-Gris-Espacial.jpg" alt="Beats Solo2 Inalambricos Gris Espacial" width="2500" height="1667" class="aligncenter size-full wp-image-11945" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/09/04144914/Beats-Solo2-Inalambricos-Gris-Espacial.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144914/Beats-Solo2-Inalambricos-Gris-Espacial.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/09/04144914/Beats-Solo2-Inalambricos-Gris-Espacial.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Por la compra de un iPad Pro, tanto de 12,9 pulgadas como el <a target="_blank" title="iPad Pro: lo que esperaba, y mucho más" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/" rel="noopener noreferrer">iPad Pro de 9,7 pulgadas</a>, o un iPhone de la gama 6 o 6s, <strong>el regalo es unos cascos Beats PowerBeats2 inalámbricos a elegir entre 7 colores</strong> valorados en 200 euros, o la posibilidad de tener unos Beats Solo2 inalámbricos por 100€ más.</p>
+<p>De momento, <strong>no se sabe nada de si esta promoción será válida para España,</strong> lo que sí se sabe es que durará hasta el 5 de septiembre de 2016, de modo que habrá que esperar a ver si la validan para nuestro país, como el año pasado.</p>
+<p>Precisamente por ese motivo, no hay porqué pensar que no se va a trasladar tal cual a nuestro país, así que si estáis pensando en comprar un dispositivo nuevo y tenéis descuento de estudiantes, <strong>lo mejor va a ser esperar un poco a ver si la sacan.</strong></p>
+<p><span class="source">Bases</span> <span class="via"><a href="http://images.apple.com/promo/pdf/US_Summer_Beats_2016_TCs.pdf" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/asi-es-la-promocion-vuelta-a-clase-en-eeuu-este-ano/">Así es la promoción Vuelta a clase en EEUU este año</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/asi-es-la-promocion-vuelta-a-clase-en-eeuu-este-ano/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nuevo MacBook en color oro rosa</title>
+		<link>https://www.MacSfera.com/nuevo-macbook-color-oro-rosa/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2016 13:25:28 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14616</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-macbook-color-oro-rosa/">Nuevo MacBook en color oro rosa</a></p>
+<p>Apple acaba de lanzar un nuevo MacBook de color rosa, que se une a los tres colores existentes, y mejora su procesador</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-macbook-color-oro-rosa/">Nuevo MacBook en color oro rosa</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-macbook-color-oro-rosa/">Nuevo MacBook en color oro rosa</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/04/19152225/MacBook-Oro-Rosa.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/04/19152225/MacBook-Oro-Rosa.jpg" alt="MacBook Oro Rosa" width="2250" height="1362" class="aligncenter size-full wp-image-14618" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/04/19152225/MacBook-Oro-Rosa.jpg 2250w, https://cdn.macsfera.com/wp-content/uploads/2016/04/19152225/MacBook-Oro-Rosa.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/04/19152225/MacBook-Oro-Rosa.jpg 1024w" sizes="(max-width: 2250px) 100vw, 2250px" /></a></p>
+<p><strong>Apple acaba de lanzar un nuevo <a target="_blank" title="MacBook" href="www.macsfera.com/tag/macbook" rel="noopener noreferrer">MacBook</a> de color rosa,</strong> que se une a los tres colores existentes, <strong>y mejora su procesador y batería.</strong></p>
+<p>Ahora incorpora la sexta generación de los Intel M con velocidades que van desde los 1.1 GHz hasta los 1.2 GHz. La gráfica integrada es un 25% más rápida. Gracias a estos procesadores, <strong>la batería puede aguantar 1 hora más que su predecesora.</strong> También han incluido la nueva memoria flash que aumenta notablemente la velocidad.</p>
+<p><span id="more-14616"></span></p>
+<p>Pequeña actualización interna para <a target="_blank" title="MacBook: Así es el futuro, y me encanta" href="www.macsfera.com/macbook-asi-es-el-futuro-y-me-encanta/" rel="noopener noreferrer">el portátil más fino de Apple</a> que lleva entre nosotros un año. El cuerpo no ha cambiado y el resto de componentes tampoco parecen variar.</p>
+<p><strong>Oro rosa, gris espacial, oro y plata.</strong> Esos son los colores en los que está disponible el nuevo modelo con dos configuraciones posibles en las que varía el procesador usado. El precio se mantiene en 1450€ para el modelo con el Intel Core m3 y 1800€ para el modelo con el Intel Core m5.</p>
+<p>De esta forma, es el primer Mac que adapta el color rosa al igual que con el resto de dispositivos iOS.</p>
+<p><span class="source">Vía</span> <span class="via"><a href="http://www.apple.com/pr/library/2016/04/19Apple-Updates-MacBook-with-Latest-Processors-Longer-Battery-Life-New-Rose-Gold-Finish.html" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-macbook-color-oro-rosa/">Nuevo MacBook en color oro rosa</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple lanza un programa de sustitución para el cable USB-C de los MacBook Retina</title>
+		<link>https://www.MacSfera.com/apple-lanza-un-programa-de-sustitucion-para-el-cable-usb-c-de-los-macbook-retina/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 14 Feb 2016 12:10:12 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Cargador]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Programa de sustitución]]></category>
+		<category><![CDATA[USB C]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12991</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-lanza-un-programa-de-sustitucion-para-el-cable-usb-c-de-los-macbook-retina/">Apple lanza un programa de sustitución para el cable USB-C de los MacBook Retina</a></p>
+<p>Están en racha en Cupertino, tras el programa de sustitución de los adaptadores de enchufe, Apple ha sacado un nuevo programa de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-lanza-un-programa-de-sustitucion-para-el-cable-usb-c-de-los-macbook-retina/">Apple lanza un programa de sustitución para el cable USB-C de los MacBook Retina</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-lanza-un-programa-de-sustitucion-para-el-cable-usb-c-de-los-macbook-retina/">Apple lanza un programa de sustitución para el cable USB-C de los MacBook Retina</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/02/14130455/Sustitucion-cable-USB-C-MacBook.png" rel="attachment wp-att-12992"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/02/14130455/Sustitucion-cable-USB-C-MacBook.png" alt="Sustitucion cable USB C MacBook" width="1300" height="450" class="aligncenter size-full wp-image-12992" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/02/14130455/Sustitucion-cable-USB-C-MacBook.png 1300w, https://cdn.macsfera.com/wp-content/uploads/2016/02/14130455/Sustitucion-cable-USB-C-MacBook.png 300w, https://cdn.macsfera.com/wp-content/uploads/2016/02/14130455/Sustitucion-cable-USB-C-MacBook.png 768w, https://cdn.macsfera.com/wp-content/uploads/2016/02/14130455/Sustitucion-cable-USB-C-MacBook.png 1024w" sizes="(max-width: 1300px) 100vw, 1300px" /></a></p>
+<p>Están en racha en Cupertino, tras <a href="www.macsfera.com/nuevo-programa-intercambio-adaptadores-enchufe-europa/" title="Nuevo programa de intercambio de adaptadores de enchufe para Europa" target="_blank" rel="noopener noreferrer">el programa de sustitución de los adaptadores de enchufe</a>, <strong>Apple ha sacado un nuevo programa de sustitución para los cables de carga de tipo USB-C de los <a href="www.macsfera.com/macbook-asi-es-el-futuro-y-me-encanta/" title="MacBook: Así es el futuro, y me encanta" target="_blank" rel="noopener noreferrer">MacBook Retina</a>.</strong></p>
+<p>Los cables defectuosos impedirían que el Mac se cargase, o se cargue de forma intermitente. Por esto, y una vez detectado que cables son los afectados, <strong>Apple ha lanzado el programa de sustitución con el que de forma gratuita podremos cambiar nuestro cable.</strong></p>
+<p><span id="more-12991"></span></p>
+<p>Para identificarlo, <strong>es tan sencillo como mirar si viene impreso <em>“Designed by Apple in California. Assembled in China”</em>. Todo cable que sólo tenga esas dos frases, ha de ser cambiado por el bien del equipo.</strong></p>
+<p>Si, por el contrario, <strong>a parte de la frase del cable hay un número de serie, entonces no hay ningún problema.</strong> Ese cable pertenece al lote de cables rediseñados que ya no tienen fallos.</p>
+<h2>¿Cómo lo cambiamos?</h2>
+<p><strong>Para cambiar el cable de forma gratuita, debemos hacer una de las tres opciones disponibles.</strong></p>
+<ul>
+<li>Ir a una Apple Store y solicitar el cambio. Se recomienda tener una cita en la Genius Bar, pero no es obligatorio.</li>
+<li>Encontrar un proveedor oficial de Apple.</li>
+<li>Ponerse en contacto con el soporte técnico de Apple.</li>
+</ul>
+<p>Apple también advierte que, si hemos acudido antes con este problema y hemos pagado para solucionarlo, <strong>podemos solicitar un reembolso del dinero</strong> (siempre que se haya hecho en una Apple Store o servicio autorizado).</p>
+<p>Yo no me lo pensaría dos veces, la batería es uno de los elementos más importantes del MacBook y si hay algo que puede afectar a su rendimiento o capacidad, lo mejor es que lo solucionemos cuanto antes.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/es/support/usbc-chargecable/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p><span class="source">Vía</span> <span class="via"><a href="http://www.macrumors.com/2016/02/12/macbook-usb-c-cable-replacement-program/" target="_blank" rel="noopener noreferrer">MacRumors</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-lanza-un-programa-de-sustitucion-para-el-cable-usb-c-de-los-macbook-retina/">Apple lanza un programa de sustitución para el cable USB-C de los MacBook Retina</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MacBook: Así es el futuro, y me encanta</title>
+		<link>https://www.MacSfera.com/macbook-asi-es-el-futuro-y-me-encanta/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2015 09:19:26 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Altavoces]]></category>
+		<category><![CDATA[Batería]]></category>
+		<category><![CDATA[Cámaras]]></category>
+		<category><![CDATA[Diseño]]></category>
+		<category><![CDATA[Dorado]]></category>
+		<category><![CDATA[Force Touch]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[Pantalla Retina]]></category>
+		<category><![CDATA[Teclado]]></category>
+		<category><![CDATA[Trackpad]]></category>
+		<category><![CDATA[USB C]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=11118</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/macbook-asi-es-el-futuro-y-me-encanta/">MacBook: Así es el futuro, y me encanta</a></p>
+<p>Todos nos quedamos muy sorprendidos cuando Tim Cook apareció en el escenario en Marzo presentando un nuevo Mac. Ese Mac pertenecía a</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/macbook-asi-es-el-futuro-y-me-encanta/">MacBook: Así es el futuro, y me encanta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/macbook-asi-es-el-futuro-y-me-encanta/">MacBook: Así es el futuro, y me encanta</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg" alt="MacBook Retina Dorado" width="2500" height="1667" class="aligncenter size-full wp-image-11119" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Todos nos quedamos muy sorprendidos cuando <strong><a href="www.macsfera.com/resumen-de-la-keynote-spring-forward/" title="Resumen de la keynote Spring Forward" target="_blank">Tim Cook apareció en el escenario</a> en Marzo presentando un <a href="www.macsfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/" title="La gama MacBook vuelve a Apple con este nuevo modelo" target="_blank">nuevo Mac</a>.</strong> Ese Mac pertenecía a una categoría que <a href="www.macsfera.com/apple-deja-la-produccion-del-macbook-se-veia-venir/" title="Apple deja la producción del MacBook, se veía venir" target="_blank">quedó fuera</a> de la familia de ordenadores de la empresa hace tres años. Pero ese día volvió, y lo hizo con mucha más fuerza para perdurar unos cuantos años.</p>
+<p><strong>La gama MacBook regresaba a Apple y lo hacía con un dispositivo increíble.</strong> Su presentación nos dejó alucinados, pero creedme, no es nada comparable con la sensación de tenerlo en las manos, de pulsar sus teclas, de sentir su peso. <strong>Es una obra maestra tecnológicamente hablando.</strong></p>
+<p><span id="more-11118"></span></p>
+<p>Es verano y estoy de vacaciones. Gracias a la política de devolución de Apple me he podido hacer con un modelo para probarlo durante catorce días y luego devolverlo sin ningún coste extra. Esto lo he hecho por varios motivos:</p>
+<ol>
+<li>En unos meses voy a renovar portátil y me debatía entre 2 modelos: Un MacBook Pro Retina y este MacBook, necesitaba probar las novedades y características para saber tomar una decisión mejor.</li>
+<li>De cara al blog, necesitaba más tiempo experimentando con el nuevo teclado y con el nuevo trackpad Force Touch. Es una tecnología que Apple probablemente use en más dispositivos <sup class="modern-footnotes-footnote ">1</sup> y necesito conocer todo lo que pueda de ella.</li>
+<li>Estoy aburrido y creo que es un buen momento para crear buen contenido para el blog.</li>
+</ol>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163249/MacBook-2015-dorado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163249/MacBook-2015-dorado.jpg" alt="MacBook 2015 dorado" width="2500" height="1667" class="aligncenter size-full wp-image-11120" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163249/MacBook-2015-dorado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163249/MacBook-2015-dorado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163249/MacBook-2015-dorado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Por ello, y tras consultar el stock de las Apple Store que tengo cerca, me hice con un modelo para probarlo a fondo durante catorce días. <strong>Catorce días en los que no me he despegado de él.</strong> Siempre que usaba un ordenador era el MacBook mínimo <sup class="modern-footnotes-footnote ">2</sup>: escribir, visualizar contenido, leer páginas y blogs, editar fotos para alguno de mis artículos. Todo. <strong>Todo lo he realizado en este ordenador para conocerlo lo máximo posible en este corto,</strong> pero suficiente, <strong>tiempo que he pasado con él.</strong></p>
+<p>Además, como el objetivo era el de sustituir <a href="www.macsfera.com/nuevo-macbook-pro-para-el-blog/" title="Nuevo MacBook Pro para el blog" target="_blank"> mi actual MacBook Pro de 2010</a>, también he simulado todas las tareas que realizo cada día en la universidad con el objetivo de saber si este ordenador está a la altura potencialmente hablando porque, al fin y al cabo, <a href="www.macsfera.com/recuerda-es-un-macbook/" title="Recuerda, es un MacBook" target="_blank">sigue siendo un MacBook</a> y debido a su diseño, <strong>la potencia que puede generar está limitada.</strong></p>
+<h2>Diseño</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163327/MacBook-Retina-2015-dorado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163327/MacBook-Retina-2015-dorado.jpg" alt="MacBook Retina 2015 dorado" width="2500" height="1667" class="aligncenter size-full wp-image-11121" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163327/MacBook-Retina-2015-dorado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163327/MacBook-Retina-2015-dorado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163327/MacBook-Retina-2015-dorado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La forma adecuada de empezar a hablar de este equipo es por su diseño. Sin duda es lo más destacado y en lo que Apple ha puesto más empeño. <strong>Es el motivo por el cual el MacBook es lo que es hoy por hoy y sin lo que no tendría sentido haberlo sacado.</strong> Apple busca reinventar el concepto de portátil, y no lo ha hecho, lo ha demostrado.</p>
+<p>Con un peso de menos de 1 Kg y una pantalla de 12 pulgadas, es el equipo más increíble que he podido tener en mis manos. Las fotografías, vídeos y experiencias contadas no pueden describir para nada la sensación que existe al coger este ordenador. Aún así os la cuento porque creo que es importante dejarlo claro.</p>
+<p>El <a href="www.macsfera.com/macbook-air-el-portatil-mas-ligero-del-mundo/" title="MacBook Air, el portátil más ligero del mundo" target="_blank">diseño del MacBook Air</a> fue un golpe sobre la mesa en la era de los ultrabooks, el del nuevo MacBook es la mezcla entre ese diseño y todo lo aprendido con los dispositivos iOS. <strong>La combinación perfecta que necesitaba la gama Mac.</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163417/Dise%C3%B1o-MacBook-Retina-Dorado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163417/Dise%C3%B1o-MacBook-Retina-Dorado.jpg" alt="Diseño MacBook Retina Dorado" width="2500" height="1667" class="aligncenter size-full wp-image-11122" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163417/Dise%C3%B1o-MacBook-Retina-Dorado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163417/Dise%C3%B1o-MacBook-Retina-Dorado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163417/Dise%C3%B1o-MacBook-Retina-Dorado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Los dispositivos iOS le han enseñado a Apple muchísimo sobre circuitos, integración, baterías, diseño reducido, etc. Llevan años investigando sobre cómo hacerlo todo más pequeño, más fino, más eficiente y ha llegado el momento de combinar todo ello para producir este excelente equipo <sup class="modern-footnotes-footnote ">3</sup>.</p>
+<p>Por si acaso no ha quedado claro, <strong>es fascinante.</strong> El diseño es el gran punto positivo de este Mac. No he usado mi iPad desde que lo tengo, y no lo he echado en falta en ningún momento porque he tenido toda la movilidad que necesitaba con este portátil. Llevo tanto tiempo con mi portátil que sé cuándo es incómodo usarlo. De momento, <strong>el MacBook ha reducido notablemente esas situaciones gracias a su versatilidad por el peso y tamaño que tiene.</strong></p>
+<h2>Pantalla</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163459/Pantalla-Retina-MacBook.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163459/Pantalla-Retina-MacBook.jpg" alt="Pantalla Retina MacBook" width="2500" height="1667" class="aligncenter size-full wp-image-11123" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163459/Pantalla-Retina-MacBook.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163459/Pantalla-Retina-MacBook.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163459/Pantalla-Retina-MacBook.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Es bien sabido que el MacBook <strong>usa una pantalla Retina de 12 pulgadas.</strong> 2304 x 1440 px son sus medidas para ser exactos. Es la primera vez que uso una pantalla Retina en un Mac. Las he visto en otras ocasiones pero no las he disfrutado durante tanto tiempo ya que mis dos equipos actuales no cuentan con una. <strong>Esta característica es una de las mejores prestaciones de cualquier dispositivo Apple.</strong> Adoro la calidad en las imágenes y esta pantalla es lo mejor que puede tener un dispositivo con el que paso tantas horas.</p>
+<p>El tamaño puede ser un motivo de duda. Doce pulgadas pueden ser pocas para lo que estamos acostumbrados. En mi caso particular, trece pulgadas a veces me agobiaban, y por eso pensaba que doce no iban a ser suficientes, pero estaba equivocado, <strong>por lo menos en la práctica más cercana.</strong> No voy a decir que no me siento agobiado –aunque no haya tenido la sensación– pero gracias al formato de la pantalla (4:3) y a que podemos ajustar la resolución, es muy cómodo trabajar con él <sup class="modern-footnotes-footnote ">4</sup>.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163630/Cuerpo-MacBook-Dorado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163630/Cuerpo-MacBook-Dorado.jpg" alt="Cuerpo MacBook Dorado" width="2500" height="1667" class="aligncenter size-full wp-image-11125" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163630/Cuerpo-MacBook-Dorado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163630/Cuerpo-MacBook-Dorado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163630/Cuerpo-MacBook-Dorado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Además, y aunque esto no es nuevo en las pantallas Retina pero sí para mí, <strong>el ángulo de visión es impresionante.</strong> Da igual por dónde mires al dispositivo, no verás un mal color o distorsión alguna más que la del propio ángulo de visión. Es algo de lo que me percaté con el MacBook Pro de mi amigo y el mío, y que para un amante de la calidad de imagen viene muy bien.</p>
+<h2><a name="teclado" class="relativo">Teclado</a></h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163702/Teclado-MacBook-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163702/Teclado-MacBook-Retina.jpg" alt="Teclado MacBook Retina" width="2500" height="1667" class="aligncenter size-full wp-image-11126" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163702/Teclado-MacBook-Retina.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163702/Teclado-MacBook-Retina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163702/Teclado-MacBook-Retina.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Otra de las novedades que sólo está presente en este MacBook es el teclado. Para poder llevar a cabo la reducción tan drástica de grosor, el teclado convencional –que está presente en todos los equipos modernos de Apple– no era válido, <strong>por ello inventaron un nuevo teclado que reducía su tamaño gracias al sistema de anclaje de la tecla llamado <a href="www.macsfera.com/wp-content/uploads/2015/03/sistema-tecla-mariposa.gif" title="Sistema tecla Mariposa" target="_blank">mariposa</a>.</strong></p>
+<p>El tacto es distinto, sin lugar a duda, <strong>las teclas tienen menos recorrido y se pulsan con mayor facilidad.</strong> Pero, después de usar durante tantos años el mismo teclado, el cambio se nota. <strong>Aunque me encanta el nuevo teclado.</strong> La forma más precisa que tengo para describir la sensación es asemejándola a la de un iPad, pero obteniendo una breve respuesta física en cada pulsación. Mucha gente lo ha criticado, no sé si porque realmente no les gusta o porque no han podido adaptarse a él por falta de tiempo, pero la realidad es que llevo usándolo todos estos días y <strong>quiero que todos mis equipos lleven uno así.</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163743/Teclado-MacBook-Retina-encendido.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163743/Teclado-MacBook-Retina-encendido.jpg" alt="Teclado MacBook Retina encendido" width="2500" height="1667" class="aligncenter size-full wp-image-11127" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163743/Teclado-MacBook-Retina-encendido.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163743/Teclado-MacBook-Retina-encendido.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163743/Teclado-MacBook-Retina-encendido.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>El teclado fue uno de los motivos por los que quería probar este ordenador. Como ya he dicho, sólo está en este Mac y quería saber si es lo suficientemente útil como para que me decante por este modelo u otro <sup class="modern-footnotes-footnote ">5</sup>. Para mí el teclado es muy importante porque escribo un montón, <strong>y tener una herramienta que me facilite las cosas decanta la balanza hacia un lado en la selección de dicho modelo.</strong></p>
+<p>No es que los teclados actuales sean malos, ni mucho menos, nunca he encontrado motivo para usar otros modelos (incluso en mi iMac), pero simplemente creo que este es mejor, <strong>ha evolucionado en pos del diseño y encima lo ha hecho bien,</strong> y por ello me gustaría que lo equipasen el resto de portátiles. Pero mucho me temo que eso no va a pasar a corto plazo, será una característica exclusiva de este modelo un tiempo, bastante que <a href="www.macsfera.com/nuevos-macbook-pro-con-force-touch-y-nuevo-imac-retina/" title="Nuevos MacBook Pro con Force Touch y nuevo iMac Retina" target="_blank">han equipado el trackpad Force Touch</a>.</p>
+<h2>Trackpad Force Touch</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164011/Trackpad-Force-Touch-MacBook-Dorado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164011/Trackpad-Force-Touch-MacBook-Dorado.jpg" alt="Trackpad Force Touch MacBook Dorado" width="2500" height="1667" class="aligncenter size-full wp-image-11131" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164011/Trackpad-Force-Touch-MacBook-Dorado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164011/Trackpad-Force-Touch-MacBook-Dorado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164011/Trackpad-Force-Touch-MacBook-Dorado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>El <a href="www.macsfera.com/tag/force-touch/" title="Trackpad Force Touch" target="_blank">trackpad Force Touch</a> es el nuevo trackpad que ha diseñado Apple. Es un trackpad que reduce su grosor y deja de lado el clic físico por el método trampolín que se usaba antes. Ahora es una lámina de cristal que <strong>cuenta con cuatro sensores de presión y un mecanismo llamado <a href="https://cdn.macsfera.com/wp-content/uploads/2015/03/Animación-Trackpad-Force-Touch.gif" title="Animación Trackpad Force Touch" target="_blank">Taptic Engine</a> que emula ese clic físico por vibraciones.</strong></p>
+<p><strong>Es una maravilla, sin más.</strong> El cambio es a mejor, no notas diferencia con los trackpads antiguos y obtienes más funcionalidades gracias a la detección de la presión. Tuve la oportunidad de <a href="www.macsfera.com/force-touch-asi-es-el-nuevo-trackpad-de-apple/" title="Force Touch: así es el nuevo trackpad de Apple" target="_blank">probarlo en cuanto salió</a> y me ha alegrado saber que OS X ha recibido actualizaciones que mejoran los gestos y las vibraciones siendo mucho más preciso que antes.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164027/Previsualizacion-Safari-Force-Touch.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164027/Previsualizacion-Safari-Force-Touch.jpg" alt="Previsualizacion Safari Force Touch" width="2500" height="1563" class="aligncenter size-full wp-image-11132" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164027/Previsualizacion-Safari-Force-Touch.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164027/Previsualizacion-Safari-Force-Touch.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164027/Previsualizacion-Safari-Force-Touch.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Para que os hagáis una idea de cómo puede funcionar, necesito que imaginéis una serie de láminas colocadas una encima de otra con una pequeña separación entre ellas. Cada vez que hacemos presión es como si rompiésemos una de esas láminas, y así nos lo transmite OS X con sus pequeñas vibraciones. Además, entre que “vamos” de una lámina a otra, el sistema capta la presión y podemos ver como la función que se ejecuta con ese grado de fuerza se va desarrollando primero lentamente y luego más rápido. <strong>Es un sistema sumamente preciso.</strong></p>
+<p>De momento sólo las aplicaciones nativas son compatibles con los gestos, pero estoy deseando que los desarrolladores empiecen a implementarlo porque <strong>podemos hacer más cosas de una manera sencilla.</strong></p>
+<h2>Altavoces</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164052/Altavoces-MacBook-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164052/Altavoces-MacBook-Retina.jpg" alt="Altavoces MacBook Retina" width="2500" height="1667" class="aligncenter size-full wp-image-11133" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164052/Altavoces-MacBook-Retina.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164052/Altavoces-MacBook-Retina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164052/Altavoces-MacBook-Retina.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Tres meses antes de que Apple presentase este modelo, 9To5Mac <a href="http://9to5mac.com/2015/01/06/macbook-air-12-inch-redesign/" target="_blank">publicó en exclusiva</a> imágenes del equipo. Si bien era un prototipo, mostró una cosa que hizo que yo mismo desechase esos rumores sin apenas valorarlos: los altavoces. Me parecían muy feos, las cosas como son. Horribles. En cambio, han sabido salvar la situación gracias al diseño que incorpora ahora, <strong>siendo elegante y a la vez práctico.</strong></p>
+<p><strong>Jamás he visto un Mac portátil que emitiese un sonido tan claro, elevado y puro.</strong> Es realmente increíble el sonido que proyecta, en serio, no os podéis hacer a la idea, y de hecho dudo que se pueda captar bien con un micrófono, es algo que hay que probar en persona porque sorprende.</p>
+<p>El introducir en el diseño una abertura para que el sonido salga directamente hacia nuestros oídos ha sido la clave para que la idea funcione. Además, con el diseño tan fino que tiene y sin apenas ranuras para la ventilación, no solo han conseguido que el sonido no fuese peor, <strong>sino que han conseguido mejorarlo.</strong></p>
+<p><a name="el-puerto-usb-tipo-c"></a></p>
+<h2>El puerto USB tipo C</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164121/Puerto-USB-C-MacBook-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164121/Puerto-USB-C-MacBook-Retina.jpg" alt="Puerto USB C MacBook Retina" width="2500" height="1667" class="aligncenter size-full wp-image-11134" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164121/Puerto-USB-C-MacBook-Retina.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164121/Puerto-USB-C-MacBook-Retina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164121/Puerto-USB-C-MacBook-Retina.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Lo más polémico de este equipo sin duda es el puerto USB tipo C que incluye.</strong> El único puerto que nos sirve para muchas cosas: cargar el portátil, conectar dispositivos externos, transmitir audio y vídeo, etc. Apple ha apostado fuerte con la idea de tener un solo puerto porque es su idea de cómo debería ser un portátil, esto no significa que el resto de equipos vayan a seguir la línea.</p>
+<p>Personalmente, esto no ha sido un problema, es verdad que <a href="http://www.mylaif.es/post/117953119990/el-nuevo-macbook-no-es-para-mi-visto-lo-visto" title="El nuevo MacBook no es para mí visto lo visto" target="_blank">uso bastantes dispositivos externos</a>, y tengo dos Macs, pero me las he apañado bien. Con las fotografías he usado una <a href="http://www.mylaif.es/post/116920188790/flashair-de-toshiba-hace-casi-2-semanas-que" title="FlashAir de Toshiba" target="_blank">tarjeta SD con Wi-Fi</a>, así mato la necesidad de usar un puerto o un hub, y para pasar archivos de un Mac o un iPhone usaba iCloud Drive o <a href="www.macsfera.com/airdrop-comparte-archivos-entre-dispositivos-apple/" title="AirDrop: comparte archivos entre dispositivos Apple" target="_blank">AirDrop</a>. Y, si bien no he podido conectar ninguno de mis discos duros externos <sup class="modern-footnotes-footnote ">6</sup>, si he encontrado en Internet un cable compatible muy barato para no tener que pasar por los caros <a href="www.macsfera.com/todos-los-nuevos-accesorios-para-el-macbook/" title="Todos los nuevos accesorios para el MacBook" target="_blank">accesorios de Apple</a>.</p>
+<p>Si intuís que vais a necesitar usar mucho ese puerto y no es para cargar el dispositivo, tal vez deberíais recapacitar sobre la idea de comprarlo. Tal vez no sea vuestro Mac.</p>
+<blockquote>
+<p>Cuando alguien tiene claro su visión de futuro y quiere hacerlo realidad, busca la manera de ir poco a poco ejerciendo ese cambio. Este es el paso natural para hacer cambiar a la gente de a pie de mentalidad. Si no empiezan ya, nunca llegarán a ese futuro deseado y por eso han lanzado este dispositivo.</p>
+</blockquote>
+<p>Esa fue la declaración que hice cuando vi el puerto USB C, es pronto, sí, pero nunca es pronto cuando quieres cambiar el futuro. El USB tipo C será el estándar del futuro, es pequeño y muy funcional, justo lo que <a href="www.macsfera.com/apple-el-diseno-y-sus-adaptadores/" title="Apple, el diseño y sus adaptadores" target="_blank">busca Apple en los puertos</a>.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164206/MacBook-Retina-Puerto-USB-Tipo-C.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164206/MacBook-Retina-Puerto-USB-Tipo-C.jpg" alt="MacBook Retina Puerto USB Tipo C" width="2500" height="1667" class="aligncenter size-full wp-image-11135" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164206/MacBook-Retina-Puerto-USB-Tipo-C.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164206/MacBook-Retina-Puerto-USB-Tipo-C.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164206/MacBook-Retina-Puerto-USB-Tipo-C.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>No he podido usarlo más allá que para cargar el dispositivo y me da pena. Nos pilla pronto, pero sin duda este es el futuro en los puertos y es fantástico. USB de reducido tamaño, amplias funcionalidades, es reversible (podemos conectarlo de una forma u otra), etc. En general es un súper USB. La polémica en este equipo es que sólo incluya uno, no en el puerto en sí. Pero ya os digo que no debería ser un problema, y si lo es, este equipo no es para vosotros.</p>
+<h2>Colores</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164352/MacBook-Dorado-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164352/MacBook-Dorado-Retina.jpg" alt="MacBook Dorado Retina" width="2500" height="1667" class="aligncenter size-full wp-image-11138" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164352/MacBook-Dorado-Retina.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164352/MacBook-Dorado-Retina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164352/MacBook-Dorado-Retina.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Por primera vez en la era moderna de los Macs, <strong>Apple ha variado su famoso color plateado y ha mostrado tres colores:</strong> Gris espacial, dorado y plateado. Los colores son los mismos que introdujeron <a href="www.macsfera.com/resumen-de-la-keynote-del-10-de-septiembre/" title="Resumen de la keynote del 10 de septiembre" target="_blank">en el iPhone 5S</a> y que posteriormente aplicaron sobre el iPad y los sucesivos móviles.</p>
+<p>Me gusta ver un poco de variedad, ya era hora de que los Macs se beneficiasen de la nueva tonalidad. El modelo que compré es dorado como podéis ver en las fotos. Elegí este color porque sabía que lo iba a devolver. Debéis de saber que <strong>el color no se mantiene según el entorno en el que se encuentre el portátil,</strong> y eso no me resulta agradable.</p>
+<p>Si hubiese decidido comprar este dispositivo, <strong>sin duda lo hubiera hecho en gris espacial.</strong> Es el que <a href="www.macsfera.com/pensamientos-generales-del-nuevo-macbook/" title="Pensamientos generales del nuevo MacBook" target="_blank">más disfruté en la Apple Store</a>, lo considero elegante y limpio, y dista del actual plateado. El dorado también es diferente, pero como os comenté, pasa un poco desapercibido y ahora sé que muta si hay otros colores fuertes alrededor <sup class="modern-footnotes-footnote ">7</sup>.</p>
+<h2>Cámara</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164419/Camara-MacBook-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164419/Camara-MacBook-Retina.jpg" alt="Camara MacBook Retina" width="2500" height="1663" class="aligncenter size-full wp-image-11139" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164419/Camara-MacBook-Retina.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164419/Camara-MacBook-Retina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164419/Camara-MacBook-Retina.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Hace mucho que Apple incluye en la mayoría de sus equipos una cámara. Esto lo hacen para que puedas usar desde un primer momento su <a href="www.macsfera.com/facetime-en-mac/" title="FaceTime en Mac" target="_blank">servicio FaceTime</a>. Además, <a href="www.macsfera.com/nuevos-macbook-pro-renovados-con-muy-buena-pinta/" title="Nuevos MacBook Pro renovados con muy buena pinta" target="_blank">desde hace cuatro años</a>, los Macs incluyen cámaras FaceTime 720p que permiten transmitir vídeo en HD. <strong>Pues el nuevo MacBook tiene una cámara de tan sólo 480p.</strong></p>
+<p>Quiero pensar que esto se ha hecho por el grosor del dispositivo. Es decir, la pantalla es extremadamente fina y, tal vez, <strong>meter una cámara HD hubiese supuesto aumentar el grosor,</strong> por poco que sea. Si este no es el motivo, yo no se que ha llevado a Apple a meter una cámara tan mala en un dispositivo tan moderno y con un precio que lo puede asumir perfectamente.</p>
+<p>No es una justificación, simplemente una posible explicación de porqué han incluido esta cámara y no una de mejor calidad. Aún así me sorprendió mucho verlo y, sinceramente, <strong>me parece lamentable por el precio que tiene el equipo.</strong></p>
+<h2>Batería</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164452/Bateria-MacBook-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164452/Bateria-MacBook-Retina.jpg" alt="Bateria MacBook Retina" width="2500" height="1667" class="aligncenter size-full wp-image-11140" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164452/Bateria-MacBook-Retina.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164452/Bateria-MacBook-Retina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164452/Bateria-MacBook-Retina.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Un equipo con un diseño tan fino y con una pantalla Retina necesita una buena autonomía. Por eso <strong><a href="www.macsfera.com/wp-content/uploads/2015/03/Bateria-MacBook.jpeg" title="Batería MacBook" target="_blank">Apple aprovechó</a> el resto del espacio que le quedaba para poner baterías.</strong> Además, para optimizar el espacio, crearon las <a href="www.macsfera.com/wp-content/uploads/2015/03/bateria-escalonada-macbook.jpg" title="Batería escalonada MacBook" target="_blank">baterías escalonadas</a> que llegan hasta el límite del cuerpo para tener mayor autonomía.</p>
+<p>Con un uso normal de varias aplicaciones, navegación web, visualización de vídeos y demás, <strong>la duración de la batería ha estado entre las 5 y 7 horas.</strong> No me he cortado a la hora de quitar todos los ahorros de energía posibles, ya digo que quería que estuviese tal cual tengo ahora mi MacBook Pro, y en él no tengo nada de ahorro de batería.</p>
+<p>La principal ventaja del nuevo sistema y de la distribución de la batería es que la autonomía del equipo –que tiene pantalla Retina– es genial teniendo en cuenta el grosor del Mac. Por otro lado, cuando lo cargas es horroroso: <strong>el portátil se calienta en su totalidad</strong> <sup class="modern-footnotes-footnote ">8</sup> y, si bien se carga con velocidad, es muy incómodo tratar con un equipo que se calienta mucho y no puede hacer nada para evitarlo.</p>
+<h2>Rendimiento</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164525/MacBook-Retina-Dorado-2015.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164525/MacBook-Retina-Dorado-2015.jpg" alt="MacBook Retina Dorado 2015" width="2500" height="1667" class="aligncenter size-full wp-image-11141" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164525/MacBook-Retina-Dorado-2015.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164525/MacBook-Retina-Dorado-2015.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164525/MacBook-Retina-Dorado-2015.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Entramos en terreno pantanoso. Todos nos llevamos una pequeña decepción al ver que el procesador del equipo era un Intel Core M y que, cuando vimos las benchmarks, <strong>nos decepcionamos aún más al ver que estaban a la altura de un MacBook Air de 2011.</strong></p>
+<p>En tema de portátiles, vengo de un Pro de 2010, de modo que personalmente, <strong>pasar a este procesador no ha supuesto un problema.</strong> He podido tener varias aplicaciones abiertas, usar Photoshop, jugar a algún juego online, virtualizar Windows y no he tenido ningún problema. A pesar de no tener ningún problema, si que es verdad que no he tenido la mejor experiencia en alguna de estas tareas. No he editado vídeo porque no suelo hacerlo en el portátil, pero ya os digo que este Mac no está preparado para ello.</p>
+<p>Una de las cosas que ayuda a la carencia de potencia <sup class="modern-footnotes-footnote ">9</sup> del equipo es que cuenta con una memoria RAM de 8 GB y un <a href="www.macsfera.com/actualizacion-de-hardware-para-los-macbook-pro-y-macbook-air/" title="Actualización de hardware para los MacBook Pro y MacBook Air" target="_blank">disco SSD que duplica la velocidad</a> respecto a los del año pasado. <strong>La combinación de estos elementos hace que la falta de velocidad se note menos,</strong> pero aún así la pelota de playa suele ser un elemento que sale a menudo.</p>
+<blockquote class="medio">
+<p>Así es el futuro, y me encanta</p>
+</blockquote>
+<p>Actualmente estudio Ingeniería del software, y por ello necesito ciertas aplicaciones y programas para llevar mis estudios al día, dichas aplicaciones requieren a su vez de bastante potencia para poder ejecutarse sin que uno quiera tirarse de los pelos continuamente (como bien me ha pasado este último curso). Si a lo único que me dedicase fuese a escribir y generar contenido, <strong>el MacBook sería mi ordenador ideal, así de claro.</strong></p>
+<p>Es cierto que por el mismo dinero obtenemos más potencia, <strong>pero no tenemos ese diseño tan genial, esa portabilidad absoluta y esa combinación de componentes novedosos.</strong> Hay que tener muy claro que cuando uno compra este equipo lo hace por su diseño, nada más. Es la única característica que no encontraremos en otro equipo y que no puede ser sustituida.</p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164600/MacBook-Dorado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164600/MacBook-Dorado.jpg" alt="MacBook Dorado" width="2500" height="1667" class="aligncenter size-full wp-image-11142" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164600/MacBook-Dorado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164600/MacBook-Dorado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164600/MacBook-Dorado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Estoy encantado con que el USB de tipo C vaya a ser el estándar del futuro de los puertos, su versatilidad y tamaño me fascinan y cuanto antes empiece la adopción, mejor. Hemos visto como Apple ha ido reduciendo año tras año sus portátiles de grosor y peso, ahora es necesario capar un poco la potencia del equipo para conseguirlo, pero en no muchos años eso no será necesario permitiendo la máxima portabilidad posible.</p>
+<p>MacBook, <strong>esa categoría perdida que Apple ha decidido traer de nuevo a la vida con este equipo tan fantástico.</strong> Si decidís comprarlo sabiendo sus pros y sus contras estaréis encantados, os lo aseguro.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164703/MacBook-Dorado-Retina-derecha.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164703/MacBook-Dorado-Retina-derecha.jpg" alt="MacBook Dorado Retina derecha" width="2500" height="1667" class="aligncenter size-full wp-image-11143" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164703/MacBook-Dorado-Retina-derecha.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164703/MacBook-Dorado-Retina-derecha.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164703/MacBook-Dorado-Retina-derecha.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164730/MacBook-Dorado-Retina-izquierda.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164730/MacBook-Dorado-Retina-izquierda.jpg" alt="MacBook Dorado Retina izquierda" width="2500" height="1667" class="aligncenter size-full wp-image-11144" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164730/MacBook-Dorado-Retina-izquierda.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164730/MacBook-Dorado-Retina-izquierda.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164730/MacBook-Dorado-Retina-izquierda.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Force Touch ya está en el Apple Watch de hecho.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Salvo alguna tarea que me es imposible realizar en una pantalla tan pequeña y por ello tuve que hacerla en mi iMac</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;No es la primera vez que ponen en práctica lo aprendido con un equipo Mac, el <a href="www.macsfera.com/nuevo-mac-pro-con-un-renovado-diseno-y-potentes-caracteristicas/" title="Nuevo Mac Pro con un renovado diseño y potentes características" target="_blank">Mac Pro</a> de nueva generación es una prueba de ello, aunque sea sólo en término de circuitos.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;No es como el <a href="https://www.MacSfera.com/wp-content/uploads/2014/04/MacBook-Air.jpg" title="MacBook Air" target="_blank">MacBook Air de 11 pulgadas</a> que tiene un formato panorámico. Creo que ese caso concreto es una de las peores decisiones que ha tomado Apple al producir un equipo.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;Este ordenador me debe durar otros 4-5 años de modo que la novedad es relevante</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;Que tienen películas, archivos pesados que pasar por AirDrop es un suplicio e incluso mi biblioteca de Fotos.</div><div>7&nbsp;&nbsp;&nbsp;&nbsp;Cuando hablo de mutación, me refiero a que dejas de percibir el dorado. Los otros colores también se ven afectados por el entorno, pero en todo momento sabes que son plateados o grises, no dudas del color en sí.</div><div>8&nbsp;&nbsp;&nbsp;&nbsp;Es lo que tiene tener tanta batería</div><div>9&nbsp;&nbsp;&nbsp;&nbsp;Carencia para el año en el que estamos, no porque la potencia sea escasa</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/macbook-asi-es-el-futuro-y-me-encanta/">MacBook: Así es el futuro, y me encanta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>El nuevo MacBook es mi ordenador soñado y no me importan los compromisos</title>
+		<link>https://www.MacSfera.com/el-nuevo-macbook-es-mi-ordenador-sonado-y-no-me-importan-los-compromisos/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2015 10:55:41 +0000</pubDate>
+				<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10879</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-nuevo-macbook-es-mi-ordenador-sonado-y-no-me-importan-los-compromisos/">El nuevo MacBook es mi ordenador soñado y no me importan los compromisos</a></p>
+<p>Owen Williams habla sobre porqué el nuevo MacBook es su ordenador soñado y porqué se ha convertido en su ordenador principal. Me</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-nuevo-macbook-es-mi-ordenador-sonado-y-no-me-importan-los-compromisos/">El nuevo MacBook es mi ordenador soñado y no me importan los compromisos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-nuevo-macbook-es-mi-ordenador-sonado-y-no-me-importan-los-compromisos/">El nuevo MacBook es mi ordenador soñado y no me importan los compromisos</a></p>
+<p>Owen Williams <a href="http://tnw.to/q3Pmd" target="_blank" rel="noopener noreferrer">habla sobre</a> <strong>porqué el <a href="www.macsfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/" title="La gama MacBook vuelve a Apple con este nuevo modelo" target="_blank" rel="noopener noreferrer">nuevo MacBook</a> es su ordenador soñado y porqué se ha convertido en su ordenador principal.</strong> Me ha gustado porque a mí me toca renovar ordenador este verano y hay veces en los que me divido entre este MacBook o un MacBook Pro Retina.</p>
+<blockquote class="enlace">
+<p>No debes esperar nada increíble del nuevo MacBook —renderizar vídeo no es una buena idea— pero es un ordenador versátil. Para aquellos, como yo, que no hacen mucho con sus ordenadores fuera de Internet, escribir, crear documentos y editar fotos, es un buen equipo.</p>
+</blockquote>
+<p><strong>La potencia es lo único que me preocupa de este equipo.</strong> Al no tener ventiladores, la técnica que usa Apple para evitar que se caliente en exceso es limitar el uso. En cuanto el equipo prevé un uso masivo, limita la potencia y tu Mac se convierte en <a href="www.macsfera.com/recuerda-es-un-macbook/" title="Recuerda, es un MacBook" target="_blank" rel="noopener noreferrer">un equipo lento</a>.</p>
+<blockquote class="enlace">
+<p>Aún así, he intentado llevarlo al límite y me he dado cuenta de que es bueno en la mayoría de las tareas que puedas hacer. He compilado varias aplicaciones en las que estoy trabajando con Xcode, visto películas en alta definición y hecho desarrollo web como suelo hacerlo&#8230; sólo hay que tratar de no hacerlo todo a la vez.</p>
+</blockquote>
+<p>Owen habla además de la batería, la pantalla, el diseño, el <a href="www.macsfera.com/force-touch-asi-es-el-nuevo-trackpad-de-apple/" title="Force Touch: así es el nuevo trackpad de Apple" target="_blank" rel="noopener noreferrer">nuevo trackpad</a>, el nuevo teclado, el puerto USB C y, en general, todo un buen vistazo al nuevo equipo de Apple que, a mí en particular, me llama bastante la atención a pesar de que <a href="www.macsfera.com/pensamientos-generales-del-nuevo-macbook/" title="Pensamientos generales del nuevo MacBook" target="_blank" rel="noopener noreferrer">ya he manifestado</a> que no creo que fuese un buen equipo para el uso que le suelo dar.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-nuevo-macbook-es-mi-ordenador-sonado-y-no-me-importan-los-compromisos/">El nuevo MacBook es mi ordenador soñado y no me importan los compromisos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pensamientos generales del nuevo MacBook</title>
+		<link>https://www.MacSfera.com/pensamientos-generales-del-nuevo-macbook/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 07 May 2015 09:22:58 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Altavoces]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Dorado]]></category>
+		<category><![CDATA[Force Touch]]></category>
+		<category><![CDATA[Gris Espacial]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[Pantalla Retina]]></category>
+		<category><![CDATA[Trackpad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10698</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/pensamientos-generales-del-nuevo-macbook/">Pensamientos generales del nuevo MacBook</a></p>
+<p>El pasado sábado, Apple puso a disposición de sus clientes el nuevo MacBook en sus Apple Store de España. Por desgracia para</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/pensamientos-generales-del-nuevo-macbook/">Pensamientos generales del nuevo MacBook</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/pensamientos-generales-del-nuevo-macbook/">Pensamientos generales del nuevo MacBook</a></p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100635/MacBook-en-gris-espacial-Apple-Store.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100635/MacBook-en-gris-espacial-Apple-Store.jpg" alt="MacBook en gris espacial Apple Store" width="2500" height="1875" class="aligncenter size-full wp-image-10699" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/07100635/MacBook-en-gris-espacial-Apple-Store.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100635/MacBook-en-gris-espacial-Apple-Store.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100635/MacBook-en-gris-espacial-Apple-Store.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>El pasado sábado, Apple puso a disposición de sus clientes el nuevo MacBook en sus Apple Store de España. Por desgracia para mí, estoy de finales en la universidad y no pude ir cuando lo pusieron, aunque ayer saqué un poco de tiempo y <strong>me pasé por mi tienda favorita para ponerle las manos encima al <a href="www.macsfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/" title="La gama MacBook vuelve a Apple con este nuevo modelo" target="_blank">nuevo y espectacular dispositivo de Apple</a>.</strong></p>
+<p>Lo primero que llama la atención es lo fino que es. Llama mucho la atención y además deja marca. Luego te fijas en otro equipo y ves unas líneas de diseño muy gordas. Es posible que el tamaño de 12&quot; no sea el mejor para los que tenemos las manos grandes, pero <strong>aún así se siente muy bien,</strong> no creo que sea agobiante —como el MacBook Air de 11 pulgadas.</p>
+<p><span id="more-10698"></span></p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100706/MacBook-Gris-Espacial-Apple-Store.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100706/MacBook-Gris-Espacial-Apple-Store.jpg" alt="MacBook Gris Espacial Apple Store" width="2500" height="1875" class="aligncenter size-full wp-image-10700" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/07100706/MacBook-Gris-Espacial-Apple-Store.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100706/MacBook-Gris-Espacial-Apple-Store.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100706/MacBook-Gris-Espacial-Apple-Store.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>El trackpad es increíble,</strong> <a href="www.macsfera.com/force-touch-asi-es-el-nuevo-trackpad-de-apple/" title="Force Touch: así es el nuevo trackpad de Apple" target="_blank">ya lo comenté</a> cuando lo probé en el Retina de 13&quot;, pero es que aquí da una mejor sensación por el poco espacio que hay. Además, no sé si ha habido alguna actualización de software que ha pulido algún detalle, como el que comenté al hacer una selección múltiple de archivos, ahora obtenemos otra pulsación al levantar el dedo simulando el click físico.</p>
+<p><strong>Tenía muchísimas ganas de probar el nuevo teclado,</strong> me llamó la atención desde el primer momento y por fin lo he podido toquetear. <strong>Es raro, es muy raro.</strong> Es como escribir en un iPad, pero obteniendo una leve respuesta física en cada pulsación. No cuesta nada recorrer el abecedario y, como estamos acostumbrados a una pulsación normal, el no percibirla se hace muy extraño. Si bien mi sensación es rara, <strong>me encantaría tener un teclado de este tipo en todos los portátiles y en el inalámbrico de Apple.</strong></p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100735/MacBook-dorado-Apple-Store.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100735/MacBook-dorado-Apple-Store.jpg" alt="MacBook dorado Apple Store" width="2500" height="1875" class="aligncenter size-full wp-image-10701" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/07100735/MacBook-dorado-Apple-Store.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100735/MacBook-dorado-Apple-Store.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100735/MacBook-dorado-Apple-Store.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Los colores también destacan, aunque <strong>el que más lo hace es el gris espacial.</strong> El dorado apenas es vistoso (creo yo), pasa tan desapercibido que a menos que lo compares con el plateado no se aprecia demasiado.</p>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100802/Altavoces-MacBook-Dorado-Apple-Store.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100802/Altavoces-MacBook-Dorado-Apple-Store.jpg" alt="Altavoces MacBook Dorado Apple Store" width="2500" height="1356" class="aligncenter size-full wp-image-10702" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/07100802/Altavoces-MacBook-Dorado-Apple-Store.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100802/Altavoces-MacBook-Dorado-Apple-Store.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100802/Altavoces-MacBook-Dorado-Apple-Store.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Los altavoces son increíbles,</strong> al ser frontales el sonido que producen es más elevado y nítido, y <a href="http://luisdelbarco.tumblr.com/post/118057142329/ayer-nueve-dias-despues-de-que-se-pusiera-a-la" target="_blank">como dijo Luis del Barco</a>, las perforaciones son tan finas que a penas se notan al tacto. <strong>Me parece una cagada máxima que incluyan una cámara con calidad 480p.</strong> Es lamentable a más no poder. Tal vez exista una explicación razonable que relacione el grosor de la pantalla con una cámara decente, pero a primera vista y costando lo que cuesta el equipo, <strong>es una característica penosa.</strong></p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100842/MacBook-en-Apple-Store.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100842/MacBook-en-Apple-Store.jpg" alt="MacBook en Apple Store" width="2500" height="1875" class="aligncenter size-full wp-image-10703" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/07100842/MacBook-en-Apple-Store.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100842/MacBook-en-Apple-Store.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100842/MacBook-en-Apple-Store.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Me ha sorprendido ver a la gente probando el ordenador, <strong>apenas han comentado nada sobre el puerto USB de tipo C</strong> <sup class="modern-footnotes-footnote ">1</sup><strong>,</strong> se han centrado mucho más en el grosor del dispositivo y en los nuevos colores. Aunque sí que es cierto que varios, al hablar con empleados de Apple, <strong>han comentado lo ridículo que es tener que cargar con un adaptador al salir de casa</strong> <sup class="modern-footnotes-footnote ">2</sup><strong>.</strong></p>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100906/Puerto-USB-Tipo-C.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100906/Puerto-USB-Tipo-C.jpg" alt="Puerto USB Tipo C" width="2500" height="1185" class="aligncenter size-full wp-image-10704" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/07100906/Puerto-USB-Tipo-C.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100906/Puerto-USB-Tipo-C.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100906/Puerto-USB-Tipo-C.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Por último, mencionar la disponibilidad del dispositivo: Hablando con una empleada de Apple, <strong>me ha dicho que el nuevo MacBook sólo se puede comprar online,</strong> al preguntarle por el problema de venta no ha sabido (o no ha querido) responderme y tampoco ha sabido decirme cuando lo van a poder vender en tienda.</p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100935/MacBook-Dorado-en-Apple-Store.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/05/07100935/MacBook-Dorado-en-Apple-Store.jpg" alt="MacBook Dorado en Apple Store" width="2500" height="1875" class="aligncenter size-full wp-image-10705" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/07100935/MacBook-Dorado-en-Apple-Store.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100935/MacBook-Dorado-en-Apple-Store.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/05/07100935/MacBook-Dorado-en-Apple-Store.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Si bien es muy novedoso y moderno, <strong><a href="www.macsfera.com/recuerda-es-un-macbook/" title="Recuerda, es un MacBook" target="_blank">sigo pensando que es sólo un MacBook</a>,</strong> y a mí, que estoy estudiando una ingeniería, <strong>no me valdría de mucho,</strong> como bien me ha dicho también la antes mencionada empleada de Apple.</p>
+<p>Pero dejando mis intereses personales de lado, <a href="www.macsfera.com/resumen-de-la-keynote-spring-forward/" title="Resumen de la keynote Spring Forward" target="_blank">la presentación de este nuevo ordenador</a> hace un par de meses me ha gustado mucho porque <strong>demuestra que los Macs están muy vivos aún dentro de Apple.</strong></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Al contrario que todo lo que se ha escuchado en la red.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;La pobre dependienta no ha podido decir nada justificando ese hecho más que añadir un vergonzoso &quot;Hay otros Macs disponibles para no cargar con el adaptador&quot;.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/pensamientos-generales-del-nuevo-macbook/">Pensamientos generales del nuevo MacBook</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>El nuevo MacBook ya se puede comprar, pero sólo online</title>
+		<link>https://www.MacSfera.com/el-nuevo-macbook-ya-se-puede-comprar-pero-solo-online/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 11 Apr 2015 15:19:00 +0000</pubDate>
+				<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Apple Store Online]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[on-line]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10529</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-nuevo-macbook-ya-se-puede-comprar-pero-solo-online/">El nuevo MacBook ya se puede comprar, pero sólo online</a></p>
+<p>Tal y como informó Apple cuando lo presentaron, el nuevo MacBook ya está a la venta aunque sólo online. Ayer, 10 de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-nuevo-macbook-ya-se-puede-comprar-pero-solo-online/">El nuevo MacBook ya se puede comprar, pero sólo online</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-nuevo-macbook-ya-se-puede-comprar-pero-solo-online/">El nuevo MacBook ya se puede comprar, pero sólo online</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/16011345/MacBook-negro1.jpg" rel="attachment wp-att-14057"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/16011345/MacBook-negro1.jpg" alt="MacBook negro" width="2048" height="1261" class="aligncenter size-full wp-image-14057" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/16011345/MacBook-negro1.jpg 2048w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16011345/MacBook-negro1.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16011345/MacBook-negro1.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>Tal y como <a href="www.macsfera.com/resumen-de-la-keynote-spring-forward/" title="Resumen de la keynote Spring Forward" target="_blank" rel="noopener noreferrer">informó Apple</a> cuando lo presentaron, <strong>el <a href="www.macsfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/" title="La gama MacBook vuelve a Apple con este nuevo modelo" target="_blank" rel="noopener noreferrer">nuevo MacBook</a> ya está a la venta aunque sólo online.</strong></p>
+<p>Ayer, 10 de abril, el estado del MacBook pasó de “Muy pronto” a “Comprar”. <strong>Ya es posible hacerse con el <a href="www.macsfera.com/recuerda-es-un-macbook/" title="Recuerda, es un MacBook" target="_blank" rel="noopener noreferrer">nuevo y rompedor</a> modelo portátil de Apple.</strong></p>
+<p><span id="more-10529"></span></p>
+<p>Si bien está a la venta, <strong>el envío fecha para dentro de 4 a 6 semanas</strong> y no está disponible en ninguna Apple Store física, sólo se puede comprar a través de la tienda online. Este largo periodo de tiempo nos hace pensar que tal vez sea lo que resta para ver los nuevos equipos en las tiendas.</p>
+<p>Recordemos que el precio del modelo básico es de 1.450€ mientras que el modelo que incluye un mejor procesador asciende a los 1.800€.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/es/macbook/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p><span class="source">Imagen</span> <span class="via"><a href="http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/" target="_blank" rel="noopener noreferrer">SixColors</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-nuevo-macbook-ya-se-puede-comprar-pero-solo-online/">El nuevo MacBook ya se puede comprar, pero sólo online</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Características de OS X para prescindir de los cables</title>
+		<link>https://www.MacSfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 21 Mar 2015 14:36:40 +0000</pubDate>
+				<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[AirDrop]]></category>
+		<category><![CDATA[AirPlay]]></category>
+		<category><![CDATA[AirPort]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Hotspot]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Redes]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10424</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/">Características de OS X para prescindir de los cables</a></p>
+<p>Con el paso del tiempo, los Macs y su sistema operativo, OS X, han ido obteniendo características en pos de la conectividad</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/">Características de OS X para prescindir de los cables</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/">Características de OS X para prescindir de los cables</a></p>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/03/16010908/Conectividad-MacBook1.jpeg" rel="attachment wp-att-14055"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/03/16010908/Conectividad-MacBook1.jpeg" alt="Conectividad MacBook" width="2560" height="740" class="aligncenter size-full" /></a></p>
+<p>Con el paso del tiempo, los Macs y su sistema operativo, OS X, <strong>han ido obteniendo características en pos de la conectividad inalámbrica.</strong> Esas características son las que han hecho posible lanzar el <a href="www.macsfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/" title="La gama MacBook vuelve a Apple con este nuevo modelo" target="_blank" rel="noopener noreferrer">nuevo MacBook</a> y mantenerlo completamente funcional a pesar de que sólo tiene <a href="www.macsfera.com/tag/usb-c/" title="USB C" target="_blank" rel="noopener noreferrer">un puerto USB de tipo C</a>.</p>
+<p>Es cierto que puede ser pronto y radical eliminar todos los puertos para sustituir los cables, pero <strong>el ecosistema de Apple está perfectamente formado para soportarlo</strong> gracias a las distintas características de software y hardware de los equipos. De momento, el Macbook es sólo un equipo que está orientado a la movilidad absoluta, pero es más que probable que Apple planee <a href="www.macsfera.com/apple-el-diseno-y-sus-adaptadores/" title="Apple, el diseño y sus adaptadores" target="_blank" rel="noopener noreferrer">eliminar la mayoría de puertos para favorecer el diseño</a>, aunque un cambio tan radical ahora mismo ha tener una transición calmada pero constante.</p>
+<p><span id="more-10424"></span></p>
+<h2>iCloud</h2>
+<p>iCloud, el sistema en la nube de Apple, <strong>actúa como disco duro unido a varios ordenadores</strong> con el que podremos tener nuestros archivos más importantes sincronizados entre todos los dispositivos. De esta forma, Apple planea una alternativa para no usar pen drives o discos duros que puedan ocupar un puerto.</p>
+<p>Gracias a <strong>iCloud Drive,</strong> ahora podremos gestionar todos y cada uno de los archivos que queramos. No es necesario que lo use una aplicación, o que esa aplicación sea compatible con iCloud. Actúa como Dropbox o Google Drive, pero 100% implementado con nuestros dispositivos.</p>
+<h2>Instant Hotspot</h2>
+<p class="medio"><a href="http://cdn.MacSfera.com/wp-content/uploads/2015/03/13163252/Instant-Hotspot-iPhone-y-Mac.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2015/03/13163252/Instant-Hotspot-iPhone-y-Mac.jpeg" alt="Instant Hotspot iPhone y Mac" width="1782" height="557" class="aligncenter size-full" /></a></p>
+<p>Esta no es una característica únicamente de OS X, es más de iOS. Consiste en <strong>hacer que nuestro iPhone sea un punto de acceso a Internet</strong> usando la tarifa de datos asociada a nuestro teléfono. Esto, por suerte lo hacen los dispositivos Android, de modo que también nos beneficiaremos de este hecho a pesar de no tener un iPhone.</p>
+<p>De este modo podremos acceder a Internet con nuestro Mac usando la antena Wi-Fi para conectarnos al iPhone. Así podremos tener conexión incluso cuando no hay puntos de acceso cercanos.</p>
+<h2>AirDrop</h2>
+<p>Si bien iCloud nos sirve para sincronizar archivos entre nuestros dispositivos, ¿qué hacemos si es otro usuario el que quiere pasarnos un documento? Para ello tenemos AirDrop, <strong>el sistema que Apple ha diseñado para transferir archivos entre dispositivos de la marca usando la antena WiFi o Bluetooth.</strong></p>
+<h2>Bluetooth</h2>
+<p>Desde hace tiempo, la conectividad Bluetooth está presente en los dispositivos Apple. Con el paso de los modelos se han ido implementando las nuevas versiones que son más eficientes y más estables. Gracias a ello, <strong>podemos conectar ratones, teclados, auriculares o altavoces.</strong> Todo de forma inalámbrica sin, una vez más, usar un solo puerto.</p>
+<p>Además, también lo podremos usar en caso de que queramos compartir archivos con sistemas no compatibles con AirDrop.</p>
+<h2>AirPlay</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/03/13163247/AirPlay-Mirroring-Apple-TV.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/03/13163247/AirPlay-Mirroring-Apple-TV.jpeg" alt="AirPlay Mirroring Apple TV" width="1440" height="740" class="aligncenter size-full" /></a></p>
+<p><strong>Con AirPlay podremos reproducir los vídeos, música, pases de fotos o presentaciones que tengamos en el Mac con cualquier pantalla externa</strong> siempre y cuando haya una conexión Wi-Fi y un dispositivo AirPlay conectado a dicha pantalla. </p>
+<p>Además, <strong>con AirPlay Mirroring podremos compartir la pantalla de nuestro Mac.</strong> Es necesario usar un Apple TV conectado por HDMI a la pantalla externa, pero no es obligatorio tener una red Wi-Fi para hacerlo funcionar.</p>
+<h2>Mac App Store</h2>
+<p>Si bien hace mucho que no se usan los CDs o DVDs para instalar aplicaciones, Apple desarrolló la <a href="www.macsfera.com/tag/mac-app-store/" title="Mac App Store" target="_blank" rel="noopener noreferrer">Mac App Store</a> para que ni si quiera hubiese que plantearselo. <strong>Con ella podremos instalar o desinstalar cualquier aplicación disponible a golpe de click.</strong></p>
+<h2>Copias de seguridad</h2>
+<p>Gracias a la aplicación Time Machine y a las estaciones AirPort <strong>podremos hacer copias de seguridad de forma inalámbrica y automática.</strong> Sólo tendremos que configurarlo una vez y ya no tendremos que preocuparnos más por ello.</p>
+<h2>Wi-Fi</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/03/13163250/Imprimir-por-Wi-Fi.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/03/13163250/Imprimir-por-Wi-Fi.jpeg" alt="Imprimir por Wi-Fi" width="1349" height="583" class="aligncenter size-full" /></a></p>
+<p>Por supuesto, la antena Wi-Fi es un instrumento que lleva muchos años presente entre nosotros, y los fabricantes cada día encuentran más usos para que podamos aprovechar este tipo de conexión. Muchas de las características mostradas arriba requieren de una antena Wi-Fi o una red Wi-Fi, pero <strong>hay otros ejemplos como imprimir documentos o reproducir música en dispositivos conectados a la red.</strong></p>
+<hr />
+<p>Si seguís las novedades de los Mac, OS X y iOS os percataréis de como Apple ha ido introduciendo poco a poco todas estas novedades. Eso les ha hecho <strong>tener un ecosistema preparado para sobrevivir sin cables y sin tener que sacrificar ninguna función.</strong></p>
+<p>Sabiendo que han apostado tan fuerte por la tecnología inalámbrica, <strong>me gustaría ver en el futuro cómo van a cambiar las cosas que ahora realizamos con cables.</strong> El Apple Watch tiene un cargador inductivo, no es 100% inalámbrico, pero por algo se empieza. Apple tiene que pensar mucho en esto porque no basta con añadir una estación de carga inalámbrica convencional –muchos usamos los productos aún cuando se están cargando– hay que darle una vuelta más.</p>
+<p>En cualquier caso, nuestros ordenadores llevan ya un tiempo añadiendo funciones silenciosamente para poder prescindir de los cables y eso es algo muy positivo. Por separado lo único que veíamos eran características aisladas, pero <strong>todo junto se plantea como una buena alternativa al medio físico.</strong> Si se quiere eliminar algo, hay que ofrecer alternativas, y Apple lo ha hecho.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/caracteristicas-de-os-x-para-prescindir-de-los-cables/">Características de OS X para prescindir de los cables</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Force Touch: así es el nuevo trackpad de Apple</title>
+		<link>https://www.MacSfera.com/force-touch-asi-es-el-nuevo-trackpad-de-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2015 10:51:32 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Force Touch]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Ratones y teclados]]></category>
+		<category><![CDATA[Trackpad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10406</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/force-touch-asi-es-el-nuevo-trackpad-de-apple/">Force Touch: así es el nuevo trackpad de Apple</a></p>
+<p>El pasado 9 de marzo, Apple introdujo su nuevo trackpad llamado Force Touch, y hoy me he pasado por una de sus</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/force-touch-asi-es-el-nuevo-trackpad-de-apple/">Force Touch: así es el nuevo trackpad de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/force-touch-asi-es-el-nuevo-trackpad-de-apple/">Force Touch: así es el nuevo trackpad de Apple</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/03/17105132/Touch-Force-en-un-MacBook-Pro-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/03/17105132/Touch-Force-en-un-MacBook-Pro-Retina.jpg" alt="Touch Force en un MacBook Pro Retina" width="1500" height="1125" class="aligncenter size-full wp-image-10601" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/03/17105132/Touch-Force-en-un-MacBook-Pro-Retina.jpg 1500w, https://cdn.macsfera.com/wp-content/uploads/2015/03/17105132/Touch-Force-en-un-MacBook-Pro-Retina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/03/17105132/Touch-Force-en-un-MacBook-Pro-Retina.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>El pasado <a href="www.macsfera.com/resumen-de-la-keynote-spring-forward/" title="Resumen de la keynote Spring Forward" target="_blank" rel="noopener noreferrer">9 de marzo</a>, Apple introdujo su nuevo trackpad llamado Force Touch, y <strong>hoy me he pasado por una de sus Apple Store para probarlo de primera mano y experimentar con él.</strong></p>
+<p>El nuevo Force Touch se caracteriza por varias cosas: la primera de todas es que <strong>desaparece el click mecánico</strong> y característico de los trackpads comunes, ahora es únicamente una lámina de vidrio que capta la presión con la que hundimos el dedo. La segunda es que <strong>es capaz de medir la presión</strong> que ejercemos sobre el dispositivo, esto abre una nueva vía de interacción con el Mac —en función de la presión ocurre una cosa u otra. La tercera (y que menos nos afecta ahora mismo) es que <strong>reduce su grosor general</strong> <a href="www.macsfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/" title="La gama MacBook vuelve a Apple con este nuevo modelo" target="_blank" rel="noopener noreferrer">dejando más espacio para otros componentes</a>.</p>
+<p><span id="more-10406"></span></p>
+<p>Sinceramente, me ha costado bastante saber si el MacBook Pro Retina de 13&#8243; que estaba probando era <a href="www.macsfera.com/actualizacion-de-hardware-para-los-macbook-pro-y-macbook-air/" title="Actualización de hardware para los MacBook Pro y MacBook Air" target="_blank" rel="noopener noreferrer">el nuevo</a> o no. Lo he descubierto al poder pulsar en la parte superior del trackpad. Con esto quiero decir que Apple ha logrado un buen trabajo para emular el click mecánico.</p>
+<p>Ese sistema es un pequeño dispositivo llamado <strong>Taptic Engine</strong> que <strong>se encarga de vibrar cuando los sensores detectan un click.</strong> Realmente da la sensación de que se está hundiendo el trackpad como se lleva haciendo desde la antigua generación. Es una sensación rara, <strong>pero es rara porque sabes que en realidad no está pasando,</strong> aunque en tu cabeza parece que si ya que el tacto es el mismo. De hecho, tenía un MacBook Pro de los antiguos al lado y al hacer la comparación apenas había diferencia.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/03/Animaci%C3%B3n-Trackpad-Force-Touch.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/03/Animaci%C3%B3n-Trackpad-Force-Touch.gif" alt="Animación Trackpad Force Touch" width="860" height="532" class="aligncenter size-full wp-image-10569" /></a></p>
+<p>Ya os digo, es extraño porque estamos tan acostumbrados al click físico, que al hacerlo pensamos que es igual, pero luego te das cuenta de que no, y ahí es cuando notas que está muy logrado. Si queréis hacer la prueba, basta con intentar seleccionar múltiples archivos, al hacer click notaremos que estamos hundiendo el trackpad, pero cuando soltemos después de haber arrastrado, nos percataremos de que el vidrio no retrocede.</p>
+<p>Otro de los puntos importantes de este nuevo trackpad es que es capaz de medir la presión que ejercemos sobre el vidrio —como ya he comentado. Esto nos permite controlar ciertas acciones sobre las aplicaciones. Previsualizar archivos, controlar la velocidad de reproducción, obtener una descripción de Wikipedia, etc. Y lo mejor de todo es que se hace en función de la presión que ejerzamos.</p>
+<p>Realmente da mucho juego porque es una nueva forma de controlar acciones en nuestras aplicaciones, <strong>un acceso más directo o sencillo hacia tareas que antes realizabamos con más de una pulsación o tecla.</strong> Si los programadores son capaces de encontrar un buen uso, creo que puede ayudarnos gratamente con el control y manejo de dichas apps.</p>
+<h2>El futuro</h2>
+<p>No he podido evitar pensar en lo que esto supone para Apple y su futuro. <em>¿Es posible que los próximos dispositivos móviles de Apple tengan un sistema de medición de presión?</em> Puede, todavía no lo veo del todo, pero quien sabe. <strong>Hoy en día hay tareas de iOS que se realizan en base al tiempo que dejas la pulsación.</strong> Como por ejemplo sacar una letra especial del teclado, puede que el sistema actual sea sustituido por la detección de la fuerza con la que presionemos la pantalla —permitiendo a su vez, por ejemplo, escribir muchas veces la misma letra al dejar pulsada la pantalla pero sin ejercer suficiente presión (como en un teclado normal).</p>
+<p>Si, <strong>me gustaría ver nuevas acciones en base a la presión en dispositivos móviles,</strong> pero también espero que la tecnología avance y sea mucho más preciso. No es lo mismo en un Mac, que controlamos por teclado, ratón y gestos, que para un dispositivo que se controla únicamente por pantalla táctil.</p>
+<p>En cualquier caso, creo que es un complemento de uso muy sencillo que puede ofrecernos una experiencia distinta y positiva para con nuestras aplicaciones.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/force-touch-asi-es-el-nuevo-trackpad-de-apple/">Force Touch: así es el nuevo trackpad de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Todos los nuevos accesorios para el MacBook</title>
+		<link>https://www.MacSfera.com/todos-los-nuevos-accesorios-para-el-macbook/</link>
+					<comments>https://www.MacSfera.com/todos-los-nuevos-accesorios-para-el-macbook/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2015 16:22:53 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Adaptadores]]></category>
+		<category><![CDATA[HDMI]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[USB]]></category>
+		<category><![CDATA[USB 3.0]]></category>
+		<category><![CDATA[USB C]]></category>
+		<category><![CDATA[VGA]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10399</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/todos-los-nuevos-accesorios-para-el-macbook/">Todos los nuevos accesorios para el MacBook</a></p>
+<p>Con la presentación del nuevo MacBook, Apple introdujo una serie de accesorios oficiales para poder aprovechar toda la funcionalidad del nuevo puerto</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/todos-los-nuevos-accesorios-para-el-macbook/">Todos los nuevos accesorios para el MacBook</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/todos-los-nuevos-accesorios-para-el-macbook/">Todos los nuevos accesorios para el MacBook</a></p>
+<p class="medio"><a href="https://www.MacSfera.com/wp-content/uploads/2015/03/adaptador-usb-c-HDMI1.jpg" rel="attachment wp-att-14051"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://www.MacSfera.com/wp-content/uploads/2015/03/adaptador-usb-c-HDMI1.jpg" alt="adaptador usb c HDMI" width="2000" height="1000" class="aligncenter size-full" /></a></p>
+<p>Con la presentación del <a href="www.macsfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/" title="La gama MacBook vuelve a Apple con este nuevo modelo" target="_blank" rel="noopener noreferrer">nuevo MacBook</a>, <strong>Apple introdujo una serie de accesorios oficiales para poder aprovechar toda la funcionalidad del nuevo puerto USB tipo C.</strong></p>
+<p><span id="more-10399"></span></p>
+<h2>Adaptador multipuerto de USB-C a AV digital</h2>
+<p>Este adaptador se conecta al puerto USB de nuestro Mac y <strong>nos provee de otra toma USB de tipo C, un puerto HDMI para conectar el Mac a una pantalla y un puerto USB 3.1</strong> para poder transferir cualquier archivo entre dispositivos compatibles. A pesar de que el puerto USB-C se puede utilizar para transferir archivos también, no queda claro si en este caso podremos usarlo para ese fin, Apple sólo especifica que lo podremos usar para cargar el Mac. El adaptador <a href="http://store.apple.com/es/product/MJ1K2ZM/A/adaptador-multipuerto-de-usb-c-a-av-digital" target="_blank" rel="noopener noreferrer">tiene un precio de 89€</a>.</p>
+<h2>Adaptador multipuerto de USB-C a VGA</h2>
+<p>Este adaptador es exactamente igual que el anterior, pero en vez de contar con un puerto HDMI, <strong>cuenta con un puerto VGA</strong> de salida de hasta 1080p HD. El precio <a href="http://store.apple.com/es/product/MJ1L2ZM/A/adaptador-multipuerto-de-usb-c-a-vga" target="_blank" rel="noopener noreferrer">también asciende a 89€</a>.</p>
+<p class="grande"><a href="http://cdn.MacSfera.com/wp-content/uploads/2015/03/13163259/adaptadores-MacBook.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2015/03/13163259/adaptadores-MacBook.jpg" alt="Adaptadores MacBook" class="aligncenter size-full" /></a></p>
+<h2>Adaptador de USB-C a USB</h2>
+<p>Este adaptador nos sirve para usar el puerto USB de tipo C del MacBook con el fin de <strong>poder usar un puerto USB 3.1 de cualquier dispositivo compatible.</strong> El adaptador de USB-C a USB <a href="http://store.apple.com/es/product/MJ1M2ZM/A/adaptador-de-usb-c-a-usb" target="_blank" rel="noopener noreferrer">tiene un precio de 19€</a>.</p>
+<h2>Cable de carga USB-C de 2 metros</h2>
+<p>Es un cable de 2 metros de longitud, en ambos extremos contamos con un puerto USB de tipo C. Con este cable <strong>podremos cargar el Mac y transferir datos entre dispositivos</strong> siempre y cuando dispongan de un puerto USB-C. El cable <a href="http://store.apple.com/es/product/MJWT2ZM/A/cable-de-carga-usb-c-2-metros" target="_blank" rel="noopener noreferrer">tiene un precio de 35 euros</a>.</p>
+<h2>Adaptador de corriente USB-C de 29W</h2>
+<p>El adaptador de corriente <strong>nos sirve para cargar el MacBook.</strong> Tiene el mismo diseño que el de un iPad salvo por el puerto USB, ahora tiene una toma de USB-C en vez del corriente –en este caso es necesario un cable como el antes mencionado– y que este tiene mucha más potencia. El cargador <a href="http://store.apple.com/es/product/MJ262Z/A/adaptador-de-corriente-usb-c-de-29-w-de-apple" target="_blank" rel="noopener noreferrer">tiene un precio de 55€</a>.</p>
+<p><strong>Estos accesorios están destinados a suplir las carencias que existen hoy en día debido a la novedad del puerto USB-C.</strong> Es un concepto distinto a lo que estamos acostumbrados a ver y necesita tiempo para estandarizarse, por eso necesitamos adaptadores si queremos usar algunos complementos sin utilizar la tecnología inalámbrica de OS X.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/todos-los-nuevos-accesorios-para-el-macbook/">Todos los nuevos accesorios para el MacBook</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/todos-los-nuevos-accesorios-para-el-macbook/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Resumen de la keynote Spring Forward</title>
+		<link>https://www.MacSfera.com/resumen-de-la-keynote-spring-forward/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2015 12:20:07 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Watch]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Apple TV]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[ResearchKit]]></category>
+		<category><![CDATA[Salud]]></category>
+		<category><![CDATA[Spring Forward]]></category>
+		<category><![CDATA[Yerba Buena Center]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10373</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-spring-forward/">Resumen de la keynote Spring Forward</a></p>
+<p>El 9 de marzo, Apple celebró una keynote en el Yerba Buena Center de San Francisco y aquí está el resumen del</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-spring-forward/">Resumen de la keynote Spring Forward</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-spring-forward/">Resumen de la keynote Spring Forward</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/16004746/Apple-keynote-Spring-Forward.jpeg" rel="attachment wp-att-14039"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/16004746/Apple-keynote-Spring-Forward.jpeg" alt="Apple keynote Spring Forward" width="948" height="550" class="aligncenter size-full wp-image-14039" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/16004746/Apple-keynote-Spring-Forward.jpeg 948w, https://cdn.macsfera.com/wp-content/uploads/2016/03/16004746/Apple-keynote-Spring-Forward.jpeg 300w" sizes="(max-width: 948px) 100vw, 948px" /></a></p>
+<p>El 9 de marzo, <strong>Apple celebró una keynote en el Yerba Buena Center de San Francisco y aquí está el resumen del evento.</strong></p>
+<p><span id="more-10373"></span></p>
+<h2>Apple TV</h2>
+<p>El centro multimedia de Apple <strong>ha reducido su precio de los 99€ a los 79€.</strong> Además, estrenará el nuevo servicio llamado HBO Now en exclusiva durante tres meses pero sólo en EEUU. Se especuló sobre un nuevo dispositivo, pero parece que no está entre los planes de Apple de momento.</p>
+<h2>ResearchKit</h2>
+<p class="grande"><a href="http://cdn.MacSfera.com/wp-content/uploads/2015/03/13163310/ResearchKit.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2015/03/13163310/ResearchKit.jpeg" alt="ResearchKit" class="aligncenter size-full wp-image-10377" /></a></p>
+<p>Una de las novedades menos sonadas fue ResearchKit, <strong>un framework Open Source para que investigadores médicos y desarrolladores puedan crear aplicaciones que ayuden a los estudios médicos y a los pacientes que padecen enfermedades.</strong></p>
+<p>De este modo, podremos usar nuestro iPhone con accesorios de terceros para recolectar un montón de datos con el fin de compartirlos de forma segura –Apple ha hecho mucho hincapié en esto– para ayudar a las investigaciones médicas sin necesidad de desplazarnos o modificar nuestro día a día.</p>
+<h2>MacBook</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/16005504/Teclado-MacBook.jpg" rel="attachment wp-att-14042"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/16005504/Teclado-MacBook.jpg" alt="Teclado MacBook" width="1360" height="907" class="aligncenter size-full wp-image-14042" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/16005504/Teclado-MacBook.jpg 1360w, https://cdn.macsfera.com/wp-content/uploads/2016/03/16005504/Teclado-MacBook.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/16005504/Teclado-MacBook.jpg 1024w" sizes="(max-width: 1360px) 100vw, 1360px" /></a></p>
+<p>Apple <strong>lanzó <a href="www.macsfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/" title="La gama MacBook vuelve a Apple con este nuevo modelo" target="_blank" rel="noopener noreferrer">un nuevo MacBook</a> con un diseño increíblemente fino y ligero,</strong> con pantalla Retina, procesador Intel Core M, 8GB de Ram y 256GB de SSD en el modelo base. Disponible en tres colores (oro, plata y gris espacial) desde 1500 euros en su modelo base. Se puede comprar a partir del 10 de abril.</p>
+<h2>Apple Watch</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/16005507/Apple-Watch-Steel.jpg" rel="attachment wp-att-14044"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/16005507/Apple-Watch-Steel.jpg" alt="Apple Watch Steel" width="1020" height="675" class="aligncenter size-full wp-image-14044" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/16005507/Apple-Watch-Steel.jpg 1020w, https://cdn.macsfera.com/wp-content/uploads/2016/03/16005507/Apple-Watch-Steel.jpg 300w" sizes="(max-width: 1020px) 100vw, 1020px" /></a></p>
+<p>Y por fin llego el momento más sonado del evento, <strong>Apple habla del Apple Watch,</strong> su reloj inteligente ya presentado el 9 de septiembre. Aportó más detalles de funciones, características, demos, precios y disponibilidad. Empezando en 400 euros por su versión Sport, hasta los 18000 euros en su versión más lujosa. Disponible en 9 países (entre los que no se encuentra España) el 24 de abril.</p>
+<h2>Un evento con sorpresas</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/16005506/Evento-Spring-Forward-Apple.jpeg" rel="attachment wp-att-14043"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/16005506/Evento-Spring-Forward-Apple.jpeg" alt="Evento Spring Forward Apple" width="1364" height="768" class="aligncenter size-full wp-image-14043" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/16005506/Evento-Spring-Forward-Apple.jpeg 1364w, https://cdn.macsfera.com/wp-content/uploads/2016/03/16005506/Evento-Spring-Forward-Apple.jpeg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/16005506/Evento-Spring-Forward-Apple.jpeg 1024w" sizes="(max-width: 1364px) 100vw, 1364px" /></a></p>
+<p>Si bien la temática central del evento era bien sabida, <strong>nos han sorprendido con un nuevo Mac y un sistema de desarrollo enfocado a la medicina.</strong> Si te perdiste el evento, o quieres volver a verlo de nuevo, puedes hacerlo <a href="http://www.apple.com/live/2015-mar-event/">a través de la web de Apple</a>.</p>
+<p><span class="source">Imagen</span> <span class="via"><a href="http://sixcolors.com/post/2015/03/quick-reactions-to-the-spring-forward-apple-event/" target="_blank" rel="noopener noreferrer">Six Colors</a></span></p>
+<p><span class="source">Imagen</span> <span class="via"><a href="http://www.theverge.com/2015/3/9/8173805/apple-watch-hands-on" target="_blank" rel="noopener noreferrer">The Verge</a></span
+</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-spring-forward/">Resumen de la keynote Spring Forward</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Octubre &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/octubre/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:54:25 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Resumen de la keynote del 22 de octubre</title>
+		<link>https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/</link>
+					<comments>https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2013 21:13:22 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Craig Federighi]]></category>
+		<category><![CDATA[Eddy Cue]]></category>
+		<category><![CDATA[GarageBand]]></category>
+		<category><![CDATA[iLife]]></category>
+		<category><![CDATA[iMovie]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 7]]></category>
+		<category><![CDATA[iPad Air]]></category>
+		<category><![CDATA[iPad Mini]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[iTunes Radio]]></category>
+		<category><![CDATA[iWork]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[MacBook Pro Retina]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Numbers]]></category>
+		<category><![CDATA[Octubre]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[Pages]]></category>
+		<category><![CDATA[Phil Schiller]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10093</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a></p>
+<p>Ayer se celebró la keynote del 22 de octubre en San Francisco y estuvo repleta de presentaciones, aquí tenéis un breve resumen</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/We-still-have-a-lot-to-cover.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/We-still-have-a-lot-to-cover.jpg" alt="We still have a lot to cover" width="710" height="507" class="aligncenter size-full wp-image-10094" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/We-still-have-a-lot-to-cover.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/We-still-have-a-lot-to-cover-300x214.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Ayer se celebró la <strong><a href="www.macsfera.com/keynote-de-apple-el-22-de-octubre/" title="Keynote de Apple el 22 de octubre" target="_blank" rel="noopener noreferrer">keynote del 22 de octubre</a></strong> en San Francisco y estuvo repleta de presentaciones, <strong>aquí tenéis un breve resumen de todos los puntos tratados.</strong></p>
+<p><span id="more-10093"></span></p>
+<p>Como cada keynote, <strong>Tim Cook hizo un repaso por los datos más relevantes de la empresa.</strong> Empezamos con los nueve millones de iPhones vendidos en un solo fin de semana, el 64% de los dispositivos iOS ya tiene la última versión iOS 7 y <strong>iTunes Radio</strong> ya cuenta con veinte millones de usuarios que han escuchado mil millones de canciones en EE.UU. La App Store ya tiene un millón de aplicaciones que han sido descargadas sesenta mil millones de veces aportando trece mil millones de dólares a los desarrolladores.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-disponible-gratuitamente.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-disponible-gratuitamente.png" alt="OS X Mavericks disponible gratuitamente" width="710" height="354" class="aligncenter size-full wp-image-10095" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-disponible-gratuitamente.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/OS-X-Mavericks-disponible-gratuitamente-300x150.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Craigh Federighi subió al escenario para perfilar <a href="www.macsfera.com/tag/os-x-mavericks" title="OS X Mavericks" target="_blank" rel="noopener noreferrer">OS X Mavericks</a>,</strong> la última versión de OS X que ahorra una hora de batería, potencia la eficiencia y reduce el uso de los componentes con el fin de que todo vaya más rápido. <strong>Podéis ver <a href="www.macsfera.com/os-x-mavericks-la-nueva-version-del-sistema-operativo/" title="OS X Mavericks, la nueva versión del sistema operativo" target="_blank" rel="noopener noreferrer">todas las novedades</a> en el artículo que preparamos hace unos meses.</strong> La noticia del evento fue que <strong><a href="www.macsfera.com/os-x-mavericks-disponible-hoy-y-gratis/" title="OS X Mavericks disponible hoy y gratis" target="_blank" rel="noopener noreferrer">Mavericks ya está disponible de forma gratuita</a>.</strong></p>
+<p><strong>Phil Schiller relevó el show presentando los <a href="www.macsfera.com/nuevos-macbook-pro-mas-finos-ligeros-rapidos-y-baratos/" title="Nuevos MacBook Pro más finos, ligeros, rápidos y baratos" target="_blank" rel="noopener noreferrer">nuevos modelos del MacBook Pro Retina</a></strong> con procesadores Haswell, reducción de peso y tamaño, aumento de batería y reducción de precio. También se dio <strong><a href="www.macsfera.com/los-mac-pro-disponibles-en-diciembre-empezando-en-2999-dolares/" title="Los Mac Pro disponibles en diciembre empezando en 2999 dólares (3.049 euros)" target="_blank" rel="noopener noreferrer">precio final y fecha aproximada de salida</a> al nuevo y rediseñado Mac Pro</strong> que será en diciembre por 3.049 euros en el modelo más básico.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/Nuevas-versiones-iLife-y-iWork.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/Nuevas-versiones-iLife-y-iWork.png" alt="Nuevas versiones iLife y iWork" width="710" height="115" class="aligncenter size-full wp-image-10097" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/Nuevas-versiones-iLife-y-iWork.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/Nuevas-versiones-iLife-y-iWork-300x49.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Eddy Cue salió a presentar las renovadas versiones de <a href="www.macsfera.com/nueva-version-de-ilife-totalmente-redisenada-y-gratis-para-nuevos-usuarios/" title="Nueva versión de iLife totalmente rediseñada y gratis para nuevos usuarios" target="_blank" rel="noopener noreferrer">iLife</a></strong> (iPhoto, iMovie y GarageBand) <strong>y <a href="www.macsfera.com/nueva-version-de-iwork-con-rediseno-incluido-y-nuevas-funcionalidades/" title="Nueva versión de iWork con rediseño incluido y nuevas funcionalidades" target="_blank" rel="noopener noreferrer">iWork</a></strong> (Pages, Numbers y Keynote). Esta renovación no solo incluye un cambio de diseño, también incorporan nuevas funcionalidades que nos agradarán a todos.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/iPad-Air.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/iPad-Air.png" alt="iPad Air" width="710" height="399" class="aligncenter size-full wp-image-10098" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/iPad-Air.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/iPad-Air-300x169.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Por último, <strong>Tim Cook volvió al escenario para presentar las nuevas generaciones del iPad.</strong> El iPad Air, la quinta versión del iPad de 9,7 pulgadas estrena nuevo diseño con reducción de marco lateral, tamaño y peso, incluye el nuevo procesador A7 de 64 bits y está disponible en blanco, plateado, gris espacial y negro. El iPad mini por fin adapta la tecnología retina en su pantalla y el chip A7.</p>
+<p>Como vemos, una keynote repleta de novedades tanto de software como de hardware que <strong>probablemente cierre el año de eventos en Apple.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Habrá streaming oficial de la keynote del 22 de octubre</title>
+		<link>https://www.MacSfera.com/habra-streaming-oficial-de-la-keynote-del-22-de-octubre/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 22 Oct 2013 11:34:06 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Octubre]]></category>
+		<category><![CDATA[Streaming]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10046</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/habra-streaming-oficial-de-la-keynote-del-22-de-octubre/">Habrá streaming oficial de la keynote del 22 de octubre</a></p>
+<p>Apple ofrecerá streaming oficial de su keynote de esta tarde a través del Apple TV como poco. En los Apple TV ha</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/habra-streaming-oficial-de-la-keynote-del-22-de-octubre/">Habrá streaming oficial de la keynote del 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/habra-streaming-oficial-de-la-keynote-del-22-de-octubre/">Habrá streaming oficial de la keynote del 22 de octubre</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/Streaming-de-la-Keynote-22-de-octubre.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/Streaming-de-la-Keynote-22-de-octubre.png" alt="Streaming de la Keynote 22 de octubre" width="710" height="399" class="aligncenter size-full wp-image-10047" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/Streaming-de-la-Keynote-22-de-octubre.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/Streaming-de-la-Keynote-22-de-octubre-300x169.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Apple ofrecerá streaming oficial de su <a href="www.macsfera.com/keynote-de-apple-el-22-de-octubre/" title="Keynote de Apple el 22 de octubre" target="_blank" rel="noopener noreferrer">keynote de esta tarde</a> a través del Apple TV como poco.</strong></p>
+<p><span id="more-10046"></span></p>
+<p>En los Apple TV <strong>ha aparecido un enlace para ver el evento que Apple tiene previsto para esta tarde a las 19:00.</strong> Las últimas veces que ha ocurrido este hecho, el streaming también <strong>se ha podido disfrutar en la web,</strong> aunque el enlace solía aparecer horas más tarde.</p>
+<p>En el caso de que se habilite la retransmisión a través de la web, <strong>deberemos tener un Mac, un iPhone, un iPad o un iPod Touch para poder verla y además habrá que usar el navegador Safari.</strong></p>
+<p>Los tópicos más fuertes esta vez son el <strong>iPad 5, el iPad mini con pantalla retina, OS X Mavericks y la presentación del nuevo Mac Pro.</strong> Recordad que el evento es a las 19:00 horario peninsular y os traeremos las novedades y un resumen como solemos hacer.</p>
+<p><span class="source">Fuente</span> <span class="via"><a href="http://9to5mac.com/2013/10/22/apple-tv-channel-indicates-apple-will-be-streaming-todays-launch-event/" target="_blank" rel="noopener noreferrer">9To5Mac</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/habra-streaming-oficial-de-la-keynote-del-22-de-octubre/">Habrá streaming oficial de la keynote del 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Keynote de Apple el 22 de octubre</title>
+		<link>https://www.MacSfera.com/keynote-de-apple-el-22-de-octubre/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2013 16:49:21 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[iPad Mini]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[Octubre]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10028</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-apple-el-22-de-octubre/">Keynote de Apple el 22 de octubre</a></p>
+<p>Apple ha convocado a la prensa para dar una keynote el 22 de octubre bajo el lema «todavía tenemos mucho que cubrir».</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-apple-el-22-de-octubre/">Keynote de Apple el 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-apple-el-22-de-octubre/">Keynote de Apple el 22 de octubre</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/10/Keynote-de-Apple-el-22-de-octubre.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/10/Keynote-de-Apple-el-22-de-octubre.jpg" alt="Keynote de Apple el 22 de octubre" width="710" height="701" class="aligncenter size-full wp-image-10029" srcset="https://www.MacSfera.com/wp-content/uploads/2013/10/Keynote-de-Apple-el-22-de-octubre.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/10/Keynote-de-Apple-el-22-de-octubre-300x296.jpg 300w, https://www.MacSfera.com/wp-content/uploads/2013/10/Keynote-de-Apple-el-22-de-octubre-60x60.jpg 60w, https://www.MacSfera.com/wp-content/uploads/2013/10/Keynote-de-Apple-el-22-de-octubre-66x66.jpg 66w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p><strong>Apple ha convocado a la prensa para dar una <a href="www.macsfera.com/tag/eventos" title="Keynote" target="_blank" rel="noopener noreferrer">keynote</a> el 22 de octubre bajo el lema «todavía tenemos mucho que cubrir».</strong></p>
+<p><span id="more-10028"></span></p>
+<p>En este evento se rumorea que podrían aparecer las <strong>siguientes generaciones del iPad y el iPad mini,</strong> algunas <strong>actualizaciones referentes a los equipos Mac,</strong> centrados especialmente en el <strong><a href="www.macsfera.com/nuevo-mac-pro-con-un-renovado-diseno-y-potentes-caracteristicas/" title="Nuevo Mac Pro con un renovado diseño y potentes características" target="_blank" rel="noopener noreferrer">nuevo Mac Pro</a></strong> que se anunció en junio. También se espera presentar las <strong>últimas <a href="www.macsfera.com/video-mostrando-las-novedades-de-os-x-mavericks/" title="Vídeo mostrando las novedades de OS X Mavericks" target="_blank" rel="noopener noreferrer">novedades de OS X Mavericks</a>,</strong> su fecha de lanzamiento y su precio.</p>
+<p>El evento se celebrará en el Yerba Buena Center de San Francisco a las 10:00 am, en <strong>España será a las 19:00 como es habitual y se desconoce si habrá streaming oficial.</strong></p>
+<p><span class="source">Fuente</span> <span class="via"><a href="http://www.macrumors.com/2013/10/15/apple-sends-out-invitations-for-october-22-media-event/" target="_blank" rel="noopener noreferrer">MacRumors</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-apple-el-22-de-octubre/">Keynote de Apple el 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>300 millones de visitas en el año fiscal de 2012 a una Apple Store y más de 50.000 asistencias en la Genius Bar</title>
+		<link>https://www.MacSfera.com/300-millones-de-visitas-en-el-ano-fiscal-de-2012-a-una-apple-store-y-mas-de-50-000-asistencias-en-la-genius-bar/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 21 Aug 2012 15:39:22 +0000</pubDate>
+				<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Física]]></category>
+		<category><![CDATA[Genius Bar]]></category>
+		<category><![CDATA[Octubre]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7200</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/300-millones-de-visitas-en-el-ano-fiscal-de-2012-a-una-apple-store-y-mas-de-50-000-asistencias-en-la-genius-bar/">300 millones de visitas en el año fiscal de 2012 a una Apple Store y más de 50.000 asistencias en la Genius Bar</a></p>
+<p>En la apertura de una nueva Apple Store en Canadá, la tienda número 375, Jim Dalrymple consiguió hablar con un representante de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/300-millones-de-visitas-en-el-ano-fiscal-de-2012-a-una-apple-store-y-mas-de-50-000-asistencias-en-la-genius-bar/">300 millones de visitas en el año fiscal de 2012 a una Apple Store y más de 50.000 asistencias en la Genius Bar</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/300-millones-de-visitas-en-el-ano-fiscal-de-2012-a-una-apple-store-y-mas-de-50-000-asistencias-en-la-genius-bar/">300 millones de visitas en el año fiscal de 2012 a una Apple Store y más de 50.000 asistencias en la Genius Bar</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/08/Apple-Store-Paseo-de-Gracia.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/08/Apple-Store-Paseo-de-Gracia.jpg" alt="Apple Store Paseo de Gracia" title="Apple Store Paseo de Gracia" width="550" height="305" class="aligncenter size-full wp-image-7202" srcset="https://www.MacSfera.com/wp-content/uploads/2012/08/Apple-Store-Paseo-de-Gracia.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/08/Apple-Store-Paseo-de-Gracia-300x166.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En la apertura de una nueva <strong><a href="www.macsfera.com/tag/apple-store" title="Apple Store" target="_blank" rel="noopener noreferrer">Apple Store</a></strong> en Canadá, la tienda número 375, Jim Dalrymple <strong>consiguió hablar con un representante de Apple el cual le facilitó algunas cifras en cuanto a tiendas se refiere.</strong></p>
+<p><span id="more-7200"></span></p>
+<p>Alrededor de <strong>300 millones de personas en todo el mundo han visitado una tienda de Apple desde que comenzó el año fiscal de 2012,</strong> es decir, desde octubre de 2011. Para que nos hagamos una idea, esa cifra se acerca al total de la población de Estados Unidos (311 millones).</p>
+<p>Otro dato es que, según la compañía, unas <strong>50.000 personas visitan la Genius Bar cada día a nivel mundial</strong> para que le sean resueltos los problemas con sus distintos aparatos. 50.000 personas son muchas personas sabiendo que hay 375 tiendas, el ritmo que llevan en este término es muy elevado y más sabiendo que hay distintos dispositivos a reparar.</p>
+<p>Sin duda impresionantes cifras que <strong>podrán ser vistas de manera muy positiva a la hora de invertir para abrir más tiendas.</strong> El año pasado apenas contábamos con 3 (La de Parquesur recién abierta) y a día de hoy contamos con 8 tiendas a espera de abrir 3 más (<strong><a href="www.macsfera.com/nueva-apple-store-aparece-en-la-web-de-apple-en-zaragoza/" title="Nueva Apple Store aparece en la web de Apple. En Zaragoza" target="_blank" rel="noopener noreferrer">Zaragoza</a></strong>, <strong><a href="www.macsfera.com/aparece-una-nueva-apple-store-en-valladolid-desde-la-web-de-apple/" title="Aparece una nueva Apple Store en Valladolid desde la web de Apple" target="_blank" rel="noopener noreferrer">Valladolid</a></strong> y <strong><a href="www.macsfera.com/proxima-apple-store-madrid-en-la-puerta-del-sol-confirmado/" title="Próxima Apple Store Madrid en la Puerta del sol. Confirmado" target="_blank" rel="noopener noreferrer">Madrid</a></strong>).</p>
+<p>Vía | <a href="http://www.loopinsight.com/2012/08/20/apple-stores-see-300-million-visitors-in-2012-50000-genius-bar-visits-a-day/" target="_blank" rel="noopener noreferrer">The Loop</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/300-millones-de-visitas-en-el-ano-fiscal-de-2012-a-una-apple-store-y-mas-de-50-000-asistencias-en-la-genius-bar/">300 millones de visitas en el año fiscal de 2012 a una Apple Store y más de 50.000 asistencias en la Genius Bar</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

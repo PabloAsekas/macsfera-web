@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>f.lux &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/f-lux/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:54:03 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Respuesta al anuncio de Apple</title>
+		<link>https://www.MacSfera.com/respuesta-al-anuncio-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2016 13:40:49 +0000</pubDate>
+				<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[f.lux]]></category>
+		<category><![CDATA[Modo noche]]></category>
+		<category><![CDATA[Ritmo circadiano]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12803</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/respuesta-al-anuncio-apple/">Respuesta al anuncio de Apple</a></p>
+<p>La semana pasada pudimos saber que iOS 9.3 traerá un modo noche basado en el cambio de colores para evitar la luz</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/respuesta-al-anuncio-apple/">Respuesta al anuncio de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/respuesta-al-anuncio-apple/">Respuesta al anuncio de Apple</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/01/18143914/F.lux_.png" rel="attachment wp-att-12807"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/01/18143914/F.lux_.png" alt="F.lux" width="1060" height="479" class="aligncenter size-full wp-image-12807" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/01/18143914/F.lux_.png 1060w, https://cdn.macsfera.com/wp-content/uploads/2016/01/18143914/F.lux_.png 300w, https://cdn.macsfera.com/wp-content/uploads/2016/01/18143914/F.lux_.png 768w, https://cdn.macsfera.com/wp-content/uploads/2016/01/18143914/F.lux_.png 1024w" sizes="(max-width: 1060px) 100vw, 1060px" /></a></p>
+<p>La semana pasada pudimos saber que <a title="iOS 9.3 traerá modo noche, Notas con contraseña y multiusuario para el iPad en la escuela" href="www.macsfera.com/ios-9-3-traera-modo-noche-notas-contrasena-multiusuario-ipad-la-escuela/" target="_blank" rel="noopener noreferrer">iOS 9.3 traerá un modo noche</a> basado en el cambio de colores para evitar la luz azul que desprenden los dispositivos y con el objetivo de que no afecte a nuestro ritmo circadiano.</p>
+<p>En ese anuncio, os comenté que ya existía una aplicación para Mac llamada <a href="https://justgetflux.com/" target="_blank" rel="noopener noreferrer">f.lux</a> que tenía el mismo objetivo, <strong>y a raíz de las novedades de iOS 9.3 han publicado <a href="https://justgetflux.com/news/2016/01/14/apple.html" target="_blank" rel="noopener noreferrer">una respuesta</a> para Apple.</strong></p>
+<blockquote class="enlace">
+<p>Estamos orgullosos de ser los originales innovadores y líderes en este area. En nuestro continuo trabajo sobre los últimos siete años, hemos aprendido lo complicadas que son realmente las personas. La siguiente fase de f.lux es algo que no podemos esperar para revelar al mundo.</p>
+<p>En vez sugerir respuestas simples, nuestra misión es habilitar f.lux para la ciencia avanzada, mientras que proveemos soluciones personalizadas para cada persona. Intentamos hacer f.lux mejor en cada aspecto desde que diseñamos la app en 2009.</p>
+<p>Hoy llamamos a Apple para que nos dejen lanzar f.lux en iOS, para abrir acceso a las funciones anunciadas esta semana, y para apoyar nuestra investigación global en el sueño y en la cronobiología.</p>
+</blockquote>
+<p><strong>Sería bastante interesante ver a Apple y a f.lux colaborando juntos para seguir investigando en este campo,</strong> que está cobrando más importancia en los últimos años.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/respuesta-al-anuncio-apple/">Respuesta al anuncio de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

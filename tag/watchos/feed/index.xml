@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>watchOS &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/watchos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:36 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Resumen y opinión de la keynote de la WWDC18</title>
+		<link>https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 07 Jun 2018 16:25:34 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[iOS 12]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[macOS Mojave]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[tvOS 12]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[watchOS 5]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC18]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16862</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a></p>
+<p>Esta semana se celebró la keynote de la WWDC18, la presentación inaugural de la Worldwide Developers Conference de Apple en la que</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145606/WWDC18.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145606/WWDC18.jpg" alt="WWDC18" width="2400" height="1350" class="aligncenter size-full wp-image-16866" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145606/WWDC18.jpg 2400w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07145606/WWDC18.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07145606/WWDC18.jpg 1024w" sizes="(max-width: 2400px) 100vw, 2400px" /></a></p>
+<p>Esta semana se celebró la keynote de la <a target="_blank" title="WWDC18" href="www.macsfera.com/tag/wwdc18" rel="noopener noreferrer">WWDC18</a>, <strong>la presentación inaugural de la Worldwide Developers Conference de Apple en la que conocimos el futuro de los sistemas operativos de la empresa.</strong></p>
+<p>Este año la keynote no se ha salido de lo básico y fundamental. Software, software y más software <sup class="modern-footnotes-footnote ">1</sup>. Y es que ya lo dijo Tim Cook al inicio <em>“Hoy, todo es sobre el software”</em>,  no ha habido ninguna novedad en cuanto a hardware, ni si quiera una actualización de componentes internos.</p>
+<p><span id="more-16862"></span></p>
+<p>En dos horas pudimos ver cuál es el futuro más inmediato de los sistemas operativos de la empresa, y un pequeño vistazo al largo plazo que Apple tiene planeado para el Mac. Empecemos.</p>
+<h2 class="review">Nuevo iOS 12</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145817/nuevo-iOS-12.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145817/nuevo-iOS-12.jpg" alt="Nuevo iOS 12" width="2500" height="886" class="aligncenter size-full wp-image-16867" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145817/nuevo-iOS-12.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07145817/nuevo-iOS-12.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07145817/nuevo-iOS-12.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>El primer conocido en la presentación fue iOS 12.</strong> Es raro verlo el primero, pero ahí estaba Craig Federighi para presentarnos las novedades del nuevo sistema operativo móvil de Apple.</p>
+<p><strong>Empezó hablando del rendimiento y optimización</strong> del sistema y de cómo funcionan las cosas bajo el capó en su unión con el hardware. Esta explicación nos llevó a saber que iOS 12 estará disponible para los mismos dispositivos compatibles con iOS 11, de modo que este año no hay ningún perjudicado en la actualización. Esos dispositivos son: desde el iPhone 5s en adelante, desde el iPad mini 2 en adelante, desde el iPad Air en adelante y el iPod touch 6.</p>
+<p>La realidad aumentada ocupó la siguiente novedad. Apple está apostando fuerte por esta tecnología y el mejor ejemplo lo tuvimos en esta presentación. <strong>iOS 12 es más compatible con AR gracias a un nuevo formato de archivo llamado USDZ</strong> que han creado junto a Pixar. Este nuevo formato <strong>permite crear objetos tridimensionales y manejables que podemos insertar en distintas aplicaciones, incluida la web.</strong> Además de ver y compartir objetos 3D, también vamos a poder ubicarlos en nuestro entorno gracias a las propiedades de realidad aumentada. Algunas de las mejoras de AR en iOS 12 son tracking facial mejorado, renderizado de objetos más realista, detección de objetos 3D mejorada y experiencia compartida.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151734/AR-en-iOS-12.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151734/AR-en-iOS-12.jpg" alt="AR en iOS 12" width="2500" height="1407" class="aligncenter size-full wp-image-16873" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151734/AR-en-iOS-12.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07151734/AR-en-iOS-12.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07151734/AR-en-iOS-12.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Este último punto es muy importante, Apple ha logrado que varios dispositivos puedan compartir la experiencia de juego 3D. Cada uno con su dispositivo, desde su punto de vista y con un mismo entorno en 3D. La demo que vimos en directo de lo que Lego tiene preparado fue increíble. Me encantó. Es una demo que difícilmente se puede simular <sup class="modern-footnotes-footnote ">2</sup>, y eso hace que sea más impresionante aún. En ella vemos cómo dos personas juegan cada uno con su iPad y <strong>son capaces de crear un mundo virtual a partir de un objeto real en una mesa</strong> (un edificio)<strong>.</strong> La tecnología está tan bien desarrollada que en un momento dado pueden mostrar el interior del edificio físico y moverse por la escena como si este edificio (que recordemos está sobre la mesa y se puede tocar) fuese virtual. Hasta que no lo veamos en nuestras propias carnes no sabremos al 100% cómo de bien funciona, pero me dejó impresionado los avances que han logrado.</p>
+<p>La aplicación de fotos ha recibido algunas mejoras de organización y optimización, siendo posible realizar mejores búsquedas y encontrar contenido de forma más precisa. Tenemos una pestaña personal en la que se muestran fotos destacadas y en la que podemos obtener selecciones inteligentes de fotos. La inteligencia artificial se utiliza en este punto para buscar las mejores fotografías e incluso nos sugiere con quién compartir estas fotografías en base a la gente que aparece en ella.</p>
+<p>El año pasado supimos que <a target="_blank" title="Apple compra la app de automatización Workflow" href="www.macsfera.com/apple-compra-app-de-automatizacion-workflow/" rel="noopener noreferrer">Apple compraba Workflow</a>, la estupenda app de automatización para iOS, y ya sabemos cuál es su uso. <strong>Apple ha integrado Workflow con Siri y el resultado es una nueva app llamada Shortcuts que nos va a permitir crear flujos de trabajo que Siri va a realizar con solo decirle una frase predeterminada.</strong> Por ejemplo, podremos configurar un flujo de trabajo que al decir «Buenas noches» se apaguen todas las lámparas inteligentes que tengamos en casa, se eche la llave de la cerradura inteligente, se active la alarma del día siguiente y se ponga el modo no molestar en el teléfono. Para definir estos pasos, tenemos la misma interfaz de arrastrar y soltar acciones que existe en Workflow, la cual es muy amigable y facilita la tarea de «programación» al usuario medio. <strong>Tengo muchas ganas de probar esta característica porque ahora sí que veo que Siri pueda tener una personalización y utilidad que,</strong> junto a la API pública lanzada con <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/" rel="noopener noreferrer">iOS 10</a>, <strong>dispare su uso notablemente.</strong></p>
+<div class="galerias grande" data-layout="5" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07152128/Bloquear-notificaciones-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07152130/Fotos-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07152132/Notificaciones-agrupadas-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07152133/Shortcuts-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07152752/App-de-seguimiento-en-iOS-12.jpg" title="" alt="" />
+
+</div>
+<p>En iOS 12 se han rediseñado las aplicaciones de noticias, bolsa, notas de voz y iBooks, que ahora pasa a llamarse Apple Books. También se permite el uso de aplicaciones de terceros de navegación como Google Maps o Waze en Car Play. Y se han introducido cuatro animojis nuevos más la opción de crear los nuestros propios basados en personas.</p>
+<p>Un punto importante al que se hizo referencia fue al uso que hacemos de nuestros dispositivos y a la adicción que estos pueden crear. Por ello Apple ha integrado en iOS 12 algunas mejoras para reducir esos problemas. </p>
+<ol>
+<li>La primera de ellas <strong>está relacionada con el modo «No molestar»</strong> que ha recibido una nueva propiedad que permite ocultar todas las notificaciones durante la noche para que al despertar no veamos directamente ese mar de actividad que ha ocurrido mientras dormíamos. También es posible configurar la duración del modo desde el centro de control y no desde los ajustes del teléfono.</li>
+<li>La segunda de ellas <strong>es un sistema mejorado de notificaciones que agrupa en la pantalla de bloqueo las notificaciones por aplicación.</strong> Además aporta más control sobre las notificaciones en el momento, nada de tener que navegar por distintos menús, todo a golpe de dedo.</li>
+<li>La tercera, y última, <strong>hace referencia a una nueva aplicación que nos va a indicar nuestra actividad en el teléfono:</strong> qué apps hemos usado, cuánto tiempo, cuáles han recibido más notificaciones, he incluso podremos fijar límites de tiempo para algún caso concreto. Llegado a ese límite, iOS 12 nos notificará que ya hemos alcanzado el tiempo máximo asignado (pudiendo ignorar el mensaje para seguir usando la app). Por último, y lo que más me ha gustado de esta opción, es que la aplicación es compatible con los controles parentales, de modo que los padres pueden ver la actividad de su hijo en su dispositivo, limitarla temporalmente, etc., todo ello desde el dispositivo del adulto y sincronizado con iCloud.</li>
+</ol>
+<div class="galerias medio" data-layout="3" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07153540/Bloquear-cookies-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07153541/Bolsa-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07153543/Juegos-en-iOS-12.jpg" title="" alt="" />
+
+</div>
+<p>Por último, el servicio FaceTime ha recibido una actualización que permite llamadas grupales de hasta 32 miembros a la vez. Al igual que hace Google Hangouts, destacará a las personas que estén hablando en ese momento y se permitirá aplicar filtros y emojis en directo para darle un toque más gracioso a la llamada.</p>
+<h2 class="review">Nuevo watchOS 5</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154035/watchOS-5.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154035/watchOS-5.jpg" alt="" width="2460" height="1241" class="aligncenter size-full wp-image-16883" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154035/watchOS-5.jpg 2460w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07154035/watchOS-5.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07154035/watchOS-5.jpg 1024w" sizes="(max-width: 2460px) 100vw, 2460px" /></a></p>
+<p>La presentación de watchOS 5 empezó con una bonita historia relatada por Tim Cook en la que una mujer pudo salvar a su marido gracias al Apple Watch y a la conectividad móvil. El marido tuvo un problema médico muscular y cayó al agua sin poder nadar para no ahogarse, la mujer pudo llamar a emergencias gracias al Apple Watch mientras ayudaba a su marido.</p>
+<p>Tras el relato, <strong>Kevin Lynch subió al escenario para mostrar las novedades de watchOS 5 para el reloj.</strong> Dos fueron las novedades presentadas en este aspecto: <strong>mejoras en actividad y mejoras de conectividad.</strong></p>
+<p><strong>En el área de actividad se ha mejorado la detección automática de entrenamiento</strong> para monitorizar mejor la actividad sin que el usuario tenga que estar tan pendiente. También se han añadido nueva detección de las actividades de yoga y hiking, así como se ha mejorado las métricas de la actividad de correr.</p>
+<p>En cuanto al área de conectividad, los podcasts ya están disponibles en el Apple Watch con sincronización automática y compatibilidad con Siri. <strong>Se ha introducido una nueva app llamada Walkie-Talkie</strong> que nos permitirá hablar por el reloj como si de un walkie-talkie fuese <sup class="modern-footnotes-footnote ">3</sup>. Se ha mejorado Siri, siendo más predictiva y proactiva a través de su propia esfera. Las notificaciones ahora cobran más importancia porque permiten realizar ciertas acciones sin necesidad de acudir a la propia aplicación. Y por último webkit llega al Apple Watch para poder visualizar páginas web desde el reloj <sup class="modern-footnotes-footnote ">4</sup>.</p>
+<h2 class="review">Nuevo tvOS 12</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07150449/Nuevo-tvOS-12.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07150449/Nuevo-tvOS-12.jpg" alt="Nuevo tvOS 12" width="2206" height="1292" class="aligncenter size-full wp-image-16869" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07150449/Nuevo-tvOS-12.jpg 2206w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07150449/Nuevo-tvOS-12.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07150449/Nuevo-tvOS-12.jpg 1024w" sizes="(max-width: 2206px) 100vw, 2206px" /></a></p>
+<p>tvOS 12 fue el sistema operativo que menos novedades introdujo, normal sabiendo el impacto que tiene el Apple TV respecto al resto de productos, pero aún así vimos una mejora notable: <strong>el Apple TV ahora es compatible con Dolby Atmos,</strong> la tecnología de sonido envolvente de Dolby que centra al espectador en medio de la película. Para disfrutarlo hay que usar sistemas de sonido Dolby, pero todas las películas de iTunes serán actualizadas gratuitamente para disfrutar de esta característica.</p>
+<p>Además, se introdujeron una serie de mejoras en cuanto a la entrega de contenido de pago. Hace dos años <a target="_blank" title="Nueva versión de tvOS" href="www.macsfera.com/nueva-version-tvos/" rel="noopener noreferrer">introdujeron el inicio de sesión sencillo</a>, este año introducen el inicio de sesión automático: si se detecta que el Apple TV está en la red del distribuidor, automáticamente inicia sesión y pone a disposición del usuario el contenido contratado.</p>
+<p>Por último, han añadido nuevos wallpapers animados, las vistas aéreas que se ponen en el Apple TV cuando no se visualiza contenido.</p>
+<h2 class="review">Nuevo macOS Mojave</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154219/macOS-Mojave.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154219/macOS-Mojave.jpg" alt="macOS Mojave" width="2500" height="1306" class="aligncenter size-full wp-image-16884" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154219/macOS-Mojave.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07154219/macOS-Mojave.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07154219/macOS-Mojave.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Y entramos en la recta final de la keynote, <strong>la presentación de macOS Mojave,</strong> el nuevo sistema operativo de Mac que nos acompañará durante un año.</p>
+<p>Lo primero que supimos fue que <strong>macOS Mojave tiene un modo oscuro real.</strong> Actualmente el modo oscuro del Mac se limita al dock y a la barra de tareas, pero en macOS Mojave va a ser por todo el sistema, <strong>aplicaciones incluidas.</strong> En las demos vimos esos aspectos y no lucen nada mal, pero me interesa más saber si las aplicaciones de terceros pueden hacer uso de este sistema y de la facilidad que tendrá el modo oscuro para aplicarse <sup class="modern-footnotes-footnote ">5</sup>.</p>
+<p><strong>Hay algunas mejoras de usabilidad y utilidad bastante curiosas:</strong></p>
+<ul>
+<li>Organizar por pilas los archivos del escritorio para tener todo organizado</li>
+<li>Propiedades de edición rápida de las capturas de pantalla como en iOS</li>
+<li>Nueva vista del Finder donde el archivo cobra más protagonismo (es un rediseño de la vista actual Cover Flow)</li>
+<li>Podemos definir tareas automáticas en Finder para que, con un solo toque se ejecuten sobre los archivos que hemos seleccionado (poner marcas de agua, hacer un PDF, rotar imágenes, etc.)</li>
+<li>Nuevo sistema de capturas de pantalla más intuitivo y útil que, además, permite capturar vídeo sin necesidad de utilizar software de terceros <sup class="modern-footnotes-footnote ">6</sup></li>
+<li>Continuity añade la posibilidad de invocar la cámara del iPhone cuando  la aplicación requiera de una entrada de foto. De esta manera si queremos insertar una foto en un documento, por ejemplo, podremos sacarla con el iPhone y automáticamente aparecerá en el Mac</li>
+<li>Nueva aplicación de Noticias, Notas de Voz, Bolsa y Home disponibles para el Mac</li>
+<li>Mejoras de privacidad para acceso a la cámara, localización, micrófono, información de Safari, copias de seguridad, cookies, historial de mensajes y base de datos del correo de email</li>
+</ul>
+<div class="galerias medio" data-layout="43" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07180001/macOS-Mojave-xCode.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07180000/macOS-Mojave-nueva-vista-Finder.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07175959/macOS-Mojave-Keynote.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07175958/macOS-Mojave-FaceTime-llamada-multigrupo.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07175955/macOS-Mojave-apuntar.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07175956/macOS-Mojave-Calendario.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07175954/macOS-Mojave-App-Store.jpg"/>
+
+</div>
+<p>Y continuando con la privacidad, Safari va a deshabilitar por defecto las cajas de comentarios, plugins de compartición de contenido y rastreo de cookies de páginas que no son la principal. Además, <strong>añadirá más ruido a la información digital que se recolecta sobre nosotros, para que sea más difícil identificar nuestro dispositivo con fines publicitarios y de rastreo.</strong> Hay que añadir que estas medidas de seguridad también llegan a iOS.</p>
+<p>Lo siguiente que pudimos ver fue <strong>el rediseño de la Mac App Store,</strong> la tienda de aplicaciones del Mac, que aparte del modo oscuro antes mencionado, <strong>se adapta al estilo que está teniendo tanto éxito en iOS.</strong> Mismos patrones de diseño, más protagonismo del contenido, categorías más diferenciadas, historias sobre las aplicaciones, etc. En iOS el cambio vino muy bien, aumentando las visitas semanales de la plataforma, así que el nuevo diseño no solo aporta homogeneidad y continuidad al Mac, sino que también espera aumentar el tráfico y la popularización de la tienda.</p>
+<p>Con la llegada de Metal hace cuatro años, Apple estaba plantando una semilla para prescindir de los motores gráficos de terceros, y <strong>parece que con macOS Mojave esto se empieza a definir al considerar estas tecnologías como obsoletas en el desarrollo de aplicaciones para el nuevo sistema operativo.</strong> Seguirán siendo compatibles y podrán ejecutarse, pero es el aviso que Apple da para que los desarrolladores empiecen a migrar de motor. Además, Metal 2 incluye mejoras de velocidad y cualidades nuevas para el machine learning.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07180321/Modo-Oscuro-macOS-Mojave.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07180321/Modo-Oscuro-macOS-Mojave.jpg" alt="Modo Oscuro macOS Mojave" width="1558" height="884" class="aligncenter size-full wp-image-16892" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07180321/Modo-Oscuro-macOS-Mojave.jpg 1558w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07180321/Modo-Oscuro-macOS-Mojave.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07180321/Modo-Oscuro-macOS-Mojave.jpg 1024w" sizes="(max-width: 1558px) 100vw, 1558px" /></a></p>
+<p>Y por último en la presentación, una pequeña bomba informativa y un momento anecdótico. Craig Federighi se auto preguntó si <em>“Apple iba a fusionar macOS y iOS”</em>. La respuesta la tenéis justo debajo de estas líneas.</p>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07212229/WWDC-No.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07212229/WWDC-No.gif" alt="WWDC No" width="700" height="auto" class="aligncenter size-full wp-image-16899" /></a></p>
+<p>Pero sí que nos enseñó lo que depara el futuro de las aplicaciones en Mac, y es que <strong>a partir del año que viene va a ser posible utilizar algunas de las aplicaciones de iOS en macOS gracias a la migración de algunas librerías.</strong> De esta forma, se podría desarrollar una aplicación para iOS y tenerla, automáticamente, disponible para descarga y uso en el Mac.</p>
+<p>Evidentemente no se van a poder migrar todas las aplicaciones, <strong>sólo algunas que no utilicen propiedades exclusivas de un dispositivo como el iPhone o el iPad,</strong> pero tampoco podemos saber mucho más sobre este apartado ya que es algo que no está 100% definido a día de hoy. De hecho, Apple lo está probando por sí mismo con las nuevas aplicaciones que llegan al Mac (Noticias, Notas de Voz, Bolsa y Home).</p>
+<p>En un futuro, el año que viene según los planes, veremos muchísimos más detalles sobre esto, pero de momento es un vistazo a los planes que tiene Apple sobre el desarrollo de aplicaciones.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151000/Tim-Cook-en-la-WWDC18.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151000/Tim-Cook-en-la-WWDC18.jpg" alt="Tim Cook en la WWDC18" width="1632" height="1088" class="aligncenter size-full wp-image-16871" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151000/Tim-Cook-en-la-WWDC18.jpg 1632w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07151000/Tim-Cook-en-la-WWDC18.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07151000/Tim-Cook-en-la-WWDC18.jpg 1024w" sizes="(max-width: 1632px) 100vw, 1632px" /></a></p>
+<p>Y con esto acabamos todas las novedades de la presentación. No hubo ni una sola referencia al hardware, <strong>así que probablemente nos espere un final de año cargado de novedades en cuanto a los dispositivos.</strong></p>
+<p>Personalmente estoy contento con lo visto aunque no sé hasta qué punto nos va a perjudicar a los usuarios el que Apple haga un anuncio tan impactante como la portabilidad de las aplicaciones de iOS a macOS ya que <strong>puede hacer que una empresa decida aguantar un año sin novedades, actualizaciones, mejoras, etc. de su aplicación, porque el año que viene pueden ahorrarse trabajo y dinero al migrar algo que ya han hecho.</strong></p>
+<p>En cuanto al resto de novedades, muchas son una capa extra de funcionalidad que no le viene nada mal a los sistemas operativos y que en general van a mejorar la experiencia de usuario. Algunas de ellas llegan tarde (como las notificaciones agrupadas), bien es sabido que Apple no es el mejor ejemplo de velocidad en este tipo de asuntos.</p>
+<p>A pesar de que este es el evento principal de desarrollo, viendo el modo de actuar de otros años, <strong>seguro que tendremos más novedades cuando se actualicen los dispositivos,</strong> y tengo la sensación de que las funcionalidades que nos presentarán rellenarán el vacío que esta presentación ha dejado en algunos de vosotros. Sólo el tiempo me dirá si me equivoco.</p>
+<p>Yo en general estoy contento con lo aquí anunciado, me quedo con la parte de mejora de estabilidad y velocidad, <strong>al final del día es algo que todos vamos a agradecer sí o sí,</strong> y estoy deseando probar ese aumento del rendimiento prometido.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://www.apple.com/apple-events/june-2018/" rel="noopener noreferrer" target="_blank">Apple</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Obvio, es una conferencia para desarrolladores.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Como ha ocurrido otros años.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Nostalgia modo on.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;La propia Apple reconoce que no es lo mejor que se puede hacer, pero que lo habilita para permitir vistazos rápidos en caso de necesidad.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;A día de hoy sólo conozco el ejemplo de <a href="https://www.MacSfera.com/enlaces/tweetbot-para-ios/" rel="noopener noreferrer" target="_blank">Tweetbot para iOS</a> que ha sabido integrar un modo oscuro eficiente al permitir, de forma manual y sencilla, activar a placer dicho modo.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;Esto ya se puede hacer con QuickTime pero ahora es más rápido y directo.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Resumen y opinión de la keynote de la WWDC17</title>
+		<link>https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 09 Jun 2017 13:08:09 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Accesorios]]></category>
+		<category><![CDATA[HomePod]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[iMac Pro]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 11]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPad Pro]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[macOS High Sierra]]></category>
+		<category><![CDATA[Productos Apple]]></category>
+		<category><![CDATA[Resumen]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC17]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
+<p>Esta semana ha sido la keynote de la WWDC, el anual evento de desarrolladores que organiza Apple en el que presenta el</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg" alt="Tim Cook WWDC17" width="2500" height="1089" class="aligncenter size-full wp-image-16610" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09141548/Tim-Cook-WWDC17.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Esta semana ha sido <a target="_blank" title="La WWDC17 se celebrará del 5 al 9 de junio en San José" href="www.macsfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/" rel="noopener noreferrer">la keynote de la WWDC</a>, el anual evento de desarrolladores que organiza Apple en el que presenta el futuro de los sistemas operativos de la empresa, entre otras cosas.</p>
+<p>El evento fue uno de los más largos que recuerdo, más de dos horas de información en la que no hubo tiempo ni para analizar lo que estaban diciendo. Muchísimos datos, muchísimos detalles, muchas novedades y unos cuantos lanzamientos.</p>
+<p><span id="more-16607"></span></p>
+<p>Este año me vais a perdonar, lejos de hacer un artículo detallado con todas las novedades y luego un resumen con mi opinión, <strong>voy a hacer sólo el resumen y opinión.</strong> El tiempo no me da para más, por ello en este artículo vais a encontrar más opinión que datos o novedades. Aún así, os enlazaré a otras webs que traten bien esas novedades para que sepáis exactamente qué es todo lo nuevo <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<p>Así que sin más, <strong>vamos con las 6 novedades que presentaron ayer.</strong></p>
+<h2>Nuevo tvOS</h2>
+<p>La única novedad que incluye esta versión es que <strong>Amazon Prime Now,</strong> el servicio de vídeo bajo demanda de Amazon, <strong>se incorpora al Apple TV.</strong></p>
+<p>Hubo una referencia a más cambios en el sistema de cara al futuro, cosa que no me gustó porque bueno, porque estamos en un evento en el que los protagonistas son los sistemas operativos.</p>
+<p>Supongo que ese futuro coincidirá con el lanzamiento de la nueva versión del Apple TV, pero aún así.</p>
+<p><a href="https://www.applesfera.com/apple-tv/wwdc17-amazon-prime-video-llegara-al-apple-tv" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo watchOS 4</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg" alt="watchOS 4" width="2500" height="1085" class="aligncenter size-full wp-image-16611" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142207/watchOS-4.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La nueva versión de watchOS, la versión 4, <strong>hace mucho énfasis en la incorporación de Siri en todo el sistema.</strong></p>
+<p>El asistente tiene ahora su propia esfera, una en la que la información se muestra de forma ordenada e inteligente para que tengamos todo lo que necesitamos a mano.</p>
+<p><strong>A través del aprendizaje automático, el reloj es capaz de averiguar la información más útil que ha de mostrar, consiguiendo tener en la muñeca todo lo necesario a un solo golpe de corona.</strong></p>
+<p>Hubo presentaciones de nuevas esferas, pero seguimos sin tener una forma oficial de desarrollo de esferas por parte de terceros. Sinceramente, esto es lo que más echo en falta en el Apple Watch.</p>
+<p>Como es habitual, si Apple lanza un nuevo Apple Watch este año, habrá más novedades en todo el sistema.</p>
+<p><a href="https://www.applesfera.com/apple-watch/todas-las-novedades-de-watchos-4-en-la-wwdc17" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo macOS High Sierra</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg" alt="macOS High Sierra" width="2500" height="1500" class="aligncenter size-full wp-image-16612" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09142837/macOS-High-Sierra.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Al igual que pasó en el <a target="_blank" title="Nuevo OS X El Capitan" href="www.macsfera.com/nuevo-os-x-el-capitan/" rel="noopener noreferrer">salto de Yosemite a El Capitan</a>, High Sierra es una versión perfeccionada y optimizada de Sierra. </p>
+<p><strong>Que Apple File System llegue de forma definitiva es una gran noticia,</strong> en iOS ha venido muy bien, así que en Mac pasará más de lo mismo. Además, los estándares de compresión de vídeo nuevos ayudarán mucho al usuario final.</p>
+<p>Metal 2 no es más que un pequeño escalón más por dotar al Mac de potencia de procesamiento gráfico, <strong>y parece que ha funcionado por la compatibilidad que va a traer con la realidad virtual.</strong> Por fin Apple nos dota de una herramienta capaz de crear contenido en condiciones para esta nueva tecnología que está captando mucho nuestra atención.</p>
+<p>Y si eso fuera poco, ahora trae compatibilidad nativa con hardware externo, básicamente podremos hacer que un MacBook Pro utilice tarjetas gráficas externas sin complicación para procesar todo tipo de contenido gráfico. Este componente hace que los equipos más antiguos puedan estar a la altura de la realidad virtual, por ejemplo.</p>
+<p>Ha habido un leve rediseño en algunas aplicaciones, adaptándose a la guía que hay en Apple Music para iOS. También ha habido mejoras en aplicaciones, estoy deseando probar esa nueva versión de Fotos y de Safari, y la nueva propiedad de compartir archivos de iCloud.</p>
+<p>Por último, <strong>destacar los esfuerzos que está haciendo Apple por dotar de inteligencia artificial a los sistemas,</strong> veremos a ver si finalmente tiene resultado, pero es algo que ha estado muy presente en toda la keynote y que me llama mucho la atención.</p>
+<p>En un futuro, como ha pasado otros años, <strong>puede que veamos más mejoras,</strong> pero de momento no ha habido un gran cambio, sino una perfección de lo ya existente.</p>
+<p><a href="http://www.faq-mac.com/2017/06/macos-sera-en-septiembre-macos-high-sierra/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Renovación de los Mac</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg" alt="Nuevos iMac y MacBook Pro" width="1856" height="1056" class="aligncenter size-full wp-image-16613" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg 1856w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143106/Nuevos-iMac-y-MacBook-Pro.jpg 1024w" sizes="(max-width: 1856px) 100vw, 1856px" /></a></p>
+<p><strong>Dar el salto a la séptima generación de los procesadores de Intel siempre es una buena noticia,</strong> y que haya una pequeña actualización de componentes también. Por eso, todos los modelos de iMac, MacBook Pro y MacBook han visto actualizados los componentes internos.</p>
+<p>Mejores procesadores, mejores SSDs, mejores pantallas, mejores gráficas y nuevos puertos.</p>
+<p><strong>En el terreno de los iMac me hubiese gustado algún pequeño rediseño,</strong> en lo que a marcos se refiere sobre todo. Llevo meses mirando mi iMac y pensando que tiene un diseño frontal basado en una tendencia pasada y me hubiera encantado que Apple hubiese hecho algo al respecto, pero no ha sido así, sólo ha sido una actualización de componentes.</p>
+<p>Apple ha dejado claro que quiere que sus equipos sean potentes, y así lo ha demostrado.</p>
+<p><a href="http://www.faq-mac.com/2017/06/apple-actualiza-el-imac-macbook-macbook-air-y-macbook-pro/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo iMac Pro</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg" alt="iMac Pro" width="2500" height="1582" class="aligncenter size-full wp-image-16614" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143315/iMac-Pro.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La empresa nos sorprendió con un nuevo iMac, <strong>el iMac Pro, un equipo cuya potencia supera a la del actual Mac Pro y que promete ser una alternativa de escritorio digna de profesionales.</strong></p>
+<p>Digo que nos sorprendió, no porque <a target="_blank" title="El futuro del Mac Pro, el iMac y las pantallas de Apple" href="www.macsfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/" rel="noopener noreferrer">no supiésemos que iban a sacar un iMac para profesionales</a>, que sí lo sabíamos, <strong>sino porque lo hicieron más pronto que tarde,</strong> y eso no suele ser habitual en Apple.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/a38_qR-S8Yo" frameborder="0" allowfullscreen></iframe></p>
+<p>El ordenador es una máquina increíble, potencia pura para procesar lo que le eches encima, y más. Es un gran equipo para el sector profesional y que puede ser expandido en un futuro con accesorios externos gracias a la compatibilidad de macOS High Sierra.</p>
+<p>Este no va a ser un ordenador que muchos de nosotros compremos, pero que Apple vuelva a poner sobre la mesa <sup class="modern-footnotes-footnote ">2</sup> un equipo destinado al público profesional, <strong>creo que ayudará mucho a que el Mac se implante en entornos de trabajo.</strong></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/XPIrnAcmCSk" frameborder="0" allowfullscreen></iframe></p>
+<p><a href="https://www.applesfera.com/sobremesa/apple-presenta-el-imac-pro-una-autentica-bestia-para-los-mas-exigentes-wwdc17" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo iOS 11</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg" alt="iOS 11" width="2500" height="744" class="aligncenter size-full wp-image-16615" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143614/iOS-11.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Llegamos a uno de los puntos clave del evento, la presentación del nuevo sistema operativo móvil, <strong>iOS 11.</strong> No os voy a engañar, me encantó todo lo que vi. </p>
+<ul>
+<li>Aplicación Archivos (incluso para servicios en la nube de terceros)</li>
+<li>Nuevo dock en el iPad</li>
+<li>Multitarea mejorada</li>
+<li>Arrastrar y soltar</li>
+<li>Teclado implementado</li>
+<li>Más opciones para las Live Photos</li>
+<li>Rediseños generales de aplicaciones</li>
+</ul>
+<p>Veo que se siguen rompiendo los moldes y estamos empezando a ver cosas útiles que se saltan el esquema de lo más intuitivo, cosas para gente más avanzada. <strong>Para los que realmente las necesiten.</strong></p>
+<p>No es que antes no estuvieran, pero había que liarla un poco para conseguirlas. <strong>Ahora todo es más sencillo una vez que se conoce el mecanismo.</strong> Es menos intuitivo, pero más útil. Por suerte contamos con 7 años de experiencia en interfaces gráficas táctiles como para que no suponga tanto esfuerzo.</p>
+<p>El mejor ejemplo de esto es el arrastrar y soltar, por fin lo tenemos nativo, antes podíamos transferir archivos entre aplicaciones, pero era todo más complejo. <strong>Ahora es fácil, sencillo y potente,</strong> como <a target="_blank" href="#" rel="noopener noreferrer">el que implementó Readdle hace poco</a>.</p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg" alt="Multitarea iOS 11" width="2348" height="1348" class="aligncenter size-full wp-image-16616" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg 2348w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143737/Multitarea-iOS-11.jpg 1024w" sizes="(max-width: 2348px) 100vw, 2348px" /></a></p>
+<p>Al igual que <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/" rel="noopener noreferrer">con iOS 10</a> el gran beneficiado fue el iPhone, <strong>con iOS 11 el gran beneficiado ha sido el iPad,</strong> sin lugar a dudas.</p>
+<p>Estoy deseando que salgan las betas públicas para poder usarlo y trastear con esa nueva multitarea, el dock y demás propiedades.</p>
+<p>Estoy muy contento con el trabajo realizado, y eso que no hemos visto ni la mitad de las novedades que esta versión trae, y traerá.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/Yy1JEyxRzIc" frameborder="0" allowfullscreen></iframe></p>
+<p>Este vídeo muestra un repaso por todas esas novedades que se han ido descubriendo con el paso de los días y la beta de desarrolladores número 1.</p>
+<p><a href="http://www.faq-mac.com/2017/06/ios-11-presenta-nuevas-y-potentes-funciones-para-iphone-y-ipad-este-otono/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevos iPad Pro</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg" alt="Nuevo iPad Pro 10,5 pulgadas" width="2320" height="666" class="aligncenter size-full wp-image-16617" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg 2320w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09143915/Nuevo-iPad-Pro-105-pulgadas.jpg 1024w" sizes="(max-width: 2320px) 100vw, 2320px" /></a></p>
+<p>Después de iOS <sup class="modern-footnotes-footnote ">3</sup>, <strong>presentaron los nuevos iPad Pro: el modelo de 12,9” y uno nuevo de 10,5”</strong> que sustituye <a target="_blank" title="iPad Pro: lo que esperaba, y mucho más" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/" rel="noopener noreferrer">al de 9,7”</a>.</p>
+<p>Mejores pantallas (con mayor ratio de refresco y mayor luminosidad), más potencia gracias al chip A10X, cámaras mejoradas y Touch ID de segunda generación. Son solo algunas de las novedades de estos nuevos equipos.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/UR5ODc5Wbbo" frameborder="0" allowfullscreen></iframe></p>
+<p>Eliminar el equipo de 9,7” pulgadas no me parece una mala jugada, <strong>sobre todo si han reducido los bordes ya que el aumento de tamaño no es tan descarado.</strong></p>
+<p>Celebro la subida de espacio que ha habido (de 32GB a 64GB), aunque el nuevo dispositivo lleva consigo también una subida de precio respecto al Pro de 9,7”.</p>
+<p><a href="http://www.faq-mac.com/2017/06/nuevos-ipad-pro-de-105-pulgadas-y-129-pulgadas/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<h2>Nuevo HomePod</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg" alt="Nuevo HomePod" width="1808" height="1596" class="aligncenter size-full wp-image-16618" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg 1808w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg 227w, https://cdn.macsfera.com/wp-content/uploads/2017/06/09144258/Nuevo-HomePod.jpg 1024w" sizes="(max-width: 1808px) 100vw, 1808px" /></a></p>
+<p>Y llegamos a la última gran presentación de la WWDC17, <strong>el HomePod.</strong></p>
+<p><strong>El HomePod es un altavoz inteligente que está diseñado para ponernos música y emitirla de forma inteligente.</strong> Siri está presente en el sistema y es la única forma de interactuar con el altavoz <sup class="modern-footnotes-footnote ">4</sup>.</p>
+<p>Sólo funcionará con Apple Music (hasta donde sabemos) y puede realizar las labores de asistente virtual. <strong>Siri ha sido modificada para entender un montón de frases relacionadas con el ámbito de la música pero también para dar información y realizar esas tareas comunes</strong> que realiza en el resto de dispositivos.</p>
+<p>Personalmente, este es uno de los productos que menos gracia me han hecho. <strong>No me gustan los asistentes virtuales del hogar,</strong> me parecen poco útiles y que violan nuestra privacidad de una manera de la que no somos conscientes, para el beneficio que aportan <sup class="modern-footnotes-footnote ">5</sup>.</p>
+<p>Aún así, <strong>Apple lo vende principalmente como un altavoz inalámbrico,</strong> no como un asistente del hogar. Dentro de lo malo, al menos lo han dotado de buenas características para reproducir audio, que es algo que la competencia no tiene.</p>
+<p>Digamos que es el mismo producto, pero potenciando características distintas.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/1hw9skL-IXc" frameborder="0" allowfullscreen></iframe></p>
+<p>He de destacar que sí hay una cosa que me ha encantado, y es <strong>la escucha local que realiza el dispositivo.</strong> Como cualquier asistente, responde a un comando de voz para que empiece a funcionar. Para ello, el asistente tiene que escuchar y procesar todo lo que oye con el fin de encontrar el patrón de palabras clave <sup class="modern-footnotes-footnote ">6</sup>.</p>
+<p>Otros asistentes hacen esa comprobación de palabras en los servidores de sus fabricantes, es decir, escuchan todo lo que les llega, lo envían a la compañía y (como poco) lo procesan <sup class="modern-footnotes-footnote ">7</sup>. </p>
+<p><strong>El HomePod no hace eso,</strong> para garantizar nuestra privacidad, <strong>el HomePod es capaz de analizar esas palabras en local, sin necesidad de enviar nada fuera.</strong> Cuando detecta que se han dicho las palabras adecuadas, ya sí que inicia la conexión con los servidores de Apple con el objetivo de procesar la petición del usuario.</p>
+<p>Es un gran gesto por parte de Apple el limitar las escuchas que realiza, <strong>garantizando al usuario que va a meter un micrófono en su casa que estará 24/7 escuchando, de que no va a escuchar nada que no deba.</strong></p>
+<p>Desconozco si esta medida se habrá implementado en los demás dispositivos <sup class="modern-footnotes-footnote ">8</sup>, pero sin duda es algo que debería pasar si no está ya.</p>
+<p><a href="http://www.faq-mac.com/2017/06/homepod-reinventa-la-musica-en-el-hogar/" target="_blank" rel="noopener noreferrer">Mas info</a></p>
+<hr />
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/FC0pT9xg1oI" frameborder="0" allowfullscreen></iframe></p>
+<p><strong>Y así es como terminamos la keynote de presentación de la WWDC17,</strong> un evento que, <a target="_blank" href="http://www.faq-mac.com/2017/06/una-keynote-para-consumo/" rel="noopener noreferrer">como dice Carlos Burges</a>, ha sido más para el público que para los desarrolladores.</p>
+<p>Han presentado demasiadas cosas, han ido demasiado rápido y, de lo importante <sup class="modern-footnotes-footnote ">9</sup>, <strong>se han dejado mucha información en el tintero.</strong></p>
+<p>No critico que el evento haya sido como ha sido, simplemente critico que hay infinidad de aspectos técnicos interesantes que no se han comentado. Prueba de ello son los distintos descubrimientos que se están haciendo según se prueban las versiones beta.</p>
+<p>En cualquier caso, <strong>Apple se ha puesto las pilas en muchos de los campos más demandados y más importantes para los usuarios.</strong> Ha incluido muchas novedades que hace 2-3 años hubiesen sido impensables y lo ha hecho de una forma muy natural.</p>
+<p>Todos los usuarios hemos salido muy beneficiados de esta keynote, el futuro pinta muy bien y estoy deseando ver más.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Os podría enlazar a la propia web de Apple pero como la van cambiando, no serviría de referencia para el futuro, así que prefiero enlazaros a artículos que sé que no van a desaparecer y que mantienen la información independientemente del año en que se consulte.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Y no solo con palabras.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Y antes de presentar las propiedades exclusivas del sistema para el iPad.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Salvo para controlar el volumen y poner o pausar la canción.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;Salvo que se padezca alguna discapacidad que dificulte la relación con los dispositivos informáticos tal y como los conocemos hoy.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;<em>”Oye Siri”</em> es la frase en español.</div><div>7&nbsp;&nbsp;&nbsp;&nbsp;Vete tú a saber si a parte de procesarlo lo almacenan, buscan patrones de comportamiento, pronunciación, etc.</div><div>8&nbsp;&nbsp;&nbsp;&nbsp;Los compatibles con <em>“Oye Siri”</em>.</div><div>9&nbsp;&nbsp;&nbsp;&nbsp;Los sistemas operativos y las tecnologías detrás de ellos.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La WWDC17 se celebrará del 5 al 9 de junio en San José</title>
+		<link>https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 16 Feb 2017 13:44:18 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC17]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16359</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a></p>
+<p>Apple acaba de anunciar que la WWDC17, la conferencia de desarrolladores anual de la empresa, se celebrará del 5 al 9 de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/02/16144354/WWDC17.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/02/16144354/WWDC17.jpg" alt="WWDC17" width="2500" height="908" class="aligncenter size-full wp-image-16362" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/02/16144354/WWDC17.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/02/16144354/WWDC17.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/02/16144354/WWDC17.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Apple acaba de anunciar que la WWDC17,</strong> la <a href="www.macsfera.com/tag/wwdc" title="WWDC" target="_blank" rel="noopener noreferrer">conferencia de desarrolladores anual de la empresa</a>, <strong>se celebrará del 5 al 9 de junio en San José, California.</strong></p>
+<p>El evento, que siempre trae mucha expectación por parte de los desarrolladores y usuarios  que siguen a la empresa, <strong>siempre trae consigo la presentación de las nuevas versiones de los sistemas operativos de Apple.</strong></p>
+<p><span id="more-16359"></span></p>
+<p>Así que <strong>el día 5 de junio habrá una keynote en la que se anunciará el futuro de macOS, iOS, tvOS y watchOS,</strong> con posible sorpresa incluida.</p>
+<blockquote>
+<p>La tecnología sola no es suficiente.<br />
+La tecnología debe ser la intersección de las artes liberales y humanidades, para crear nuevas ideas y experiencias que hagan que la sociedad avance. Este verano juntamos a miles de mentes brillantes que representan diversas perspectivas, pasiones, y talentos para ayudarnos a cambiar el mundo.</p>
+</blockquote>
+<p>Como <a href="www.macsfera.com/la-wwdc-del-2014-se-celebrara-del-2-al-6-de-junio-y-habra-asignacion-aleatoria-de-entradas/" title="La WWDC del 2014 se celebrará del 2 al 6 de junio y habrá asignación aleatoria de entradas" target="_blank" rel="noopener noreferrer">desde hace un tiempo</a>, <strong>la asignación de entradas será de forma aleatoria para todos los desarrolladores.</strong> La inscripción en el sorteo <strong>se abrirá el 27 de marzo a las 10:00 horario del pacífico,</strong> que coincide con las 19:00 en España. Para apuntarse es necesario tener una cuenta de desarrollador de Apple.</p>
+<p>Y nuevamente, <strong>los estudiantes que quieran ir podrán ser becados por Apple para acudir al evento de forma gratuita.</strong> Por ahora no hay información de qué tendrán que hacer para optar a una de estas becas, pero viendo lo que se pedía el año pasado, probablemente tengan que demostrar sus conocimientos creando aplicaciones.</p>
+<p>En el evento, a parte de presentarse el futuro de los sistemas operativos de Apple, habrá sesiones, consultas, invitados y formación sobre los sistemas operativos, y en particular sobre los sistemas operativos recién presentados.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://developer.apple.com/wwdc/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>iOS 10 y watchOS 3 disponibles el 13 de septiembre</title>
+		<link>https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 09 Sep 2016 19:16:26 +0000</pubDate>
+				<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[iOS 10]]></category>
+		<category><![CDATA[Noticias de iOS]]></category>
+		<category><![CDATA[Noticias de watchOS]]></category>
+		<category><![CDATA[See you on the 7th]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[watchOS 3]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15327</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/">iOS 10 y watchOS 3 disponibles el 13 de septiembre</a></p>
+<p>En la keynote “See you on the 7th” nos revelaron que las nuevas versiones de iOS 10 y watchOS 3 estarán disponibles</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/">iOS 10 y watchOS 3 disponibles el 13 de septiembre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/">iOS 10 y watchOS 3 disponibles el 13 de septiembre</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/15114753/iOS-10-experiencia-de-usuario.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/15114753/iOS-10-experiencia-de-usuario.jpg" alt="iOS 10 experiencia de usuario" width="2500" height="1591" class="aligncenter size-full wp-image-14937" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/15114753/iOS-10-experiencia-de-usuario.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/15114753/iOS-10-experiencia-de-usuario.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/15114753/iOS-10-experiencia-de-usuario.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En la <a target="_blank" title="See you on the 7th" href="www.macsfera.com/tag/see-you-on-the-7th/" rel="noopener noreferrer">keynote “See you on the 7th”</a> nos revelaron que <strong>las nuevas versiones de <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/" rel="noopener noreferrer">iOS 10</a> y <a target="_blank" title="Nuevo watchOS 3" href="www.macsfera.com/nuevo-watchos-3/" rel="noopener noreferrer">watchOS 3</a> estarán disponibles para descarga pública el 13 de septiembre.</strong></p>
+<p>Es curioso, porque el <a target="_blank" title="Nuevo iPhone 7 y iPhone 7 Plus" href="www.macsfera.com/nuevo-iphone-7-iphone-7-plus/" rel="noopener noreferrer">nuevo iPhone 7</a> y los <a target="_blank" title="Nuevos Apple Watch Series 2" href="www.macsfera.com/nuevos-apple-watch-series-2/" rel="noopener noreferrer">nuevos Apple Watch Series 2</a> salen a la venta el 16 de septiembre, de modo que me imaginaba que la fecha elegida sería esa puesto que los nuevos dispositivos vendrán con este nuevo sistema.</p>
+<p><span id="more-15327"></span></p>
+<p>Recordemos que la actualización de watchOS supone un gran salto en la velocidad general del reloj. iOS 10, por otro lado, da mucha más importancia a la experiencia de usuario y 3D Touch, pero deja de lado un poco el <a target="_blank" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/" title="iPad Pro: lo que esperaba, y mucho más" rel="noopener noreferrer">iPad Pro</a>.</p>
+<p>Se rumorea que en octubre vendrá otra keynote de Apple, existiría la posibilidad de ver más novedades de iOS respecto a este tema. El tiempo nos dirá.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/">iOS 10 y watchOS 3 disponibles el 13 de septiembre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Craig Federighi y Phil Schiller hablan de la WWDC16 en The Talk Show</title>
+		<link>https://www.MacSfera.com/craig-federighi-phil-schiller-hablan-la-wwdc16-the-talk-show/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 19 Jun 2016 14:56:24 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Apple File System]]></category>
+		<category><![CDATA[Craig Federighi]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 10]]></category>
+		<category><![CDATA[John Gruber]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[macOS Sierra]]></category>
+		<category><![CDATA[Mensajes]]></category>
+		<category><![CDATA[Phil Schiller]]></category>
+		<category><![CDATA[Sierra]]></category>
+		<category><![CDATA[Swift]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[watchOS 3]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC16]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14995</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/craig-federighi-phil-schiller-hablan-la-wwdc16-the-talk-show/">Craig Federighi y Phil Schiller hablan de la WWDC16 en The Talk Show</a></p>
+<p>John Gruber tiene un podcast llamado The Talk Show, y suele ser costumbre en él hacer un evento en directo el día</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/craig-federighi-phil-schiller-hablan-la-wwdc16-the-talk-show/">Craig Federighi y Phil Schiller hablan de la WWDC16 en The Talk Show</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/craig-federighi-phil-schiller-hablan-la-wwdc16-the-talk-show/">Craig Federighi y Phil Schiller hablan de la WWDC16 en The Talk Show</a></p>
+<p class="medio"><iframe src="https://player.vimeo.com/video/171186055?byline=0&#038;portrait=0" width="860" height="484" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>John Gruber tiene un podcast llamado The Talk Show, y suele ser costumbre en él hacer un evento en directo el día después de la <a target="_blank" title="WWDC" href="www.macsfera.com/tag/wwdc" rel="noopener noreferrer">WWDC</a>. Este año ha traído dos invitados a hablar de las novedades, <strong>Craig Federighi y Phil Schiller estuvieron <a href="https://vimeo.com/171186055" target="_blank" rel="noopener noreferrer">en el evento</a> y ahora podemos disfrutar de la entrevista.</strong></p>
+<p>En el evento, por supuesto, <strong>se habla de <a target="_blank" title="Resumen y opinión de la keynote de la WWDC16" href="www.macsfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/" rel="noopener noreferrer">todas las novedades de la WWDC16</a> y se abordan puntos más profundos en la toma de decisiones de Apple,</strong> sabiendo cómo funcionan algunas de las novedades y porqué son así.</p>
+<p><span id="more-14995"></span></p>
+<p>El episodio dura 1 hora y 20 minutos en la que los temas a tratar son:</p>
+<ul>
+<li><a target="_blank" title="Nuevo iOS 10 - Eliminar apps por defecto" href="www.macsfera.com/nuevo-ios-10/?#eliminar-apps-por-defecto" rel="noopener noreferrer">Eliminación de las apps nativas</a> de <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/" rel="noopener noreferrer">iOS 10</a></li>
+<li><a target="_blank" title="Así será la App Store 2.0" href="www.macsfera.com/asi-sera-la-app-store-2-0/" rel="noopener noreferrer">La App Store 2.0</a></li>
+<li><a target="_blank" title="Apple mantiene su compromiso de privacidad" href="www.macsfera.com/apple-mantiene-compromiso-privacidad/" rel="noopener noreferrer">Privacidad y seguridad</a>, más concretamente de la propiedad de desbloqueo del Mac con el <a target="_blank" title="Apple Watch" href="www.macsfera.com/tag/apple-watch" rel="noopener noreferrer">Apple Watch</a>, de las <a target="_blank" title="Nuevo iOS 10 - Teclados inteligentes" href="www.macsfera.com/nuevo-ios-10/?#teclados-inteligentes" rel="noopener noreferrer">nuevas propiedades inteligentes de iOS 10</a> y de Siri</li>
+<li><a target="_blank" title="Nuevo iOS 10 - los mensajes cambiados al completo" href="www.macsfera.com/nuevo-ios-10/?#los-mensajes-cambiados-al-completo" rel="noopener noreferrer">iMessages y sus extensiones</a>, tratando también alguna toma de decisión de <a target="_blank" title="Nuevo iOS 10 - mejoras en la experiencia de usuario" href="www.macsfera.com/nuevo-ios-10/?#mejoras-en-la-experiencia-de-usuario" rel="noopener noreferrer">la experiencia de usuario de iOS</a></li>
+<li><a target="_blank" title="Nuevo watchOS 3" href="www.macsfera.com/nuevo-watchos-3/" rel="noopener noreferrer">watchOS 3</a> y sus aplicaciones rápidas</li>
+<li><a target="_blank" title="Swift" href="www.macsfera.com/tag/swift" rel="noopener noreferrer">Swift</a> y su futuro</li>
+<li>El nuevo portapapeles unificado de <a target="_blank" title="Nuevo macOS Sierra" href="www.macsfera.com/nuevo-macos-sierra/" rel="noopener noreferrer">macOS Sierra</a> y iOS 10</li>
+<li>Y por último, el <a target="_blank" title="Adiós HFS+, hola Apple File System" href="www.macsfera.com/adios-hfs-hola-apple-file-system/" rel="noopener noreferrer">Apple File System</a>, el nuevo formato que adoptará Apple en todos sus productos</li>
+</ul>
+<p>Insisto, el episodio no repite lo mismo que la presentación de la WWDC, sino que profundiza más con detalles y toma de decisiones.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://daringfireball.net/thetalkshow/2016/06/17/ep-158" target="_blank" rel="noopener noreferrer">Daring Fireball</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/craig-federighi-phil-schiller-hablan-la-wwdc16-the-talk-show/">Craig Federighi y Phil Schiller hablan de la WWDC16 en The Talk Show</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Resumen y opinión de la keynote de la WWDC16</title>
+		<link>https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/</link>
+					<comments>https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2016 17:20:31 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Apple Design Awards]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 10]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[macOS Sierra]]></category>
+		<category><![CDATA[Sierra]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC16]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14979</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/">Resumen y opinión de la keynote de la WWDC16</a></p>
+<p>Un año más, las novedades de la WWDC ya se saben y aquí traigo un breve resumen con mi opinión de la</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/">Resumen y opinión de la keynote de la WWDC16</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/">Resumen y opinión de la keynote de la WWDC16</a></p>
+<div id="attachment_14981" style="width: 2510px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191321/WWDC16.jpg"><img aria-describedby="caption-attachment-14981" src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191321/WWDC16.jpg" alt="WWDC16" width="2500" height="1406" class="size-full wp-image-14981" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191321/WWDC16.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191321/WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191321/WWDC16.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14981" class="wp-caption-text">Imagen de <a href="http://birchtree.me/blog/wwdc16-desktop-wallpapers/" target="_blank" rel="noopener noreferrer">Birchtree</a></p></div>
+<p>Un año más, <a target="_blank" title="WWDC16" href="www.macsfera.com/tag/wwdc16" rel="noopener noreferrer">las novedades de la WWDC</a> ya se saben <strong>y aquí traigo un breve resumen con mi opinión de <a target="_blank" title="La WWDC de 2016 se celebrará del 13 al 17 de junio. Confirmado" href="www.macsfera.com/la-wwdc-de-2016-se-celebrara-del-13-al-17-de-junio-confirmado/" rel="noopener noreferrer">la keynote que se protagonizó el 13 de junio</a>.</strong></p>
+<p>Fue un evento cargado de novedades y noticias, todas ellas relacionadas con el software de Apple, y he de adelantar que estoy encantado con el resultado de dichas novedades.</p>
+<p><span id="more-14979"></span></p>
+<p>Empecemos hablando del comentario que se realizó nada más empezar, <strong>cuando Tim Cook pidió un momento de silencio en honor a las víctimas del <a target="_blank" href="https://es.wikipedia.org/wiki/Masacre_de_la_discoteca_Pulse_de_Orlando" rel="noopener noreferrer">trágico atentado de Orlando</a>.</strong> Fue un bonito gesto ante una de las lacras de la sociedad actual.</p>
+<p>Pasando a temas más felices y volviendo con el curso habitual del evento, Cook nos puso a la orden del día con las cifras de las tiendas de aplicaciones. Hay más de 13 millones de desarrolladores registrados en los servicios de Apple, 2 millones de ellos lo hicieron en el último año.</p>
+<p>Curiosamente, hay 2 millones de aplicaciones en la App Store y han sido descargadas 130 mil millones de veces. <strong>Cifras muy buenas que cada año mejoran.</strong></p>
+<p>Y hablando de la App Store, me gustaría recordar <a target="_blank" title="Así será la App Store 2.0" href="www.macsfera.com/asi-sera-la-app-store-2-0/" rel="noopener noreferrer">las novedades que se presentaron días antes del evento</a>, no fue en la WWDC, pero como si lo fuese <sup class="modern-footnotes-footnote ">1</sup>. <strong>Esas novedades son:</strong></p>
+<ul>
+<li>Suscripciones en todas las aplicaciones de la App Store</li>
+<li>Mejora del tiempo de revisión y aprobación de las aplicaciones</li>
+<li>Publicidad en los resultados de la App Store</li>
+</ul>
+<p>Y tras presentar las cifras, fueron al grano en cuanto a las novedades, empezando por watchOS.</p>
+<h2>watchOS</h2>
+<div id="attachment_14982" style="width: 2050px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191438/watchOS-3-WWDC16.jpg"><img aria-describedby="caption-attachment-14982" src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191438/watchOS-3-WWDC16.jpg" alt="watchOS 3 WWDC16" width="2040" height="1360" class="size-full wp-image-14982" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191438/watchOS-3-WWDC16.jpg 2040w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191438/watchOS-3-WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191438/watchOS-3-WWDC16.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14982" class="wp-caption-text">Imagen de <a href="http://www.theverge.com/2016/6/13/11902034/apple-watch-os-update-announced-features-apps-wwdc-2016" target="_blank" rel="noopener noreferrer">TheVerge</a></p></div>
+<p><strong>La nueva versión del sistema operativo del <a target="_blank" title="Apple Watch" href="www.macsfera.com/tag/apple-watch" rel="noopener noreferrer">Apple Watch</a> hará que el dispositivo sea mucho más interesante, útil y atractivo para los usuarios.</strong></p>
+<p><a target="_blank" title="Nuevo watchOS 3" href="www.macsfera.com/nuevo-watchos-3/" rel="noopener noreferrer">watchOS 3</a> traerá velocidad instantánea a la hora de abrir aplicaciones y cargar la información. También tenemos mejora en cuanto al uso gracias al nuevo dock de aplicaciones favoritas accesible desde el botón lateral.</p>
+<p><strong>El Apple Watch también nos servirá para desbloquear el Mac sin meter la contraseña,</strong> y hay nuevas esferas para personalizar un poquito más el reloj.</p>
+<p><strong>Me ha encantado.</strong> Tanto que cuando presenten el Apple Watch 2 analizaré seriamente adquirir uno porque ahora empiezo a ver que realmente tiene una cierta utilidad para personas como yo <sup class="modern-footnotes-footnote ">2</sup>.</p>
+<h2>tvOS</h2>
+<div id="attachment_14983" style="width: 2050px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191518/tvOS-WWDC16.jpg"><img aria-describedby="caption-attachment-14983" src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191518/tvOS-WWDC16.jpg" alt="tvOS WWDC16" width="2040" height="1360" class="size-full wp-image-14983" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191518/tvOS-WWDC16.jpg 2040w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191518/tvOS-WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191518/tvOS-WWDC16.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14983" class="wp-caption-text">Imagen de <a href="http://www.theverge.com/2016/6/13/11923358/tvos-at-wwdc16-announcement-photos" target="_blank" rel="noopener noreferrer">TheVerge</a></p></div>
+<p>La presentación de la nueva versión del sistema operativo del <a target="_blank" title="Apple TV" href="www.macsfera.com/tag/apple-tv" rel="noopener noreferrer">Apple TV</a> ha sido un poco más diluida que las del resto, es normal teniendo en cuenta que <a target="_blank" title="Resumen y opinión de la keynote “Hey Siri, give us a hint”" href="www.macsfera.com/resumen-y-opinion-de-la-keynote-hey-siri-give-us-a-hint/" rel="noopener noreferrer">el gran rediseño vino en septiembre del año pasado</a>.</p>
+<p><strong>Siri tiene más presencia en el sistema,</strong> permitiendo hacer búsquedas más precisas de contenido, y ahora incluso en YouTube.</p>
+<p><a target="_blank" title="Nueva versión de tvOS" href="www.macsfera.com/nueva-version-tvos/" rel="noopener noreferrer">tvOS</a> hará una colección inteligente temática de nuestras fotos y compondrá vídeos de los recuerdos. Incluye modo noche para los momentos más oscuros e incluso es capaz de gestionar los accesorios que tengamos conectados con HomeKit.</p>
+<p>Además, hay una nueva aplicación para iOS que permite hacer que nuestro iPhone sea como el Siri Remote, cosa que está muy bien en caso de romper el cristal del mando o para meter texto por un teclado cómodo.</p>
+<h2>macOS</h2>
+<div id="attachment_14984" style="width: 2050px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191604/macOS-Sierra-WWDC16.jpg"><img aria-describedby="caption-attachment-14984" src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191604/macOS-Sierra-WWDC16.jpg" alt="macOS Sierra WWDC16" width="2040" height="1360" class="size-full wp-image-14984" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191604/macOS-Sierra-WWDC16.jpg 2040w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191604/macOS-Sierra-WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191604/macOS-Sierra-WWDC16.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14984" class="wp-caption-text">Imagen de <a href="http://www.theverge.com/2016/6/13/11923468/macos-sierra-at-wwdc16-announcement-photos" target="_blank" rel="noopener noreferrer">TheVerge</a></p></div>
+<p>Una de las cosas que más estaba esperando, el nuevo sistema operativo de escritorio. Para empezar, <strong>cambiamos el nombre de OS X a macOS,</strong> de forma que pega mucho más con el resto de sistemas de la empresa. Además, obtenemos el nuevo nombre completo de esta versión: <strong><a target="_blank" title="Nuevo macOS Sierra" href="www.macsfera.com/nuevo-macos-sierra/" rel="noopener noreferrer">macOS Sierra</a>.</strong></p>
+<p><strong>Siri llega al Mac,</strong> tras un tiempo de evolución y adaptación, por fin ha llegado al Mac para quedarse. De momento no se sabe si tendrá API propia pero sí se sabe que nos servirá para buscar información e interactuar con algunas aplicaciones.</p>
+<p>La <a target="_blank" title="Fotos" href="www.macsfera.com/tag/fotos/" rel="noopener noreferrer">aplicación de Fotos</a> se adapta e incorpora la creación de recuerdos antes mencionada, además de la búsqueda inteligente que nos permite buscar fotos en función de lo que aparezca en la imagen.</p>
+<p><strong>La unión entre el Mac y el resto de dispositivos se vuelve más fuerte</strong> gracias al desbloqueo del ordenador con el Apple Watch, del portapapeles unificado que nos permite copiar y pegar algo entre el Mac, el iPhone y el iPad, y de la sincronización automática de la carpeta Documentos y Escritorio por <a target="_blank" title="¿Por qué iCloud es mi servicio en la nube favorito?" href="www.macsfera.com/por-que-icloud-es-mi-servicio-en-la-nube-favorito/" rel="noopener noreferrer">iCloud Drive</a>.</p>
+<p><strong>Las pestañas llegan al Mac para quedarse,</strong> cada aplicación implementará un sistema de pestañas como el de los navegadores o el Finder. Y no es lo único, <strong>también ha heredado el <a target="_blank" title="Nuevo iOS 9 - propiedades exclusivas" href="www.macsfera.com/nuevo-ios-9/?#propiedades-exclusivas" rel="noopener noreferrer">sistema de Picture in Picture que se presentó para el iPad con iOS 9</a>.</strong></p>
+<p>Me ha gustado mucho lo que viene para Mac y <strong>sólo espero que Siri tenga API propia como en iOS.</strong> También me gustaría ver en un futuro mejoras de rendimiento, si bien no noto problemas en <a target="_blank" title="El Capitan" href="www.macsfera.com/tag/el-capitan" rel="noopener noreferrer">OS X El Capitan</a>, sí que me gusta ver aún más avances en este aspecto.</p>
+<h2>iOS</h2>
+<div id="attachment_14985" style="width: 2050px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191641/iOS-10-WWDC16.jpg"><img aria-describedby="caption-attachment-14985" src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191641/iOS-10-WWDC16.jpg" alt="iOS 10 WWDC16" width="2040" height="1360" class="size-full wp-image-14985" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191641/iOS-10-WWDC16.jpg 2040w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191641/iOS-10-WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191641/iOS-10-WWDC16.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14985" class="wp-caption-text">Imagen de <a href="http://www.theverge.com/2016/6/13/11923644/ios-10-at-wwdc16-announcement-photos" target="_blank" rel="noopener noreferrer">TheVerge</a></p></div>
+<p>Y por fin llegamos al plato gordo. La <em>crème de la crème</em> del evento. El nuevo sistema operativo móvil de Apple, <strong>el <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/" rel="noopener noreferrer">nuevo iOS 10</a>.</strong></p>
+<p><strong>iOS 10 trae mejoras en la experiencia de usuario</strong> gracias al rediseño de sus notificaciones, de su pantalla de bloqueo y de la mayor integración de <a target="_blank" title="iPhone 6s y 6s plus - 3D Touch" href="www.macsfera.com/nuevo-iphone-6s-y-6s-plus/?#3d-touch" rel="noopener noreferrer">3D Touch</a> en todo el sistema.</p>
+<p>Además, <strong>Siri por fin tiene su propia API</strong> para que los desarrolladores la implementen y los usuarios podamos realizar muchas más cosas: buscar información, enviar mensajes con apps de terceros, hacer llamadas VoIP, etc.</p>
+<p><strong>Los teclados se vuelven inteligentes,</strong> sugiriendo más información y más acertada, e incluso combinando dos idiomas distintos, por fin.</p>
+<p>Por si eso no fuera poco, <strong>Apple ahora permitirá eliminar ciertas aplicaciones nativas</strong> que sabe que el usuario no necesita, de modo que ya no tendremos que tener una carpeta llena de aplicaciones que nos resultan inservibles.</p>
+<p>La aplicación de Fotos se vuelve mucho más potente permitiendo búsquedas inteligentes y la recolección de los recuerdos, y todo en local, favoreciendo la privacidad del usuario.</p>
+<p>Mejoras en Mapas, rediseño de Apple Music, de News y de Mensajes, y una nueva aplicación para controlar todos los accesorios conectados a HomeKit.</p>
+<p>Por último, <strong>mejoras en los detalles de terceros:</strong> llamadas VoIP como llamadas naturales, personalización de los métodos de contactos en la agenda, etc.</p>
+<p><strong>iOS 10 ha cambiado mucho la concepción que tenemos de iOS.</strong> Veo grandes progresos por parte de Apple, que parece que por fin se da cuenta de que la gente quiere su sistema operativo por el iPhone (como dispositivo) y las aplicaciones de terceros (en su mayoría), no por todo lo que tiene Apple dentro del sistema. Por eso creo que han levantado el pie del acelerador, han analizado cómo agradar más a los usuarios y desarrolladores, <strong>y han evolucionado haciendo que iOS ya no sea el sistema operativo del iPhone, sino nuestro sistema también.</strong></p>
+<p>Estoy deseando ver qué más trae esta nueva versión y cómo esos cambios se aplican al resto de dispositivos de la empresa.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191717/Tim-Cook-WWDC16.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191717/Tim-Cook-WWDC16.jpg" alt="Tim Cook WWDC16" width="2500" height="1089" class="aligncenter size-full wp-image-14986" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/18191717/Tim-Cook-WWDC16.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191717/Tim-Cook-WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/18191717/Tim-Cook-WWDC16.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Para acabar, cabe mencionar <a target="_blank" title="Apple Design Awards de la WWDC16" href="www.macsfera.com/apple-design-awards-la-wwdc16/" rel="noopener noreferrer">los premiados por los Apple Design Awards</a> y la <a target="_blank" title="Apple mantiene su compromiso de privacidad" href="www.macsfera.com/apple-mantiene-compromiso-privacidad/" rel="noopener noreferrer">política de privacidad</a> que sigue manteniendo y que <a target="_blank" title="Apple y su compromiso con la privacidad" href="www.macsfera.com/apple-y-su-compromiso-con-la-privacidad/" rel="noopener noreferrer">conocimos después</a> de <a target="_blank" title="Resumen de la keynote The epicenter of change" href="www.macsfera.com/resumen-de-la-keynote-the-epicenter-of-change/" rel="noopener noreferrer">la WWDC del año pasado</a>.</p>
+<p><strong>No sé si va a ser un cambio de dirección definitivo, pero a mí lo nuevo de Apple me encanta y creo que marca un camino seguro y sin complejos en el que iOS, junto con los desarrolladores de terceros, cambiarán la informática móvil.</strong></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Como si lo fuesen porque Phill Schiller dijo que no cabía en el evento.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Personas que antes veían un producto caro para lo que ofrecía.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/">Resumen y opinión de la keynote de la WWDC16</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Adiós HFS+, hola Apple File System</title>
+		<link>https://www.MacSfera.com/adios-hfs-hola-apple-file-system/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 15 Jun 2016 20:21:07 +0000</pubDate>
+				<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Apple File System]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[WWDC16]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14951</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/adios-hfs-hola-apple-file-system/">Adiós HFS+, hola Apple File System</a></p>
+<p>Fue una novedad que pasó muy desapercibida en la WWDC16 pero que es de vital importancia: Apple File System (APFS) será el próximo</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/adios-hfs-hola-apple-file-system/">Adiós HFS+, hola Apple File System</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/adios-hfs-hola-apple-file-system/">Adiós HFS+, hola Apple File System</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/15222039/Apple-File-System.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/15222039/Apple-File-System.jpg" alt="Apple File System" width="1130" height="600" class="aligncenter size-full wp-image-14953" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/15222039/Apple-File-System.jpg 1130w, https://cdn.macsfera.com/wp-content/uploads/2016/06/15222039/Apple-File-System.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/15222039/Apple-File-System.jpg 1024w" sizes="(max-width: 1130px) 100vw, 1130px" /></a></p>
+<p>Fue una novedad que pasó muy desapercibida en la <a target="_blank" title="WWDC16" href="www.macsfera.com/tag/wwdc16" rel="noopener noreferrer">WWDC16</a> pero que es de vital importancia:<strong> Apple File System (APFS) será el próximo formato que adopten todos los dispositivos de la empresa.</strong></p>
+<p>Carlos Burges, de Faq-mac <a target="_blank" href="http://www.faq-mac.com/2016/06/adios-hfs-hola-apple-file-system/" rel="noopener noreferrer">nos cuenta</a> muy bien qué es, qué ventajas nos trae frente al actual HFS+ y porqué es un cambio importante:</p>
+<blockquote class="enlace">
+<p>En macOS Sierra e iOS 10, HFS+ desaparece en favor de Apple File System, un sistema de archivos optimizado para el almacenamiento en dispositivos SSD o con memoria flash y con soporte para el cifrado de los datos como característica más sobresaliente.</p>
+</blockquote>
+<p>Me resulta muy interesante el tema, además de que el resto de características que promete el nuevo formato también son bien recibidas. Supongo que cuando esté completamente listo hablarán con mucho más detalle de lo que trae y lo que cambia en este sistema respecto al anterior. Además, los desarrolladores tendrán que adaptar sus aplicaciones de alguna u otra forma y eso sólo se puede hacer con más información.</p>
+<p><strong>Me gusta como pinta el futuro de los nuevos sistemas operativos</strong> –tanto de <a target="_blank" title="Nuevo macOS Sierra" href="www.macsfera.com/nuevo-macos-sierra/" rel="noopener noreferrer">escritorio</a> como <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/" rel="noopener noreferrer">móvil</a>– <strong>y con estas pinceladas me gusta mucho más.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/adios-hfs-hola-apple-file-system/">Adiós HFS+, hola Apple File System</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuevo watchOS 3</title>
+		<link>https://www.MacSfera.com/nuevo-watchos-3/</link>
+					<comments>https://www.MacSfera.com/nuevo-watchos-3/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2016 12:24:37 +0000</pubDate>
+				<category><![CDATA[Apple Watch]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Noticias de watchOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC16]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14888</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-watchos-3/">Nuevo watchOS 3</a></p>
+<p>Ayer fue la keynote de la WWDC de 2016 y, tal y como estaba previsto, Apple presentó la siguiente versión del sistema</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-watchos-3/">Nuevo watchOS 3</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-watchos-3/">Nuevo watchOS 3</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14132919/watchOS-3.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14132919/watchOS-3.jpg" alt="watchOS 3" width="1047" height="611" class="aligncenter size-full wp-image-14890" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14132919/watchOS-3.jpg 1047w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14132919/watchOS-3.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14132919/watchOS-3.jpg 1024w" sizes="(max-width: 1047px) 100vw, 1047px" /></a></p>
+<p>Ayer fue <a target="_blank" title="WWDC16" href="www.macsfera.com/tag/wwdc16" rel="noopener noreferrer">la keynote de la WWDC de 2016</a> y, tal y como estaba previsto, <strong>Apple presentó la siguiente versión del sistema operativo watchOS.</strong></p>
+<p>Esta versión 3, <strong>se centra en aportar mayor velocidad y personalización <a target="_blank" title="Apple Watch" href="www.macsfera.com/tag/apple-watch" rel="noopener noreferrer">al reloj de Apple</a> para que sus usuarios disfruten de un reloj inteligente en condiciones.</strong></p>
+<p><span id="more-14888"></span></p>
+<h2>Mejoras de rendimiento</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14134406/Dock-watchOS-3.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14134406/Dock-watchOS-3.jpg" alt="Dock watchOS 3" width="941" height="523" class="aligncenter size-full wp-image-14896" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14134406/Dock-watchOS-3.jpg 941w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14134406/Dock-watchOS-3.jpg 300w" sizes="(max-width: 941px) 100vw, 941px" /></a></p>
+<p>Empecemos hablando de las <strong>mejoras de rendimiento que ha sufrido el sistema.</strong> Ahora el sistema abre las aplicaciones al instante y carga la información seguidamente. Se acabó el esperar indefinidamente hasta que la información apareciese mientras se transfería del iPhone al Apple Watch.</p>
+<p>Además, <strong>se pueden tener aplicaciones corriendo en segundo plano</strong> cosa que pega mucho con ciertas apps enfocadas en el deporte.</p>
+<p><strong>También se ha mejorado la navegación,</strong> permitiendo acceder a un conjunto de apps favoritas con el botón lateral <sup class="modern-footnotes-footnote ">1</sup>. Estas se mostrarán como si de un dock se tratase y podremos navegar por ellas para elegir la aplicación deseada.</p>
+<p>Por último, <strong>se ha implementado el Control Center</strong> para que salga desde cualquier lado con solo deslizarlo como en el iPhone.</p>
+<h2>Nuevas watchfaces</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14133146/Watchface-minnie-mouse.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14133146/Watchface-minnie-mouse.jpg" alt="Watchface minnie mouse" width="1003" height="734" class="aligncenter size-full wp-image-14892" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14133146/Watchface-minnie-mouse.jpg 1003w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14133146/Watchface-minnie-mouse.jpg 273w" sizes="(max-width: 1003px) 100vw, 1003px" /></a></p>
+<p>El Apple Watch sólo soporta las esferas que Apple diseña, y siendo conscientes de este hecho, <strong>en watchOS 3 han añadido algunas más para que tengamos el reloj más personalizado aún.</strong></p>
+<p>Se han añadido watchfaces para todas las ocasiones <strong>e incluso podemos añadir más información y acceso rápido a las distintas aplicaciones que configuremos.</strong> Más utilidad para que el usuario pueda ver todo de un vistazo.</p>
+<p>El método para elegir las esferas también ha cambiado. Apple es consciente de que sus diseños son temáticos orientados al evento que tengamos. Si vamos a hacer deporte no usamos la misma esfera que en el trabajo y <strong>por ello ahora facilita cambiar las esferas simplemente deslizando con el dedo.</strong></p>
+<h2>Actividad compartida</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14134426/App-Actividad-watchOS-3-social.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14134426/App-Actividad-watchOS-3-social.jpg" alt="App Actividad watchOS 3 social" width="1019" height="593" class="aligncenter size-full wp-image-14897" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14134426/App-Actividad-watchOS-3-social.jpg 1019w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14134426/App-Actividad-watchOS-3-social.jpg 300w" sizes="(max-width: 1019px) 100vw, 1019px" /></a></p>
+<p>Con el <a target="_blank" title="Crónica del lanzamiento del Apple Watch en España" href="www.macsfera.com/cronica-del-lanzamiento-del-apple-watch-en-espana/" rel="noopener noreferrer">lanzamiento del Apple Watch</a>, se hizo mucho hincapié en la aplicación actividad, y ahora <strong>Apple permite compartir nuestra actividad con amigos y familiares</strong> para compararnos con ellos y motivarnos.</p>
+<p>Sabremos cuando logran objetivos, y les notificaremos cuando nosotros lo hagamos. Además, podremos responderles con mensajes o mandarles el pulso cardiaco para motivar más.</p>
+<p><strong>La aplicación de actividad también ha sido mejorada para que traquee la actividad de las personas que usan sillas de ruedas.</strong> Apple era consciente de que su aplicación no era capaz de medir la actividad de todas las personas y por ello han trabajado para que sea mucho más precisa.</p>
+<p>Por último, se ha añadido tiempos de descanso, el reloj nos notificará cuando debemos descansar para ser más eficientes.</p>
+<h2>Más información y la nueva aplicación</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14135140/App-meditacion-watchOS-3.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14135140/App-meditacion-watchOS-3.jpg" alt="App meditacion watchOS 3" width="944" height="552" class="aligncenter size-full wp-image-14898" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14135140/App-meditacion-watchOS-3.jpg 944w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14135140/App-meditacion-watchOS-3.jpg 300w" sizes="(max-width: 944px) 100vw, 944px" /></a></p>
+<p>Os he comentado que las esferas muestran más información, pero no es la única mejora en cuanto a lo que se muestra. <strong>La aplicación de actividad también muestra más información</strong> para que podamos ver todas las métricas de un vistazo sin tener que hacer scroll, permitiéndonos a su vez seleccionar la métrica que más nos interese para que destaque del resto y sea más fácil verla cuando hacemos deporte.</p>
+<p>Y aquí una pequeña novedad: <strong>la aplicación de meditación.</strong> Esta app busca hacer que meditemos a través de la respiración y desconectemos un poco con unos sencillos trucos. Se busca manejar el estrés y la ansiedad obteniendo métricas como el latido del corazón.</p>
+<h2>Nuevos métodos de comunicación</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14135353/iMessages-watchOS-3.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14135353/iMessages-watchOS-3.jpg" alt="iMessages watchOS 3" width="1024" height="541" class="aligncenter size-full wp-image-14899" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14135353/iMessages-watchOS-3.jpg 1024w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14135353/iMessages-watchOS-3.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>La nueva aplicación de mensajes de iOS 10 también está en el Apple Watch, <strong>permitiendo enviar stickers, escribir con el dedo, enviar fuegos artificiales, con taps, mensajes invisibles y lo que ya conocemos hasta ahora.</strong></p>
+<p>Es una novedad de iOS 10 que también llega al Apple Watch.</p>
+<h2>Y más</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14135823/watchOS-3-SOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14135823/watchOS-3-SOS.jpg" alt="watchOS 3 SOS" width="860" height="704" class="aligncenter size-full wp-image-14900" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14135823/watchOS-3-SOS.jpg 860w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14135823/watchOS-3-SOS.jpg 244w" sizes="(max-width: 860px) 100vw, 860px" /></a></p>
+<p>Además de todo eso, a lo largo de la presentación se fueron introduciendo mejoras que también estarán en el Apple Watch como el <strong>control de los distintos accesorios conectados a HomeKit o la posibilidad de desbloquear el Mac sólo por llevar el Apple Watch y estar cerca de él.</strong></p>
+<p>También me gustaría destacar la propiedad de SOS. Si dejamos pulsado el botón lateral durante unos cuantos segundos, <strong>se inicia una llamada de socorro enviando la posición y <a target="_blank" title="Saca partido a la aplicación Salud con los datos médicos" href="www.macsfera.com/saca-partido-a-la-aplicacion-salud-con-los-datos-medicos/" rel="noopener noreferrer">los datos médicos del usuario</a>.</strong> Además, puede enviar también un mensaje de alerta a los contactos que tengamos definidos en la aplicación Saludo.</p>
+<p>Esto viene genial porque es compatible con distintos números locales de emergencia, así que en cualquier accidente, uno deja pulsado el botón y listo.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14140019/Autounlock-watchOS-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14140019/Autounlock-watchOS-macOS.jpg" alt="Autounlock watchOS macOS" width="2500" height="1279" class="aligncenter size-full wp-image-14901" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14140019/Autounlock-watchOS-macOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14140019/Autounlock-watchOS-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14140019/Autounlock-watchOS-macOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Me ha gustado mucho ver estas características,</strong> tanto es así que me estoy planteando sustituir mi <a target="_blank" title="Pebble Time: un smart watch simple y polifacético" href="www.macsfera.com/pebble-time-smart-watch-simple-polifacetico/" rel="noopener noreferrer">Pebble Time</a> por el futuro Apple Watch 2. El sistema está más maduro y realiza más cosas, justo lo que le pedía a Apple, aunque siempre se puede hacer más, como por ejemplo permitir esferas de terceros.</p>
+<p>La beta para desarrolladores está ya disponible y <strong>la versión final se espera para otoño,</strong> justo cuando se presenten las de <a href="https://www.MacSfera.com/nuevo-macos-sierra/" title="Nuevo macOS Sierra" target="_blank" rel="noopener noreferrer">macOS Sierra</a> y <a href="https://www.MacSfera.com/nuevo-ios-10/" title="Nuevo iOS 10" target="_blank" rel="noopener noreferrer">iOS 10</a>.</p>
+<p>Probablemente, cuando lancen el próximo modelo de Apple Watch, veremos más novedades de watchOS 3, así que esto no es todo, queda más por ver.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/watchos-preview/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Por fin tiene una buena función.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-watchos-3/">Nuevo watchOS 3</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/nuevo-watchos-3/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>La WWDC de 2016 se celebrará del 13 al 17 de junio. Confirmado</title>
+		<link>https://www.MacSfera.com/la-wwdc-de-2016-se-celebrara-del-13-al-17-de-junio-confirmado/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2016 07:15:53 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Desarrolladores]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Moscone West Center]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC16]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14599</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc-de-2016-se-celebrara-del-13-al-17-de-junio-confirmado/">La WWDC de 2016 se celebrará del 13 al 17 de junio. Confirmado</a></p>
+<p>Apple ha confirmado que la conferencia de desarrolladores se celebrará del 13 al 17 de junio de 2016 en San Francisco tal</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc-de-2016-se-celebrara-del-13-al-17-de-junio-confirmado/">La WWDC de 2016 se celebrará del 13 al 17 de junio. Confirmado</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc-de-2016-se-celebrara-del-13-al-17-de-junio-confirmado/">La WWDC de 2016 se celebrará del 13 al 17 de junio. Confirmado</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/04/19091137/WWDC16.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/04/19091137/WWDC16.jpg" alt="WWDC16" width="2500" height="1472" class="aligncenter size-full wp-image-14601" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/04/19091137/WWDC16.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/04/19091137/WWDC16.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/04/19091137/WWDC16.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Apple ha confirmado que la conferencia de desarrolladores se celebrará del 13 al 17 de junio de 2016 en San Francisco</strong> tal y como <a target="_blank" title="Siri se chiva y nos revela que la WWDC de 2016 será del 13 al 17 de junio" href="www.macsfera.com/siri-se-chiva-nos-revela-la-wwdc-2016-sera-del-13-al-17-junio/" rel="noopener noreferrer">nos reveló Siri</a>.</p>
+<p>En este evento, los desarrolladores que acudan podrán disfrutar de talleres, charlas y ayuda por parte de Apple y sus ingenieros con el objetivo de formarles para que sus aplicaciones sean mejores y aprovechen mucho mejor las características de los sistemas operativos.</p>
+<p><span id="more-14599"></span></p>
+<p>El evento tendrá lugar en dos centros usados con frecuencia por Apple. El lunes se celebrará en el Bill Graham Civic Auditorium mientras que el resto de días se celebrará en el Moscone West.</p>
+<p>Un año más, <strong>las entradas serán sorteadas entre todos los asistentes que quieran ir.</strong> El registro empezará el día viernes 22 de abril a las 10 de la mañana (19:00 hora peninsular).</p>
+<p>El 25 de abril se notificará a todos los participantes si han obtenido una de las entradas a las 5 de la tarde en San Francisco (2:00 hora peninsular).</p>
+<p>El ticket para asistir costará 1600 dólares.</p>
+<p><strong>Los desarrolladores que sean estudiantes (totales o parciales) podrán acudir de forma gratuita al evento becados por Apple.</strong> Existen ciertas condiciones: hay que ser mayor de 13 años, hay que presentar una aplicación realizada por ellos mismos que Apple valorará para becar al estudiante, responder una serie de preguntas y demostrar que se es estudiante. <strong>Los plazos de envío finalizarán el 1 de mayo a las 5 de la tarde en San Francisco</strong> (2:00 hora peninsular). Se notificará los ganadores el 9 de mayo.</p>
+<p><strong>La beca incluye el ticket del evento, el transporte y la estancia,</strong> por eso es una gran oportunidad para que los que están aprendiendo puedan acudir y disfrutar como si se dedicasen a ello por completo.</p>
+<p>La <a target="_blank" title="WWDC" href="www.macsfera.com/tag/wwdc" rel="noopener noreferrer">WWDC</a> siempre es un gran evento que nos ilusiona enormemente <strong>porque se conocerá el futuro de los sistemas operativos de la empresa:</strong> OS X (que esperemos que cambie a macOS), iOS, watchOS y tvOS.</p>
+<p>Estamos en un momento en el que el software aporta muchísimo y está en constante crecimiento. Además, los dispositivos cuentan con mucha más potencia, <strong>así que poder saber el futuro de los sistemas operativos que usamos todos los días es algo que me ilusiona mucho.</strong></p>
+<p>No nos olvidemos de que, junto a este evento, <strong>hay una keynote que se celebrará el día 13 de junio a las 10 de la mañana en Cupertino,</strong> las 19:00 horario peninsular. En esta keynote es donde se conocerán todos los detalles de los nuevos sistemas operativos y otras sorpresas que tenga Apple guardadas.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://developer.apple.com/wwdc/" target="_blank" rel="noopener noreferrer">WWDC16</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc-de-2016-se-celebrara-del-13-al-17-de-junio-confirmado/">La WWDC de 2016 se celebrará del 13 al 17 de junio. Confirmado</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Siri se chiva y nos revela que la WWDC de 2016 será del 13 al 17 de junio</title>
+		<link>https://www.MacSfera.com/siri-se-chiva-nos-revela-la-wwdc-2016-sera-del-13-al-17-junio/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2016 18:11:50 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Siri]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14581</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/siri-se-chiva-nos-revela-la-wwdc-2016-sera-del-13-al-17-junio/">Siri se chiva y nos revela que la WWDC de 2016 será del 13 al 17 de junio</a></p>
+<p>«¿Cuándo es la WWDC?» Esa pregunta basta para que Siri nos diga que la conferencia de desarrolladores de Apple se celebrará del</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/siri-se-chiva-nos-revela-la-wwdc-2016-sera-del-13-al-17-junio/">Siri se chiva y nos revela que la WWDC de 2016 será del 13 al 17 de junio</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/siri-se-chiva-nos-revela-la-wwdc-2016-sera-del-13-al-17-junio/">Siri se chiva y nos revela que la WWDC de 2016 será del 13 al 17 de junio</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/04/18201123/WWDC-2016.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/04/18201123/WWDC-2016.jpg" alt="WWDC 2016" width="2048" height="1536" class="aligncenter size-full wp-image-14583" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/04/18201123/WWDC-2016.jpg 2048w, https://cdn.macsfera.com/wp-content/uploads/2016/04/18201123/WWDC-2016.jpg 267w, https://cdn.macsfera.com/wp-content/uploads/2016/04/18201123/WWDC-2016.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p><em>«¿Cuándo es la WWDC?»</em> <strong>Esa pregunta basta para que Siri nos diga que la conferencia de desarrolladores de Apple se celebrará del 13 al 17 de junio en San Francisco.</strong></p>
+<blockquote>
+<p>La Conferencia Mundial de Desarrolladores (WWDC, Worldwide Developers Conference) se celebrará del 13 al 17 de junio en San Francisco. ¡Qué ganas!</p>
+</blockquote>
+<p><span id="more-14581"></span></p>
+<p>Todavía no hay información oficial de Apple pero Siri nos ha confirmado el evento y las fechas y concuerdan con las <a href="www.macsfera.com/tag/wwdc" title="WWDC" target="_blank" rel="noopener noreferrer">conferencias celebradas en el pasado</a>.</p>
+<p><strong>En el evento se espera ver novedades sobre OS X, iOS, watchOS y tvOS además de alguna sorpresa más.</strong></p>
+<p>A lo largo de esta semana también esperamos la confirmación oficial y más detalles sobre cómo se repartirán las entradas este año. Recordemos que durante <a href="www.macsfera.com/la-wwdc-de-2015-se-celebrara-del-8-al-12-de-junio/" title="La WWDC de 2015 se celebrará del 8 al 12 de junio" target="_blank" rel="noopener noreferrer">los dos últimos años</a> las entradas fueron sorteadas entre todos los asistentes que quería acudir, veremos este año.</p>
+<p><span class="source">Vía</span> <span class="via"><a href="http://www.faq-mac.com/2016/04/la-wwdc-2016-tendra-lugar-del-13-al-17-junio/" target="_blank" rel="noopener noreferrer">faq-mac</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/siri-se-chiva-nos-revela-la-wwdc-2016-sera-del-13-al-17-junio/">Siri se chiva y nos revela que la WWDC de 2016 será del 13 al 17 de junio</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Resumen y opinión de la keynote “Let us loop you in”</title>
+		<link>https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 24 Mar 2016 08:54:11 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Watch]]></category>
+		<category><![CDATA[CareKit]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPad Pro]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPhone SE]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Let us loop you in]]></category>
+		<category><![CDATA[Liam]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Medio ambiente]]></category>
+		<category><![CDATA[Resumen]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14297</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/">Resumen y opinión de la keynote “Let us loop you in”</a></p>
+<p>Han pasado ya unos días desde que se celebró la keynote “Let us loop you in” y aquí está el resumen de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/">Resumen y opinión de la keynote “Let us loop you in”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/">Resumen y opinión de la keynote “Let us loop you in”</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/10180358/Keynote-Let-us-loop-you-in.jpg" rel="attachment wp-att-13139"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/10180358/Keynote-Let-us-loop-you-in.jpg" alt="Keynote Let us loop you in" width="2500" height="1051" class="aligncenter size-full wp-image-13139" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/10180358/Keynote-Let-us-loop-you-in.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/03/10180358/Keynote-Let-us-loop-you-in.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/10180358/Keynote-Let-us-loop-you-in.jpg 768w, https://cdn.macsfera.com/wp-content/uploads/2016/03/10180358/Keynote-Let-us-loop-you-in.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Han pasado ya unos días desde que se celebró <a target="_blank"title="Keynote &quot;Let us loop you in&quot;" href="www.macsfera.com/tag/let-us-loop-you-in">la keynote “Let us loop you in”</a> y <strong>aquí está el resumen de lo presentado con mi opinión sobre ello.</strong></p>
+<p>El evento fue el más corto que recuerdo en mucho tiempo, la verdad. El único que recuerdo de esa duración fue <a target="_blank"title="Resumen del evento educativo de Apple" href="www.macsfera.com/resumen-del-evento-educativo-de-apple/">el evento de educación que se celebró hace 4 años</a>. <strong>A penas duró una hora,</strong> pero aún así hubo un par de cosas que se notaron que las metieron para rellenar.</p>
+<p><span id="more-14297"></span></p>
+<p><strong>Tim Cook decidió empezar con un pequeño discurso sobre <a target="_blank"title="FBI" href="www.macsfera.com/tag/fbi">el conflicto con el FBI</a>.</strong> Habló de la responsabilidad que tiene Apple con los consumidores por el hecho de ser ellos los que fabrican el dispositivo en el que guardamos parte de nuestra vida. Hizo un llamamiento nacional para decidir entre todos el poder que debe tener el gobierno con nuestra privacidad. Y agradeció el apoyo de la gente que defiende su postura.</p>
+<p>Tras este discurso, se empezó a hablar sobre dos iniciativas que empezaron a hacer para dejar el mundo mejor de lo que se lo han encontrado:</p>
+<h2>Medio ambiente</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/20161029/Better-Starts-Here.jpg" rel="attachment wp-att-10640"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/20161029/Better-Starts-Here.jpg" alt="Better Starts Here" width="1920" height="1080" class="aligncenter size-full wp-image-10640" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/20161029/Better-Starts-Here.jpg 1920w, https://cdn.macsfera.com/wp-content/uploads/2015/04/20161029/Better-Starts-Here.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/20161029/Better-Starts-Here.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></p>
+<p><strong>Lisa Jackson salió a la pizarra para hablar de <a target="_blank"title="Better Starts Here: la nueva campaña medioambiental de Apple" href="www.macsfera.com/better-starts-here-la-nueva-campana-medioambiental-de-apple/">algunas iniciativas que Apple lleva haciendo un tiempo</a> con las que han conseguido que el 93% de Apple a nivel mundial funcione con energía solar.</strong></p>
+<p>Además, <strong>presentaron una <a target="_blank"title="Reciclar un producto Apple. Tan fácil como usarlo" href="www.macsfera.com/reciclar-producto-apple-tan-facil-usarlo/">plataforma para reciclar los productos que ya no usamos</a> para así darle un nuevo uso a sus componentes.</strong> Con este anuncio, conocimos a Liam, la máquina que es capaz de despiezar un iPhone de forma autónoma sin problemas.</p>
+<h2>Salud</h2>
+<p><strong>Jeff Williams nos presentó <a target="_blank"title="Nuevo CareKit como complemento a ResearchKit" href="www.macsfera.com/nuevo-carekit-complemento-researchkit/">CareKit</a>,</strong> un framework que permite a los desarrolladores e investigadores crear aplicaciones que tengan como objetivo hacer que nos cuidemos con pequeños tests. Además, recolecta esa información y ayuda a que se encuentren nuevos patrones que faciliten el hallar una cura, que hagan que los ejercicios de rehabilitación sean mejores o que ayuden a seguir investigando sobre una enfermedad.</p>
+<p>Este framework se une a <a target="_blank"title="Resumen de la keynote Spring Forward" href="www.macsfera.com/resumen-de-la-keynote-spring-forward/">ResearchKit</a> para avanzar un poco más en el campo de la medicina y mejorar la vidas de las personas.</p>
+<h2>Correas del Apple Watch</h2>
+<p>Al acabar la presentación de CareKit y enlazando con el Apple Watch, <strong><a target="_blank"title="Nuevas correas para el Apple Watch" href="www.macsfera.com/nuevas-correas-apple-watch/">se introdujeron las nuevas correas del dispositivo</a>:</strong></p>
+<p>Por un lado, <strong>una nueva categoría de correas hechas en nailon de varios colores.</strong> También se lanzaron nuevos colores para las categorías ya existentes, aumentando la personalización y las posibilidades.</p>
+<p>También se recortó el precio del reloj en $50.</p>
+<p>Al principio no me gustaron mucho las correas de nailon, pero observándolas detenidamente y con detalle puedo empezar a ver porqué Apple las ha lanzado. Tienen un diseño casual y quedan bastante bien. En cuanto al resto de colores, siempre da gusto ver que la personalización va más allá, <strong>a ver cuándo esto se transmite a las watchfaces del dispositivo.</strong></p>
+<h2>iPhone SE</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/23234605/iPhone-SE-negro.jpg" rel="attachment wp-att-14299"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/23234605/iPhone-SE-negro.jpg" alt="iPhone SE negro" width="1928" height="922" class="aligncenter size-full wp-image-14299" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/23234605/iPhone-SE-negro.jpg 1928w, https://cdn.macsfera.com/wp-content/uploads/2016/03/23234605/iPhone-SE-negro.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/23234605/iPhone-SE-negro.jpg 1024w" sizes="(max-width: 1928px) 100vw, 1928px" /></a></p>
+<p><strong>Greg Joswiak nos introdujo el <a target="_blank"title="Nuevo iPhone SE" href="www.macsfera.com/nuevo-iphone-se/">iPhone SE</a>,</strong> un iPhone de 4 pulgadas con el mismo diseño que el iPhone 5s pero con muchas de las <a target="_blank"title="Nuevo iPhone 6s y 6s Plus" href="www.macsfera.com/nuevo-iphone-6s-y-6s-plus/">características del iPhone 6s</a>.</p>
+<p>En particular, comparte todo salvo el diseño, 3D Touch y Touch ID de segunda generación. El resto de características las lleva, convirtiéndose así en un iPhone muy potente a un precio mucho más asequible.</p>
+<p>Porque sí, el precio de este iPhone ha bajado hasta los 480€ en su versión de 16GB.</p>
+<p><strong>A mí me ha encantado ver este lanzamiento.</strong> Hasta ahora se vendía el iPhone 5s, un teléfono de hace 3 años que <a target="_blank"title="FotoDiaria - Estrenando iPhone 5s" href="http://www.mylaif.es/post/72688699036/fotodiaria-estrenando-iphone-5s-que-ha-ca%C3%ADdo-de">para los que lo llevamos usando un tiempo</a> va muy bien, pero para una persona que lo compra ahora no es lo mejor del mundo. Con el iPhone SE, Apple cubre el mercado de las personas que prefieren un teléfono más pequeño con un hardware actual que va a durar mucho más de lo que durará uno producido en 2013.</p>
+<h2>iPad Pro</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/23234740/iPad-Pro-con-Apple-Pencil.jpg" rel="attachment wp-att-14300"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/23234740/iPad-Pro-con-Apple-Pencil.jpg" alt="iPad Pro con Apple Pencil" width="1335" height="655" class="aligncenter size-full wp-image-14300" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/23234740/iPad-Pro-con-Apple-Pencil.jpg 1335w, https://cdn.macsfera.com/wp-content/uploads/2016/03/23234740/iPad-Pro-con-Apple-Pencil.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/23234740/iPad-Pro-con-Apple-Pencil.jpg 1024w" sizes="(max-width: 1335px) 100vw, 1335px" /></a></p>
+<p><strong>Phil Schiller nos presentó <a target="_blank"title="Nuevo iPad Pro de 9,7”" href="www.macsfera.com/nuevo-ipad-pro-97/">el iPad Pro de 9,7 pulgadas</a>,</strong> el nuevo iPad de tamaño medio que va a hacer que queráis renovar vuestros iPads en cuanto salga.</p>
+<p>Tiene el mismo chip A9X que el <a target="_blank"title="Nuevo iPad Pro" href="www.macsfera.com/nuevo-ipad-pro/">iPad Pro de 12,9 pulgadas</a>, mantiene el diseño del iPad Air 2 <sup class="modern-footnotes-footnote ">1</sup>, es compatible con el Apple Pencil y cuenta con un sistema que adapta la temperatura de la pantalla en función de nuestro ambiente.</p>
+<p>Se ha descubierto que el chip está un poco más limitado que el de su hermano mayor, y en vez de tener 4GB de RAM, tiene 2, pero aún con esas, los resultados de las pruebas echas son rompedoras.</p>
+<p><strong>Este era el iPad que estaba esperando.</strong> Llevo esperando mucho tiempo y <a target="_blank"title="Mi experiencia escribiendo a mano en el iPad - Mi futuro con el iPad Air 3" href="www.macsfera.com/mi-experiencia-escribiendo-a-mano-en-el-ipad/?#mi-futuro-con-el-ipad-air-3">alguna vez lo he comentado</a>. He resistido muchas veces la tentación de comprar un modelo nuevo, muchas. <strong>Pero por fin mi espera ha terminado.</strong> Estoy muy contento con lo que ha sacado Apple y me voy a tirar de cabeza a él en cuanto llegue a España, lo tengo más que claro.</p>
+<p>Por supuesto, vosotros obtendréis todos los detalles y opiniones del dispositivo.</p>
+<h2>Actualizaciones</h2>
+<p>A lo largo del evento, <strong>se habló de las actualizaciones que vendrían a los sistemas operativos de toda la compañía,</strong> y así sucedió. Al acabar, <a target="_blank"title="Nuevas actualizaciones de iOS, OS X, tvOS y watchOS" href="www.macsfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">iOS, OS X, tvOS y watchOS recibieron actualizaciones gratuitas</a> con bastantes mejoras.</p>
+<p>Me gusta mucho ver que el software que uso cada día recibe mejoras, y no hay que esperar un año para recibirlas. Esto de sacar grandes actualizaciones a mitad de ciclo no está nada mal <sup class="modern-footnotes-footnote ">2</sup>.</p>
+<h2>Otras novedades</h2>
+<p>Como suele pasar en la mayoría de keynotes, <strong>Apple lanzó un par de productos secundarios a modo de accesorio.</strong> En este caso <a target="_blank"title="Los nuevos accesorios que Apple presentó para el iPad Pro" href="www.macsfera.com/los-nuevos-accesorios-apple-presento-ipad-pro/">presentó unos accesorios para el iPad</a>:</p>
+<ul>
+<li>Un adaptador USB a Lightning que nos permite conectar la cámara o cualquier dispositivo USB al iPad o iPhone.</li>
+<li>Un cable Lightning a USB de tipo C para conectar nuestro dispositivo iOS a cualquier <a target="_blank"title="MacBook" href="www.macsfera.com/tag/macbook">MacBook</a>.</li>
+<li>Puntas de repuesto para el Apple Pencil.</li>
+</ul>
+<h2>Un gran adios</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/23234850/Ultima-keynote-en-Cupertino.jpg" rel="attachment wp-att-14301"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/23234850/Ultima-keynote-en-Cupertino.jpg" alt="Ultima keynote en Cupertino" width="2500" height="1406" class="aligncenter size-full wp-image-14301" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/23234850/Ultima-keynote-en-Cupertino.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/03/23234850/Ultima-keynote-en-Cupertino.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/23234850/Ultima-keynote-en-Cupertino.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Por último, y para cerrar este corto evento, <strong>Tim anunció que probablemente sería la última vez que celebrasen una keynote en ese auditorio.</strong></p>
+<p>El auditorio que vio nacer el iPod, la App Store o el iPhone 5s <strong>será sustituido por <a target="_blank"title="La nave espacial se eleva" href="www.macsfera.com/la-nave-espacial-se-eleva/">el nuevo teatro del Campus 2</a> que está construyendo Apple.</strong> Una pieza de arquitectura muy bonita que esperamos poder ver por dentro en poco tiempo.</p>
+<hr />
+<div id="attachment_14302" style="width: 2510px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/23235020/Tim-Cook-Keynote-Let-us-loop-you-in.jpg" rel="attachment wp-att-14302"><img aria-describedby="caption-attachment-14302" src="https://cdn.macsfera.com/wp-content/uploads/2016/03/23235020/Tim-Cook-Keynote-Let-us-loop-you-in.jpg" alt="Tim Cook Keynote Let us loop you in" width="2500" height="1128" class="size-full wp-image-14302" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/23235020/Tim-Cook-Keynote-Let-us-loop-you-in.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/03/23235020/Tim-Cook-Keynote-Let-us-loop-you-in.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/23235020/Tim-Cook-Keynote-Let-us-loop-you-in.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14302" class="wp-caption-text">Imagen de <a href="http://www.apple.com/es/apple-events/" target="_blank" rel="noopener noreferrer">Apple</a></p></div>
+<p><strong>Y así se acabó el evento.</strong> Dos productos nuevos, algo de actualización en cuanto a la empresa y el lanzamiento de accesorios y sistemas operativos.</p>
+<p>La mayoría de la gente quedó descontenta con la ligereza en cuanto a lanzamientos. Pero yo, personalmente, <strong>estoy encantado con lo presentado,</strong> es la primera vez en mucho tiempo que sé que voy a adquirir algo que iban a anunciar y he vivido con emoción las semanas previas al evento, a pesar de que todo se filtró.</p>
+<p>Y es que sí, <strong>Apple tiene un gran problema con las filtraciones.</strong> No se sabe si son intencionadas o no, pero raro es el evento en el que no sepamos todo –o la mayoría– de lo que van a presentar antes de que se anuncie.</p>
+<p>Es bastante triste para los que, como yo, somos aficionados a Apple y a la tecnología. E incluso pasando de los rumores (como llevo haciendo mucho tiempo), siempre se cuela algo.</p>
+<p>En cualquier caso, como ya he dicho, <strong>contento con el rumbo que toma Apple y muy contento con ese iPad Pro de 9,7 pulgadas compatible con el Apple Pencil</strong> que sustituirá a mi iPad 3.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Que es increíble.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Recordemos que, si bien <a target="_blank"title="Nuevo iOS 9" href="www.macsfera.com/nuevo-ios-9/">iOS 9 fue presentado en junio</a>, no fue <a target="_blank"title="iOS 9 ya disponible" href="www.macsfera.com/ios-9-ya-disponible/">hasta septiembre cuando salió</a>.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/">Resumen y opinión de la keynote “Let us loop you in”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</title>
+		<link>https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 22 Mar 2016 11:54:25 +0000</pubDate>
+				<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualizaciones]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[iOS 9]]></category>
+		<category><![CDATA[Let us loop you in]]></category>
+		<category><![CDATA[Noticias de iOS]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14262</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</a></p>
+<p>Entre las novedades de la keynote de ayer, Apple ha lanzado actualizaciones de todos sus sistemas operativos. Algunas de las novedades ya</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/22120105/iOS-9.3.jpg" rel="attachment wp-att-14264"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/22120105/iOS-9.3.jpg" alt="iOS 9.3" width="2406" height="1867" class="aligncenter size-full wp-image-14264" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/22120105/iOS-9.3.jpg 2406w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22120105/iOS-9.3.jpg 258w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22120105/iOS-9.3.jpg 1024w" sizes="(max-width: 2406px) 100vw, 2406px" /></a></p>
+<p>Entre las novedades de <a target="_blank"title="Let us loop you in" href="www.macsfera.com/tag/let-us-loop-you-in">la keynote de ayer</a>, <strong>Apple ha lanzado actualizaciones de todos sus sistemas operativos.</strong></p>
+<p>Algunas de las novedades ya las conocíamos, pero vamos a hacer un repaso de todas las caractísticas.</p>
+<p><span id="more-14262"></span></p>
+<h2>iOS 9.3</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/22121246/Night-Shift-en-iOS.jpg" rel="attachment wp-att-14265"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/22121246/Night-Shift-en-iOS.jpg" alt="Night Shift en iOS" width="1282" height="1136" class="aligncenter size-full wp-image-14265" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/22121246/Night-Shift-en-iOS.jpg 1282w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22121246/Night-Shift-en-iOS.jpg 226w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22121246/Night-Shift-en-iOS.jpg 1024w" sizes="(max-width: 1282px) 100vw, 1282px" /></a></p>
+<p>Ya sabíamos las <a target="_blank"title="iOS 9.3 traerá modo noche, Notas con contraseña y multiusuario para el iPad en la escuela" href="www.macsfera.com/ios-9-3-traera-modo-noche-notas-contrasena-multiusuario-ipad-la-escuela/">novedades de iOS 9.3</a>, se presentaron en enero y desde entonces hemos visto un flujo de betas para mejorar la versión final.</p>
+<p><strong>Night Shift es la primera característica destacada de iOS,</strong> el sistema cambia los colores de la interfaz para reducir la luz blanca que emite la pantalla con el objetivo de que no afecte negativamente en nuestros ciclos de sueño. Es OS X se lleva usando desde hace mucho con la aplicación <a target="_blank"href="https://justgetflux.com/">f.lux</a>.</p>
+<p><strong>Se puede programar para que Night Shift se active automáticamente</strong> desde una hora en particular o desde que se va el sol hasta que vuelve. Aunque hay un icono en Control Center que permite activarlo y desactivarlo manualmente.</p>
+<p><strong>La aplicación Notas adquiere una capa de seguridad extra</strong> permitiendo poner una contraseña a las notas más personales.</p>
+<p><strong>CarPlay también es otro de las sistemas que mejora en iOS 9.3,</strong> novedades en Apple Music y mapas hacen que el sistema sea mejor de cara al usuario que lo usa.</p>
+<h2>OS X 10.10.4</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/22124723/Notas-bloqueadas-con-contrasena.jpg" rel="attachment wp-att-14269"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/22124723/Notas-bloqueadas-con-contrasena.jpg" alt="Notas bloqueadas con contraseña" width="2224" height="1556" class="aligncenter size-full wp-image-14269" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/22124723/Notas-bloqueadas-con-contrasena.jpg 2224w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22124723/Notas-bloqueadas-con-contrasena.jpg 286w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22124723/Notas-bloqueadas-con-contrasena.jpg 1024w" sizes="(max-width: 2224px) 100vw, 2224px" /></a></p>
+<p><strong>La versión de OS X incluye compatibilidad con <a target="_blank"title="Live Photos" href="www.macsfera.com/tag/live-photos/">Live Photos</a> a través de todo el sistema.</strong> Mensajes, previsualización de un archivo e importación a la aplicación Fotos. Escribí un artículo hablando sobre <a target="_blank"title="Así funciona Live Photos fuera del iPhone 6s" href="www.macsfera.com/asi-funciona-live-photos-fuera-del-iphone-6s/">el panorama de las Live Photos en OS X</a> y ahora la situación ha mejorado mucho.</p>
+<p><strong>La aplicación Notas adopta también la seguridad extra de iOS 9.3.</strong> Por ello, podemos abrir notas que tengan contraseña e incluso crearlas desde el Mac. También hay una función  para importar notas desde servicios como Evernote, ficheros TXT o RTF.</p>
+<p><strong>iBooks se ha vuelto compatible con la librería de iCloud.</strong> Ahora se sincronizarán todos los libros a través de iCloud incluso si no se han comprado en la iBooks Store.</p>
+<h2>tvOS 9.2</h2>
+<div id="attachment_14266" style="width: 1546px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/22122843/tvOS-con-carpetas.jpg" rel="attachment wp-att-14266"><img aria-describedby="caption-attachment-14266" src="https://cdn.macsfera.com/wp-content/uploads/2016/03/22122843/tvOS-con-carpetas.jpg" alt="tvOS con carpetas" width="1536" height="864" class="size-full wp-image-14266" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/22122843/tvOS-con-carpetas.jpg 1536w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22122843/tvOS-con-carpetas.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22122843/tvOS-con-carpetas.jpg 1024w" sizes="(max-width: 1536px) 100vw, 1536px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14266" class="wp-caption-text">Imagen de <a href="https://www.macstories.net/news/apple-releases-tvos-9-2-bluetooth-keyboard-support-siri-dictation-app-folders-more/" target="_blank" rel="noopener noreferrer">MacStories</a></p></div>
+<p>La nueva versión del <a target="_blank"title="Apple TV" href="www.macsfera.com/tag/apple-tv/">Apple TV 4</a> se ha vuelto compatible con teclados Bluetooth. <strong>Siri ahora está más presente</strong> pudiendo usarse para búsquedas, en la propia App Store o para rellenar formularios como los de email, contraseñas, etc. Esto hace que sea menos engorroso escribir con el mando.</p>
+<p><strong>Se han implementado las carpetas en el sistema.</strong> Al igual que en iOS, podemos agrupar las aplicaciones y los canales en carpetas para tener todo más organizado a nuestro gusto y por categorías, por ejemplo.</p>
+<p><strong>Live Photos y iCloud Photo Library también son novedad,</strong> pudiendo visualizar todo el contenido gráfico que creemos en otros dispositivos y a pantalla grande.</p>
+<h2>watchOS 2.2</h2>
+<div id="attachment_14267" style="width: 2010px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/22123207/watch-OS-con-mejoras-en-Mapas.jpg" rel="attachment wp-att-14267"><img aria-describedby="caption-attachment-14267" src="https://cdn.macsfera.com/wp-content/uploads/2016/03/22123207/watch-OS-con-mejoras-en-Mapas.jpg" alt="watch OS con mejoras en Mapas" width="2000" height="1000" class="size-full wp-image-14267" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/22123207/watch-OS-con-mejoras-en-Mapas.jpg 2000w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22123207/watch-OS-con-mejoras-en-Mapas.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/22123207/watch-OS-con-mejoras-en-Mapas.jpg 1024w" sizes="(max-width: 2000px) 100vw, 2000px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-14267" class="wp-caption-text">Imagen de <a href="http://9to5mac.com/2016/03/21/watchos-2-2-apple-maps-enhanced-maps-multi-watch/" target="_blank" rel="noopener noreferrer">9To5Mac</a></p></div>
+<p><strong>La nueva versión del <a target="_blank"title="Apple Watch" href="www.macsfera.com/tag/apple-watch">Apple Watch</a> incluye mejoras en la aplicación Mapas</strong> con más información para guiar, mostrar la ubicación actual y mostrar lugares cercanos de interés de forma más precisa. Los Vistazos de mapas también cambian, siendo ahora un acceso directo para obtener direcciones a casa, al trabajo, buscar y lugares cercanos.</p>
+<p>Otra de las novedades es que ahora se pueden enlazar varios Apple Watches con un mismo iPhone. No es una novedad que vayan a usar muchas personas, pero por lo menos no da error si alguno quiere intentarlo.</p>
+<hr />
+<p><strong>Me alegra ver que actualizaciones con tantas novedades vienen antes del lanzamiento con cambio de versión.</strong></p>
+<p>Todas ellas, a parte de las novedades vistas, <strong>incluyen mejoras de estabilidad y corrección de errores.</strong> Están disponibles de forma gratuita y se pueden descargar desde los distintos dispositivos sin problemas.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

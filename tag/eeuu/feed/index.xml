@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EEUU &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/eeuu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:51:59 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Apple incluye la verificación en dos pasos en sus sistemas</title>
+		<link>https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2013 12:11:55 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Contraseñas]]></category>
+		<category><![CDATA[EEUU]]></category>
+		<category><![CDATA[ID de Apple]]></category>
+		<category><![CDATA[Irlanda]]></category>
+		<category><![CDATA[Mat Honan]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Nueva Zelanda]]></category>
+		<category><![CDATA[Reino Unido]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Verificación en dos pasos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8669</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a></p>
+<p>Apple ha incluido el sistema de verificación en dos pasos en sus servicios de iCloud e ID de Apple. El sistema de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID.png" alt="Verificación en dos pasos Apple ID" width="550" height="358" class="aligncenter size-full wp-image-8670" srcset="https://www.MacSfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID.png 550w, https://www.MacSfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID-300x195.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Apple ha incluido el sistema de verificación en dos pasos en sus servicios de <a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a> e <a href="www.macsfera.com/tag/id-de-apple" title="ID de Apple" target="_blank" rel="noopener noreferrer">ID de Apple</a>.</strong></p>
+<p><span id="more-8669"></span></p>
+<p>El sistema de verificación en dos pasos consiste en un <strong>método de seguridad por el cual hay una confirmación por contraseña y otra por un código de seguridad</strong> aleatorio y desconocido que recibimos en nuestro móvil (o aplicación Find My iPhone si está instalada).</p>
+<p>Este es un sistema muy común desde que empresas como Google o distintos bancos lo implementaran en sus servicios para mejorar la seguridad de sus clientes. <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> es una empresa que tiene un montón de información de sus usuarios de modo que este nuevo método <strong>hará que se eviten <a href="www.macsfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/" title="Hackeada la cuenta de iCloud de un periodista que detalla el proceso" target="_blank" rel="noopener noreferrer">casos como el de Mat Honan</a>.</strong></p>
+<p>Los usuarios podremos elegir cual de nuestros dispositivos va a recibir el código. También recibiremos una clave de recuperación de 14 dígitos la cual servirá para acceder a nuestra cuenta en caso de que perdamos algún dispositivo o se nos olvide la contraseña principal.</p>
+<p>Ahora <strong>no podremos restablecer nuestra cuenta a través del teléfono del soporte técnico de la empresa</strong> y, si perdemos, regalamos o vendemos algún dispositivo vinculado con el código, podremos eliminarlo desde la página web de gestión para evitar que siga recibiendo las notificaciones.</p>
+<p>Este sistema <strong>se usará siempre que vayamos a realizar una compra en cualquier servicio de Apple,</strong> por ello deberemos tener siempre cerca nuestro teléfono. Por ahora solo está disponible en Estados Unidos, Reino Unido, Australia, Irlanda y Nueva Zelanda.</p>
+<p>Vía | <a href="http://9to5mac.com/2013/03/21/apple-beefs-up-icloud-apple-id-security-with-two-step-verification/" target="_blank" rel="noopener noreferrer">9To5Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple podría comenzar a fabricar el Mac mini con Foxconn en los Estados Unidos</title>
+		<link>https://www.MacSfera.com/apple-podria-comenzar-a-fabricar-el-mac-mini-con-foxconn-en-los-estados-unidos/</link>
+		
+		<dc:creator><![CDATA[Manuel Ajamil]]></dc:creator>
+		<pubDate>Sun, 30 Dec 2012 11:31:30 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[EEUU]]></category>
+		<category><![CDATA[Foxconn]]></category>
+		<category><![CDATA[Mac Mini]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Producción]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8141</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-podria-comenzar-a-fabricar-el-mac-mini-con-foxconn-en-los-estados-unidos/">Apple podría comenzar a fabricar el Mac mini con Foxconn en los Estados Unidos</a></p>
+<p>Según los últimos rumores, Apple podría estar planteándose trasladar la producción de algunos de sus productos de China a los Estados Unidos</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-podria-comenzar-a-fabricar-el-mac-mini-con-foxconn-en-los-estados-unidos/">Apple podría comenzar a fabricar el Mac mini con Foxconn en los Estados Unidos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-podria-comenzar-a-fabricar-el-mac-mini-con-foxconn-en-los-estados-unidos/">Apple podría comenzar a fabricar el Mac mini con Foxconn en los Estados Unidos</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/12/Mac-Mini.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  class="aligncenter size-full wp-image-8142" title="Mac Mini" src="http://cdn.macsfera.com/wp-content/uploads/2012/12/Mac-Mini.jpg" alt="Mac Mini" width="550" height="363" srcset="https://www.MacSfera.com/wp-content/uploads/2012/12/Mac-Mini.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/12/Mac-Mini-300x198.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Según los últimos rumores, <strong>Apple podría estar planteándose trasladar la producción de algunos de sus productos de China a los Estados Unidos de América</strong>. Hasta ahora, los de Cupertino producen la mayoría de sus productos en dicho país asiático, pero un repentino cambio en la estrategia de producción podría acercar las fábricas de Foxconn al mismísimo continente americano.</p>
+<p><span id="more-8141"></span></p>
+<p>Aunque todavía no se ha confirmado de manera oficial esta noticia, lo cierto es que los últimos comentarios que circulan por la red indican que <strong><a href="www.macsfera.com/apple-planea-aumentar-la-produccion-del-mac-en-estados-unidos/" title="Apple planea aumentar la producción del Mac en Estados Unidos" target="_blank" rel="noopener noreferrer">algunos productos</a></strong> como el <strong><a href="www.macsfera.com/tag/mac-mini/" title="Mac mini" target="_blank" rel="noopener noreferrer">Mac mini</a></strong> podrían tener los días contados en las cadenas de producción que la conocida empresa <strong>Foxconn</strong> tiene en China.</p>
+<p>La posible localización de la nueva fábrica estaría situada en <a href="http://en.wikipedia.org/wiki/Fremont,_California" target="_blank" rel="noopener noreferrer">Fremont</a>, una <strong>localidad californiana de unos 200.000 habitantes</strong>, y en la que <strong><a title="Apple" href="www.macsfera.com/" target="_blank" rel="noopener noreferrer">Apple</a></strong> podría haber puesto el ojo para comenzar a construir la fábrica para llevar a cabo la producción de sus nuevos productos el próximo año.</p>
+<p>Las expectativas de venta de los <strong>Mac mini</strong> durante el 2013 son de <strong>1,8 millones de unidades</strong>, un 30% más con respecto al 2012. Sin duda un importante incremento. A pesar de que la producción de estos dispositivos se vería aumentada de llevarse a cabo en los Estados Unidos, lo cierto es que muchos ciudadanos americanos se decantan por productos nacionales a la hora de adquirir uno de ellos, por lo que este podría ser uno de los motivos de este nuevo «movimiento de fichas».</p>
+<p>Vía | <a href="http://9to5mac.com/2012/12/26/apple-reportedly-moving-mac-mini-production-to-us-with-foxconn/" target="_blank" rel="noopener noreferrer">9to5mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-podria-comenzar-a-fabricar-el-mac-mini-con-foxconn-en-los-estados-unidos/">Apple podría comenzar a fabricar el Mac mini con Foxconn en los Estados Unidos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple planea aumentar la producción del Mac en Estados Unidos</title>
+		<link>https://www.MacSfera.com/apple-planea-aumentar-la-produccion-del-mac-en-estados-unidos/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 06 Dec 2012 14:14:01 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[EEUU]]></category>
+		<category><![CDATA[Ensamblar]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Producción]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8006</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-aumentar-la-produccion-del-mac-en-estados-unidos/">Apple planea aumentar la producción del Mac en Estados Unidos</a></p>
+<p>Tim Cook ha revelado a Bloomberg Business que Apple intentará traer de vuelta parte de la producción del Mac a Estados Unidos</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-aumentar-la-produccion-del-mac-en-estados-unidos/">Apple planea aumentar la producción del Mac en Estados Unidos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-aumentar-la-produccion-del-mac-en-estados-unidos/">Apple planea aumentar la producción del Mac en Estados Unidos</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/12/iMac-ensamblado-en-EEUU.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/12/iMac-ensamblado-en-EEUU.jpg" alt="iMac ensamblado en EEUU" title="iMac ensamblado en EEUU" width="550" height="145" class="aligncenter size-full wp-image-8007" srcset="https://www.MacSfera.com/wp-content/uploads/2012/12/iMac-ensamblado-en-EEUU.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/12/iMac-ensamblado-en-EEUU-300x79.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/tag/tim-cook" title="Tim Cook" target="_blank" rel="noopener noreferrer">Tim Cook</a></strong> ha revelado a Bloomberg Business que <strong>Apple intentará traer de vuelta parte de la producción del <a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a> a Estados Unidos para 2013.</strong></p>
+<p><span id="more-8006"></span></p>
+<p>Para hacer esto posible <strong>invertirá más de 100 millones de dólares.</strong> Tim Cook ha dicho:</p>
+<blockquote><p>El próximo año vamos a traer parte de la producción del Mac a EEUU. Hemos estado trabajando en esto durante mucho tiempo, y nos acercamos a ello. Pasará en 2013. Estamos muy orgullosos de ello. Podríamos haber hecho rápidamente solo el montaje pero esto es más grande y queremos hacer algo más sustancial. Así que, literalmente, vamos a invertir más de 100 millones de dólares. Esto no quiere decir que Apple vaya a hacerlo sola, vamos a trabajar con la gente y a invertir nuestro dinero.</p></blockquote>
+<p>Esto sale a la luz después de descubrir que algunos <strong><a href="www.macsfera.com/imac-de-2012-su-diseno-al-detalle/" title="iMac de 2012, su diseño al detalle" target="_blank" rel="noopener noreferrer">iMac de última generación</a></strong> presentan el distintivo de que han sido montados en Estados Unidos. <strong>Al parecer la empresa pretende volver a las raíces en la que los primeros Macintosh se construían en el propio país.</strong></p>
+<p>Vía | <a href="http://9to5mac.com/2012/12/06/apple-investing-100-million-to-bring-back-some-mac-production-to-the-us-in-2013/" target="_blank" rel="noopener noreferrer">9To5Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-aumentar-la-produccion-del-mac-en-estados-unidos/">Apple planea aumentar la producción del Mac en Estados Unidos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Confirmadas las Apple Store de 2011</title>
+		<link>https://www.MacSfera.com/confirmadas-las-apple-store-de-2011/</link>
+					<comments>https://www.MacSfera.com/confirmadas-las-apple-store-de-2011/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 12 Jan 2011 17:13:02 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Canadá]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[EEUU]]></category>
+		<category><![CDATA[Escocia]]></category>
+		<category><![CDATA[España]]></category>
+		<category><![CDATA[Francia]]></category>
+		<category><![CDATA[Italia]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Países Bajos]]></category>
+		<category><![CDATA[Paseo de Gracia]]></category>
+		<category><![CDATA[Rumores]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=786</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/confirmadas-las-apple-store-de-2011/">Confirmadas las Apple Store de 2011</a></p>
+<p>Ha salido una lista con las Apple Store que se tienen pensado abrir este 2011, no se en lo referente a otros</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/confirmadas-las-apple-store-de-2011/">Confirmadas las Apple Store de 2011</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/confirmadas-las-apple-store-de-2011/">Confirmadas las Apple Store de 2011</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/01/Apple-Store.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/01/Apple-Store.jpg" alt="" title="Apple Store" width="550" height="369" class="aligncenter size-full wp-image-3365" srcset="https://www.MacSfera.com/wp-content/uploads/2011/01/Apple-Store.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/01/Apple-Store-300x201.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Ha salido una lista con las <strong><a href="www.macsfera.com/tag/apple-store">Apple Store</a></strong> que se tienen pensado abrir este 2011, no se en lo referente a otros años, pero la lista no está mal, hay bastantes.<br />
+<span id="more-786"></span></p>
+<h2>España</h2>
+<ul>
+<li>Barcelona.</li>
+<li>Valencia.</li>
+</ul>
+<h2>Canadá</h2>
+<ul>
+<li>Ciudad de Quebec.</li>
+</ul>
+<h2>China</h2>
+<ul>
+<li>Hong Kong.</li>
+<li>Shanghai.</li>
+</ul>
+<h2>Francia</h2>
+<ul>
+<li>Lyon.</li>
+<li>Estrasburgo.</li>
+</ul>
+<h2>Alemania</h2>
+<ul>
+<li>Dresde (apertura en mayo).</li>
+</ul>
+<h2>Italia</h2>
+<ul>
+<li>Bolonia.</li>
+<li>Florencia.</li>
+<li>Milán.</li>
+</ul>
+<h2>Países Bajos</h2>
+<ul>
+<li>Amsterdam (se rumorea).</li>
+</ul>
+<h2>Escocia</h2>
+<ul>
+<li>Edimburgo (se rumorea).</li>
+</ul>
+<h2>Estados Unidos</h2>
+<ul>
+<li>Berkeley, California.</li>
+<li>Brooklyn, Nueva York.</li>
+<li>Houston, Texas.</li>
+<li>Murray, Utah.</li>
+<li>Seattle, Washington.</li>
+</ul>
+<p>En esta lista de aquí se ve que a España le han tocado dos <strong>Apple Store</strong>, la  ya conocida de Valencia y la de <a href="www.macsfera.com/otra-apple-store-en-barcelona-y-una-posible-en-madrid/">Barcelona</a> que según hablamos estará orientada en el Paseo de Gracia. Como vemos, en esa lista no aparece nada de la de Madrid que podría estar situada en el hotel que tiene el cartel de Tío Pepe en Sol.</p>
+<p>Esperamos más detalles.</p>
+<p>Fuente | <a href="http://www.macstories.net/news/apple-stores-everywhere-list-of-store-confirmations-to-open-2011/">MacStories</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/confirmadas-las-apple-store-de-2011/">Confirmadas las Apple Store de 2011</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/confirmadas-las-apple-store-de-2011/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

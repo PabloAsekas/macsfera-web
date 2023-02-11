@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SPAM &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/spam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:21:40 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Apple añade Reportar por SPAM a su calendario de iCloud</title>
+		<link>https://www.MacSfera.com/apple-anade-reportar-spam-calendario-icloud/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2016 09:55:27 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Calendario]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[SPAM]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16079</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-anade-reportar-spam-calendario-icloud/">Apple añade Reportar por SPAM a su calendario de iCloud</a></p>
+<p>La semana pasada os contaba todo el revuelo que hubo a finales de noviembre con el SPAM por invitaciones de calendario a</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-anade-reportar-spam-calendario-icloud/">Apple añade Reportar por SPAM a su calendario de iCloud</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-anade-reportar-spam-calendario-icloud/">Apple añade Reportar por SPAM a su calendario de iCloud</a></p>
+<div id="attachment_16081" style="width: 1377px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/12104951/Reportar-Evento-iCloud-SPAM.jpg"><img aria-describedby="caption-attachment-16081" src="https://cdn.macsfera.com/wp-content/uploads/2016/12/12104951/Reportar-Evento-iCloud-SPAM.jpg" alt="Reportar Evento iCloud SPAM" width="1367" height="684" class="size-full wp-image-16081" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/12/12104951/Reportar-Evento-iCloud-SPAM.jpg 1367w, https://cdn.macsfera.com/wp-content/uploads/2016/12/12104951/Reportar-Evento-iCloud-SPAM.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/12/12104951/Reportar-Evento-iCloud-SPAM.jpg 1024w" sizes="(max-width: 1367px) 100vw, 1367px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-16081" class="wp-caption-text">Imagen de <a href="https://9to5mac.com/2016/12/11/apple-rolling-out-report-junk-feature-for-icloud-calendar-invites-from-unknown-senders-to-address-spam/" target="_blank" rel="noopener noreferrer">9To5Mac</a></p></div>
+<p>La semana pasada os contaba todo el revuelo que hubo a finales de noviembre con <strong>el SPAM por invitaciones de calendario a usuarios de iCloud y <a target="_blank"title="Apple toma medidas contra el SPAM de calendario" href="www.macsfera.com/apple-toma-medidas-contra-el-spam-de-calendario/">cómo Apple estaba tomando medidas para combatirlo</a>.</strong></p>
+<p>Hoy me alegra contaros que, a parte de bloquear manualmente las fuentes de SPAM, <strong>han añadido una opción para reportar los eventos que recibamos de contactos que no tenemos añadidos.</strong></p>
+<p><span id="more-16079"></span></p>
+<p>Este botón eliminará el evento de nuestro calendario impidiendo que vuelva a aparecer y <strong>los detalles de la persona que lo ha enviado serán enviados a Apple</strong> para que investiguen la fuente a ver si se trata, nuevamente, de un ataque masivo o un hecho aislado, y a partir de ahí tomar medidas como han hecho con el caso pasado.</p>
+<p>Por ahora esta opción sólo está disponible en la versión de iCloud.com, pero en un futuro se tiene pensado implementar en las aplicaciones de <a href="www.macsfera.com/tag/ios" title="iOS" target="_blank" rel="noopener noreferrer">iOS</a> y <a href="www.macsfera.com/tag/macos" title="macOS" target="_blank" rel="noopener noreferrer">macOS</a> según un representante del soporte de Apple.</p>
+<p>Celebro la velocidad con la que se ha implementado esta opción la verdad, y más ahora que se acerca la Navidad y volvemos a tener un periodo de compras elevado.</p>
+<p><strong>Ya os dije que un sencillo sistema de reporte por SPAM como este sería algo muy útil y sencillo</strong> que ayudaría enormemente al usuario final de cara a esta protección de la que hablamos. Y por suerte, aquí está.</p>
+<p>Ahora sólo queda esperar que llegue al resto de aplicaciones, y que Apple deje a los desarrolladores de terceros implementarlo también.</p>
+<p><span class="source">Vía</span> <span class="via"><a href="https://9to5mac.com/2016/12/11/apple-rolling-out-report-junk-feature-for-icloud-calendar-invites-from-unknown-senders-to-address-spam/" target="_blank" rel="noopener noreferrer">9To5Mac</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-anade-reportar-spam-calendario-icloud/">Apple añade Reportar por SPAM a su calendario de iCloud</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple toma medidas contra el SPAM de calendario</title>
+		<link>https://www.MacSfera.com/apple-toma-medidas-contra-el-spam-de-calendario/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2016 20:31:01 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Black Friday]]></category>
+		<category><![CDATA[Calendario]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[SPAM]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16011</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-toma-medidas-contra-el-spam-de-calendario/">Apple toma medidas contra el SPAM de calendario</a></p>
+<p>Hace no mucho, se inició un ataque masivo de SPAM a través de invitaciones de eventos del calendario. Todo aquel con una</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-toma-medidas-contra-el-spam-de-calendario/">Apple toma medidas contra el SPAM de calendario</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-toma-medidas-contra-el-spam-de-calendario/">Apple toma medidas contra el SPAM de calendario</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/12/05212629/SPAM-Calendario-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/12/05212629/SPAM-Calendario-Apple.jpg" alt="SPAM Calendario Apple" width="2243" height="1671" class="aligncenter size-full wp-image-16014" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/12/05212629/SPAM-Calendario-Apple.jpg 2243w, https://cdn.macsfera.com/wp-content/uploads/2016/12/05212629/SPAM-Calendario-Apple.jpg 268w, https://cdn.macsfera.com/wp-content/uploads/2016/12/05212629/SPAM-Calendario-Apple.jpg 1024w" sizes="(max-width: 2243px) 100vw, 2243px" /></a></p>
+<p>Hace no mucho, <strong>se inició un ataque masivo de SPAM a través de invitaciones de eventos del calendario.</strong> Todo aquel con una cuenta iCloud podía recibir un evento en su calendario con la finalidad de que comprase algún artilugio.</p>
+<p><strong><a href="www.macsfera.com/tag/apple" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a> ya se ha disculpado públicamente,</strong> y ha afirmado estar tomando medidas contra este ataque.</p>
+<p><span id="more-16011"></span></p>
+<p>Los atacantes, básicamente, tenían una o varias listas con posibles cuentas de Apple, y enviaban eventos a todas esas cuentas y esperaban a ver qué pasaba.</p>
+<p><strong>Si aceptabas o rechazabas el evento,</strong> ellos podrían saber si la cuenta estaba activa, y si comprabas algo, eso que se llevaban.</p>
+<p><strong>Por ello Apple se ha disculpado públicamente,</strong> como <a target="_blank"href="http://www.imore.com/getting-spam-invitations-your-calendar-app-heres-fix">nos cuentan</a> en iMore:</p>
+<blockquote>
+<p>Sentimos mucho que algunos usuarios hayan recibido invitaciones a eventos con SPAM. Estamos trabajando mucho para solucionar el problema identificando y bloqueando a las personas sospechosas y las invitaciones que contienen SPAM.</p>
+</blockquote>
+<p>El ataque saltó antes del Black Friday, de modo que hace tiempo que se sabe, pero he preferido esperar a ver las reacciones oficiales para ver cómo se desarrollaban los acontecimientos y reflexionar un poco más sobre ello.</p>
+<p>Tal y como dicen, <strong>están trabajando en ello,</strong> cosa que está bien. Pero a mí me gustaría ir un poco más allá y <strong>pedir un sistema razonable de reporte.</strong></p>
+<p>Todos hemos visto como otros servicios tienen reportes por SPAM accesibles y útiles que protegen al usuario final. Twitter, Facebook, Telegram, WhatsApp, YouTube, Instagram… son algunos ejemplos de grandes redes en las que el SPAM está a la orden del día, pero es posible combatirlo.</p>
+<p>A mí me gustaría ver algo similar en el calendario de Apple, <strong>que además no comprometa al usuario final.</strong></p>
+<p>¿Por qué digo esto? Porque si habéis aceptado o rechazado algún evento, los atacantes han podido saber que vuestra cuenta está activa. Gracias a eso, <strong>han podido realizar otra lista mucho más precisa en la que saben de primera mano qué cuentas funcionan y cuáles no.</strong></p>
+<p>Esto es un peligro porque, tal y como <a target="_blank"href="http://www.faq-mac.com/2016/11/por-que-ocurre-el-spam-en-calendario-y-que-lecciones-tienes-que-aprender/">nos cuenta</a> Carlos Burges de Faq-Mac, con esa lista pueden perpretar ataques masivos si en el futuro sale a la luz una vulnerabilidad en los sistemas de Apple.</p>
+<p>Y no quiero ser alarmista, pero tampoco quiero que por ese hecho demos poca importancia a este problema. <strong>Nuestra cuenta de Apple tiene información personal y bancaria, así que qué menos que protegerla.</strong></p>
+<p>No se necesita mucho realmente, <strong>un reporte por SPAM que oculte al emisor del evento si el usuario ha reportado dicho evento.</strong> Algo tan sencillo como eso bastaría.</p>
+<p>Sí, no tiene sentido incluir reportes por SPAM en el calendario, pero en vista de que la plataforma se puede usar para tal finalidad, no es tan mala idea.</p>
+<hr />
+<p>Lo que he podido observar estos días es que el ataque parece no ir a más, cosa que está muy bien. Ahora solo me preocupa la información que los atacantes han recabado si han sido lo suficientemente listos para captarla.</p>
+<p>Veremos el día de mañana si Apple da alguna herramienta al usuario o por otro lado lo trata de manera interna, como ya ha hecho ahora.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-toma-medidas-contra-el-spam-de-calendario/">Apple toma medidas contra el SPAM de calendario</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

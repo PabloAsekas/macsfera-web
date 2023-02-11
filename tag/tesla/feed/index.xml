@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tesla &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/tesla/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:28:21 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Chris Lattner, creador de Swift, deja Apple para unirse a Tesla</title>
+		<link>https://www.MacSfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 11 Jan 2017 09:21:45 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Chris Lattner]]></category>
+		<category><![CDATA[Estructura de compilación LLVM]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Swift]]></category>
+		<category><![CDATA[Swift.org]]></category>
+		<category><![CDATA[Ted Kremenek]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16201</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/">Chris Lattner, creador de Swift, deja Apple para unirse a Tesla</a></p>
+<p>Chris Lattner ha sido el máximo responsable de Swift desde que Apple decidió lanzar su propio lenguaje de programación, pero ayer anunció</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/">Chris Lattner, creador de Swift, deja Apple para unirse a Tesla</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/">Chris Lattner, creador de Swift, deja Apple para unirse a Tesla</a></p>
+<div id="attachment_16203" style="width: 2058px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/11101525/Chris-Lattern-creador-de-Swift.jpeg"><img aria-describedby="caption-attachment-16203" src="https://cdn.macsfera.com/wp-content/uploads/2017/01/11101525/Chris-Lattern-creador-de-Swift.jpeg" alt="Chris Lattern creador de Swift" width="2048" height="1248" class="size-full wp-image-16203" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/11101525/Chris-Lattern-creador-de-Swift.jpeg 2048w, https://cdn.macsfera.com/wp-content/uploads/2017/01/11101525/Chris-Lattern-creador-de-Swift.jpeg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/11101525/Chris-Lattern-creador-de-Swift.jpeg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-16203" class="wp-caption-text">Imagen de <a href="https://appadvice.com/post/tesla-hires-swift-creator-chris-lattner-vp" target="_blank" rel="noopener noreferrer">AppAdvice</a></p></div>
+<p>Chris Lattner ha sido el máximo responsable de Swift desde que Apple decidió lanzar su propio lenguaje de programación, <strong>pero ayer anunció que va a dejar su puesto en Apple.</strong></p>
+<p>Lattner, tras más de 10 años trabajando para Apple, <strong>se unirá a Tesla para trabajar en el sistema Autopilot de la empresa</strong> que permitirá a sus coches eléctricos conducir de forma automática sin que nadie tenga que estar pendiente de nada.</p>
+<p><span id="more-16201"></span></p>
+<p>La propia Tesla <a target="_blank" href="https://www.tesla.com/blog/welcome-chris-lattner" rel="noopener noreferrer">ha anunciado</a> este hecho y recalca la labor que ha desempeñado en Apple.</p>
+<p>A parte de Swift, Lattner es bien conocido por ser el autor de la estructura de compilación LLVM utilizada en productos de la propia empresa y en proyectos de investigación.</p>
+<p>Para despedirse de su comunidad, <strong><a href="https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170109/030063.html" target="_blank" rel="noopener noreferrer">ha enviado</a> un mensaje a todos ellos:</strong></p>
+<blockquote>
+<p>Desde que Apple lanzara Swift en la WWDC de 2014, el equipo de Swift ha trabajado cercanamente con nuestra comunidad de desarrolladores. Cuando <a target="_blank" title="Bienvenidos a Swift.org" href="www.macsfera.com/bienvenidos-a-swift-org/" rel="noopener noreferrer">hicimos Swift open source y lanzamos Swift.org</a> pusimos mucho esfuerzo en definir una buena comunidad estructurada. Esta estructura ha permitido a Apple y a la increíble comunidad de Swift trabajar conjuntamente para evolucionar Swift a un lenguaje potente y maduro que alimenta el software de miles de millones de personas.</p>
+<p>Estoy contento de anunciar que Ted Kremenek me sustituirá como «Líder de proyecto» en el proyecto de Swift, asumiendo la responsabilidad administrativa y de liderato para Swift.org. Esto reconoce el increíble esfuerzo que ha estado haciendo dentro del proyecto, y refleja la decisión que he tomado de dejar Apple a finales de mes para buscar una nueva oportunidad en otro lugar. Esta decisión no se ha tomado a la ligera, y quiero haceros saber que estoy completamente comprometido con Swift. Mi intención es la de permanecer como un miembro activo dentro del núcleo del equipo de Swift, a la par que un contribuidor a la lista de email swift-evolution.</p>
+<p>Trabajar con tantos equipos excepcionales en Apple para lanzar Swift ha sido una experiencia única. Apple es un lugar increíble para juntar habilidad, imaginación y disciplina para lanzar algo como esto. Swift está en forma a día de hoy, y Swift 4 va a ser un gran lanzamiento con Ted como Líder de proyecto.</p>
+<p>Sabed que esto no es un cambio en la estructura – sólo quién asume qué papel – así que no esperamos que afecte en el día a día de las operaciones en el núcleo del equipo de Swift en un sentido significativo. Ted y yo queremos haceros saber qué está pasando como parte de nuestro compromiso para mantener la estructura de Swift.org transparente para la comunidad.</p>
+<p>-Chris</p>
+</blockquote>
+<p>De esta forma, <strong>Lattner se retira del equipo de Apple pero seguirá participando en el desarrollo del lenguaje</strong> para que evolucione más, llegue a más personas y sea más competente.</p>
+<p><span class="source">Vía</span> <span class="via"><a href="https://9to5mac.com/2017/01/10/swift-chris-lattner-leaving-apple/" target="_blank" rel="noopener noreferrer">9To5Mac</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/chris-lattner-creador-de-swift-deja-apple-para-unirse-tesla/">Chris Lattner, creador de Swift, deja Apple para unirse a Tesla</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

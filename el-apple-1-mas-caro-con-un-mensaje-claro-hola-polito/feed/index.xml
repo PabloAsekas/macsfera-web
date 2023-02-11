@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: El Apple-1 más caro con un mensaje claro «Hola Polito»	</title>
+	<atom:link href="https://www.MacSfera.com/el-apple-1-mas-caro-con-un-mensaje-claro-hola-polito/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/el-apple-1-mas-caro-con-un-mensaje-claro-hola-polito/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:51:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: PabloAsekas		</title>
+		<link>https://www.MacSfera.com/el-apple-1-mas-caro-con-un-mensaje-claro-hola-polito/?#comment-221</link>
+
+		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2011 14:17:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2154#comment-221</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/el-apple-1-mas-caro-con-un-mensaje-claro-hola-polito/?#comment-220&quot;&gt;Pablo&lt;/a&gt;.
+
+Yo soy @PabloAsekas y os invito a usar Mac OS X. ]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="https://www.MacSfera.com/el-apple-1-mas-caro-con-un-mensaje-claro-hola-polito/?#comment-220">Pablo</a>.</p>
+<p>Yo soy @PabloAsekas y os invito a usar Mac OS X. </p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Pablo		</title>
+		<link>https://www.MacSfera.com/el-apple-1-mas-caro-con-un-mensaje-claro-hola-polito/?#comment-220</link>
+
+		<dc:creator><![CDATA[Pablo]]></dc:creator>
+		<pubDate>Tue, 31 May 2011 21:48:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2154#comment-220</guid>
+
+					<description><![CDATA[Soy @Pablo_Maroto y os invito a usar Gnu/Linux :D 
+ ]]></description>
+			<content:encoded><![CDATA[<p>Soy @Pablo_Maroto y os invito a usar Gnu/Linux :D </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

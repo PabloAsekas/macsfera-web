@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: OS X Lion ya está entre nosotros. Proceso de instalacción	</title>
+	<atom:link href="https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:59:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: PabloAsekas		</title>
+		<link>https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/?#comment-252</link>
+
+		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
+		<pubDate>Thu, 21 Jul 2011 07:56:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=3858#comment-252</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/?#comment-251&quot;&gt;Manu Serrano&lt;/a&gt;.
+
+Gracias, un saludo.]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/?#comment-251">Manu Serrano</a>.</p>
+<p>Gracias, un saludo.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Manu Serrano		</title>
+		<link>https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/?#comment-251</link>
+
+		<dc:creator><![CDATA[Manu Serrano]]></dc:creator>
+		<pubDate>Wed, 20 Jul 2011 17:55:00 +0000</pubDate>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=3858#comment-251</guid>
+
+					<description><![CDATA[Buena opinión]]></description>
+			<content:encoded><![CDATA[<p>Buena opinión</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

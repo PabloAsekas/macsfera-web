@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>JS &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/js/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sat, 16 Oct 2021 12:03:00 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</title>
+		<link>https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 24 Jan 2018 14:42:06 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Bases de datos]]></category>
+		<category><![CDATA[Coda]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Desarrollo]]></category>
+		<category><![CDATA[Editores de lenguaje]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[JS]]></category>
+		<category><![CDATA[Lenguajes de programación]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Panic]]></category>
+		<category><![CDATA[Servidores]]></category>
+		<category><![CDATA[SSH]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16780</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/">Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</a></p>
+<p>Hace años me topé con una aplicación con la que pude crear pequeñas páginas web desde mi Mac, pero nunca he hablado</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/">Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/">Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/01/23150718/Coda-para-Mac-y-iOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/01/23150718/Coda-para-Mac-y-iOS.jpg" alt="Coda para Mac y iOS" width="2500" height="1668" class="aligncenter size-full wp-image-16782" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/01/23150718/Coda-para-Mac-y-iOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/01/23150718/Coda-para-Mac-y-iOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/01/23150718/Coda-para-Mac-y-iOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Hace años me topé con una aplicación con la que pude crear pequeñas páginas web desde mi Mac, pero nunca he hablado de ella. <strong>Ya es hora de que os presente Coda, un editor multilenguaje para Mac y iOS.</strong></p>
+<p>Coda es un editor multilenguaje con el que podremos crear y editar archivos de varios tipos de lenguajes, conectarnos a diferentes servicios de almacenamiento online usando diferentes protocolos, controlar servidores e incluso bases de datos.</p>
+<p><span id="more-16780"></span></p>
+<p><strong>El cliente reúne en un solo sitio todo lo que necesita un desarrollador web para controlar su servidor y sus archivos,</strong> y es por eso por lo que me gusta tanto. La mejor forma que se me ocurre de enseñaros Coda es mostrándoos las 5 características que más me gustan de la app:</p>
+<h2>1. Gestión de sitios</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/01/23150954/Sitios-de-Coda-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/01/23150954/Sitios-de-Coda-para-Mac.jpg" alt="Sitios de Coda para Mac" width="2518" height="1880" class="aligncenter size-full wp-image-16784" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/01/23150954/Sitios-de-Coda-para-Mac.jpg 2518w, https://cdn.macsfera.com/wp-content/uploads/2018/01/23150954/Sitios-de-Coda-para-Mac.jpg 268w, https://cdn.macsfera.com/wp-content/uploads/2018/01/23150954/Sitios-de-Coda-para-Mac.jpg 1024w" sizes="(max-width: 2518px) 100vw, 2518px" /></a></p>
+<p>Una de las cosas que más me fascinan de Coda es que posee una propiedad que nos permite gestionar tres pilares fundamentales de nuestra web que normalmente son gestionados con otros clientes distintos al editor de programación:</p>
+<ol>
+<li>Gestión de archivos</li>
+<li>Gestión del servidor por SSH</li>
+<li>Gestión de la base de datos</li>
+</ol>
+<p>Coda nos va a permitir conectarnos a nuestro servidor por SFTP y FTP, y a algunos servicios populares como Amazon S3 y WebDAV. Gracias a ello podremos subir, descargar y editar recursos desde nuestro dispositivo sin necesidad de usar un cliente aparte.</p>
+<p>También podremos conectarnos por SSH a nuestro servidor para poder controlar toda su funcionalidad por la línea de comandos, todo dentro de Coda, como si fuese un archivo más.</p>
+<p>Por último, podremos conectarnos a las bases de datos de nuestra web con las que podremos interactuar gracias a la ejecución de sentencias SQL.</p>
+<p>Lo mejor de todo es que Coda permite crear “Sitios”, un lugar donde podremos guardar todos los parámetros de configuración (usuarios, contraseñas, puertos, etc.) asociados a una página web para que con un sólo click nos podamos conectar a ello. Esto es especialmente útil cuando se tienen una serie de contraseñas de larga longitud y cierta aletoriedad.</p>
+<p>Gracias a esta propiedad, he podido gestionar todos los archivos de MacSfera desde un sólo cliente. Subida y modificación de archivos, gestión de las configuraciones del servidor, consultas a la base de datos, etc. Todo desde una misma app y con una interfaz y funcionamiento amigable y familiar como la del Mac.</p>
+<h2>2. Personalización y extensión de funcionalidades</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/01/24000731/Personalizacion-plantilla-Coda.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/01/24000731/Personalizacion-plantilla-Coda.jpg" alt="Personalizacion plantilla Coda" width="2500" height="1563" class="aligncenter size-full wp-image-16790" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/01/24000731/Personalizacion-plantilla-Coda.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/01/24000731/Personalizacion-plantilla-Coda.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/01/24000731/Personalizacion-plantilla-Coda.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Cada persona es un mundo, y las necesidades de los desarrolladores de Panic no tienen porqué ser las mismas que las del resto de desarrolladores que van a usar su aplicación. Por eso Coda dispone de plugins, herramientas creadas por terceros que extienden la funcionalidad de la aplicación. De esta forma, cualquier desarrollador puede programar cualquier tarea e integrarla en Coda.</p>
+<p>A su vez, permite la instalación de temas, modos y complementos para la barra lateral, cumpliendo con el mismo objetivo que el de los plugins.</p>
+<p>En su propia página web podemos <a target="_blank" href="https://panic.com/coda/plugins.php" rel="noopener noreferrer">ver y buscar</a> entre todas las opciones que hay disponibles para ampliar el uso que le damos a Coda.</p>
+<h2>3. Herramientas de ayuda al desarrollador</h2>
+<div class="galerias medio" data-layout="2" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151538/Sistema-de-ficheros-Coda1.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151539/Conexion-SSH-de-Coda.jpg" title="" alt="" />
+
+</div>
+<p>Además de los plugins que se pueden instalar, Coda tiene algunas funciones internas ya pensadas para ayudar al desarrollador en su cometido.</p>
+<p>Estas son algunas de esas herramientas:</p>
+<ul>
+<li>Indexación de contenido local entre archivos</li>
+<li>Acceso directo a partes internas de un documento</li>
+<li>Herramientas de ayuda visual como selector de colores, pliegue de bloques de código o indicación vertical para código tabulado</li>
+<li>Servicio Panic Sync para sincronizar todas las preferencias y configuraciones entre dispositivos</li>
+<li>Posibilidad de publicar todos los archivos almacenados en local en tu web con un sólo comando</li>
+<li>Control de versiones con GIT</li>
+<li>Edición multiusuario online</li>
+<li>Motor de renderización de webs para simular la previsualización en cualquier navegador común</li>
+<li>Edición de múltiples líneas simultáneas</li>
+<li>Guías de programación que se pueden consultar desde la propia aplicación</li>
+</ul>
+<p>Todas ellas hace que trabajar con Coda sea aún más sencillo y, sobre todo, que no tengamos que depender de ningún agente externo.</p>
+<h2>4. Filosofía todo en uno</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151143/Herramientas-al-desarrollador-Coda.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151143/Herramientas-al-desarrollador-Coda.jpg" alt="Herramientas al desarrollador Coda" width="2500" height="1668" class="aligncenter size-full wp-image-16785" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151143/Herramientas-al-desarrollador-Coda.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/01/23151143/Herramientas-al-desarrollador-Coda.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/01/23151143/Herramientas-al-desarrollador-Coda.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En muchas aplicaciones y productos, la filosofía de la empresa es un componente que puede decidir el destino de la misma. En Panic esa filosofía refleja que quieren que todo ocurra dentro de Coda, y eso es algo que me encanta.</p>
+<p>Gracias a Coda podemos, como ya hemos visto, conectarnos al sistema de archivos de nuestra web, conectarnos al servidor y a la base de datos, pero también podemos abrir multiples documentos simultáneamente en la app, cargar una previsualización en directo de la web que estamos desarrollando, e incluso tiene manuales de programación para que, sin salir de la app, podamos consultarlos.</p>
+<p>Usando un Mac, el cambio entre ventanas es sencillo, rara vez nos supondrá un problema el usar otras apps junto a Coda, pero el que los desarrolladores hayan pensado que la mejor herramienta que pueden dar es aquella que sirva para la mayor parte de las cosas es algo que me agrada muchísimo y que habla de lo que Coda busca ser y lo que podemos esperar con futuras actualziaciones.</p>
+<h2>5. Multiplataforma</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151234/Coda-para-iPhone.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151234/Coda-para-iPhone.jpg" alt="Coda para iPhone" width="2500" height="1668" class="aligncenter size-full wp-image-16786" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151234/Coda-para-iPhone.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/01/23151234/Coda-para-iPhone.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/01/23151234/Coda-para-iPhone.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Por último, y esta es una característica que me ha facilitado muchísimo las cosas, <strong>Coda es multiplataforma,</strong> lo que significa que está disponible para Mac y iOS.</p>
+<p>Es cierto que la versión de iOS está más limitada, pero aún así somos capaces de escribir código, de poder conectarnos a nuestro servidor para subir, editar y descargar archivos, y de conectarnos vía SSH.</p>
+<p>Gracias a que es multiplataforma, he podido gestionar algunos imprevistos que han surgido en MacSfera desde <a target="_blank" title="Mi review del iPhone 7" href="www.macsfera.com/review-del-iphone-7/" rel="noopener noreferrer">mi iPhone</a>. Y he podido escribir algunos cambios en la plantilla desde <a target="_blank" title="iPad Pro: lo que esperaba, y mucho más" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/" rel="noopener noreferrer">mi iPad</a>, sin necesidad de usar un Mac.</p>
+<p>Hace tiempo decidí que tenía que montarme un entorno de trabajo que me permitiese realizar mi labor desde cualquier lado y con cualquier dispositivo, <strong>por eso Coda forma parte de mi repertorio de aplicaciones.</strong></p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151301/Coda-para-iPad.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151301/Coda-para-iPad.jpg" alt="Coda para iPad" width="2500" height="1670" class="aligncenter size-full wp-image-16787" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/01/23151301/Coda-para-iPad.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/01/23151301/Coda-para-iPad.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/01/23151301/Coda-para-iPad.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Si queréis saber más detalles acerca de estas características, echadle un vistazo a este artículo del <a target="_blank" href="https://panic.com/blog/top-20-secrets-of-coda-2/" rel="noopener noreferrer">propio blog de Panic</a>.</p>
+<p>No siempre uso Coda para escribir código, <strong>pero sí que lo uso a la hora de gestionar mis webs</strong> porque todas las herramientas que necesito están en una sola app y las facilidades que me brinda son dignas de su precio, incluida la multiplataforma.</p>
+<p>Coda está disponible para Mac por 84€ y para iOS por 28€. La versión para Mac se puede obtener a través de la <a target="_blank" href="https://panic.com/coda/" rel="noopener noreferrer">tienda online de Panic</a> mientras que la de iOS se puede obtener por <a target="_blank" href="https://geo.itunes.apple.com/es/app/coda/id500906297?mt=8&amp;at=1010l9LC" rel="noopener noreferrer">la App Store</a>.</p>
+<p>Hay un montón de editores de código por ahí, ya hablaremos de algunos más adelante, <strong>pero Coda es el único que me ha dejado fascinado por las herramientas nativas que posee y que nos permiten realizar un trabajo completo de desarrollador web.</strong></p>
+<p><span class="source">Coda</span> <span class="via"><a target="_blank" href="https://panic.com/coda/" rel="noopener noreferrer">Mac</a></span> <span class="via"><a target="_blank" href="https://geo.itunes.apple.com/es/app/coda/id500906297?mt=8&amp;at=1010l9LC" rel="noopener noreferrer">iOS</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/">Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

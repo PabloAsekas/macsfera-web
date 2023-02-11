@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Installous &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/installous/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:25:38 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Vulnerado el DRM de la Mac App Store</title>
+		<link>https://www.MacSfera.com/vulnerado-el-drm-de-la-mac-app-store/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 01 Jan 2011 20:23:58 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[DRM]]></category>
+		<category><![CDATA[Installous]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<guid isPermaLink="false">http://aticomaquero.com/?p=222</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/vulnerado-el-drm-de-la-mac-app-store/">Vulnerado el DRM de la Mac App Store</a></p>
+<p>Los creadores de Hackulous han anunciado que ya han vulnerado el DRM de la Mac App Store y sus aplicaciones. Esto es,</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/vulnerado-el-drm-de-la-mac-app-store/">Vulnerado el DRM de la Mac App Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/vulnerado-el-drm-de-la-mac-app-store/">Vulnerado el DRM de la Mac App Store</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/01/KickBack-jailbreak-para-la-Mac-App-Store.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/01/KickBack-jailbreak-para-la-Mac-App-Store.png" alt="" title="KickBack, jailbreak para la Mac App Store" width="550" height="169" class="aligncenter size-full wp-image-3346" srcset="https://www.MacSfera.com/wp-content/uploads/2011/01/KickBack-jailbreak-para-la-Mac-App-Store.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/01/KickBack-jailbreak-para-la-Mac-App-Store-300x92.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a><br />
+Los creadores de <strong>Hackulous</strong> han anunciado que <strong>ya han vulnerado el DRM de la <a href="www.macsfera.com/tag/mac-app-store">Mac App Store</a> y sus aplicaciones.</strong><br />
+<span id="more-222"></span><br />
+Esto es, una <strong><a href="www.macsfera.com/tag/aplicaciones">aplicación</a></strong> similar a <strong>Installous</strong> en los dispositivos <strong>iOS</strong> que <strong>nos permite obtener las aplicaciones de forma gratuita directamente al iDevice </strong>(en el caso de ser <strong>Installous</strong>).</p>
+<p>Esta aplicación ha recibido el nombre de <strong>KickBack</strong> y de momento no tiene fecha de lanzamiento, desde el blog han informado que van a esperar a que haya varias miles de <strong>apps</strong> en la <strong>Mac App Store</strong> y ya de paso solucionarán pequeños problemas que se crucen de por medio y evitarán lanzar de manera excesiva tantas actualizaciones.</p>
+<p>Habrá que estár atentos a como se desarroya los acontecimientos y que dice <strong>Apple</strong> al respecto.</p>
+<p>Fuente | <a href="http://appleinforma.com/2010/12/27/kickback-%C2%BFjailbreak-para-la-mac-app-store/">Apple-Informa</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/vulnerado-el-drm-de-la-mac-app-store/">Vulnerado el DRM de la Mac App Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

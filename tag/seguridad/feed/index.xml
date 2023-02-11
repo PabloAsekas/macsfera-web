@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Seguridad &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/seguridad/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:59:03 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Guía sobre la autenticación de doble factor y las contraseñas de aplicación de Apple</title>
+		<link>https://www.MacSfera.com/guia-la-autenticacion-doble-factor-las-contrasenas-aplicacion-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 22 May 2017 16:47:45 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Apple ID]]></category>
+		<category><![CDATA[Autenticación de doble factor]]></category>
+		<category><![CDATA[Contraseñas]]></category>
+		<category><![CDATA[Contraseñas de aplicación]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16579</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/guia-la-autenticacion-doble-factor-las-contrasenas-aplicacion-apple/">Guía sobre la autenticación de doble factor y las contraseñas de aplicación de Apple</a></p>
+<p>El 16 de mayo, Apple empezó a enviar emails avisando de que a partir del 15 de junio será obligatorio usar contraseñas</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/guia-la-autenticacion-doble-factor-las-contrasenas-aplicacion-apple/">Guía sobre la autenticación de doble factor y las contraseñas de aplicación de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/guia-la-autenticacion-doble-factor-las-contrasenas-aplicacion-apple/">Guía sobre la autenticación de doble factor y las contraseñas de aplicación de Apple</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171505/Guia-sobre-autenticacion-de-doble-factor-y-las-contrasenas-de-aplicacion-de-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171505/Guia-sobre-autenticacion-de-doble-factor-y-las-contrasenas-de-aplicacion-de-Apple.jpg" alt="Guia sobre autenticacion de doble factor y las contrasenas de aplicacion de Apple" width="2500" height="1667" class="aligncenter size-full wp-image-16581" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171505/Guia-sobre-autenticacion-de-doble-factor-y-las-contrasenas-de-aplicacion-de-Apple.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22171505/Guia-sobre-autenticacion-de-doble-factor-y-las-contrasenas-de-aplicacion-de-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22171505/Guia-sobre-autenticacion-de-doble-factor-y-las-contrasenas-de-aplicacion-de-Apple.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>El 16 de mayo, Apple empezó a enviar emails avisando de que <strong>a partir del 15 de junio será obligatorio usar contraseñas de aplicación</strong> para todas las apps que usen la información de iCloud y no sean oficiales.</p>
+<p><strong>Esto es todo lo que hay que saber para que no os quedéis sin ninguna aplicación y sepáis cómo activar la autenticación de doble factor y las contraseñas de Apple.</strong></p>
+<p><span id="more-16579"></span></p>
+<p>La guía está compuesta por las siguientes partes, podéis pinchar en cualquiera de ellas para acudir directamente:</p>
+<ul>
+<li><a href="#autenticacion-doble-factor" title="¿Qué es la autenticación de doble factor?">¿Qué es la autenticación de doble factor?</a></li>
+<li><a href="#contrasenas-aplicacion" title="¿Qué son las contraseñas de aplicación de Apple?">¿Qué son las contraseñas de aplicación de Apple?</a></li>
+<li><a href="#para-que-sirven-contrasenas-aplicacion" title="¿Para qué sirven entonces las contraseñas de aplicación de Apple?">¿Para qué sirven entonces las contraseñas de aplicación de Apple?</a></li>
+<li><a href="#obligaotrio-usar-contrasenas-aplicacion" title="¿Qué significa que sea obligatorio usar contraseñas de aplicación?">¿Qué significa que sea obligatorio usar contraseñas de aplicación?</a></li>
+<li><a href="#activar-autenticacion-doble-factor" title="Cómo activar la autenticación de doble factor">Cómo activar la autenticación de doble factor</a></li>
+<li><a href="#crear-contrasena-aplicacion" title="Cómo crear y gestionar una contraseña de aplicación">Cómo crear y gestionar una contraseña de aplicación</a></li>
+<li><a href="#consejos-seguridad" title="Consejos de seguridad">Consejos de seguridad</a></li>
+</ul>
+<p>Sin mas, empezamos:</p>
+<p><a name="autenticacion-doble-factor"></a></p>
+<h2>¿Qué es la autenticación de doble factor?</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/05/22180900/Codigo-de-autenticacion-de-doble-factor-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/05/22180900/Codigo-de-autenticacion-de-doble-factor-Apple.jpg" alt="Codigo de autenticacion de doble factor Apple" width="2500" height="1667" class="aligncenter size-full wp-image-16590" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/05/22180900/Codigo-de-autenticacion-de-doble-factor-Apple.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22180900/Codigo-de-autenticacion-de-doble-factor-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22180900/Codigo-de-autenticacion-de-doble-factor-Apple.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La autenticación de doble factor es un sistema de seguridad extra que ofrece Apple para proteger nuestras cuentas. <strong>Es como el sistema de verificación en dos pasos pero más completo.</strong></p>
+<p>La idea general es que para iniciar sesión necesitas dos cosas: <strong>una cuenta con contraseña y un código de seguridad.</strong> La cuenta con contraseña siempre es igual pero el código de seguridad cambia cada vez que iniciemos sesión.</p>
+<p>Además de ser caduco, <strong>ese código sólo se envía a dispositivos de confianza</strong> que están previamente autorizados por el dueño de la cuenta.</p>
+<p>De este modo, no basta con saber el usuario y la contraseña, también hay que tener un dispositivo de confianza para poder mirar el código que se envía en el momento de intentar iniciar sesión.</p>
+<p>Es más o menos igual que el sistema de verificación en dos pasos de toda la vida. El concepto es el mismo, pero el sistema de autenticación de doble factor de Apple es más moderno porque mientras que el sistema de verificación en dos pasos envía el código siempre por SMS y siempre al mismo teléfono, <strong>el sistema de autenticación de doble factor se integra perfectamente con macOS, iOS, watchOS y tvOS para entregar el código de forma inteligente.</strong></p>
+<p>El sistema permite detectar qué dispositivos está usando el usuario, <strong>enviando el código de seguridad a todos aquellos que estén disponibles.</strong> Además del código, <strong>envía la localización del dispositivo que quiere iniciar sesión,</strong> y todo esto integrado en el sistema, no enviado por un SMS.</p>
+<p>Esto permite que desde el Mac, desde el iPhone, desde el iPad, desde el Apple TV o incluso desde el Apple Watch, podamos gestionar los códigos sin necesidad de depender de un teléfono sí o sí.</p>
+<p>Gracias a este sistema, nuestra cuenta estará más protegida, ya no importará tanto que nos roben la contraseña, pues los atacantes necesitarán uno de nuestros dispositivos de confianza <sup class="modern-footnotes-footnote ">1</sup> sin el cual no obtendrán el código de seguridad necesario para entrar. A pesar de que no importe tanto que nos roben la contraseña, no dejéis de poner contraseñas complejas y no se las deis a nadie.</p>
+<p>En la <a target="_blank" href="https://support.apple.com/es-es/HT204915">web de Apple</a> podéis encontrar más información sobre el propio sistema.</p>
+<p><a name="contrasenas-aplicacion"></a></p>
+<h2>¿Qué son las contraseñas de aplicación de Apple?</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171627/Contrasena-de-Aplicacion-de-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171627/Contrasena-de-Aplicacion-de-Apple.jpg" alt="Contraseña de Aplicacion de Apple" width="1400" height="738" class="aligncenter size-full wp-image-16582" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171627/Contrasena-de-Aplicacion-de-Apple.jpg 1400w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22171627/Contrasena-de-Aplicacion-de-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22171627/Contrasena-de-Aplicacion-de-Apple.jpg 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /></a></p>
+<p>Las contraseñas de aplicación de Apple son una medida de seguridad extra que aporta Apple para que podamos utilizar <a target="_blank" title="Aplicaciones" href="www.macsfera.com/tag/aplicaciones">aplicaciones</a> de terceros que necesiten conectarse a nuestra cuenta de iCloud y no sean compatibles con la autenticación de doble factor.</p>
+<p>En vez de iniciar sesión con nuestro correo y nuestra contraseña de Apple, ahora vamos a iniciar sesión con nuestro correo de Apple y <strong>una contraseña aleatoria que sólo vale para una aplicación.</strong></p>
+<p>De esta forma, para poder utilizar estas aplicaciones, <strong>necesitaremos generar una contraseña,</strong> iniciar sesión con nuestra cuenta de Apple en la aplicación y, en vez de poner nuestra contraseña de cuenta, <strong>pegar la contraseña que hemos generado</strong> para que la aplicación tenga permisos suficientes para poder usar la información de la cuenta.</p>
+<p>Esto añade una capa de seguridad extra para evitar usos inapropiados. Es un poco molesto, pero una vez que se hace, <strong>no se tiene que hacer más</strong> <sup class="modern-footnotes-footnote ">2</sup><strong>.</strong></p>
+<p>Pensad que, en vez de usar vuestra contraseña de Apple, debéis usar otra contraseña que genera Apple y que sólo os va a valer para esa aplicación en particular.</p>
+<p>Para poder generar contraseñas de aplicación es obligatorio tener activada la autenticación de doble factor.</p>
+<p>En la <a target="_blank" href="https://support.apple.com/es-es/HT204397">web de Apple</a> podéis encontrar más información sobre las contraseñas de aplicación.</p>
+<p><a name="para-que-sirven-contrasenas-aplicacion"></a></p>
+<h2>¿Para qué sirven entonces las contraseñas de aplicación de Apple?</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/09164221/Apple-iMac-logo.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/11/09164221/Apple-iMac-logo.jpg" alt="Apple iMac logo" width="2500" height="1667" class="aligncenter size-full wp-image-15759" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/09164221/Apple-iMac-logo.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/11/09164221/Apple-iMac-logo.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/11/09164221/Apple-iMac-logo.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Si ya tenemos la autenticación de doble factor, ¿para qué queremos entonces las contraseñas de aplicación de Apple? Es decir, la capa de seguridad ya la tenemos con el doble factor, no deberíamos necesitar ningún código nuevo.</p>
+<p>Y ahí reside el uso real de las contraseñas de aplicación de Apple, <strong>sirven para cuando no podamos autorizar a una aplicación de terceros con el doble factor.</strong></p>
+<p>Os voy a poner un ejemplo muy claro y directo:</p>
+<p>La versión de <a target="_blank" title="Spark: mi cliente favorito de email en Mac, iPhone y iPad" href="www.macsfera.com/spark-cliente-favorito-email-mac-iphone-ipad/">Spark</a> no funciona con la autenticación de doble factor <sup class="modern-footnotes-footnote ">3</sup>. Como nuestra cuenta de iCloud tiene más seguridad de lo normal, <strong>necesitamos un sistema para validar la cuenta y que Spark pueda usar los datos sin ningún problema.</strong></p>
+<p>Por ello, generamos una contraseña de aplicación, la pegamos en el campo de contraseña después de poner nuestra cuenta y automáticamente se iniciará sesión de forma segura.</p>
+<p>A partir de ese momento, <strong>podremos usar la aplicación sin ningún problema como antes.</strong> La única diferencia es que la contraseña que metemos es una que nos da Apple y que podemos anular en cualquier comento.</p>
+<p><a name="obligaotrio-usar-contrasenas-aplicacion"></a></p>
+<h2>¿Qué significa que sea obligatorio usar contraseñas de aplicación?</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164352/MacBook-Dorado-Retina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164352/MacBook-Dorado-Retina.jpg" alt="MacBook Dorado Retina" width="2500" height="1667" class="aligncenter size-full wp-image-11138" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06164352/MacBook-Dorado-Retina.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164352/MacBook-Dorado-Retina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06164352/MacBook-Dorado-Retina.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Como he comentado, las contraseñas de aplicación a día de hoy se usan en aplicaciones de terceros sólo si tenemos activada la autenticación de doble factor. Aplicaciones no oficiales de Apple que necesitan acceso a la información asociada a nuestra cuenta de Apple (calendario, email, notas, recordatorios, etc.).</p>
+<p>A partir del 15 de junio, <strong>todo usuario que use algún tipo de aplicación similar deberá, obligatoriamente, activar la autenticación de doble factor y luego generar contraseñas para las distintas aplicaciones que use</strong> <sup class="modern-footnotes-footnote ">4</sup> <strong>.</strong></p>
+<p>Por eso, si en vuestro caso no usáis aplicaciones de terceros, no tenéis que preocuparos de nada (aunque os vendría bien proteger vuestra cuenta con la autenticación de doble factor). Si sí es vuestro caso, <strong>prestad atención porque esto es lo que tendréis que hacer:</strong></p>
+<ol>
+<li>Activar la autenticación de doble factor si no la teníais activada</li>
+<li>Generar una contraseña de aplicación por cada aplicación distinta que queráis usar</li>
+<li>Iniciar sesión con cada contraseña única en las distintas aplicaciones</li>
+</ol>
+<p>Aquí os detallo cómo hacer cada una de las cosas, paso a paso.</p>
+<p><a name="activar-autenticacion-doble-factor"></a></p>
+<h2>Cómo activar la autenticación de doble factor</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171746/Activar-autenticacion-de-doble-factor-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171746/Activar-autenticacion-de-doble-factor-Apple.jpg" alt="Activar autenticacion de doble factor Apple" width="2500" height="1667" class="aligncenter size-full wp-image-16583" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171746/Activar-autenticacion-de-doble-factor-Apple.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22171746/Activar-autenticacion-de-doble-factor-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22171746/Activar-autenticacion-de-doble-factor-Apple.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ya sea porque queráis proteger más vuestra cuenta de Apple o porque necesitéis las contraseñas de aplicación, <strong>así es como se activa la autenticación de doble factor de Apple:</strong></p>
+<p><strong>En un dispositivo iOS:</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171959/Activar-autenticacion-de-doble-factor-iPhone.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171959/Activar-autenticacion-de-doble-factor-iPhone.jpg" alt="Activar autenticacion de doble factor iPhone" width="1997" height="1990" class="aligncenter size-full wp-image-16584" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/05/22171959/Activar-autenticacion-de-doble-factor-iPhone.jpg 1997w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22171959/Activar-autenticacion-de-doble-factor-iPhone.jpg 201w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22171959/Activar-autenticacion-de-doble-factor-iPhone.jpg 1024w" sizes="(max-width: 1997px) 100vw, 1997px" /></a></p>
+<ol>
+<li>Acceder a <strong>Ajustes</strong></li>
+<li>Acceder a nuestra <strong>cuenta de Apple</strong></li>
+<li>Acceder al apartado de <strong>Contraseña y seguridad</strong> (metiendo la contraseña de vuestra cuenta si es necesario)</li>
+<li>Acceder al apartado de <strong>Activar autenticación de doble factor</strong></li>
+<li>Seguir los pasos para completar el proceso</li>
+</ol>
+<p><strong>En un dispositivo macOS:</strong></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172023/Activar-autenticacion-de-doble-factor-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172023/Activar-autenticacion-de-doble-factor-Mac.jpg" alt="Activar autenticacion de doble factor Mac" width="1042" height="565" class="aligncenter size-full wp-image-16585" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172023/Activar-autenticacion-de-doble-factor-Mac.jpg 1042w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22172023/Activar-autenticacion-de-doble-factor-Mac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22172023/Activar-autenticacion-de-doble-factor-Mac.jpg 1024w" sizes="(max-width: 1042px) 100vw, 1042px" /></a></p>
+<ol>
+<li>Acceder a <strong>Preferencias del Sistema</strong></li>
+<li>Acceder al apartado de <strong>iCloud</strong></li>
+<li>Acceder a <strong>Datos de la cuenta</strong> (metiendo la contraseña de vuestra cuenta si es necesario)</li>
+<li>Acceder a la pestaña de <strong>Seguridad</strong></li>
+<li>Acceder a <strong>Activar autenticación de doble factor…</strong></li>
+<li>Seguir los pasos para completar el proceso</li>
+</ol>
+<p>Por regla general, activar la autenticación de doble factor implica confirmar el número de teléfono y confirmar un aviso que nos indica qué dispositivos inferiores a iOS 9 o macOS El Capitan necesitarán una contraseña de aplicación de Apple.</p>
+<p>Una vez que activéis la autenticación en dos pasos, <strong>deberéis autorizar todos los dispositivos que tengáis asociados en vuestra cuenta.</strong> Para ello, basta con acceder a los ajustes de dichos dispositivos, meter la contraseña de vuestra cuenta de Apple y luego un código de seguridad que os saltará en alguno de vuestros dispositivos de confianza.</p>
+<p>De esta forma, <strong>ya tendréis todos los dispositivos autorizados para usar vuestra cuenta de Apple sin problemas,</strong> justo como antes de activar la autenticación de doble factor.</p>
+<p>Y sí, en el momento en el que iniciéis sesión en un dispositivo, <strong>éste pasa automáticamente a ser un dispositivo de confianza.</strong></p>
+<p>Al margen de que no uséis las contraseñas de aplicación, os recomiendo que activéis la autenticación de doble factor porque es una capa de seguridad extra que os ayudará a mantener vuestra cuenta a salvo. <strong>Recalco la importancia de esto porque no es una cuenta sin más, en ella probablemente habréis comprado aplicaciones, música, películas, adjuntado una tarjeta de crédito e incluso sincronizáis la posición de vuestros dispositivos, toda seguridad es poca.</strong></p>
+<p><a name="crear-contrasena-aplicacion"></a></p>
+<h2>Cómo crear y gestionar una contraseña de aplicación</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172104/Generar-contrasena-de-aplicacion-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172104/Generar-contrasena-de-aplicacion-Apple.jpg" alt="Generar contrasena de aplicacion Apple" width="1902" height="1203" class="aligncenter size-full wp-image-16586" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172104/Generar-contrasena-de-aplicacion-Apple.jpg 1902w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22172104/Generar-contrasena-de-aplicacion-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22172104/Generar-contrasena-de-aplicacion-Apple.jpg 1024w" sizes="(max-width: 1902px) 100vw, 1902px" /></a></p>
+<p>Así pues, sabiendo que si queremos usar alguna aplicación de terceros tenemos que generar una contraseña de aplicación, vamos a ver cómo hacerlo:</p>
+<ol>
+<li><strong>Accedemos a la web de Apple ID de Apple:</strong> <a target="_blank" href="https://appleid.apple.com/">https://appleid.apple.com/</a> <sup class="modern-footnotes-footnote ">5</sup></li>
+<li><strong>Iniciamos sesión con nuestro ID de Apple, la contraseña, y el código de seguridad</strong> <sup class="modern-footnotes-footnote ">6</sup></li>
+<li>En el apartado de <strong>Seguridad</strong>, encontramos un subapartado llamado <strong>Contraseñas de aplicación</strong> y <strong>un enlace para crear contraseñas</strong></li>
+<li>Introducimos un <strong>nombre identificativo</strong> de esa contraseña</li>
+<li>Se generará automáticamente una contraseña y se mostrará en pantalla.<strong> Esa contraseña será la que tengamos que utilizar,</strong> sólo se podrá ver en ese momento, así que copiadla</li>
+<li><strong>Pegamos la contraseña en el campo de contraseña de la aplicación</strong></li>
+</ol>
+<p><strong>Hay que tener algunas cosas en cuenta:</strong></p>
+<ul>
+<li>Sólo se pueden generar 25 contraseñas a la vez</li>
+<li>La contraseña sólo se puede utilizar con un tipo de aplicación, distintas instancias de esa app, pero en teoría sólo aplicables a una aplicación</li>
+<li>Sólo se pueden generar a través de la web de Apple</li>
+<li>Sólo se puede ver la contraseña una vez, cuando se crea</li>
+</ul>
+<p>A parte de crearlas, <strong>vamos a poder anularlas,</strong> estos son los pasos para revocar una, o todas:</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172131/Anular-contrasenas-de-aplicacion-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172131/Anular-contrasenas-de-aplicacion-Apple.jpg" alt="Anular contraseñas de aplicacion Apple" width="1902" height="1203" class="aligncenter size-full wp-image-16587" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172131/Anular-contrasenas-de-aplicacion-Apple.jpg 1902w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22172131/Anular-contrasenas-de-aplicacion-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22172131/Anular-contrasenas-de-aplicacion-Apple.jpg 1024w" sizes="(max-width: 1902px) 100vw, 1902px" /></a></p>
+<ol>
+<li><strong>Accedemos a la web de Apple ID de Apple:</strong> <a target="_blank" href="https://appleid.apple.com/">https://appleid.apple.com/</a> <sup class="modern-footnotes-footnote ">7</sup></li>
+<li><strong>Iniciamos sesión con nuestro ID de Apple, la contraseña, y el código de seguridad</strong> <sup class="modern-footnotes-footnote ">8</sup></li>
+<li>En el apartado de <strong>Seguridad</strong>, pulsamos el botón que pone <strong>Editar</strong></li>
+<li>En el subapartado <strong>Contraseñas de aplicación</strong> pinchamos en el enlace que pone <strong>Ver historial</strong></li>
+<li>Se desplegará una lista con todas las contraseñas que hemos generado, <strong>identificadas con el nombre que pusimos al crearlas,</strong> y con la fecha de creación</li>
+<li>Si queremos, <strong>podemos anular todas, o anular una individual</strong> pulsando la cruz que hay al lado de cada contraseña</li>
+</ol>
+<p><strong>Y así es como conseguimos generar una contraseña y anularla.</strong></p>
+<p>Si os estáis planteando porqué necesitaréis en un futuro anular una contraseña, muy sencillo: porque os roben o perdáis un dispositivo, porque dejéis de usar esa aplicación, porque vendáis el dispositivo, porque lo cambiéis por otro más nuevo, etc.</p>
+<p><a name="consejos-seguridad"></a></p>
+<h2>Consejos de seguridad</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/08/17232056/MacBook-Pro-Retina-13.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/08/17232056/MacBook-Pro-Retina-13.jpg" alt="MacBook Pro Retina 13" width="2500" height="1667" class="aligncenter size-full wp-image-11858" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/08/17232056/MacBook-Pro-Retina-13.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/08/17232056/MacBook-Pro-Retina-13.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/08/17232056/MacBook-Pro-Retina-13.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Tras pensar bastante en ello, <strong>aquí van unos pequeños consejos que espero que os ayuden en cuanto a la seguridad de vuestra cuenta de Apple.</strong></p>
+<ul>
+<li>A pesar de que podamos usar algunas contraseñas en varias aplicaciones, si podéis, <strong>tened una para cada aplicación y cada dispositivo.</strong> Puede ser un poco pesado al principio, pero luego, al manejar cada dispositivo individualmente, lo agradeceréis <sup class="modern-footnotes-footnote ">9</sup></li>
+<li><strong>Identificad bien cada contraseña,</strong> para que así luego, a la hora de gestionarlas, no tengáis dudas. Una buena forma de identificarlas es <em>“Nombre de la app &#8211; dispositivo al que autorizáis”</em></li>
+<li>Aunque no uséis las contraseñas de aplicaciones, <strong>activad la autenticación de doble factor si no lo habéis hecho ya porque vuestra cuenta va a estar más protegida</strong></li>
+<li>No dejéis que cualquier dispositivo se convierta en dispositivo de confianza. Si lo hacéis, cada vez que necesitéis un código de acceso, todos los dispositivos lo recibirán por igual <sup class="modern-footnotes-footnote ">10</sup></li>
+</ul>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172213/Guia-sobre-seguridad-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172213/Guia-sobre-seguridad-Apple.jpg" alt="Guia sobre seguridad Apple" width="2500" height="1667" class="aligncenter size-full wp-image-16588" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/05/22172213/Guia-sobre-seguridad-Apple.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22172213/Guia-sobre-seguridad-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/05/22172213/Guia-sobre-seguridad-Apple.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Si no aprendemos a usar las técnicas de seguridad que nos ponen al alcance las empresas y los servicios, <strong>los atacantes tendrán más facilidades que nunca para robar datos, quitarnos la cuenta, etc.</strong></p>
+<p>Estos sistemas no son infalibles, pero dificultan mucho el objetivo al atacante. Así que, en la medida de lo posible, usad siempre las técnicas proporcionadas.</p>
+<p><strong>Por eso me alegro de que Apple obligue a usar las contraseñas de aplicación</strong> <sup class="modern-footnotes-footnote ">11</sup><strong>,</strong> es hora de romper un poco con la tónica del todo fácil pero inseguro por luchar un poco por la cordura y la seguridad, <strong>aunque eso implique aprender a estar más seguros.</strong></p>
+<p>Y por eso nace esta guía, <strong>para que todo el mundo sepa qué es la autenticación de doble factor de Apple, qué son las contraseñas de aplicación, para qué sirven, cómo activarlas y cómo usarlas.</strong></p>
+<p>Si os ha servido y creéis que le puede servir a otros usuarios que conocéis, <strong>compartid la guía para que sepan cómo protegerse mejor y cómo no quedarse sin las aplicaciones que usan día a día.</strong></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Que a su vez están protegidos con contraseña y con huella dactilar.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;A menos que borremos la app, restauremos el dispositivo, etc.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Desconozco si es porque los desarrolladores no la han implementado o porque realmente no pueden implementarla y de ahí que naciesen las contraseñas de aplicación.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Hoy, podemos iniciar sesión en cualquier app con nuestra cuenta y nuestra contraseña habitual, a partir del 15 de junio será obligatorio usar las contraseñas de aplicación porque si no, no podremos usar la app.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;Esta, <strong>y sólo esta,</strong> es la única forma de acceder a nuestra cuenta de Apple desde la web.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;Recordad que la autenticación de doble factor está activada, así que necesitáis tener un dispositivo que os diga el código.</div><div>7&nbsp;&nbsp;&nbsp;&nbsp;Esta, <strong>y sólo esta,</strong> es la única forma de acceder a nuestra cuenta de Apple desde la web.</div><div>8&nbsp;&nbsp;&nbsp;&nbsp;Recordad que la autenticación de doble factor está activada, así que necesitáis tener un dispositivo que os diga el código.</div><div>9&nbsp;&nbsp;&nbsp;&nbsp;Si creáis una sola contraseña, y luego os toca anularla en un dispositivo, tendréis que iniciar sesión en todos los dispositivos restantes otra vez, con una nueva contraseña.</div><div>10&nbsp;&nbsp;&nbsp;&nbsp;Desde la <a target="_blank" href="https://appleid.apple.com/">web de Apple</a> se pueden gestionar los dispositivos de confianza, eliminando los que no queráis.</div><div>11&nbsp;&nbsp;&nbsp;&nbsp;Que a su vez obligan a tener la autenticación de doble factor activada.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/guia-la-autenticacion-doble-factor-las-contrasenas-aplicacion-apple/">Guía sobre la autenticación de doble factor y las contraseñas de aplicación de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuevo iOS 9</title>
+		<link>https://www.MacSfera.com/nuevo-ios-9/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2015 15:07:36 +0000</pubDate>
+				<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[iCloud Drive]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Mapas]]></category>
+		<category><![CDATA[Metal]]></category>
+		<category><![CDATA[Multitarea]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Notas]]></category>
+		<category><![CDATA[Otoño]]></category>
+		<category><![CDATA[Peso]]></category>
+		<category><![CDATA[Rendimiento]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Siri]]></category>
+		<category><![CDATA[Slide Over]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<category><![CDATA[Teclados]]></category>
+		<category><![CDATA[The epicenter of change]]></category>
+		<category><![CDATA[Wallet]]></category>
+		<category><![CDATA[WWDC15]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10816</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ios-9/">Nuevo iOS 9</a></p>
+<p>Con motivo de la keynote de la WWDC15, Apple presentó ayer el nuevo sistema operativo para dispositivos móviles: iOS 9. Este sistema,</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ios-9/">Nuevo iOS 9</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ios-9/">Nuevo iOS 9</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154814/iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154814/iOS-9.jpg" alt="iOS 9" width="1013" height="601" class="aligncenter size-full wp-image-10817" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154814/iOS-9.jpg 1013w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09154814/iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09154814/iOS-9.jpg 220w" sizes="(max-width: 1013px) 100vw, 1013px" /></a></p>
+<p>Con motivo de <a href="www.macsfera.com/habra-streaming-oficial-de-la-keynote-de-la-wwdc/" title="Habrá streaming oficial de la keynote de la WWDC" target="_blank" rel="noopener noreferrer">la keynote</a> de la <a href="www.macsfera.com/la-wwdc-de-2015-se-celebrara-del-8-al-12-de-junio/" title="La WWDC de 2015 se celebrará del 8 al 12 de junio" target="_blank" rel="noopener noreferrer">WWDC15</a>, <strong>Apple presentó ayer el nuevo sistema operativo para dispositivos móviles: iOS 9.</strong></p>
+<p>Este sistema, al igual que el <a href="www.macsfera.com/nuevo-os-x-el-capitan/" title="Nuevo OS X El Capitan" target="_blank" rel="noopener noreferrer">nuevo OS X El Capitan</a>, <strong>se centra en mejorar la experiencia de uso del usuario final y mejorar el rendimiento general del dispositivo.</strong> Según las publicaciones de los usuarios que están probando las betas, parece que no existen grandes novedades, pero por el contrario se han implementado un montón de funciones que facilitan notablemente el uso que le damos al terminal y están más contentos por el hecho de mejorar la experiencia.</p>
+<p><span id="more-10816"></span></p>
+<p><a name="creando-y-reinventando"></a></p>
+<h2>Creando y reinventando</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154852/Aplicacion-notas-y-news-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154852/Aplicacion-notas-y-news-iOS-9.jpg" alt="Aplicación notas y news iOS 9" width="1500" height="962" class="aligncenter size-full wp-image-10818" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154852/Aplicacion-notas-y-news-iOS-9.jpg 1500w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09154852/Aplicacion-notas-y-news-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09154852/Aplicacion-notas-y-news-iOS-9.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Apple sigue guiándose por la filosofía de empezar a usar desde que lo sacas de la caja, <strong>por ello ha creado algunas aplicaciones con funcionalidades nuevas y ha hecho un rediseño de algunas ya existentes:</strong></p>
+<p><strong>La nueva aplicación News</strong> permite recolectar noticias en base a nuestros gustos de distintos medios. Estas noticias estarán presentes en una sola aplicación, de modo que ya no es necesario ir recorriendo muchas fuentes, todo en el mismo lugar. Además, el sistema es muy rápido, un digno rival de Facebook News, directamente en nuestro teléfono. La parte negativa de este nuevo sistema es que sólo está disponible en EEUU, UK y Australia, por lo que tendremos que esperar si queremos usarlo. Otro punto negativo es que parece que no soporta que los usuarios agreguen su propio contenido a través de RSS, con lo que aunque no dispongamos de fuentes en nuestro país, tampoco podremos usarla para nuestros propios fines.</p>
+<p><strong>La aplicación Notas,</strong> al igual que pasó en la versión de escritorio, ahora está más vitaminada permitiendo añadir listas de tareas, direcciones web, ubicaciones de mapas, dibujar, etc. La aplicación también se implementa en la propiedad ShareSheets de iOS, de modo que podemos mandar casi cualquier cosa a dicha aplicación.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154928/Mapas-en-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154928/Mapas-en-iOS-9.jpg" alt="Mapas en iOS 9" width="1336" height="1282" class="aligncenter size-full wp-image-10819" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154928/Mapas-en-iOS-9.jpg 1336w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09154928/Mapas-en-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09154928/Mapas-en-iOS-9.jpg 1024w" sizes="(max-width: 1336px) 100vw, 1336px" /></a></p>
+<p><strong>Mapas</strong> también incluye la novedad ya presentada en OS X, ahora podemos ver con detalle todas las líneas de transporte público de una ciudad. Podemos obtener detalles de las estaciones, las líneas, los tiempos de llegada y salida, cuanto tiempo hay que andar en caso de que haya transbordos, etc. También se ha implementado la propiedad de Cercano, para obtener todo tipo de comercios y restaurantes cerca de nosotros con el fin de estar siempre al tanto de las oportunidades que nos surgen cuando estamos por la calle.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154950/Wallet-en-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154950/Wallet-en-iOS-9.jpg" alt="Wallet en iOS 9" width="1700" height="1352" class="aligncenter size-full wp-image-10820" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09154950/Wallet-en-iOS-9.jpg 1700w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09154950/Wallet-en-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09154950/Wallet-en-iOS-9.jpg 1024w" sizes="(max-width: 1700px) 100vw, 1700px" /></a></p>
+<p>Passbook desaparece y deja paso a una <strong>nueva aplicación llamada Wallet.</strong> Esta aplicación se encarga de manejar tus tarjetas de crédito para pagar con Apple Pay y añade todas esas tarjetas de eventos, entradas o vuelos que manejaba Passbook. Además, ahora incluye tarjetas de fidelización de las distintas tiendas a las que acudamos. De esta manera todo es virtual y cada vez requerimos de menos espacio en nuestra cartera.</p>
+<p><strong>CarPlay</strong> se vuelve más funcional permitiendo reproducir los mensajes que recibamos y se combina mucho mejor con nuestro coche para que el móvil sea todo lo útil que nos es en la mano, pero sin retirar la vista de la carretera ni poner en peligro a nadie.</p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155014/Siri-en-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155014/Siri-en-iOS-9.jpg" alt="Siri en iOS 9" width="2184" height="1335" class="aligncenter size-full wp-image-10821" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155014/Siri-en-iOS-9.jpg 2184w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155014/Siri-en-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155014/Siri-en-iOS-9.jpg 1024w" sizes="(max-width: 2184px) 100vw, 2184px" /></a></p>
+<p><strong>Siri</strong> es una de los puntos fuertes en cuanto a novedades se refiere. Ha sido rediseñada de cero varias veces desde que se presentó, y por ese motivo han conseguido que vaya hasta un 40% más rápido en las respuestas, con un lenguaje más natural y un tono más agradable, aunque no se han conformado con ello:</p>
+<p>Ahora <strong>Siri es capaz de buscar información en aplicaciones gracias a su nueva API</strong> que cada desarrollador podrá implementar. También se vuelve más precisa y útil, y sabrá hacer búsquedas en profundidad a la par que será consciente de nuestro entorno.</p>
+<p>Esto se traduce en hacer búsquedas muy precisas que ni si quiera hemos sido conscientes de organizar: <em>&quot;Muestra fotos del cumpleaños de Ana&quot;</em>. O en pedir cosas a Siri en base a acciones que ocurren en nuestro teléfono sin especificar: <em>&quot;Recuérdame esto cuando llegue a casa&quot;</em>.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155042/Busqueda-en-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155042/Busqueda-en-iOS-9.jpg" alt="Búsqueda en iOS 9" width="1336" height="757" class="aligncenter size-full wp-image-10822" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155042/Busqueda-en-iOS-9.jpg 1336w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155042/Busqueda-en-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155042/Busqueda-en-iOS-9.jpg 1024w" sizes="(max-width: 1336px) 100vw, 1336px" /></a></p>
+<p>Al igual que ocurre con Spotlight en el Mac, <strong>ahora el cuadro de búsqueda de iOS</strong> –que ha cambiado de lugar volviendo al lado izquierdo del primer escritorio- <strong>se vuelve más útil</strong> al proveer de información basada en nuestras peticiones. De esta forma podremos obtener contactos, direcciones, detalles sobre el tiempo o la bolsa, operaciones matemáticas, etc.</p>
+<p><strong>Siri se ha vuelto proactivo,</strong> una cualidad que lleva presente en otros asistentes, pero que puede ser de gran utilidad. Esto supone que Siri aprende de nuestros hábitos y costumbres y en base a eso nos sugiere acciones inteligentes antes incluso de que lo pidamos.</p>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155137/iCloud-Drive-en-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155137/iCloud-Drive-en-iOS-9.jpg" alt="iCloud Drive en iOS 9" width="696" height="289" class="aligncenter size-full wp-image-10823" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155137/iCloud-Drive-en-iOS-9.jpg 696w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155137/iCloud-Drive-en-iOS-9.jpg 300w" sizes="(max-width: 696px) 100vw, 696px" /></a></p>
+<p>Hay unas cuantas novedades ocultas en esta nueva versión, y una de ellas es <strong>un gestor de archivos de iCloud Drive</strong> que tenemos que sacar desde las preferencias del dispositivo. No sabéis lo mucho que me he alegrado al saber que esto existía puesto que ya os comenté <a href="www.macsfera.com/el-ipad-como-equipo-de-trabajo/" title="El iPad como equipo de trabajo" target="_blank" rel="noopener noreferrer">ciertos deseos</a> para que Apple mejorase iOS.</p>
+<h3><a name="propiedades-exclusivas">Propiedades exclusivas del iPad</a></h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155156/Multitarea-iPad-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155156/Multitarea-iPad-iOS-9.jpg" alt="Multitarea iPad iOS 9" width="1538" height="1110" class="aligncenter size-full wp-image-10824" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155156/Multitarea-iPad-iOS-9.jpg 1538w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155156/Multitarea-iPad-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155156/Multitarea-iPad-iOS-9.jpg 1024w" sizes="(max-width: 1538px) 100vw, 1538px" /></a></p>
+<p>Apple dio la campanada ayer presentando una serie de novedades MUY pedidas por los usuarios durante bastante tiempo en el iPad y que por fin han implementado, para nuestro gusto. <strong>La primera de todas fue la multitarea real.</strong></p>
+<p><strong>Slide Over</strong> es la nueva propiedad por la cual podemos tener dos aplicaciones abiertas a la vez en el iPad. Ya sabéis que cada aplicación que abrimos en iOS ocupa la pantalla completa y sólo podemos centrarnos en ella. <strong>Pues ahora esa pantalla se dividiría a nuestro antojo para poder tener dos aplicaciones a la vez funcionando.</strong> Además, ha diseñado un sistema llamado Picture in Picture que permite dejar una ventana de vídeo flotando y operar con otra aplicación a pantalla completa.</p>
+<p>El punto negativo de estas novedades es que los dispositivos están muy limitados a su uso, <strong>siendo los últimos presentados los más beneficiados.</strong> La potencia de los procesadores tiene un gran papel y los modelos antiguos no están a la altura.</p>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155229/Teclado-especial-iPad-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155229/Teclado-especial-iPad-iOS-9.jpg" alt="Teclado especial iPad iOS 9" width="1538" height="1110" class="aligncenter size-full wp-image-10825" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155229/Teclado-especial-iPad-iOS-9.jpg 1538w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155229/Teclado-especial-iPad-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155229/Teclado-especial-iPad-iOS-9.jpg 1024w" sizes="(max-width: 1538px) 100vw, 1538px" /></a></p>
+<p><strong>El teclado también ha sufrido un gran cambio</strong> y ahora cumple con varias funciones que se pueden personalizar para tenerlas a mano. Funciones como copiar o pegar, o algunas más específicas de las aplicaciones como adjuntar archivos, etc. Además, <strong>el teclado ahora es como un trackpad,</strong> podremos mover el cursor por toda la pantalla e incluso seleccionar texto. Estas propiedades ya las incluyen aplicaciones como <a href="www.macsfera.com/ulysses-la-aplicacion-que-todo-escritor-deberia-usar/" title="Ulysses: la aplicación que todo escritor debería usar" target="_blank" rel="noopener noreferrer">Ulysses</a>, pero ahora vendrían de forma nativa.</p>
+<p>Si trabajamos con teclados externos, <strong>ahora podremos ejecutar ciertos comandos</strong> para cambiar de aplicaciones, hacer búsquedas e incluso tener acciones distintas en función de las aplicaciones que usemos y los desarrolladores de cada aplicación.</p>
+<p>Todas estas nuevas funciones se centran en mejorar mucho más nuestra productividad con el iPad.</p>
+<h2>Rendimiento</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155245/Rendimiento-en-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155245/Rendimiento-en-iOS-9.jpg" alt="Rendimiento en iOS 9" width="2500" height="965" class="aligncenter size-full wp-image-10826" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155245/Rendimiento-en-iOS-9.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155245/Rendimiento-en-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155245/Rendimiento-en-iOS-9.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>El rendimiento es el segundo factor de esta versión,</strong> iOS cada vez tiene más funciones y llega un punto en el que, o te centras en hacer que todo funcione bien, o eso no será nada usable porque tu software no es el adecuado. <strong>Y Apple ha optado por lo primero con mejoras significantes.</strong></p>
+<p><strong>La batería es el primer apartado que han tocado.</strong> Se han mejorado todos los componentes generales para que sean más eficientes permitiendo alargar la vida de la batería 1 hora a carga completa. La comunicación con los sensores de proximidad y luz es más precisa y eso ayuda al consumo ya que el teléfono sabe cuando notificar y cuando no. <strong>Se ha añadido un nuevo modo de batería baja,</strong> o bajo consumo, que se encarga de reducir las funciones del dispositivo al mínimo para poder aguantar lo máximo posible con batería en caso de que lo necesitemos urgentemente <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<p>Otra de las ventajas de que todo haya sido rescrito es que <strong>han conseguido reducir el tamaño de las actualizaciones.</strong> iOS 8 necesitaba 4.6 GB de espacio en el teléfono si queríamos actualizar desde el propio terminal <sup class="modern-footnotes-footnote ">2</sup>, pero iOS 9 sólo pesará 1.3 GB.</p>
+<p><strong>Metal también pasará a formar parte de todo tipo de aplicaciones,</strong> no solo de juegos como se dijo el año pasado. Esto ayudará a que la mayoría de transiciones y contenido se renderice con mayor rapidez y naturalidad.</p>
+<p><strong>La seguridad forma parte también de esta actualización</strong> con mayores protocolos de seguridad, autenticación en dos pasos y códigos de seguridad más largos. Apple quiere que podamos usar nuestros dispositivos y la información que almacenamos de la forma más simple sin hacerla peligrar.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155332/Migraci%C3%B3n-de-Android-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155332/Migraci%C3%B3n-de-Android-iOS-9.jpg" alt="Migración de Android iOS 9" width="1524" height="1286" class="aligncenter size-full wp-image-10828" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155332/Migraci%C3%B3n-de-Android-iOS-9.jpg 1524w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155332/Migraci%C3%B3n-de-Android-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155332/Migraci%C3%B3n-de-Android-iOS-9.jpg 1024w" sizes="(max-width: 1524px) 100vw, 1524px" /></a></p>
+<p>Y por primera vez en la historia, <strong>iOS 9 cuenta con herramientas para ayudarte a migrar toda tu información de un dispositivo Android a un dispositivo iOS.</strong> Esta aplicación de Android –desarrollada por Apple– te ayuda a transferir tus contactos, imágenes, canciones (sin DRM), mensajes y analiza las aplicaciones que usas en Android para sugerirte esas mismas descargas en tu nuevo iPhone. Todo ello compartiéndose por Wi-Fi.</p>
+<h2><a name="obsolescencia-programada">¿Obsolescencia programada?</a></h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155400/Compatibilidad-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155400/Compatibilidad-iOS-9.jpg" alt="Compatibilidad iOS 9" width="2120" height="1276" class="aligncenter size-full wp-image-10829" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09155400/Compatibilidad-iOS-9.jpg 2120w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155400/Compatibilidad-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155400/Compatibilidad-iOS-9.jpg 1024w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09155400/Compatibilidad-iOS-9.jpg 220w" sizes="(max-width: 2120px) 100vw, 2120px" /></a></p>
+<p><strong>iOS 9 estará disponible en otoño,</strong> con una beta pública en julio (la primera de la historia de iOS) <strong>y será compatible con todos y cada uno de los dispositivos que eran compatibles con iOS 8.</strong> Desde el iPhone 4S hasta el más nuevo, desde el iPad 2 hasta el más nuevo y con el iPod touch de quinta generación. De esta forma, Apple se encarga de dar un golpe en la mesa ante uno de los mayores inconvenientes de su rival más directo.</p>
+<p>Por supuesto, <strong>no todos los dispositivos podrán disponer de ciertas funciones de iOS 9,</strong> pero si conseguir un mejor rendimiento gracias a la nueva versión.</p>
+<p>Al ver la presentación, <strong>realmente sentí como Apple sí quiere demostrar que iOS es el mejor sistema operativo móvil y como sí quiere demostrar que el iPad está a la altura para crear contenido.</strong> Queda mucho por hacer, pero este tipo de cambios son los que hace que no pierda la fe.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/ios/ios9-preview/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<p><span class="source">Imagen</span> <span class="via"><a href="http://9to5mac.com/2015/06/08/icloud-drive-app/" target="_blank" rel="noopener noreferrer">9To5Mac</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Tal modo lo vimos ya en el Apple Watch y pensábamos que era por falta de capacidad, ahora vemos que Apple quiere empezar a estandarizar estas cosas en sus dispositivos, aunque la capacidad de la batería no sea un problema.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Acción criticada por una gran cantidad de usuarios.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ios-9/">Nuevo iOS 9</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple incluye la verificación en dos pasos en sus sistemas</title>
+		<link>https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2013 12:11:55 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Contraseñas]]></category>
+		<category><![CDATA[EEUU]]></category>
+		<category><![CDATA[ID de Apple]]></category>
+		<category><![CDATA[Irlanda]]></category>
+		<category><![CDATA[Mat Honan]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Nueva Zelanda]]></category>
+		<category><![CDATA[Reino Unido]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Verificación en dos pasos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8669</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a></p>
+<p>Apple ha incluido el sistema de verificación en dos pasos en sus servicios de iCloud e ID de Apple. El sistema de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID.png" alt="Verificación en dos pasos Apple ID" width="550" height="358" class="aligncenter size-full wp-image-8670" srcset="https://www.MacSfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID.png 550w, https://www.MacSfera.com/wp-content/uploads/2013/03/Verificación-en-dos-pasos-Apple-ID-300x195.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Apple ha incluido el sistema de verificación en dos pasos en sus servicios de <a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a> e <a href="www.macsfera.com/tag/id-de-apple" title="ID de Apple" target="_blank" rel="noopener noreferrer">ID de Apple</a>.</strong></p>
+<p><span id="more-8669"></span></p>
+<p>El sistema de verificación en dos pasos consiste en un <strong>método de seguridad por el cual hay una confirmación por contraseña y otra por un código de seguridad</strong> aleatorio y desconocido que recibimos en nuestro móvil (o aplicación Find My iPhone si está instalada).</p>
+<p>Este es un sistema muy común desde que empresas como Google o distintos bancos lo implementaran en sus servicios para mejorar la seguridad de sus clientes. <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> es una empresa que tiene un montón de información de sus usuarios de modo que este nuevo método <strong>hará que se eviten <a href="www.macsfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/" title="Hackeada la cuenta de iCloud de un periodista que detalla el proceso" target="_blank" rel="noopener noreferrer">casos como el de Mat Honan</a>.</strong></p>
+<p>Los usuarios podremos elegir cual de nuestros dispositivos va a recibir el código. También recibiremos una clave de recuperación de 14 dígitos la cual servirá para acceder a nuestra cuenta en caso de que perdamos algún dispositivo o se nos olvide la contraseña principal.</p>
+<p>Ahora <strong>no podremos restablecer nuestra cuenta a través del teléfono del soporte técnico de la empresa</strong> y, si perdemos, regalamos o vendemos algún dispositivo vinculado con el código, podremos eliminarlo desde la página web de gestión para evitar que siga recibiendo las notificaciones.</p>
+<p>Este sistema <strong>se usará siempre que vayamos a realizar una compra en cualquier servicio de Apple,</strong> por ello deberemos tener siempre cerca nuestro teléfono. Por ahora solo está disponible en Estados Unidos, Reino Unido, Australia, Irlanda y Nueva Zelanda.</p>
+<p>Vía | <a href="http://9to5mac.com/2013/03/21/apple-beefs-up-icloud-apple-id-security-with-two-step-verification/" target="_blank" rel="noopener noreferrer">9To5Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-incluye-la-verificacion-en-dos-pasos-en-sus-sistemas/">Apple incluye la verificación en dos pasos en sus sistemas</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Steve Wozniak considera que la nube no es del todo segura</title>
+		<link>https://www.MacSfera.com/steve-wozniak-considera-que-la-nube-no-es-del-todo-segura/</link>
+					<comments>https://www.MacSfera.com/steve-wozniak-considera-que-la-nube-no-es-del-todo-segura/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 17 Aug 2012 10:44:35 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Archivos]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Nube]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Steve Wozniak]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7185</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/steve-wozniak-considera-que-la-nube-no-es-del-todo-segura/">Steve Wozniak considera que la nube no es del todo segura</a></p>
+<p>El cofundador de Apple, Steve Wozniak, ha mostrado su preocupación por el hecho de que los archivos se guarden en la nube.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/steve-wozniak-considera-que-la-nube-no-es-del-todo-segura/">Steve Wozniak considera que la nube no es del todo segura</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/steve-wozniak-considera-que-la-nube-no-es-del-todo-segura/">Steve Wozniak considera que la nube no es del todo segura</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/08/Steve-Wozniak.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/08/Steve-Wozniak.jpg" alt="Steve Wozniak" title="Steve Wozniak" width="550" height="367" class="aligncenter size-full wp-image-7186" srcset="https://www.MacSfera.com/wp-content/uploads/2012/08/Steve-Wozniak.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/08/Steve-Wozniak-300x200.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>El cofundador de Apple, <strong><a href="www.macsfera.com/tag/steve-wozniak" title="Steve Wozniak" target="_blank" rel="noopener noreferrer">Steve Wozniak</a></strong>, <strong>ha mostrado su preocupación por el hecho de que los archivos se guarden en la nube.</strong></p>
+<p><span id="more-7185"></span></p>
+<p><strong>Woz ha advertido sobre la proliferación de la nube y prevé problemas horribles en un periodo de unos 5 años.</strong> A principios de mes, en una conferencia de Washington, se expresó al respecto:</p>
+<blockquote><p>Estoy seriamente preocupado por lo que está sucediendo con la nube. Va a ser horrible, vamos a tener muchísimos problemas en los próximos cinco años. Si almacenamos información en la nube dejas de ser el propietario de la misma. Yo quiero sentir que soy el dueño de mis cosas y cuanto más compartamos información en la nube, perderemos el control del contenido.</p></blockquote>
+<p>La nube puede representar bastantes cosas, de la que más habla <strong>Wozniak</strong> es de la del almacenamiento de archivos y documentos pero <strong>hay que recordar que también nos sirve para sincronizar nuestros dispositivos</strong> (hablo de las pestañas, favoritos, ajustes, aplicaciones, etc.) <strong>en cuyo caso no es algo que sea &#8216;nuestro&#8217; y por el contrario nos facilita mucho las cosas.</strong></p>
+<p>Ya se han dado casos en los que se <strong><a href="www.macsfera.com/hackeada-la-cuenta-de-icloud-de-un-periodista-que-detalla-el-proceso/" title="Hackeada la cuenta de iCloud de un periodista que detalla el proceso" target="_blank" rel="noopener noreferrer">ha hackeado alguna cuenta de iCloud</a></strong> o un ataque más grande al servicio Dropbox <strong>poniendo así en peligro la información de los usuarios</strong> que confiaron plenamente en que sería la mejor forma de almacenar sus archivos.</p>
+<p>En cualquier caso, esa es la opinión que le merece a uno de los personajes más destacables en el mundo de la informática la nube y su almacenamiento masivo.</p>
+<p>Vía | <a href="http://es.engadget.com/2012/08/12/freemium-woz-nos-pone-en-alerta-es-segura-la-nube/" target="_blank" rel="noopener noreferrer">Engadget</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/steve-wozniak-considera-que-la-nube-no-es-del-todo-segura/">Steve Wozniak considera que la nube no es del todo segura</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/steve-wozniak-considera-que-la-nube-no-es-del-todo-segura/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple compra AuthenTec, una empresa de seguridad</title>
+		<link>https://www.MacSfera.com/apple-compra-authentec-una-empresa-de-seguridad/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 29 Jul 2012 09:32:24 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[AuthenTec]]></category>
+		<category><![CDATA[Compra]]></category>
+		<category><![CDATA[Empresas]]></category>
+		<category><![CDATA[Forma de pago]]></category>
+		<category><![CDATA[Huella digital]]></category>
+		<category><![CDATA[Noticias de Appple]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7137</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-compra-authentec-una-empresa-de-seguridad/">Apple compra AuthenTec, una empresa de seguridad</a></p>
+<p>Apple ha comprado recientemente la empresa AuthenTec, dedicada al desarrollo de sistemas de seguridad. Más en concreto se dedica a la fabricación</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-compra-authentec-una-empresa-de-seguridad/">Apple compra AuthenTec, una empresa de seguridad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-compra-authentec-una-empresa-de-seguridad/">Apple compra AuthenTec, una empresa de seguridad</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/07/Apple-compra-AuthenTec.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/07/Apple-compra-AuthenTec.jpg" alt="Apple compra AuthenTec" title="Apple compra AuthenTec" width="550" height="275" class="aligncenter size-full wp-image-7139" srcset="https://www.MacSfera.com/wp-content/uploads/2012/07/Apple-compra-AuthenTec.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/07/Apple-compra-AuthenTec-300x150.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a> ha comprado recientemente la empresa AuthenTec, dedicada al desarrollo de sistemas de seguridad.</strong></p>
+<p><span id="more-7137"></span></p>
+<p>Más en concreto se dedica a la <strong>fabricación de sensores para huellas dactilares y a sistemas de pago sin contacto.</strong> El valor total de la suma ha sido de 288 millones de euros.</p>
+<p>Vemos que <strong><a href="www.macsfera.com/apple-se-presentara-a-la-conferencia-de-seguridad-black-hat-por-primera-vez/" title="Apple se presentará a la conferencia de seguridad Black Hat por primera vez" target="_blank" rel="noopener noreferrer">Apple se está poniendo las pilas en seguridad</a>,</strong> pero detrás de esta empresa hay algo más, <strong>fue la que firmó a principios de mes un acuerdo con Samsung para hacerse cargo de su seguridad.</strong> A parte, entre otros de sus clientes conocidos está Hewlett-Packard y Dell.</p>
+<p>Se piensa que una utilidad que puede dar <strong>Apple</strong> es la de <strong>la tecnología de huella digital para la autenticación en los pagos móviles.</strong> Este tipo de sistemas se utilizan en Japón y puede que la empresa quiera introducirlo en EEUU (principalmente) ya que este tipo de servicios no han tenido mucha popularidad.</p>
+<p><strong>Habrá que esperar a las posibles reacciones de Samsung y los demás clientes y el uso que le de Apple a esta nueva adquisición.</strong></p>
+<p>Vía | <a href="http://www.reuters.com/article/2012/07/27/us-authentec-acquisition-apple-idUSBRE86Q0KD20120727" target="_blank" rel="noopener noreferrer">Reuters</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-compra-authentec-una-empresa-de-seguridad/">Apple compra AuthenTec, una empresa de seguridad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple se presentará a la conferencia de seguridad Black Hat por primera vez</title>
+		<link>https://www.MacSfera.com/apple-se-presentara-a-la-conferencia-de-seguridad-black-hat-por-primera-vez/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 24 Jul 2012 17:25:16 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Black Hat]]></category>
+		<category><![CDATA[Dallas de Atley]]></category>
+		<category><![CDATA[Hackers]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Las Vegas]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7069</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-se-presentara-a-la-conferencia-de-seguridad-black-hat-por-primera-vez/">Apple se presentará a la conferencia de seguridad Black Hat por primera vez</a></p>
+<p>Black Hat es un evento que se celebra en Las Vegas donde se hacen presentaciones de seguridad de sistemas y se permite</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-se-presentara-a-la-conferencia-de-seguridad-black-hat-por-primera-vez/">Apple se presentará a la conferencia de seguridad Black Hat por primera vez</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-se-presentara-a-la-conferencia-de-seguridad-black-hat-por-primera-vez/">Apple se presentará a la conferencia de seguridad Black Hat por primera vez</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Apple-se-presenta-al-Black-Hat-2012.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2012/07/Apple-se-presenta-al-Black-Hat-2012.png" alt="Apple se presenta al Black Hat 2012" title="Apple se presenta al Black Hat 2012" width="550" height="237" class="aligncenter size-full wp-image-7070" srcset="https://www.MacSfera.com/wp-content/uploads/2012/07/Apple-se-presenta-al-Black-Hat-2012.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/07/Apple-se-presenta-al-Black-Hat-2012-300x129.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Black Hat es un evento que se celebra en Las Vegas donde se hacen presentaciones de seguridad de sistemas y se permite que los hackers exploten los errores. Por primera vez desde sus quince años de existencia, <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a> acudirá de forma oficial.</strong></p>
+<p><span id="more-7069"></span></p>
+<p>Por el evento han pasado un montón de vendedores de tecnología pero la compañía más valiosa del mundo no lo había hecho aún, <strong>eso cambiará el jueves cuando Dallas De Atley,</strong> Manager del equipo de seguridad de <strong>Apple</strong>, <strong>dé una presentación sobre las tecnologías de seguridad clave dentro de iOS.</strong></p>
+<p>Este hecho muestra como <strong>Apple</strong>, poco a poco, <strong>va prestando más atención a la seguridad,</strong> no es para menos puesto que últimamente los sistemas de <strong>Apple</strong> están siendo bastante atacados como los <strong><a href="www.macsfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/" title="Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad" target="_blank" rel="noopener noreferrer">ataques a más de 600.000 equipos Mac</a></strong> por un software malicioso.</p>
+<p><strong>Hubo otro momento significativo en el que los chicos de Apple iban a hablar sobre seguridad,</strong> en 2008, pero la charla, muy esperada, <strong>se canceló en el último momento porque el departamento de marketing de la empresa así lo decidió.</strong></p>
+<p>Trey Ford, gerente general de Black Hat, opina que <strong>Apple está reconociendo que necesita una relación más fuerte con la comunidad de hackers</strong> a medida que sus productos crecen en popularidad.</p>
+<p>Más info | <a href="https://www.blackhat.com/html/bh-us-12/bh-us-12-briefings.html#DeAtley" target="_blank" rel="noopener noreferrer">Black Hat</a><br />
+Perfil de charla | <a href="http://www.blackhat.com/html/bh-us-12/speakers/Dallas-DeAtley.html" target="_blank" rel="noopener noreferrer">Black Hat</a><br />
+Vía | <a href="http://go.bloomberg.com/tech-blog/2012-07-24-apple-warms-up-to-hackers-plans-presentation-at-black-hat/" target="_blank" rel="noopener noreferrer">Bloomberg</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-se-presentara-a-la-conferencia-de-seguridad-black-hat-por-primera-vez/">Apple se presentará a la conferencia de seguridad Black Hat por primera vez</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nueva actualización de seguridad contra Flashback</title>
+		<link>https://www.MacSfera.com/nueva-actualizacion-de-seguridad-contra-flashback/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 12 Apr 2012 21:34:10 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Actualización de Software]]></category>
+		<category><![CDATA[Applets Java]]></category>
+		<category><![CDATA[Flashback]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6691</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-actualizacion-de-seguridad-contra-flashback/">Nueva actualización de seguridad contra Flashback</a></p>
+<p>Apple acaba de lanzar una nueva actualización para prevenir a sus usuarios del malware Flashback. Ya recibimos una hace actualización de seguridad</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-actualizacion-de-seguridad-contra-flashback/">Nueva actualización de seguridad contra Flashback</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-actualizacion-de-seguridad-contra-flashback/">Nueva actualización de seguridad contra Flashback</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/04/Actualización-de-seguridad-Java-contra-Flashback.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/04/Actualización-de-seguridad-Java-contra-Flashback.png" alt="Actualización de seguridad Java contra Flashback" title="Actualización de seguridad Java contra Flashback" width="550" height="343" class="aligncenter size-full wp-image-6692" srcset="https://www.MacSfera.com/wp-content/uploads/2012/04/Actualización-de-seguridad-Java-contra-Flashback.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/04/Actualización-de-seguridad-Java-contra-Flashback-300x187.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Apple</strong> acaba de lanzar una <strong>nueva actualización para prevenir a sus usuarios del malware</strong> <strong><a href="www.macsfera.com/tag/flashback" title="Flashback" target="_blank" rel="noopener noreferrer">Flashback</a></strong>.</p>
+<p><span id="more-6691"></span></p>
+<p>Ya recibimos <strong><a href="www.macsfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/" title="Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad" target="_blank" rel="noopener noreferrer">una hace actualización de seguridad</a></strong> poco y ahora han lanzado otra cuyo objetivo es el de <strong>mejorar la seguridad en Java eliminando la mayoría de las variantes comunes de Flashback.</strong> Otra de las funciones que tiene es la de configurar el módulo web <strong>Java</strong> desactivando la ejecución automática de <strong>applets Java</strong>.</p>
+<p>De este modo <strong>no solo se elimina el malware sino que se previene la reinstalación por error o accidente.</strong> Cualquier persona puede <strong>activar de nuevo la ejecución automática de applets Java desde Preferencias de Java,</strong> pero para evitar problemas, si se detecta que no se ha ejecutado ninguno en un periodo largo de tiempo <strong>se volverá a desactivar.</strong></p>
+<p>Recordemos que <strong>Flashback</strong> es un malware que pone en riesgo los datos de tu <strong><a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a></strong> y compromete la seguridad de éste pudiendo cambiar archivos y configuraciones para <strong>sonsacar toda la información personal y privada que pueda.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-actualizacion-de-seguridad-contra-flashback/">Nueva actualización de seguridad contra Flashback</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</title>
+		<link>https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 06 Apr 2012 10:51:28 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Actualización de Software]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Comandos]]></category>
+		<category><![CDATA[Cupertino]]></category>
+		<category><![CDATA[Eliminar]]></category>
+		<category><![CDATA[Flashback]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Terminal]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6639</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a></p>
+<p>El malware Flashback ha infectado más de 600.000 Mac según el analista Ivan Sorokin. Entre estos ordenadores hay un total de 274</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/04/Actualización-de-Java-Flashback.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/04/Actualización-de-Java-Flashback.png" alt="Actualización de Java Flashback" title="Actualización de Java Flashback" width="550" height="271" class="aligncenter size-full wp-image-6641" srcset="https://www.MacSfera.com/wp-content/uploads/2012/04/Actualización-de-Java-Flashback.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/04/Actualización-de-Java-Flashback-300x148.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>El malware <strong><a href="www.macsfera.com/tag/flashback" title="Flashback" target="_blank" rel="noopener noreferrer">Flashback</a></strong> <strong>ha infectado más de 600.000 Mac según el analista Ivan Sorokin.</strong> Entre estos ordenadores hay un total de 274 que provienen de <strong>Cupertino</strong>.</p>
+<p><span id="more-6639"></span></p>
+<p>Ya vimos que <strong><a href="www.macsfera.com/nuevo-malware-para-os-x-camuflado-como-adobe-flash/" title="Nuevo malware para OS X camuflado como Adobe Flash" target="_blank" rel="noopener noreferrer">no es la primera vez que Flashback ataca</a></strong> y en su día <strong>Apple</strong> lanzó una actualización de seguridad para prevenir sus equipos pero el malware <strong>ha seguido encontrando la manera de atacar e infectar nuevos ordenadores.</strong></p>
+<p>Recordemos que <strong>la manera de infectarse es instalarlo</strong> puesto que no es un virus. Intentará conseguir nuestro <strong>usuario y contraseña</strong> y a partir de ahí puede hacer lo que quiera: modificar archivos del sistema, enviar y recibir información, comprometer nuestra seguridad, etc.</p>
+<p>Para evitar este asunto, <strong>Apple ha lanzado una nueva actualización de Java</strong> que nos protegerá de este tipo de situaciones. Para saber si tenemos <strong>Flashback</strong> vamos a seguir estos pasos:</p>
+<ol>
+<li>Abrir <strong>Terminal</strong> y meter estos códigos</li>
+<ul>
+<li>defaults read /Applications/Safari.app/Contents/Info DYLD_INSERT_LIBRARIES</li>
+<li>defaults read /Applications/Firefox.app/Contents/Info DYLD_INSERT_LIBRARIES</li>
+</ul>
+<li>En el supuesto de que <strong>Terminal</strong> nos diga en ambos casos «<strong>doesn&#8217;t exist</strong>» es que no estamos infectados, pero si nos pone algo distinto debemos ejecutar el siguiente comando para borrarlo:
+<p>sudo defaults delete /Applications/%browser%.app/Contents/Info LSEnvironmentsudo chmod 644 /Applications/%browser%.app/Contents/Info.plist
+</li>
+</ol>
+<p>De esa manera <strong>sabremos si estamos infectados o no y de como eliminarlo.</strong> Para prevenir también este tipo de situaciones recordad que si algo se ejecuta solo, nos pide la contraseña porque si y no sabemos de donde proviene, analizadlo, investigad de donde ha salido, y si no os cuadra no se la deis.</p>
+<p>Vía | <a href="http://www.macrumors.com/2012/04/06/apple-releases-second-update-to-java-in-two-days/" target="_blank" rel="noopener noreferrer">MacRumors</a> | <a href="http://pastebin.com/48X4ZDrL" target="_blank" rel="noopener noreferrer">Pastebin</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Una señora demanda a Apple por romperse la nariz con un cristal de una Apple Store</title>
+		<link>https://www.MacSfera.com/una-senora-demanda-a-apple-por-romperse-la-nariz-con-un-cristal-de-una-apple-store/</link>
+					<comments>https://www.MacSfera.com/una-senora-demanda-a-apple-por-romperse-la-nariz-con-un-cristal-de-una-apple-store/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 27 Mar 2012 17:35:38 +0000</pubDate>
+				<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Store Física]]></category>
+		<category><![CDATA[Apple Store Manhasset]]></category>
+		<category><![CDATA[Cristal]]></category>
+		<category><![CDATA[Demandas]]></category>
+		<category><![CDATA[Evelyn Paswall]]></category>
+		<category><![CDATA[Física]]></category>
+		<category><![CDATA[Nariz]]></category>
+		<category><![CDATA[Nueva York]]></category>
+		<category><![CDATA[Romper]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6617</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/una-senora-demanda-a-apple-por-romperse-la-nariz-con-un-cristal-de-una-apple-store/">Una señora demanda a Apple por romperse la nariz con un cristal de una Apple Store</a></p>
+<p>Una señora ha interpuesto una demanda contra Apple al romperse la nariz cuando estaba entrando en una Apple Store de Manhasset, Nueva</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/una-senora-demanda-a-apple-por-romperse-la-nariz-con-un-cristal-de-una-apple-store/">Una señora demanda a Apple por romperse la nariz con un cristal de una Apple Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/una-senora-demanda-a-apple-por-romperse-la-nariz-con-un-cristal-de-una-apple-store/">Una señora demanda a Apple por romperse la nariz con un cristal de una Apple Store</a></p>
+<p align="center"><a href="http://cdn.macsfera.com/wp-content/uploads/2012/03/Pegatinas-de-protección-en-los-cristales-de-la-Apple-Store.jpg"><img src="http://cdn.macsfera.com/wp-content/uploads/2012/03/Pegatinas-de-protección-en-los-cristales-de-la-Apple-Store.jpg" alt="Pegatinas de protección en los cristales de la Apple Store" title="Pegatinas de protección en los cristales de la Apple Store" width="550" height="410" class="size-full wp-image-6619" srcset="https://www.MacSfera.com/wp-content/uploads/2012/03/Pegatinas-de-protección-en-los-cristales-de-la-Apple-Store.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/03/Pegatinas-de-protección-en-los-cristales-de-la-Apple-Store-300x224.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Una señora ha interpuesto una demanda contra <strong>Apple</strong> al <strong>romperse la nariz cuando estaba entrando en una</strong> <strong><a href="www.macsfera.com/tag/apple-store" title="Apple Store" target="_blank" rel="noopener noreferrer">Apple Store</a> de Manhasset, Nueva York.</strong></p>
+<p><span id="more-6617"></span></p>
+<p><strong>Evelyn Paswall</strong>, de 83 años, tuvo un accidente en el que se fracturó la nariz porque se chocó con uno de los cristales que delimitaban la <strong>Apple Store</strong> próxima a ella. Por ello <strong>ha demandado a la compañía por un valor de 75.000$ por gastos médicos más daños, en total 1 millón de dólares.</strong></p>
+<p>El abogado de la señora alega que «<strong>Apple quiere ser cool y moderno</strong>» usando ese tipo de arquitectura moderno, por el contrario <strong>no aprecia el peligro</strong> que puede representar para algunas personas.</p>
+<p>Si bien <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> tomó medidas al respecto en enero de este año colocando unas pegatinas rectangulares blancas porque ocurrió un suceso parecido, <strong>la señora no las vio y su abogado considera que son pocas medidas las que se tomaron</strong> afirmando que, aunque su cliente tiene 83 años, ve perfectamente.</p>
+<p>Via | <a href="http://www.cultofmac.com/156164/customers-sues-apple-for-1-million-after-breaking-nose-on-glass-door/" target="_blank" rel="noopener noreferrer">Cult Of Mac</a><br />
+Imagen | <a href="http://www.ifoapplestore.com/db/2011/01/27/after-visitor-collision-display-windows-get-stickers/" target="_blank" rel="noopener noreferrer">iFoAppleStore</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/una-senora-demanda-a-apple-por-romperse-la-nariz-con-un-cristal-de-una-apple-store/">Una señora demanda a Apple por romperse la nariz con un cristal de una Apple Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/una-senora-demanda-a-apple-por-romperse-la-nariz-con-un-cristal-de-una-apple-store/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Safari se actualiza a la versión 5.1.2</title>
+		<link>https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2011 22:37:52 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Actualización de Software]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Mejoras]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Páginas en Blanco]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5712</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a></p>
+<p>Apple acaba de lanzar una nueva actualización de Safari que corrige algunos errores. Por lo general son soluciones a problemas y ajustes</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a></p>
+<p align="center"><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Actualización.png"><img src="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Actualización.png" alt="Actualización" title="Actualización" width="550" height="212" class="size-full wp-image-4647" srcset="https://www.MacSfera.com/wp-content/uploads/2011/08/Actualización.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/08/Actualización-300x116.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> acaba de lanzar una nueva actualización de <strong><a href="www.macsfera.com/tag/safari" title="Safari" target="_blank" rel="noopener noreferrer">Safari</a></strong> que corrige algunos errores.</p>
+<p><span id="more-5712"></span></p>
+<p>Por lo general son <strong>soluciones a problemas y ajustes internos</strong> tanto de compatibilidad como de seguridad. Los más destacados son:</p>
+<ul>
+<li>Mejoran la estabilidad.</li>
+<li>Resuelven problemas que podrían causar cuelgues y un uso de memoria excesivo.</li>
+<li>Resuelven problemas que podrían causar que las páginas web quedaran en blanco.</li>
+<li>Permiten mostrar PDF dentro de contenido web.</li>
+</ul>
+<p>Personalmente ya me estaba cansando de que las páginas se me quedasen en blanco o inutilizadas, a parte de otros problemas como que recargase todas las pestañas así porque sí.</p>
+<p>En el rato que llevo usándolo, cargando flash, muchas páginas y demás contenido, si que <strong>lo noto más fluido,</strong> menos brusco y se ha solucionado un problema que tenía (mi navegador por lo menos) que consistía en que <strong>las búsquedas que hiciese desde la barra de Google las hacía en la web americana</strong> y no en la española.</p>
+<p>La actualización tiene un peso de <strong>40,2 MB</strong> y al finalizar deberemos reiniciar el sistema para que se acaben de instalar los componentes. <strong>Para actualizar</strong> tan solo debéis ir al símbolo de la manzana y buscar la actualización.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

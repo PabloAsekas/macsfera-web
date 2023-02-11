@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Windows &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/windows/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:51:05 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Mi experiencia estudiando Ingeniería del software con un Mac</title>
+		<link>https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 19:28:25 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Estudios]]></category>
+		<category><![CDATA[Experiencia]]></category>
+		<category><![CDATA[Ingeniería del software]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Virtualización]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17069</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
+<p>En 2012 empecé mis estudios universitarios, Ingeniería del software para ser exactos. Por aquella época yo ya usaba Mac, y no me</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg" alt="MacBook Retina Dorado" width="2500" height="1667" class="aligncenter size-full wp-image-11119" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En 2012 empecé mis estudios universitarios, <strong>Ingeniería del software para ser exactos.</strong> Por aquella época <strong>yo ya usaba Mac,</strong> y no me planteé la opción de usar otro dispositivo en esa nueva aventura en la que me iba a meter.</p>
+<p>Pero si estáis dudando entre si usar un Mac u otro tipo de ordenador, hoy os voy a contar <strong>mi experiencia usando un Mac para estudiar la carrera de Ingeniería del software,</strong> donde el uso del ordenador es tan variado que la misma asignatura puede cambiar radicalmente según el año en que se de.</p>
+<p><span id="more-17069"></span></p>
+<div class="alerta">
+<p>Si estás estudiando, puede que esta <strong><a href="https://www.MacSfera.com/guia-para-tomar-apuntes-en-el-ipad/" title="Guía para tomar apuntes en el iPad" rel="noopener" target="_blank">guía para tomar apuntes en el iPad</a></strong> te sea de gran utilidad.</p>
+</div>
+<p>Sin bien ahora la diferencia entre un Mac y un PC portátil es cada vez menor, no siempre ha sido así. Estos últimos años, <strong>los PCs han reducido mucho esa enorme barrera que había antes.</strong></p>
+<p>Por supuesto, ese mismo tiempo en el que el hardware del PC ha ido cogiendo al Mac, lo mismo ha pasado desde el otro lado. <strong>El Mac</strong> –más concretamente macOS– <strong>ha ganado muchísimos adeptos en cuanto a software se refiere,</strong> y soluciones que antes estaban atadas a un sistema operativo como Windows, ahora están disponibles en más plataformas.</p>
+<p>De modo que tenemos, por un lado, que los portátiles PC se han acercado mucho al Mac, aunque en mi opinión el Mac sigue por delante. Por otro lado, Windows sigue llevando la delantera en compatibilidad software, pero este terreno se ha reducido mucho gracias a las distintas soluciones abiertas que se han ido lanzando al mercado.</p>
+<h2 class="review">Lenguajes y tecnologías</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231054/Estudiar-Ingenieria-del-software-con-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231054/Estudiar-Ingenieria-del-software-con-Mac.jpg" alt="Estudiar Ingenieria del software con Mac" width="832" height="468" class="aligncenter size-full wp-image-17071" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231054/Estudiar-Ingenieria-del-software-con-Mac.jpg 832w, https://cdn.macsfera.com/wp-content/uploads/2019/02/19231054/Estudiar-Ingenieria-del-software-con-Mac.jpg 300w" sizes="(max-width: 832px) 100vw, 832px" /></a></p>
+<p>Desde que inicié la carrera, hasta que la terminé, las asignaturas nos han ido trayendo una amplia variedad de lenguajes de programación y tecnologías con las que realizar prácticas y aprender conocimientos. <strong>Esta es una lista de algunas tecnologías y lenguajes que he podido desarrollar sin problemas en el Mac:</strong></p>
+<ul>
+<li>Java</li>
+<li>C</li>
+<li>C++</li>
+<li>Shell script</li>
+<li>Haskell</li>
+<li>SQL</li>
+<li>PostgreSQL</li>
+<li>TypeScript</li>
+<li>Docker</li>
+<li>Desarrollo web con Spring Boot</li>
+<li>Gestión multihilo</li>
+<li>Diseño y desarrollo de interfaces</li>
+<li>Ruby</li>
+<li>PHP</li>
+<li>JavaScript</li>
+</ul>
+<p>Dependiendo de la asignatura, el profesor, y la práctica en sí, tendremos mayor o menor similitud en los aspectos generales del entorno de trabajo: el <a href="www.macsfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/" rel="noopener" title="Coda: fantástico editor multilenguaje para Mac, iPhone y iPad" target="_blank">editor de texto usado</a>, el IDE, la forma de configurar algunos componentes, la gestión de las librerías externas, etc. <strong>Pero lo que está claro es que lo importante lo vamos a poder realizar sin problemas.</strong></p>
+<p>A lo mejor en la asignatura se usa un IDE que no está disponible en Mac, y hay que utilizar otro. Es posible. Pero os aseguro que con ese IDE vais a poder realizar la misma práctica sin problemas. Cambiarán algunas cosas, la forma de realizar algunas tareas, o incluso no tendrá alguna herramienta que en esa asignatura se usa (como un gestor de bases de datos integrado), pero no hay nada que no podáis realizar, <strong>lo único que hay que hacer es buscar otro camino.</strong></p>
+<h2 class="review">Ventajas de usar un Mac</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231410/Ventajas-de-usar-un-Mac-estudiando-Ingenieria-del-software.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231410/Ventajas-de-usar-un-Mac-estudiando-Ingenieria-del-software.jpg" alt="Ventajas de usar un Mac estudiando Ingenieria del software" width="1000" height="750" class="aligncenter size-full wp-image-17072" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231410/Ventajas-de-usar-un-Mac-estudiando-Ingenieria-del-software.jpg 1000w, https://cdn.macsfera.com/wp-content/uploads/2019/02/19231410/Ventajas-de-usar-un-Mac-estudiando-Ingenieria-del-software.jpg 267w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p>Las ventajas de usar un Mac son subjetivas a cada uno, por eso os voy a poner aquí unas cuantas que valoro y que hacen que usar el Mac sea una delicia.</p>
+<ul>
+<li><strong>Velocidad general:</strong> macOS está tan bien optimizado que la separación de procesos hace que puedas realizar tareas pesadas en segundo plano sin apenas afectar a las tareas de menor peso. Puede que a simple vista os parezca una tontería, pero yo valoro muchísimo que mi ordenador esté siempre disponible, aunque por detrás esté realizando una tarea que dejaría bloqueados a la mitad de los ordenadores.</li>
+<li><strong>La simplicidad y eficiencia:</strong> <em>“It just works”</em> es un lema que está vinculado a los productos de Apple. Y si bien es cierto que hay veces que no se cumple, la mayoría sí. Para mí es muy importante que todo aquello que tiene que funcionar, funcione, sin más. Bastante nos vamos a pegar en la carrera para averiguar qué está pasando y porqué no funcionan nuestros programas, como para encima tener que hacerlo con todas esas cosas que deberían funcionar, no lo hacen y encima se nos escapan de las manos <sup class="modern-footnotes-footnote ">1</sup>.</li>
+<li><strong>Batería:</strong> como he comentado, los PCs se han acercado mucho al Mac en cuanto al hardware, pero aun así hay cosas que tienen pendiente. La batería es uno de esos aspectos, y no sabéis lo bien que se vive sabiendo que no tienes que llevar el cargador en ciertas circunstancias porque tu Mac va a aguantar todo lo que dure la jornada. Todavía recuerdo a gente peleándose por los escasos enchufes de las aulas, o cerrando los portátiles porque se habían quedado sin batería.</li>
+<li><strong>Aspectos físicos:</strong> cuando estás en la universidad, es muy habitual que estés andando entre clases, edificios, y por todo el campus. Tener un equipo ligero como lo es un Mac, pero con la potencia de procesamiento adecuada, es una bendición. Es posible que ahora no notéis la diferencia entre llevar o no llevar medio kilo, pero se nota. La calidad de la pantalla también se nota mucho, vamos a estar horas y horas pegados a ella, por lo tanto, tener un equipo que ni dañe ni canse la vista es un requisito obligatorio.</li>
+</ul>
+<p>Disfruto de la tecnología, me encanta saber que mis productos tecnológicos funcionan sin problemas, me ocurre con todos ellos, de modo que haber tenido un Mac <sup class="modern-footnotes-footnote ">2</sup> en mi periodo universitario ha sido de lo más gratificante. Mis amig@s lo pueden confirmar, rara vez estaba sin el ordenador encima, y todo eso se debe a que me encanta lo que me transmite este ordenador y este sistema operativo. <strong>Los ordenadores son mi pasión, y en el Mac he encontrado la mejor forma de disfrutar de esa pasión como con ningún otro.</strong></p>
+<h2 class="review">Desventajas de usar un Mac</h2>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231530/Desventajas-de-usar-un-Mac-en-Ingenieria-del-software.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231530/Desventajas-de-usar-un-Mac-en-Ingenieria-del-software.jpg" alt="Desventajas de usar un Mac en Ingenieria del software" width="640" height="640" class="aligncenter size-full wp-image-17073" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231530/Desventajas-de-usar-un-Mac-en-Ingenieria-del-software.jpg 640w, https://cdn.macsfera.com/wp-content/uploads/2019/02/19231530/Desventajas-de-usar-un-Mac-en-Ingenieria-del-software.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>Si bien estoy enamorado de este ordenador y de su sistema, vamos a ser sinceros, <strong>siempre hay desventajas,</strong> en cualquier cosa. Y quien os diga que no hay desventajas, <strong>os miente.</strong></p>
+<p>En el caso del Mac en Ingeniería del software, <strong>el mayor problema que he encontrado ha sido relacionado con la compatibilidad de algunas tecnologías y programas.</strong></p>
+<p>Es muy normal que se toque de todo en la carrera, y no siempre va a estar disponible para macOS. Desde programas específicos de seguridad informática, hasta soluciones propias desarrolladas por la universidad, pasando por programas que, de lo antiguos que son, no saben cómo funcionan aún hoy en día.</p>
+<p>Estos casos me afectaron a mi directamente. Por un lado, tuvimos un par de prácticas en las que se utilizaban herramientas de seguridad informática de una distribución de Linux que, <strong>o no estaban disponibles para Mac en ese momento, o su funcionamiento era mucho más limitado.</strong> Por otro lado, un par de profesores muy cracks de mi universidad crearon una modificación del famoso Eclipse, y extendieron su funcionalidad para que los alumnos pudiésemos utilizar una única interfaz con varios lenguajes y funciones que veríamos a lo largo de la carrera. Por desgracia, <strong>sólo es compatible con Windows y con Ubuntu.</strong></p>
+<p>Y, además de encontrar soluciones que funcionan a medias, o no funcionan directamente, <strong>también tenemos el caso de los errores particulares de la aplicación en el sistema.</strong> Estos tipos de errores se dan en aquellas aplicaciones que son multiplataforma, pero suelen usar otros componentes para funcionar.</p>
+<p>Por ejemplo, un IDE de una tecnología concreta enfocada al desarrollo web: si bien la aplicación funciona bien, existe la posibilidad de que haya un error en el componente que ejecuta y gestiona el servicio web, y este puede ser distinto en Mac y Windows.</p>
+<p>Esto puede hacer que la resolución de problemas con la ayuda del profesor se dificulte porque hay errores derivados que dependen del sistema, y el profesor al no estar familiarizado, no puede ayudar.</p>
+<h2 class="review">Virtualización: la solución</h2>
+<div class="galerias medio" data-layout="3" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231845/Maldito-Windows.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231846/Maldito-pantallazo-azul-de-Windows.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231848/Ubuntu-virtualizado-en-Mac.jpg" title="" alt="" />
+
+</div>
+<p>La virtualización es uno de esos inventos que ha cambiado la forma de trabajar con los ordenadores. De tener un ordenador ejecutando un solo sistema, a tener un ordenador ejecutando infinitos sistemas. Cada uno aislado, cada uno con su propio entorno y su propia naturaleza.</p>
+<p>Gracias a los sistemas de virtualización, <strong>podemos usar nuestro Mac para ejecutar todo lo que sea compatible, y a la vez, virtualizar otros sistemas operativos para ejecutar todo aquello que no es compatible de entrada.</strong></p>
+<p>En Mac, además, hay varias soluciones, gratuitas y de pago, con las que podemos virtualizar sistemas operativos:</p>
+<ul>
+<li><strong><a target="_blank" href="https://www.virtualbox.org/">VirtualBox</a>:</strong> herramienta gratuita y open-source para virtualizar en Mac. No es de las mejores, pero siempre viene bien para saber si la virtualización soluciona nuestros problemas</li>
+<li><strong><a target="_blank" href="https://www.vmware.com/es/products/fusion.html">VMWare Fusion</a>:</strong> solución propietaria de una empresa con muchos años de especialización en entornos virtuales. Fue la aplicación que elegí y usé durante mis años universitarios.</li>
+<li><strong><a target="_blank" href="https://www.parallels.com/es/">Parallels Desktop</a>:</strong> solución popular en entornos Mac que destaca por su versatilidad</li>
+<li><strong><a target="_blank" href="https://support.apple.com/es-es/boot-camp">Boot Camp</a></strong>: no es técnicamente una solución para virtualizar porque lo que hacemos es instalar nativamente Windows, pero lo pongo porque viene incluido en todos nuestros Macs y a alguno de vosotros os puede servir</li>
+</ul>
+<p>Gracias a la virtualización, podía tener todas mis aplicaciones del día a día y la herramienta particular y concreta, a la vez. No había que decidir, ni había incomodidades. Todo junto. <strong>Lo mejor de un lado y lo necesario del otro.</strong></p>
+<p>Además, y esto es importante en Ingeniería del software, vamos a tener que instalar un montón de cosas que sólo vamos a necesitar, a priori, para una asignatura o dos <sup class="modern-footnotes-footnote ">3</sup>. Si sois como yo, que hacéis de vuestro ordenador un templo, <strong>tener una máquina virtual donde podemos instalar de todo para realizar las prácticas de la asignatura,</strong> sin importar cuanto afecte al rendimiento de nuestros Macs, <strong>es una delicia.</strong> Después de esa asignatura, apagaba la máquina virtual y mi Mac se encontraba como si nada. Por no hablar de que eliminar y levantar máquinas es sumamente sencillo.</p>
+<p>Por último, mencionaros que <strong>vuestra universidad puede tener algún acuerdo con Microsoft por el cual os den licencias de Windows gratuitas para estudiantes,</strong> que tienen una validez de 2 años. Eso a mí me facilitó mucho las cosas porque no tenía que preocuparme de nada. Creaba y eliminaba máquinas virtuales a placer, sin importar lo que instalaba en ellas, cómo lo dejaba todo al acabar, y sin preocuparme por el rendimiento.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/02/19232232/Yo-usando-mi-Mac-para-la-universidad.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19232232/Yo-usando-mi-Mac-para-la-universidad.jpg" alt="Yo usando mi Mac para la universidad" width="2500" height="1667" class="aligncenter size-full wp-image-17078" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/02/19232232/Yo-usando-mi-Mac-para-la-universidad.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/02/19232232/Yo-usando-mi-Mac-para-la-universidad.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/02/19232232/Yo-usando-mi-Mac-para-la-universidad.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>¿Se puede estudiar una carrera de informática técnica con un Mac? Sí, sin lugar a duda, mucha gente somos la prueba de ello.</strong> Algún profesor os gastará bromas, otros os tomarán menos en serio, y otros os pondrán un punto más porque ellos también usan Mac.</p>
+<p>Como anécdota, os contaré que en una asignatura de programación concurrente, yo estaba usando la máquina virtual por las distintas dependencias que necesitábamos para cursar la asignatura. Y un día, haciendo pruebas, mi código dio error. Un error muy raro. Tras mucho investigar y depurar el código paso a paso ¿cuál fue a solución? <strong>Ejecutarlo en Mac.</strong> Tal cual <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Mismo código, misma configuración, en uno funciona y en otro no. A día de hoy sigue siendo un misterio para mí.</p>
+<p>Al comentárselo a mi profesor, que usaba Mac como equipo principal, la única respuesta que me dio fue: <em>“Eso te pasa por usar Windows dentro de un Mac.”</em>.</p>
+<p>Bromas aparte, <strong>el Mac es un equipo brillante capacitado más que de sobra para realizar la parte técnica de una carrera como Ingeniería del software.</strong> Ya sea de forma nativa, o mediante virtualización.</p>
+<p><strong>Si tuviese que repetir</strong> <sup class="modern-footnotes-footnote ">4</sup> <strong>no dudaría ni un segundo en volver a la carga con mi Mac.</strong></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/8jwXA9FOTiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Cuando le digo a la gente a lo que me dedico y que uso un Mac como equipo principal en casa, se sorprenden mucho porque piensan que alguien como yo tiene que tener un sistema super complejo. Yo siempre les respondo lo mismo: en el trabajo me pego con un ordenador por imposición, no quiero hacerlo al llegar a casa.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Dos en realidad: <a target="_blank" title="Nuevo MacBook Pro para el blog" href="www.macsfera.com/nuevo-macbook-pro-para-el-blog/">mi viejo MacBook Pro de 2010</a> y <a target="_blank" title="Mi nuevo MacBook Pro Retina" href="www.macsfera.com/mi-nuevo-macbook-pro-retina/">mi actual MacBook Pro de 2015</a>.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Y el problema ya no es el programa en sí, sino sus dependencias. Yo lo considero basura, porque se queda por ahí aunque desinstales la herramienta principal que lo ha instalado.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Ya he tenido más que suficiente con una vez, así que esperemos que no haya que repetir &#x1f61d;</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple Music: nuevo servicio de música en streaming</title>
+		<link>https://www.MacSfera.com/apple-music-nuevo-servicio-de-musica-en-streaming/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2015 15:50:53 +0000</pubDate>
+				<category><![CDATA[Apple Music]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Artistas]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Música]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[Servicios]]></category>
+		<category><![CDATA[Streaming]]></category>
+		<category><![CDATA[The epicenter of change]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[WWDC15]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10833</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-music-nuevo-servicio-de-musica-en-streaming/">Apple Music: nuevo servicio de música en streaming</a></p>
+<p>En la keynote de la WWDC15, Apple presentó su nuevo servicio de música que promete entregar contenido en streaming, información sobre tus</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-music-nuevo-servicio-de-musica-en-streaming/">Apple Music: nuevo servicio de música en streaming</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-music-nuevo-servicio-de-musica-en-streaming/">Apple Music: nuevo servicio de música en streaming</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09172538/Apple-Music.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09172538/Apple-Music.jpg" alt="Apple Music" width="2500" height="1563" class="aligncenter size-full wp-image-10835" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09172538/Apple-Music.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09172538/Apple-Music.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09172538/Apple-Music.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En la keynote de la <a href="www.macsfera.com/la-wwdc-de-2015-se-celebrara-del-8-al-12-de-junio/" title="La WWDC de 2015 se celebrará del 8 al 12 de junio" target="_blank" rel="noopener noreferrer">WWDC15</a>, <strong>Apple presentó su nuevo servicio de música que promete entregar contenido en streaming, información sobre tus artistas favoritos y radio las 24 horas del día.</strong></p>
+<p>El servicio busca competir con el resto de plataformas de música online como Spotify o Rdio, <strong>por ello pone al alcance de sus usuarios el inmenso catálogo de la iTunes Store,</strong> pero yendo más allá.</p>
+<p><span id="more-10833"></span></p>
+<p>A parte de los millones de canciones que pone a nuestra disposición al instante, <strong>el servicio cuenta con grandes artistas encargados de la radio online.</strong> Radio que será emitida desde Los Ángeles, Nueva York y Londres. Prometen entregar música, entrevistas y cultura, todo ello por Internet. A parte de distintas radios de música según su temática.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09174201/Apple-Music-App-iOS-9.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09174201/Apple-Music-App-iOS-9.jpg" alt="Apple Music App iOS 9" width="2372" height="1478" class="aligncenter size-full wp-image-10836" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09174201/Apple-Music-App-iOS-9.jpg 2372w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09174201/Apple-Music-App-iOS-9.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09174201/Apple-Music-App-iOS-9.jpg 1024w" sizes="(max-width: 2372px) 100vw, 2372px" /></a></p>
+<p><strong>Apple Music cuenta con un gran sistema de recomendación</strong> formado no solo por algoritmos, también con personas. En base a nuestros gustos declarados podremos descubrir música nueva que probablemente nos gustará. Así descubriremos nuevos artistas y sus respectivas canciones favoreciendo su expansión y popularización.</p>
+<p>La plataforma <strong>cuenta con un apartado de artistas que permite publicar estados, fotos, vídeos, etc.</strong> Ya sea de forma exclusiva o reutilizando el contenido publicado en otras redes sociales, los fans podrán seguir a sus artistas favoritos e interactuar con lo que publiquen. Apple espera que sea algo especial y muestren contenido exclusivo, tal y como mostraron en la presentación.</p>
+<p>Ha habido grandes cuestiones sobre el servicio que no han sido respondidas en <a href="www.macsfera.com/habra-streaming-oficial-de-la-keynote-de-la-wwdc/" title="Habrá streaming oficial de la keynote de la WWDC" target="_blank" rel="noopener noreferrer">la keynote</a> <sup class="modern-footnotes-footnote ">1</sup>. <strong>Apple Music permitirá guardar canciones en modo offline,</strong> se sabe que no todo el contenido de iTunes puede estar disponible online –por lo menos al principio– y se tienen ciertas dudas sobre la compatibilidad de otros servicios de Apple como iTunes Match <sup class="modern-footnotes-footnote ">2</sup>.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/06/09174228/Beats-Radio-Apple-Music.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/06/09174228/Beats-Radio-Apple-Music.jpg" alt="Beats Radio Apple Music" width="1389" height="924" class="aligncenter size-full wp-image-10837" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/06/09174228/Beats-Radio-Apple-Music.jpg 1389w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09174228/Beats-Radio-Apple-Music.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/06/09174228/Beats-Radio-Apple-Music.jpg 1024w" sizes="(max-width: 1389px) 100vw, 1389px" /></a></p>
+<p><strong>iTunes va a tener que actualizarse para poder ser compatible con Apple Music</strong> y yo lo único que deseo es que aprovechen este motivo para darle una vuelta de tuerca a la aplicación y traer una <a href="www.macsfera.com/apple-acaba-con-este-itunes-ya/" title="Apple, acaba con este iTunes ya" target="_blank" rel="noopener noreferrer">forma distinta</a> de interactuar con los dispositivos iOS.</p>
+<p>Spotify nos tiene a más de uno como clientes y Apple lo sabe. Por ello, y con el fin de impulsar la plataforma, <strong>nos dará 3 meses del servicio de forma gratuita para que lo probemos.</strong> Después de esos 3 meses de prueba, <strong>la suscripción mensual pasará a ser de 10€</strong> para un solo usuario y de 15€ para una familia compuesta por hasta 6 miembros. La compatibilidad será máxima: <strong>Mac, iPhone, iPad, Apple Watch, Windows y,</strong> por primera vez, <strong>Android.</strong></p>
+<p><strong>Apple Music estará disponible el 30 de junio de este mismo año</strong> y vendrá con la versión 8.4 de iOS debutando en más de 100 países a la vez.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/es/music/" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Y más teniendo en cuenta todos los ejemplos que se pusieron de la música que podías escuchar pero ignorando ciertos detales.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Si bien se especifica que no hay problema, es raro mantener los dos servicios y la utilidad del segundo queda puesta en duda.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-music-nuevo-servicio-de-musica-en-streaming/">Apple Music: nuevo servicio de música en streaming</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nuevo iWork disponible desde iCloud tanto en Mac como en Windows</title>
+		<link>https://www.MacSfera.com/nuevo-iwork-disponible-desde-icloud-tanto-en-mac-como-en-windows/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2013 11:23:01 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[iWork]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Numbers]]></category>
+		<category><![CDATA[Pages]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9666</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iwork-disponible-desde-icloud-tanto-en-mac-como-en-windows/">Nuevo iWork disponible desde iCloud tanto en Mac como en Windows</a></p>
+<p>En la keynote de la WWDC, Apple presentó una nueva versión de iWork basada en la web y accesible desde iCloud. Toda</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iwork-disponible-desde-icloud-tanto-en-mac-como-en-windows/">Nuevo iWork disponible desde iCloud tanto en Mac como en Windows</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iwork-disponible-desde-icloud-tanto-en-mac-como-en-windows/">Nuevo iWork disponible desde iCloud tanto en Mac como en Windows</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud.jpg" alt="iWork desde iCloud" width="710" height="469" class="aligncenter size-full wp-image-9667" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud-300x198.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>En la <strong><a href="www.macsfera.com/nuevo-logo-de-os-x-en-el-moscone-west-center-de-san-francisco-antes-de-la-wwdc/" title="Nuevo logo de OS X en el Moscone West Center de San Francisco antes de la WWDC" target="_blank" rel="noopener noreferrer">keynote de la WWDC</a></strong>, <strong>Apple presentó una nueva versión de <a href="www.macsfera.com/tag/iwork" title="iWork" target="_blank" rel="noopener noreferrer">iWork</a> basada en la web y accesible desde iCloud.</strong></p>
+<p><span id="more-9666"></span></p>
+<p><strong>Toda la suite de iWork está disponible,</strong> podremos crear y editar documentos en Pages, Keynote y Numbers desde el navegador. <strong>La interfaz que sigue es prácticamente idéntica a sus versiones de escritorio.</strong></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud-Pages.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud-Pages.jpg" alt="iWork desde iCloud Pages" width="710" height="473" class="aligncenter size-full wp-image-9668" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud-Pages.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud-Pages-300x200.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Cuando accedemos a la web <strong>podemos crear documentos con las plantillas predeterminadas o podemos abrir los documentos que ya tenemos existentes.</strong> Podemos cambiar el texto y su formato, añadir elementos como imágenes <strong>símplemente arrastrándolos a la ventana.</strong> En caso de que tengamos documentos en formato Office, no hay problema, los arrastramos y se abrirán permitiéndonos editarlos y guardarlos en <strong><a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a></strong>.</p>
+<p>La demo que se vio en la presentación muestra que el sistema es muy fluido permitiendo no solo editar sin problemas, también ver (en caso de que sea un documento de Keynote) a través de la web, que es lo más impresionante.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud-compatible-con-Mac-y-PC.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud-compatible-con-Mac-y-PC.jpg" alt="iWork desde iCloud compatible con Mac y PC" width="710" height="473" class="aligncenter size-full wp-image-9669" srcset="https://www.MacSfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud-compatible-con-Mac-y-PC.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2013/06/iWork-desde-iCloud-compatible-con-Mac-y-PC-300x200.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Este nuevo sistema, muy parecido a Google Docs, <strong>no solo permite que veamos o trabajemos nuestros documentos desde un Mac propio o ajeno, también funciona en Windows,</strong> de modo que podremos usarlo siempre que queramos, cuándo queramos y dónde queramos.</p>
+<p>En el evento también comentaron que nuevas versiones de la suite vendrán tanto para <strong>OS X</strong> como para <strong>iOS</strong>. Por ahora, <strong>iWork desde iCloud solo está disponible para desarrolladores aunque habrá una beta pública a finales de año.</strong></p>
+<p><span class="source">Imagen</span> <span class="via"><a href="http://live.theverge.com/apple-wwdc-2013-live-blog/" target="_blank" rel="noopener noreferrer">The Verge</a></span></p>
+<p><span class="source">Imagen</span> <span class="via"><a href="http://www.engadget.com/2013/06/10/apple-wwdc-2013-liveblog/" target="_blank" rel="noopener noreferrer"> Engadget </a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-iwork-disponible-desde-icloud-tanto-en-mac-como-en-windows/">Nuevo iWork disponible desde iCloud tanto en Mac como en Windows</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple presenta su programa de reciclaje online</title>
+		<link>https://www.MacSfera.com/apple-presenta-su-programa-de-reciclaje-online/</link>
+					<comments>https://www.MacSfera.com/apple-presenta-su-programa-de-reciclaje-online/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 31 Aug 2012 10:57:59 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Online]]></category>
+		<category><![CDATA[Productos]]></category>
+		<category><![CDATA[Programa de reciclaje]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7288</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-presenta-su-programa-de-reciclaje-online/">Apple presenta su programa de reciclaje online</a></p>
+<p>Apple ha presentado un programa de reciclaje online con el que nos comprarán nuestros antiguos productos para deshacerse de ellos de la</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-presenta-su-programa-de-reciclaje-online/">Apple presenta su programa de reciclaje online</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-presenta-su-programa-de-reciclaje-online/">Apple presenta su programa de reciclaje online</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/08/Programa-de-reciclaje-de-Apple.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/08/Programa-de-reciclaje-de-Apple.png" alt="Programa de reciclaje de Apple" title="Programa de reciclaje de Apple" width="550" height="279" class="aligncenter size-full wp-image-7289" srcset="https://www.MacSfera.com/wp-content/uploads/2012/08/Programa-de-reciclaje-de-Apple.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/08/Programa-de-reciclaje-de-Apple-300x152.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a> ha presentado un programa de reciclaje online con el que nos comprarán nuestros antiguos productos para deshacerse de ellos de la manera más ecológica posible.</strong></p>
+<p><span id="more-7288"></span></p>
+<p>El programa acepta <strong>ordenadores de sobre mesa y portátiles</strong> (tanto <strong>Apple</strong> como Windows), <strong>iPads y iPhones,</strong> dejan de lado los iPod. Para saber el precio hay que elegir el tipo de producto, el modelo y algunas características que varían según lo que elegimos (no son las mismas preguntas para un equipo <strong>Apple</strong> que otro con Windows).</p>
+<p>Al haber elegido el equipo y modelo pasaremos a un apartado con preguntas sobre <strong>el estado, pantalla, inicio, componentes externos (teclado y ratón), estado de las baterías, etc.</strong> En función de nuestras respuestas el valor final aumentará o disminuirá, después de contestarlas sabremos dicho valor.</p>
+<p>Si nos fijamos <strong>el precio final no es muy elevado,</strong> debemos entender que <strong>Apple</strong> ha descontado gran parte del valor por los costes que puede haber en su reciclaje y lo que nos da es una prima para que nos animemos a reciclar. Es una opción que podemos tomar <strong>en caso de que no tengamos la posibilidad de vender el equipo a otro propietario</strong> porque seguro que podemos sacar más.</p>
+<p>El programa <strong>no acepta todos los modelos de <a href="www.macsfera.com/tag/mac" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a>,</strong> los más modernos no se pueden reciclar, se sobreentiende que su vida útil sigue activa y ni si quiera da la posibilidad de reciclarlos.</p>
+<p>Ya sabéis, si no tenéis donde deshaceos de vuestros antiguos equipos consultad este programa a ver si os convence el precio que os dan.</p>
+<p>Programa de reciclaje | <a href="http://store.apple.com/es/browse/reuse_and_recycle" target="_blank" rel="noopener noreferrer">Apple</a><br />
+Fuente | <a href="https://twitter.com/edgarsd/statuses/241473156479582208" target="_blank" rel="noopener noreferrer">@Edgarsd</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-presenta-su-programa-de-reciclaje-online/">Apple presenta su programa de reciclaje online</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/apple-presenta-su-programa-de-reciclaje-online/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft lanza una campaña publicitaria contra Apple en Canadá</title>
+		<link>https://www.MacSfera.com/microsoft-lanza-una-campana-publicitaria-contra-apple-en-canada/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 11 May 2011 16:13:00 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Canadá]]></category>
+		<category><![CDATA[Hawai]]></category>
+		<category><![CDATA[iLife]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2111</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/microsoft-lanza-una-campana-publicitaria-contra-apple-en-canada/">Microsoft lanza una campaña publicitaria contra Apple en Canadá</a></p>
+<p>Microsoft ha lanzado una campaña publicitaria contra Apple en Canadá a través de una página web. Esta página web permite comparar entre</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/microsoft-lanza-una-campana-publicitaria-contra-apple-en-canada/">Microsoft lanza una campaña publicitaria contra Apple en Canadá</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/microsoft-lanza-una-campana-publicitaria-contra-apple-en-canada/">Microsoft lanza una campaña publicitaria contra Apple en Canadá</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/05/Campaña-publicitaria-contra-Apple.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/05/Campaña-publicitaria-contra-Apple.png" alt="" title="Campaña publicitaria contra Apple" width="550" height="275" class="aligncenter size-full wp-image-3576" srcset="https://www.MacSfera.com/wp-content/uploads/2011/05/Campaña-publicitaria-contra-Apple.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/05/Campaña-publicitaria-contra-Apple-300x150.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Microsoft ha lanzado una campaña publicitaria contra </strong><strong><a href="www.macsfera.com/" title="Apple">Apple</a></strong> en Canadá a través de una página web.<br />
+<span id="more-2111"></span><br />
+Esta página web permite comparar entre los distintos equipos de <strong>Apple</strong> y otros ordenadores de marcas de terceros equipados con Windows.</p>
+<p>Disponen de comparaciones entre todos los <strong>portátiles Apple</strong> y los <strong>iMac</strong> y siempre comparan el <strong>Mac</strong> con más de dos o más opciones de PC.</p>
+<p>Por supuesto, el método empleado denota que los PC <strong>son mucho mejores,</strong> como no, desde el diseño hasta lo que se dice.</p>
+<p><strong>Aluden que los</strong> <strong>Mac</strong> <strong>necesitan antivirus,</strong> algo que no es cierto, ya que de momento pocos son los virus que atacan al <strong><a href="www.macsfera.com/tag/os-x" title="OS X">OS X</a></strong>.</p>
+<p>En el apartado de fotos, movies, email y mensajería indican que el <strong>Mac</strong> usa <strong>iLife</strong><strong>,</strong> algo que es correcto, pero adjuntan un asterisco y más a bajo pone que <strong>iLife</strong> está en todas los nuevos ordenador o que cuesta 50$. La cosa es, que si estás comparando cual es mejor, das por entendido que te va a venir nuevo y gratis, pero a Microsoft le interesa <strong>poner un precio de por medio porque visualmente hace que el usuario lo vea negativo.</strong></p>
+<p>Y en cuanto a las imágenes empleadas, primero que todo, la imagen de cabecera que muestra un <strong>MacBook Pro de 17&#8243;</strong> con un fondo totalmente negro mientras que el PC que muestran al lado tiene un fondo colorido y además aluden que con <strong>el dinero que te ahorres puedes hacer un viaje a Hawai,</strong> el caso de los fondos coloridos se repite en todos los PCs que se muestran mientras que el fondo negro también se repite en todos los <strong>Mac</strong>.</p>
+<p>Finalizamos diciendo que claro está, no iban a poner cosas con las que saldría perdiendo, como por ejemplo <strong>las medidas de cada uno de los ordenadores o el material</strong> al igual que cuando indican que el antivirus que ellos ofertan <strong>gratis no te dan lo que un antivirus de pago</strong> te puedan dar o que omiten un componente bastante importante como es <strong>la tarjeta gráfica.</strong></p>
+<p>Fuente | <a href="http://www.elpais.com/articulo/tecnologia/Microsoft/lanza/campana/publicitaria/Apple/elpeputec/20110509elpeputec_2/Tes">El País</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/microsoft-lanza-una-campana-publicitaria-contra-apple-en-canada/">Microsoft lanza una campaña publicitaria contra Apple en Canadá</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HDD &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/hdd/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:54:03 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Error en Spotify para Mac que degrada nuestros SSD</title>
+		<link>https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 12 Nov 2016 17:07:02 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[HDD]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[SSD]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15769</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a></p>
+<p>Ha salido a la luz que un error en la aplicación de Mac (y Windows) de Spotify causaba degradación en los SSD</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg" alt="Spotify error degradacion SSD" width="2500" height="1484" class="aligncenter size-full wp-image-15772" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Ha salido a la luz que un error en la aplicación de Mac</strong> (y Windows) <strong>de <a target="_blank"title="Spotify" href="www.macsfera.com/tag/spotify/">Spotify</a> causaba degradación en los SSD debido a una escritura innecesaria de datos en el disco duro.</strong></p>
+<p>Varios usuarios se han dado cuenta del fallo y se ha confirmado el error de forma oficial aportando una única solución: <strong>actualizar.</strong></p>
+<p><span id="more-15769"></span></p>
+<p>Un moderador del <a target="_blank"href="http://spoti.fi/2fTZAfQ">foro de Spotify</a> ha comentado lo siguiente:</p>
+<blockquote>
+<p>Hemos visto algunas preguntas en nuestra Comunidad acerca de la cantidad de datos escritos usando el cliente de escritorio de Spotify. Han sido revisados y cualquier caso referente a este tema se ha solucionado en la versión 1.0.42, disponible ya para todos los usuarios.</p>
+</blockquote>
+<p>De modo que ya sabéis, <strong>actualizad Spotify a la última versión disponible para evitar una escritura excesiva e innecesaria que degrade nuestros SSDs.</strong></p>
+<p>Siempre y cuando tengáis una <strong>versión superior a la 1.0.42,</strong> no habrá problemas.</p>
+<div id="attachment_15773" style="width: 448px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg"><img aria-describedby="caption-attachment-15773" src="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg" alt="Spotify degrada SSD" width="438" height="75" class="size-full wp-image-15773" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg 438w, https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg 300w" sizes="(max-width: 438px) 100vw, 438px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-15773" class="wp-caption-text">Imagen cedida por <a href="https://twitter.com/Adrimartin" target="_blank" rel="noopener noreferrer">Adri Martín</a></p></div>
+<p><em>¿Por qué los SSDs y no los HDDs?</em> <strong>Los SSDs se degradan más cuando se escriben mucha cantidad de datos.</strong> A los HDDs también les viene mal, pero les afecta bastante menos. Así que, en cualquier caso, actualizad para evitar este fallo problemático.</p>
+<p>La imagen de muestra es de <a target="_blank"href="https://twitter.com/Adrimartin/status/797034272628609026">un caso real</a>, <a target="_blank"href="https://www.twitter.com/adrimartin">Adrián Martín</a> ha relatado cómo en menos de 2 horas y sin usar la app, sólo con tenerla abierta, se han escrito 5,5 GB en su SSD.</p>
+<p>Los datos escritos no ocupan espacio como tal, pero el SSD los procesa y escribe, de modo que está en todo momento trabajando y eso es lo que hace que se degrade, acortando su vida.</p>
+<p>Las actualizaciones de Spotify saltan solas y por desgracia no hay forma de forzarlas <sup class="modern-footnotes-footnote ">1</sup>. Por ello, <strong>si no tenéis la versión 1.0.42 o más evitad tener la app abierta si no la estáis usando hasta que os salte la actualización.</strong></p>
+<p><span class="source">Fuente</span> <span class="via"><a href="http://arstechnica.com/information-technology/2016/11/for-five-months-spotify-has-badly-abused-users-storage-drives/" target="_blank" rel="noopener noreferrer">Ars Technical</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Tal y como <a target="_blank"href="https://twitter.com/SpotifyAyuda/status/797449490559041536">me confirman en Twitter</a>.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>En los nuevos iMac, Fusion Drive disminuye su almacenamiento flash hasta los 24 GB</title>
+		<link>https://www.MacSfera.com/en-los-nuevos-imac-fusion-drive-disminuye-su-almacenamiento-flash-hasta-los-24-gb/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 07:55:33 +0000</pubDate>
+				<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Fusion Drive]]></category>
+		<category><![CDATA[HDD]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Noticias de Mac]]></category>
+		<category><![CDATA[Pantalla Retina]]></category>
+		<category><![CDATA[SSD]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12375</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/en-los-nuevos-imac-fusion-drive-disminuye-su-almacenamiento-flash-hasta-los-24-gb/">En los nuevos iMac, Fusion Drive disminuye su almacenamiento flash hasta los 24 GB</a></p>
+<p>El pasado martes, Apple introdujo un nuevo iMac de 21,4” con pantalla Retina. Gracias a los detalles en la web y a</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/en-los-nuevos-imac-fusion-drive-disminuye-su-almacenamiento-flash-hasta-los-24-gb/">En los nuevos iMac, Fusion Drive disminuye su almacenamiento flash hasta los 24 GB</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/en-los-nuevos-imac-fusion-drive-disminuye-su-almacenamiento-flash-hasta-los-24-gb/">En los nuevos iMac, Fusion Drive disminuye su almacenamiento flash hasta los 24 GB</a></p>
+<p>El pasado martes, <a href="www.macsfera.com/nuevo-imac-de-215-con-pantalla-retina-4k/" title="Nuevo iMac de 21,5” con pantalla Retina 4K" target="_blank" rel="noopener noreferrer">Apple introdujo un nuevo iMac de 21,4” con pantalla Retina</a>. Gracias a los detalles en la web y a <a href="http://www.applesfera.com/sobremesa/en-los-nuevos-imac-fusion-drive-disminuye-su-almacenamiento-flash-hasta-los-24-gb" target="_blank" rel="noopener noreferrer">Raúl Álvarez de Applesfera</a>, <strong>podemos saber que ese modelo de iMac y el resto ahora cuentan con una unidad de 24GB de SSD para las configuraciones de <a href="www.macsfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/" title="Fusion Drive: Nuevo sistema de almacenamiento" target="_blank" rel="noopener noreferrer">Fusion Drive</a>.</strong></p>
+<blockquote class="enlace">
+<p>Fusion Drive, desde su anuncio en 2012, ha estado disponible en capacidades de 1, 2 y 3 TB, de los cuales 128GB eran para la unidad SSD, pero para esta nueva renovación de iMac, Fusion Drive adelgaza su almacenamiento Flash hasta los 24GB, es decir, casi una quinta parte del almacenamiento que por años tuvo destinado.</p>
+</blockquote>
+<p>No sabemos porqué se ha dado este movimiento, ya que Fusion Drive se encargaba de mantener en la unidad flash el sistema y las aplicaciones y/o documentos más usados, pero con 24 GB a penas nos va a llegar para el sistema.</p>
+<p>En la sección de comentarios del artículo podemos ver <a href="http://www.applesfera.com/sobremesa/en-los-nuevos-imac-fusion-drive-disminuye-su-almacenamiento-flash-hasta-los-24-gb#c777876" target="_blank" rel="noopener noreferrer">algunas de las teorías</a> que indican porqué puede haber hecho Apple este movimiento. <strong>Concuerdan bastante bien si pensamos que esta reducción de tamaño sólo se aplica cuando el disco HDD que elegimos es de 1TB, mientras que el de 2 y 3TB conservan la capacidad SSD original.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/en-los-nuevos-imac-fusion-drive-disminuye-su-almacenamiento-flash-hasta-los-24-gb/">En los nuevos iMac, Fusion Drive disminuye su almacenamiento flash hasta los 24 GB</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fusion Drive: Nuevo sistema de almacenamiento para los iMac</title>
+		<link>https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2012 16:35:27 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Fusion Drive]]></category>
+		<category><![CDATA[HDD]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[SSD]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7757</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/">Fusion Drive: Nuevo sistema de almacenamiento para los iMac</a></p>
+<p>En el día de ayer Apple presentó los nuevos iMac que, aparte de llevar un diseño más moderno y acorde al estilo</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/">Fusion Drive: Nuevo sistema de almacenamiento para los iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/">Fusion Drive: Nuevo sistema de almacenamiento para los iMac</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/10/Fusion-Drive.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/10/Fusion-Drive.png" alt="Fusion Drive" title="Fusion Drive" width="550" height="375" class="aligncenter size-full" /></a></p>
+<p>En el día de ayer <strong><a href="www.macsfera.com/imac-de-2012-su-diseno-al-detalle/" title="iMac de 2012. Su diseño al detalle" target="_blank" rel="noopener noreferrer">Apple presentó los nuevos iMac</a></strong> que, aparte de llevar un diseño más moderno y acorde al estilo actual de la empresa, incluían mejoras en el hardware, una de ellas es <strong>Fusion Drive</strong>.</p>
+<p><span id="more-7757"></span></p>
+<p><strong><a href="www.macsfera.com/tag/fusion-drive" title="Fusion Drive" target="_blank" rel="noopener noreferrer">Fusion Drive</a></strong> es la definición que ha aportado <strong>Apple</strong> a un concepto ya inventado pero que éstos han decidido modificar un poco. <strong>Consiste en unir dos tipos distintos de almacenamiento para explotar lo mejor de cada uno como si de una sola unidad se tratase.</strong> En concreto buscan mezclar las memorias flash con los discos duros tradicionales.</p>
+<p>Bien es sabido que las memorias flash <strong>son sumamente rápidas</strong> pero, como es algo novedoso, su precio es elevado y por el momento solo se producen unidades con poca capacidad para abaratar el coste final del producto. Por otro lado tenemos los corrientes HDD, unidades más económicas, <strong>con más capacidad</strong> y más lentas.</p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> lo que ha hecho ha sido unir por software estos dos tipos de memorias simulando que son un único disco. ¿El objetivo? <strong>Aportar la velocidad de las memorias flash</strong> a nuestros procesos de lectura y escritura y <strong>añadir extra de capacidad</strong> sin incrementar en gran medida los costes gracias a los HDD.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/10/Velocidad-Fusion-Drive.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/10/Velocidad-Fusion-Drive.png" alt="Velocidad Fusion Drive" title="Velocidad Fusion Drive" width="550" height="266" class="aligncenter size-full" /></a></p>
+<p>No solo se han conformado con eso sino que <strong>le han dado inteligencia</strong> para hacernos la vida un poco más sencilla. <strong>Las aplicaciones se almacenan en la unidad flash y los archivos en el HDD</strong> de forma general, pero si el sistema detecta que usamos con más frecuencia unos que otros <strong>los pasará a la memoria flash</strong> para que todo vaya más rápido. Por supuesto, la memoria flash tiene límites y cuando no quepan más aplicaciones empezará a guardarlas según la preferencia.</p>
+<p><strong>La velocidad lograda no supera a la que consiguen las memorias flash,</strong> pero si que se incrementa en gran medida gracias a ese software que ordena por orden de preferencia.</p>
+<p><strong>Las memorias flash son de 128 GB</strong> y <strong>el HDD aumentaría la capacidad en 1 TB.</strong> Esta nueva característica solo está disponible en ciertos modelos y, por supuesto, podemos ampliar las capacidades.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/">Fusion Drive: Nuevo sistema de almacenamiento para los iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Google &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/google/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:53:21 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Fantastical 2: de complemento a herramienta indispensable</title>
+		<link>https://www.MacSfera.com/fantastical-2-de-complemento-a-herramienta-indispensable/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 12 Apr 2015 15:13:07 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Calendario]]></category>
+		<category><![CDATA[Fantastical]]></category>
+		<category><![CDATA[Flexibits]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Handoff]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Yahoo]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10534</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fantastical-2-de-complemento-a-herramienta-indispensable/">Fantastical 2: de complemento a herramienta indispensable</a></p>
+<p>Ya os hablé de Fantastical para Mac, un excelente complemento para manejar nuestros calendarios en la plataforma de escritorio. Hoy vengo a</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fantastical-2-de-complemento-a-herramienta-indispensable/">Fantastical 2: de complemento a herramienta indispensable</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fantastical-2-de-complemento-a-herramienta-indispensable/">Fantastical 2: de complemento a herramienta indispensable</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Fantastical-2-para-Mac1.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Fantastical-2-para-Mac1.jpg" alt="Fantastical 2 para Mac" width="2500" height="1667" class="aligncenter size-full wp-image-10594" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Fantastical-2-para-Mac1.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Fantastical-2-para-Mac1.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Fantastical-2-para-Mac1.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ya os hablé de <a href="www.macsfera.com/fantastical-crea-edita-y-visualiza-eventos-y-recordatorios-desde-la-barra-de-menus/" title="Fantastical: crea, edita y visualiza eventos y recordatorios desde la barra de menús" target="_blank" rel="noopener noreferrer">Fantastical para Mac</a>, un excelente complemento para manejar nuestros calendarios en la plataforma de escritorio. Hoy vengo a hablaros de su nueva versión la cual <strong>abandona el concepto de complemento para convertirse en todo un gestor de calendarios.</strong></p>
+<p>Cuando vi las características de la versión original de Fantastical <strong>quedé fascinado,</strong> la sencillez que había a la hora de gestionar eventos y tareas me enamoró, y fue la que me animó a usar los calendarios virtuales en mi día a día. Por eso estaba tan expectante a la hora de ver lo nuevo de Flexibits, y <strong>ya os digo que estoy encantado,</strong> otra vez.</p>
+<p><span id="more-10534"></span></p>
+<p><strong>Fantastical 2 ya no es un complemento como era antes,</strong> ahora se ha convertido en una aplicación completamente funcional con la que podremos ver y gestionar nuestros calendarios de una forma eficiente y dinámica.</p>
+<h2>De complemento a completa aplicación</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Fantastical-2-para-Mac.jpg" rel="attachment wp-att-10596"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Fantastical-2-para-Mac.jpg" alt="Fantastical 2 para Mac" width="2560" height="1440" class="aligncenter size-full wp-image-10596" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Fantastical-2-para-Mac.jpg 2560w, https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Fantastical-2-para-Mac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Fantastical-2-para-Mac.jpg 1024w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p>Como ya he comentado, <strong>ahora disponemos de Fantastical como una aplicación de escritorio</strong> que podemos hacer más grande o pequeña, ponerla a pantalla completa, minimizarla, etc. En la ventana principal <strong>el diseño es básico y familiar,</strong> tenemos una vista general del día, semana, mes o año con todos los eventos planificados. También tenemos en el lateral izquierdo una vista mensual con los eventos más recientes.</p>
+<p>Gracias a esta barra lateral, podemos poner la ventana con detalle diario, semanal o anual sin perder la vista global del mes en el que estamos. A pesar de que tiene un diseño similar a la aplicación Calendario de Apple, <strong>esta incluye ciertas mejoras de diseño que me han gustado mucho:</strong> Un detalle importante es que en la vista anual vemos un mapa de calor con los eventos que hay en cada día, de esta forma podemos saber rápidamente como tenemos los meses <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<h2>Más novedades</h2>
+<p>Al margen de las características más destacables que ya os he enseñado, <strong>Fantastical 2 viene cargada con más novedades tanto visuales como funcionales.</strong></p>
+<h3>Grupos de calendarios</h3>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/16101808/Grupos-de-calendarios-Fantastical-2.jpg" rel="attachment wp-att-14092"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/16101808/Grupos-de-calendarios-Fantastical-2.jpg" alt="Grupos de calendarios Fantastical 2" width="1704" height="739" class="aligncenter size-full wp-image-14092" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/16101808/Grupos-de-calendarios-Fantastical-2.jpg 1704w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16101808/Grupos-de-calendarios-Fantastical-2.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16101808/Grupos-de-calendarios-Fantastical-2.jpg 1024w" sizes="(max-width: 1704px) 100vw, 1704px" /></a></p>
+<p>Los grupos de calendarios <strong>son una forma muy inteligente de filtrar nuestros calendarios en función del grupo al que pertenecen.</strong> Es una nueva herramienta diseñada para aquellos que tienen muchos calendarios y les gustaría tener cierta claridad a la hora de ver sus eventos.</p>
+<p>Al crear un grupo debemos añadir los distintos calendarios que van a formar parte de dicho grupo. Una vez creados, en Fantastical vamos a poder escoger entre los disponibles y éstos <strong>sólo nos mostrarán los calendarios que hemos añadido previamente, omitiendo el resto.</strong></p>
+<p>Esto viene perfecto a la hora de separar nuestros eventos de trabajo, vida personal, hobbies, etc. Si lo pensáis, se podría hacer de forma rudimentaria activando y desactivando los calendarios cada vez que queramos ocultar información, pero obviamente no es un buen movimiento. En cambio, <strong>con los grupos tan solo tendremos que escogerlos para obtener dicha filtración</strong> sin alterar el estado del resto de calendarios.</p>
+<p>Además, si Fantastical tiene permisos para obtener la ubicación, <strong>podremos configurar los grupos para que se activen automáticamente cada vez que lleguemos o dejemos un sitio.</strong> Si no tenemos la localización configurada, para cambiar entre los distintos grupos tendremos que usar el comando <code>⌃ + Número</code> (dónde el número es asignado automáticamente por Fantastical) o eligiéndolo entre la lista completa en la parte inferior de la ventana de eventos.</p>
+<h3>Soporte para husos horarios</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/16101928/Husos-horarios-en-Fantastical-2.jpg" rel="attachment wp-att-14093"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/16101928/Husos-horarios-en-Fantastical-2.jpg" alt="Husos horarios en Fantastical 2" width="1060" height="687" class="aligncenter size-full wp-image-14093" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/16101928/Husos-horarios-en-Fantastical-2.jpg 1060w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16101928/Husos-horarios-en-Fantastical-2.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16101928/Husos-horarios-en-Fantastical-2.jpg 1024w" sizes="(max-width: 1060px) 100vw, 1060px" /></a></p>
+<p>Si trabajáis con eventos que ocurren internacionalmente estáis de enhorabuena, <strong>Fantastical 2 incorpora un nuevo sistema por el cual basta con indicar la hora local y el uso horario del evento, la aplicación se encargará de ajustar la hora en base a nuestra localización.</strong> Es una forma muy cómoda de tener los eventos bien ordenados sin hacer la conversión horaria.</p>
+<p>Soy un gran aficionado a la Fórmula 1 y me gusta saber cuándo hay carrera, dónde y a qué hora. Gracias al sistema de husos horarios, puedo importar el calendario que ofrece la FIA sin preocuparme ya que automáticamente me dice la hora a la que se celebra el evento en España manteniendo el horario oficial del país en el que toca la carrera. Lo mismo nos sirve para los eventos que nosotros añadamos, elegimos la hora del evento, indicamos el huso horario que corresponde y automáticamente tendremos la hora local.</p>
+<h3>Compatibilidad con más servicios</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102032/Cuentas-en-Fantastical-2.jpg" rel="attachment wp-att-14094"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102032/Cuentas-en-Fantastical-2.jpg" alt="Cuentas en Fantastical 2" width="860" height="639" class="aligncenter size-full wp-image-14094" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102032/Cuentas-en-Fantastical-2.jpg 860w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16102032/Cuentas-en-Fantastical-2.jpg 269w" sizes="(max-width: 860px) 100vw, 860px" /></a></p>
+<p>No puedes ser una buena aplicación de calendarios si sólo soportas el calendario de iCloud, <strong>por ello Fantastical 2 ofrece compatibilidad con varios servicios que ofrecen calendarios</strong> para que podamos ver y modificar los eventos a nuestro gusto: iCloud, Google, Yahoo Fruux, locales y Exchange son los servicios básicos. También es posible importar y editar cualquier calendario que use el protocolo CalDAV, permitiendo así cualquier sistema de gestión privado y personal que podamos montar en nuestro propio servidor.</p>
+<h3>Diseñado al 100% para Yosemite</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102140/Widgets-de-Fantastical-2.jpg" rel="attachment wp-att-14095"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102140/Widgets-de-Fantastical-2.jpg" alt="Widgets de Fantastical 2" width="740" height="479" class="aligncenter size-full wp-image-14095" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102140/Widgets-de-Fantastical-2.jpg 740w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16102140/Widgets-de-Fantastical-2.jpg 300w" sizes="(max-width: 740px) 100vw, 740px" /></a></p>
+<p>Fantastical 2 sólo está disponible para OS X Yosemite y es por una buena razón: aprovechar sus características únicas que no están en versiones antiguas.</p>
+<ul>
+<li><strong>Tema claro y oscuro:</strong> Fantastical dispone de un diseño claro y oscuro a elección. Una tendencia que cada vez adoptan más aplicaciones y que facilita al usuario personalizarlas un poco más a su gusto.</li>
+<li><strong>Compatibilidad con Handoff:</strong> si tenemos un dispositivo iOS y Mac compatible podemos utilizar la propiedad Handoff con la versión móvil de Fantastical <sup class="modern-footnotes-footnote ">2</sup>.</li>
+<li><strong>Widget para el Centro de Notificaciones:</strong> podemos visualizar los próximos eventos en el Centro de Notificaciones gracias a su widget.</li>
+</ul>
+<h2>Evolucionando pero sin cambiar su esencia</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102527/Ventana-de-eventos-Fantastical-2.jpg" rel="attachment wp-att-14096"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102527/Ventana-de-eventos-Fantastical-2.jpg" alt="Ventana de eventos Fantastical 2" width="730" height="687" class="aligncenter size-full wp-image-14096" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102527/Ventana-de-eventos-Fantastical-2.jpg 730w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16102527/Ventana-de-eventos-Fantastical-2.jpg 213w" sizes="(max-width: 730px) 100vw, 730px" /></a></p>
+<p>Por supuesto, aunque Fantastical deja de ser un complemento, <strong>sigue manteniendo su característica principal</strong> –adorada por muchos de nosotros– por la cual permanece de forma permanente en la barra de menús y se materializa a modo de ventana reducida cuando lo deseamos. El método es exactamente igual que en la versión anterior, pero con algunos añadidos: <strong>ahora podemos llevar esa ventana a cualquier punto de la pantalla,</strong> no es necesario que esté anclada al icono. Para hacerlo basta con separar esa ventana o volverla a acercar al icono para que quede fija.</p>
+<p>Me encanta que no solo no hayan abandonado su principal característica, <strong>también el hecho de que hayan mejorado notablemente su funcionalidad.</strong> Lo que más me gustó de Fantastical 1 fue el acceso directo que teníamos en todo momento hacia la aplicación. Al igual que pasa ahora, no está hasta que desees que esté, y cuando se materializa puedes hacer todo lo que necesitas por lo bien diseñada e implementada que está.</p>
+<p>Esa implementación hace que ahora puedas navegar por todos los eventos que tenemos, no solo los más cercanos, también los futuros y los pasados. Basta con hacer scroll para obtener más información.</p>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Lenguaje-natural-de-Fantastical-2.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/12161307/Lenguaje-natural-de-Fantastical-2.gif" alt="Lenguaje natural de Fantastical 2" width="688" height="411" class="aligncenter size-full wp-image-10598" /></a></p>
+<p>Otra de las cosas que han mantenido y mejorado <strong>el sistema de lenguaje natural:</strong> este sistema permite crear eventos ajustando sus parámetros con una sola frase. Si deseamos crear un evento con título “Cena de empresa” que será a las “22:00” en “Madrid” para el calendario “Personal” con una alerta de “2 horas antes del evento” basta con poner la siguiente frase:</p>
+<blockquote class="medio">
+<p>Cena empresarial a las 22:00 en Madrid alerta 2 horas antes calendario Personal</p>
+</blockquote>
+<p>Automáticamente <strong>Fantastical detectará todos los parámetros y creará el evento con los detalles que le hemos dicho de una forma natural.</strong> La aplicación es compatible con el inglés, francés, alemán, italiano, japonés y español.</p>
+<h2>Fantastical como calendario predeterminado</h2>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102840/Aplicacion-por-omision-Fantastical-2.jpg" rel="attachment wp-att-14097"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102840/Aplicacion-por-omision-Fantastical-2.jpg" alt="Aplicacion por omision Fantastical 2" width="649" height="260" class="aligncenter size-full wp-image-14097" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/16102840/Aplicacion-por-omision-Fantastical-2.jpg 649w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16102840/Aplicacion-por-omision-Fantastical-2.jpg 300w" sizes="(max-width: 649px) 100vw, 649px" /></a></p>
+<p>Ahora que Fantastical 2 es una aplicación completa al 100% no he dudado ni un momento en convertirla mi aplicación por omisión. Al contrario que en los navegadores, no te pregunta si quieres hacerla tu aplicación por defecto al abrirla, ni tampoco te deja configurarlo en las preferencias del sistema.</p>
+<p><strong>Para hacerlo debemos ir a la aplicación Calendario de OS X,</strong> en las preferencias (General) veremos la opción para elegir Fantastical como aplicación por defecto, basta con seleccionarla y cerrar la aplicación Calendario. De esta forma, cada vez que abramos un calendario externo, añadamos eventos desde otras aplicaciones o nos suscribamos a un calendario, <strong>será Fantastical las que reciba esa petición.</strong></p>
+<h2>La mejor aplicación para calendarios, otra vez</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/04/16103121/Fantastical-2-pantalla-completa.png" rel="attachment wp-att-14098"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/04/16103121/Fantastical-2-pantalla-completa.png" alt="Fantastical 2 pantalla completa" width="2560" height="1440" class="aligncenter size-full wp-image-14098" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/16103121/Fantastical-2-pantalla-completa.png 2560w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16103121/Fantastical-2-pantalla-completa.png 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/16103121/Fantastical-2-pantalla-completa.png 1024w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p>El rediseño, la mejorada ventana de eventos, la aplicación de escritorio completa, los detalles a la hora de presentar la información, compatibilidad con las últimas novedades de Yosemite, todo. Todo hace que Fantastical 2 sea la mejor aplicación para gestionar nuestros calendarios y recordatorios, otra vez.</p>
+<p>Si bien hay algunos errores que corregir, no son errores graves o que puedan molestar en su uso cotidiano <sup class="modern-footnotes-footnote ">3</sup> aunque si que es verdad que hay que corregirlos y mejorarlos.</p>
+<p>Para entender su precio (50€ cuando se acabe la promoción de lanzamiento) hay que comprender una cosa: <strong>Esto no es una actualización, es una nueva herramienta de trabajo creada desde cero.</strong> Han conseguido que de entrada puedas gestionar tus calendarios de una forma sencilla, pero también te proveen de todas las funcionalidades que tiene una potente aplicación. Si a eso le sumas los tres o cuatro años de vida que puede tener la aplicación recibiendo actualizaciones y mejoras, no veo inconveniente alguno en invertir el dinero.</p>
+<p>El ecosistema de Flexibits ya se ha completado con Fantastical 2 para Mac, las aplicaciones de iOS les han enseñado muchas cosas positivas y se nota en esta versión. Ha sido una adopción completa de las funciones de OS X, de su diseño y la mejora en sus funcionalidades.</p>
+<p>Fantastical 2 para Mac tiene un precio de 50 dólares (aunque hay un 20% de descuento por lanzamiento) y está disponible a través de la <a href="https://geo.itunes.apple.com/es/app/fantastical-2-calendario-y/id975937182?mt=12&#038;at=1010l9LC" target="_blank" rel="noopener noreferrer">Mac App Store</a> y la <a href="http://sites.fastspring.com/flexibits/product/store?source=flexibits" target="_blank" rel="noopener noreferrer">tienda de Flexibits</a>.</p>
+<p><span class="source">Más info y compra</span> <span class="via"><a href="https://flexibits.com/fantastical" target="_blank" rel="noopener noreferrer">Flexibits</a></span></p>
+<p><span class="source">Fantastical 2 para Mac</span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/fantastical-2-calendario-y/id975937182?mt=12&#038;at=1010l9LC" target="_blank" rel="noopener noreferrer">Mac App Store</a></span></p>
+<p><span class="source">Fantastical para iPhone</span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/fantastical-2-para-iphone/id718043190?mt=8&#038;at=1010l9LC" target="_blank" rel="noopener noreferrer">Mac App Store</a></span></p>
+<p><span class="source">Fantastical para iPad</span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/fantastical-2-para-ipad-calendario/id830708155?mt=8&#038;at=1010l9LC" target="_blank" rel="noopener noreferrer">Mac App Store</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Apple por su parte, no notifica de ninguna forma la existencia o carencia de eventos cuando tenemos la vista anual seleccionada.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Sólo he conseguido hacerla funcionar del iPhone al Mac y no con muy buenos resultados: aparece la opción de abrir la aplicación, pero no traspasa los datos que hemos introducido en el iPhone.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Gracias al lenguaje natural, crear un evento en un dispositivo iOS no tiene complejidad alguna. Creo que Handoff lo han implementado por implementar, no porque realmente lo vayamos a usar tanto como con Mail.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fantastical-2-de-complemento-a-herramienta-indispensable/">Fantastical 2: de complemento a herramienta indispensable</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fantastical: crea, edita y visualiza eventos y recordatorios desde la barra de menús</title>
+		<link>https://www.MacSfera.com/fantastical-crea-edita-y-visualiza-eventos-y-recordatorios-desde-la-barra-de-menus/</link>
+					<comments>https://www.MacSfera.com/fantastical-crea-edita-y-visualiza-eventos-y-recordatorios-desde-la-barra-de-menus/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 24 Sep 2012 09:49:03 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Calendario]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Fantastical]]></category>
+		<category><![CDATA[Flexibits]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[iCal]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[Recordatorios]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7548</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fantastical-crea-edita-y-visualiza-eventos-y-recordatorios-desde-la-barra-de-menus/">Fantastical: crea, edita y visualiza eventos y recordatorios desde la barra de menús</a></p>
+<p>En el día de hoy os queremos mostrar Fantastical, una increíble aplicación con la que podrás editar tus calendarios de iCal y</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fantastical-crea-edita-y-visualiza-eventos-y-recordatorios-desde-la-barra-de-menus/">Fantastical: crea, edita y visualiza eventos y recordatorios desde la barra de menús</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fantastical-crea-edita-y-visualiza-eventos-y-recordatorios-desde-la-barra-de-menus/">Fantastical: crea, edita y visualiza eventos y recordatorios desde la barra de menús</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/09/Fantastical.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/09/Fantastical.png" alt="Fantastical" title="Fantastical" width="550" height="389" class="aligncenter size-full wp-image-7550" srcset="https://www.MacSfera.com/wp-content/uploads/2012/09/Fantastical.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/09/Fantastical-300x212.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En el día de hoy os queremos mostrar <strong>Fantastical</strong>, una increíble <strong><a href="www.macsfera.com/tag/aplicaciones" title="Aplicaciones" target="_blank" rel="noopener noreferrer">aplicación</a></strong> con la que <strong>podrás editar tus calendarios de iCal y recordatorios desde la barra de menús.</strong></p>
+<p><span id="more-7548"></span></p>
+<p>La aplicación se materializa en forma de <strong>ventana flotante que se ejecuta desde la barra de menús,</strong> desde ella podremos ver todo el contenido que tenemos en iCal y agregar nuevo. Podemos navegar entre los meses, crear eventos, editar los existentes y añadir recordatorios.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/09/Mostrar-Eventos-en-Fantastical.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/09/Mostrar-Eventos-en-Fantastical.png" alt="Mostrar Eventos en Fantastical" title="Mostrar Eventos en Fantastical" width="478" height="268" class="aligncenter size-full wp-image-7552" srcset="https://www.MacSfera.com/wp-content/uploads/2012/09/Mostrar-Eventos-en-Fantastical.png 478w, https://www.MacSfera.com/wp-content/uploads/2012/09/Mostrar-Eventos-en-Fantastical-300x168.png 300w" sizes="(max-width: 478px) 100vw, 478px" /></a></p>
+<p>Uno de los puntos positivos de esta aplicación es que <strong>es muy fácil de usar,</strong> de tamaño reducido y accesible en cualquier momento. <strong>La vista principal es la del calendario en el que estamos, los recordatorios</strong> (podemos configurar cuantos queremos mostrar) <strong>y los eventos más cercanos.</strong></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/09/Crear-eventos-iCal-en-Fantastical.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/09/Crear-eventos-iCal-en-Fantastical.png" alt="Crear eventos iCal en Fantastical" title="Crear eventos iCal en Fantastical" width="550" height="361" class="aligncenter size-full wp-image-7551" srcset="https://www.MacSfera.com/wp-content/uploads/2012/09/Crear-eventos-iCal-en-Fantastical.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/09/Crear-eventos-iCal-en-Fantastical-300x197.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>A la hora de crear un evento, <strong>tiene un motor muy potente que hace que con solo escribir podamos rellenar la mayoría de los campos automáticamente.</strong> Un ejemplo de esto es que si en el cuadro ponemos «Visitar a Papá en Pamplona de 12:00 a 15:00 el 27 de septiembre» la aplicación crea un evento llamado Visitar a Papá, en la ubicación pone Pamplona, el horario lo pone de 12 a 15 y lo crea para el 27 de septiembre, todo muy sencillo y automático.</p>
+<p>Con la aplicación también <strong>podemos sincronizar otros servicios como los de Google,</strong> por lo que podemos tener sincronización en caso de tener un dispositivo Android.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/09/Editar-eventos-de-iCal-en-Fantastical.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/09/Editar-eventos-de-iCal-en-Fantastical.png" alt="Editar eventos de iCal en Fantastical" title="Editar eventos de iCal en Fantastical" width="550" height="268" class="aligncenter size-full wp-image-7553" srcset="https://www.MacSfera.com/wp-content/uploads/2012/09/Editar-eventos-de-iCal-en-Fantastical.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/09/Editar-eventos-de-iCal-en-Fantastical-300x146.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>iCal</strong> es una aplicación muy completa pero que en algunos momentos puede resultar incómoda porque es una ventana bastante grande, <strong>lo que me gustaría destacar mucho de Fantastical es la facilidad con la que podemos crear y editar los eventos sin ningún problema.</strong></p>
+<p>La aplicación tiene un precio  de <strong>15,99€ y está disponible a través de la <a href="www.macsfera.com/tag/mac-app-store" title="Mac App Store" target="_blank" rel="noopener noreferrer">Mac App Store</a> o de su propia tienda.</strong> Si lo deseáis, tenéis una <strong>versión de prueba</strong> para que podáis saber un poco más sobre sus funcionalidades.</p>
+<p>Más info | <a href="http://flexibits.com/" target="_blank" rel="noopener noreferrer">Flexibits</a><br />
+Compra | <a href="http://clkuk.tradedoubler.com/click?p=24364&#038;a=2266124&#038;url=https%3A%2F%2Fitunes.apple.com%2Fes%2Fapp%2Ffantastical%2Fid435003921%3Fmt%3D12%26uo%3D4%26partnerId%3D2003">Mac App Store</a> | <a href="https://sites.fastspring.com/flexibits/instant/fantastical?source=flexibits" target="_blank" rel="noopener noreferrer">Flexibits Store</a> | <a href="http://clkuk.tradedoubler.com/click?p=24364&#038;a=2266124&#038;url=https%3A%2F%2Fitunes.apple.com%2Fes%2Fapp%2Ffantastical%2Fid575647534%3Fmt%3D8%26uo%3D4%26partnerId%3D2003">AppStore</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fantastical-crea-edita-y-visualiza-eventos-y-recordatorios-desde-la-barra-de-menus/">Fantastical: crea, edita y visualiza eventos y recordatorios desde la barra de menús</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/fantastical-crea-edita-y-visualiza-eventos-y-recordatorios-desde-la-barra-de-menus/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple mejorará el acceso a las políticas de privacidad en los dispositivos móviles</title>
+		<link>https://www.MacSfera.com/apple-mejorara-el-acceso-a-las-politicas-de-privacidad-en-los-dispositivos-moviles/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 03 Mar 2012 23:21:09 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[HP]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Mejoras]]></category>
+		<category><![CDATA[Microfost]]></category>
+		<category><![CDATA[Path]]></category>
+		<category><![CDATA[Política de Privacidad]]></category>
+		<category><![CDATA[RIM]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6463</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-mejorara-el-acceso-a-las-politicas-de-privacidad-en-los-dispositivos-moviles/">Apple mejorará el acceso a las políticas de privacidad en los dispositivos móviles</a></p>
+<p>El Abogado General del Estado de California ha conseguido que Apple, Google, Amazon, Microsoft, HP y RIM lleguen a un acuerdo para</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-mejorara-el-acceso-a-las-politicas-de-privacidad-en-los-dispositivos-moviles/">Apple mejorará el acceso a las políticas de privacidad en los dispositivos móviles</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-mejorara-el-acceso-a-las-politicas-de-privacidad-en-los-dispositivos-moviles/">Apple mejorará el acceso a las políticas de privacidad en los dispositivos móviles</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/03/App-Store-iPod-Touch.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/03/App-Store-iPod-Touch.png" alt="" title="App Store iPod Touch" width="550" height="366" class="aligncenter size-full wp-image-6464" srcset="https://www.MacSfera.com/wp-content/uploads/2012/03/App-Store-iPod-Touch.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/03/App-Store-iPod-Touch-300x200.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>El <strong>Abogado General del Estado de California</strong> ha conseguido que <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a>, Google, Amazon, Microsoft, HP y RIM lleguen a un acuerdo para mejorar la política de privacidad en sus dispositivos.</strong></p>
+<p><span id="more-6463"></span></p>
+<p>El fin es el de <strong>mostrar al usuario la política de privacidad de una aplicación antes de la descarga.</strong> De ese modo se sabrá que datos recopila o utiliza la app y en caso de que no se esté de acuerdo no descargarla. Además, cada tienda implementaría <strong>su propio sistema de denuncia</strong> que permitiese reportar que aplicaciones no están cumpliendo con esa política previa.</p>
+<p>A pesar de que esto serviría para no violar una ley californiana, <strong>lo más lógico sería implementarlo internacionalmente,</strong> no solo por el sistema técnico, sino por los usuarios. De este modo <strong>se evitarían problemas y malentendidos</strong> como el que ocurrió con la <strong><a href="www.macsfera.com/tag/aplicaciones" title="Aplicaciones" target="_blank" rel="noopener noreferrer">aplicación</a></strong> para iPhone llamada Path, que <strong>guardaba todos los contactos de la Agenda sin tu permiso.</strong></p>
+<p>Los representantes de cada empresa han quedado en hacer una nueva reunión dentro de seis meses «<strong>para evaluar la privacidad en el espacio móvil</strong>«. Hasta entonces no debería haber ningún cambio en las tiendas de cada empresa.</p>
+<p>Vía | <a href="http://www.genbeta.com/movil/seis-companias-google-y-apple-entre-ellas-mejoraran-el-acceso-a-las-politicas-de-privacidad-en-el-entorno-movil" target="_blank" rel="noopener noreferrer">Genbeta</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-mejorara-el-acceso-a-las-politicas-de-privacidad-en-los-dispositivos-moviles/">Apple mejorará el acceso a las políticas de privacidad en los dispositivos móviles</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Se encuentran acuerdos entre Apple, Google, Adobe, Intel y otras empresas para no robarse empleados</title>
+		<link>https://www.MacSfera.com/se-encuentran-acuerdos-entre-apple-google-adobe-intel-y-otras-empresas-para-no-robarse-empleados/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2012 16:01:01 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Acuerdo]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Demandas]]></category>
+		<category><![CDATA[Departamento de Justicia]]></category>
+		<category><![CDATA[Departamentos]]></category>
+		<category><![CDATA[Empleados]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Intuit]]></category>
+		<category><![CDATA[Lucasfilm]]></category>
+		<category><![CDATA[Pixar]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6252</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/se-encuentran-acuerdos-entre-apple-google-adobe-intel-y-otras-empresas-para-no-robarse-empleados/">Se encuentran acuerdos entre Apple, Google, Adobe, Intel y otras empresas para no robarse empleados</a></p>
+<p>El Departamento de Justicia de los Estados Unidos ha confirmado la existencia de un acuerdo informal entre Apple, Google, Adobe, Intel, Pixar,</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/se-encuentran-acuerdos-entre-apple-google-adobe-intel-y-otras-empresas-para-no-robarse-empleados/">Se encuentran acuerdos entre Apple, Google, Adobe, Intel y otras empresas para no robarse empleados</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/se-encuentran-acuerdos-entre-apple-google-adobe-intel-y-otras-empresas-para-no-robarse-empleados/">Se encuentran acuerdos entre Apple, Google, Adobe, Intel y otras empresas para no robarse empleados</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/01/Demanda-acuerdos-entre-Apple-y-Google.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/01/Demanda-acuerdos-entre-Apple-y-Google.jpg" alt="" title="Demanda acuerdos entre Apple y Google" width="550" height="371" class="aligncenter size-full wp-image-6253" srcset="https://www.MacSfera.com/wp-content/uploads/2012/01/Demanda-acuerdos-entre-Apple-y-Google.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2012/01/Demanda-acuerdos-entre-Apple-y-Google-300x202.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>El Departamento de Justicia de los Estados Unidos ha confirmado la existencia de un acuerdo informal entre <a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a>, Google, Adobe, Intel, Pixar, Lucasfilm e Intuit por los cuales no se podían robar a los empleados.</strong></p>
+<p><span id="more-6252"></span></p>
+<p>La alarma saltó en 2009 entre Google y <strong>Apple</strong>, pero <strong>no había constancia de una investigación alguna hasta el pasado 19 de enero.</strong> Según el documento oficial, estas empresas <strong>habían alcanzado acuerdos para evitar contratar a los empleados de unas u otras franquicias y para evitar luchar por una persona que fuese a ser contratada por otra compañía.</strong></p>
+<p>De esta forma se evitarían ofrecer más dinero a los empleados y <strong>limitar la capacidad de estos para negociar salarios más elevados.</strong>  Se han encontrado emails enviados, entre otros, a <strong><a href="www.macsfera.com/tag/steve-jobs" title="Steve Jobs" target="_blank" rel="noopener noreferrer">Steve Jobs</a></strong> por el CEO de Adobe en 2005. En una misiva escrita por el vicepresidente de recursos humanos explicaba que «Bruce Chizen y Steve Jobs tienen un acuerdo por el que no podemos cortejar a NINGÚN empleado de Apple y viceversa».</p>
+<p>Conversaciones similares se han encontrado por parte de la empresa Pixar. Para el Departamento de Justicia, estos mensajes indican «<strong>fuertes evidencias de que las compañías conocían los acuerdos expresos del resto, creando sus propios acuerdos a imitación de los mismos y siguiéndolos junto a los demás para conseguir el mismo objetivo</strong>«.</p>
+<p>A pesar de que el Departamento de Justicia llegó a un acuerdo extrajudicial por el cual dichas compañías debían abandonar estas prácticas sin la necesidad de aceptar la culpabilidad. <strong>Esta semana llegará a los tribunales una demanda colectiva presentada por antiguos empleados que buscan solventar las pérdidas económicas que les habrían provocado las empresas.</strong></p>
+<p>Vía | <a href="http://es.engadget.com/2012/01/20/la-justifica-de-eeuu-revela-los-acuerdos-entre-google-apple-ad/" target="_blank" rel="noopener noreferrer">Engadget</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/se-encuentran-acuerdos-entre-apple-google-adobe-intel-y-otras-empresas-para-no-robarse-empleados/">Se encuentran acuerdos entre Apple, Google, Adobe, Intel y otras empresas para no robarse empleados</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple consigue que HTC tenga que modificar su sistema bajo prohibición de venta</title>
+		<link>https://www.MacSfera.com/apple-consigue-que-htc-tenga-que-modificar-su-sistema-bajo-prohibicion-de-venta/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2011 15:56:00 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Comisión Internacional de Comercio]]></category>
+		<category><![CDATA[Demandas]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[HTC]]></category>
+		<category><![CDATA[Nexus One]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Patentes]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6001</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-consigue-que-htc-tenga-que-modificar-su-sistema-bajo-prohibicion-de-venta/">Apple consigue que HTC tenga que modificar su sistema bajo prohibición de venta</a></p>
+<p>Apple ha conseguido una orden por la cual HTC no podrá comercializar distintos teléfonos con Android a partir del 19 de abril</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-consigue-que-htc-tenga-que-modificar-su-sistema-bajo-prohibicion-de-venta/">Apple consigue que HTC tenga que modificar su sistema bajo prohibición de venta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-consigue-que-htc-tenga-que-modificar-su-sistema-bajo-prohibicion-de-venta/">Apple consigue que HTC tenga que modificar su sistema bajo prohibición de venta</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/12/Apple-consigue-que-Android-tenga-que-modificar-su-sistema.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/12/Apple-consigue-que-Android-tenga-que-modificar-su-sistema.png" alt="" title="Apple consigue que Android tenga que modificar su sistema" width="550" height="250" class="aligncenter size-full wp-image-6002" srcset="https://www.MacSfera.com/wp-content/uploads/2011/12/Apple-consigue-que-Android-tenga-que-modificar-su-sistema.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/12/Apple-consigue-que-Android-tenga-que-modificar-su-sistema-300x136.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> ha conseguido <strong>una orden por la cual HTC no podrá comercializar distintos teléfonos con Android a partir del 19 de abril de 2012 si no modifica las patentes violadas.</strong></p>
+<p><span id="more-6001"></span></p>
+<p>La <strong>Comisión Internacional del Comercio de EEUU</strong> ha sido la encargada de analizar el caso de la de manda por parte de <strong>Apple</strong> en la que alegaba que <strong><a href="www.macsfera.com/apple-demanda-a-htc-por-una-infraccion-de-pate/" title="Apple demanda a HTC por una infracción de patentes" target="_blank" rel="noopener noreferrer">HTC violaba dos de sus patentes</a></strong> en distintos móviles como el Nexus One de Google.</p>
+<p>La patente que ha sido violada y aceptada <strong>afecta al apartado de software</strong>, es la que permite llamar a un teléfono que va incluido en un correo o en un SMS con solo pulsarlo. Por otro lado, <strong>se han descartado otras dos infracciones</strong> que Apple quería denunciar.</p>
+<p>Al parecer este veredicto da la posibilidad de que <strong>Apple</strong> <strong>demande a más compañías puesto que el error está en Android</strong> de modo que Google deberá trabajar en alguna solución alternativa para que esto no suceda.</p>
+<p><strong>Google trabajará con HTC para buscar dicha alternativa</strong> antes de la fecha indicada, de lo contrario deberían eliminar esa opción del sistema o se prohibiría la comercialización del teléfono.</p>
+<p>Vía | <a href="http://fosspatents.blogspot.com/2011/12/apple-wins-itc-ruling-of-narrow.html" target="_blank" rel="noopener noreferrer">FOSS Patents</a><br />
+Documento con la información | <a href="http://www.usitc.gov/secretary/fed_reg_notices/337/337_710_Notice12192011sgl.pdf" target="_blank" rel="noopener noreferrer">PDF</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-consigue-que-htc-tenga-que-modificar-su-sistema-bajo-prohibicion-de-venta/">Apple consigue que HTC tenga que modificar su sistema bajo prohibición de venta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Safari se actualiza a la versión 5.1.2</title>
+		<link>https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2011 22:37:52 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Actualización de Software]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Mejoras]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Páginas en Blanco]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5712</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a></p>
+<p>Apple acaba de lanzar una nueva actualización de Safari que corrige algunos errores. Por lo general son soluciones a problemas y ajustes</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a></p>
+<p align="center"><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Actualización.png"><img src="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Actualización.png" alt="Actualización" title="Actualización" width="550" height="212" class="size-full wp-image-4647" srcset="https://www.MacSfera.com/wp-content/uploads/2011/08/Actualización.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/08/Actualización-300x116.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> acaba de lanzar una nueva actualización de <strong><a href="www.macsfera.com/tag/safari" title="Safari" target="_blank" rel="noopener noreferrer">Safari</a></strong> que corrige algunos errores.</p>
+<p><span id="more-5712"></span></p>
+<p>Por lo general son <strong>soluciones a problemas y ajustes internos</strong> tanto de compatibilidad como de seguridad. Los más destacados son:</p>
+<ul>
+<li>Mejoran la estabilidad.</li>
+<li>Resuelven problemas que podrían causar cuelgues y un uso de memoria excesivo.</li>
+<li>Resuelven problemas que podrían causar que las páginas web quedaran en blanco.</li>
+<li>Permiten mostrar PDF dentro de contenido web.</li>
+</ul>
+<p>Personalmente ya me estaba cansando de que las páginas se me quedasen en blanco o inutilizadas, a parte de otros problemas como que recargase todas las pestañas así porque sí.</p>
+<p>En el rato que llevo usándolo, cargando flash, muchas páginas y demás contenido, si que <strong>lo noto más fluido,</strong> menos brusco y se ha solucionado un problema que tenía (mi navegador por lo menos) que consistía en que <strong>las búsquedas que hiciese desde la barra de Google las hacía en la web americana</strong> y no en la española.</p>
+<p>La actualización tiene un peso de <strong>40,2 MB</strong> y al finalizar deberemos reiniciar el sistema para que se acaben de instalar los componentes. <strong>Para actualizar</strong> tan solo debéis ir al símbolo de la manzana y buscar la actualización.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple se opone a la ley SOPA</title>
+		<link>https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/</link>
+					<comments>https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 26 Nov 2011 11:01:03 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[BSA]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Leyes]]></category>
+		<category><![CDATA[Linkedin]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Mozilla]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Oposición]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5699</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/">Apple se opone a la ley SOPA</a></p>
+<p>En un principio la organización que agrupa a empresas como Apple, Intel o Microsoft, la BSA, había aprobado un borrador de la</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/">Apple se opone a la ley SOPA</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/">Apple se opone a la ley SOPA</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/11/Censurado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/11/Censurado.jpg" alt="" title="Censurado" width="550" height="300" class="aligncenter size-full wp-image-5702" srcset="https://www.MacSfera.com/wp-content/uploads/2011/11/Censurado.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/11/Censurado-300x164.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En un principio la organización que agrupa a empresas como <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong>, Intel o Microsoft, la BSA, <strong>había aprobado un borrador de la ley SOPA que intenta regular la piratería en Internet.</strong> <strong>Apple</strong>, entre otras, <strong>ha dicho que no está de acuerdo.</strong></p>
+<p><span id="more-5699"></span></p>
+<p>Esta ley, de salir adelante, <strong>daría poder de bloqueo de las DNS</strong> para evitar que la gente acceda a sitios web y permitiría a las compañías <strong>rastrear la actividad de sus usuarios.</strong></p>
+<p>Han defendido finalmente que están de acuerdo con que se intente controlar el flujo de webs que distribuyan contenido sin permiso, pero <strong>consideran que las medidas que se tomen han de ser ajustadas.</strong></p>
+<blockquote><p>El objetivo es impedir que los piratas saquen provecho de sus robos pero la libertad de expresión y la privacidad son derechos que no pueden ser comprometidos.</p></blockquote>
+<p>En el artículo publicado dicen que <strong>una ley que persiga la piratería es fundamental</strong> para seguir con el <strong>progreso</strong> y promover la <strong>creatividad</strong>. Si hoy la gente saca provecho de lo que creas y tú no, se te quitan las ganas de innovar.</p>
+<p>Entre las empresas que se oponen a esta ley en concreto (no al fin que busca) se encuentran <strong>Google, Facebook, Microsoft, Twitter, Linkedin y Mozilla.</strong> De aprobarse, la libertad de expresión estaría más limitada, los buscadores tendrían que filtrar mucho contenido, se perseguirían a las webs infractoras y hasta a los que contengan enlaces hacia ellas.</p>
+<p>Vía | <a href="http://www.123.cl/adm_cont/tecnologia/actualidad/articulo_13933_a.html" target="_blank" rel="noopener noreferrer">El País</a><br />
+Imagen | <a href="http://www.losmashablados.com/2011/¿por-que-facebook-google-yahoo-y-mas-se-oponen-a-la-ley-sopa/9735/internet-2/" target="_blank" rel="noopener noreferrer">Los + Hablados</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/">Apple se opone a la ley SOPA</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/apple-se-opone-a-la-ley-sopa/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung y Google cancelan un evento en respeto a Steve Jobs</title>
+		<link>https://www.MacSfera.com/samsung-y-google-cancelan-un-evento-en-respeto-a-steve-jobs/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2011 07:37:49 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Muerte]]></category>
+		<category><![CDATA[Nexus]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5181</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/samsung-y-google-cancelan-un-evento-en-respeto-a-steve-jobs/">Samsung y Google cancelan un evento en respeto a Steve Jobs</a></p>
+<p>Samsung y Google, aliados y competidores ante Apple han decidido cancelar un evento en el que se esperaba el lanzamiento del Samsung</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/samsung-y-google-cancelan-un-evento-en-respeto-a-steve-jobs/">Samsung y Google cancelan un evento en respeto a Steve Jobs</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/samsung-y-google-cancelan-un-evento-en-respeto-a-steve-jobs/">Samsung y Google cancelan un evento en respeto a Steve Jobs</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/10/Steven-Paul-Jobs-1955-2011.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/10/Steven-Paul-Jobs-1955-2011.png" alt="" title="Steven Paul Jobs 1955-2011" width="550" height="370" class="aligncenter size-full wp-image-5182" srcset="https://www.MacSfera.com/wp-content/uploads/2011/10/Steven-Paul-Jobs-1955-2011.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/10/Steven-Paul-Jobs-1955-2011-300x202.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Samsung y Google, aliados y competidores ante <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> <strong>han decidido cancelar un evento en el que se esperaba el lanzamiento del Samsung Nexus que podía correr la nueva versión de Android Ice Cream Sandwich.</strong></p>
+<p><span id="more-5181"></span></p>
+<p>Las empresas han lanzado un comunicado explicando que <strong>no van a hacer el evento porque no lo creen oportuno</strong>:</p>
+<blockquote><p>Samsung y Google deciden posponer el anuncio de nuevos productos en otoño en la CTIA. Estamos de acuerdo en que no es el momento adecuado para anunciar nada. Una nueva fecha y un nuevo lugar para la celebración será anunciada en breve.</p></blockquote>
+<p>A pesar de que en este comunicado no se indica que sea por la <strong><a href="https://www.MacSfera.com/steve-jobs-ha-fallecido-esta-madrugada/" title="Muerte de Steve Jobs" target="_blank" rel="noopener noreferrer">muerte de Steve Jobs</a></strong>, <strong>si que se confirmó después en otro comunicado</strong>:</p>
+<blockquote><p>La decisión de aplazar el evento se realizó ayer por la noche entre ambas compañías. La muerte de Jobs es la razón. No hay demoras en el producto en sí. Creemos que no es el mejor momento de anunciar un nuevo producto mientras el mundo rinde homenaje a Steve Jobs.</p></blockquote>
+<p>Como vemos alegan en que el motivo es el <strong>fallecimiento de Jobs</strong>, pero insisten en que el transcurso del producto no se verá afectado.</p>
+<p><strong>Un bonito gesto por parte de ambas empresas</strong> que aún siendo rivales, Google en sistema operativo y Samsung en dispositivos, <strong>han sido capaces de olvidar eso por un momento y mostrar sus respetos.</strong></p>
+<p>Vía | <a href="http://allthingsd.com/20111007/samsung-google-cancel-launch-event-out-of-respect-for-steve-jobs-sources-say/" target="_blank" rel="noopener noreferrer">AllThingsD</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/samsung-y-google-cancelan-un-evento-en-respeto-a-steve-jobs/">Samsung y Google cancelan un evento en respeto a Steve Jobs</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HTC demanda a Apple por violación de patentes</title>
+		<link>https://www.MacSfera.com/htc-demanda-a-apple-por-violacion-de-patentes/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 10 Sep 2011 21:23:03 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Demandas]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[HTC]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Motorola]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Openwave Systems]]></category>
+		<category><![CDATA[Palm]]></category>
+		<category><![CDATA[Patentes]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4910</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/htc-demanda-a-apple-por-violacion-de-patentes/">HTC demanda a Apple por violación de patentes</a></p>
+<p>HTC le ha devuelto la demanda a Apple tras una compra de unas cuantas patentes que si, Apple ha violado. Tras la</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/htc-demanda-a-apple-por-violacion-de-patentes/">HTC demanda a Apple por violación de patentes</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/htc-demanda-a-apple-por-violacion-de-patentes/">HTC demanda a Apple por violación de patentes</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/09/HTC-demanda-a-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/09/HTC-demanda-a-Apple.jpg" alt="" title="HTC demanda a Apple" width="550" height="382" class="aligncenter size-full wp-image-4912" srcset="https://www.MacSfera.com/wp-content/uploads/2011/09/HTC-demanda-a-Apple.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/09/HTC-demanda-a-Apple-300x208.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>HTC le ha devuelto la demanda a</strong> <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> tras una compra de unas cuantas patentes que si, <strong>Apple</strong> ha violado.<br />
+<span id="more-4910"></span><br />
+Tras la primera <a href="https://www.MacSfera.com/apple-demanda-a-htc-por-una-infraccion-de-pate/" title="Apple demanda a HTC" target="_blank" rel="noopener noreferrer">demanda por parte de Apple</a> y <a href="https://www.MacSfera.com/apple-gana-el-juicio-contra-htc/" title="Apple gana el juicio contra HTC" target="_blank" rel="noopener noreferrer">ganar dicho juicio</a> ahora <strong>le toca a HTC contestar y por eso ha comprado unas pocas patentes para poder atacar a Apple.</strong></p>
+<p>Lo curioso de esto es que <strong>Google ha decidido respaldarles</strong> y le ha vendido algunas que estaban en su poder. Con esto de la compra de Motorola, ha aumentado su palmarés en cuanto a las patentes de telefonía se refiere. Ahora Google parece que ha decidido ponerse más protector en cuanto a las empresas que han decidido utilizar su sistema operativo.</p>
+<p><strong>Cuatro de Motorola, dos de Palm y tres de Openwave Systems</strong> son las que hacen el total de las patentes con las que HTC quiere atacar a <strong>Apple</strong>, pero no solo se va a centrar en el tema de móviles, con esas patentes puede atacar al <strong>iPhone, al iPod, al iPad, al Mac, a iTunes y a iCloud,</strong> atacando de este modo a toda la empresa.</p>
+<p><strong>Apple</strong> se defiende diciendo que le gusta la competencia siempre y cuando creen sus propios productos y <strong>HTC</strong> alega que están dispuestos a hablar. Este juicio puede tener una gran importancia sobre todo por la magnitud de demanda a la que se enfrenta la manzanera.</p>
+<p>Vía | <a href="http://www.bloomberg.com/news/2011-09-07/htc-sues-apple-alleging-infringement-of-four-u-s-patents.html" target="_blank" rel="noopener noreferrer">Bloomberg</a><br />
+Imagen | <a href="http://www.flickr.com/photos/28133107@N06/" target="_blank" rel="noopener noreferrer">Kokkie76</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/htc-demanda-a-apple-por-violacion-de-patentes/">HTC demanda a Apple por violación de patentes</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Steve Jobs, porqué fue uno de los mejores CEOs</title>
+		<link>https://www.MacSfera.com/steve-jobs-porque-fue-uno-de-los-mejores-ceos/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2011 13:24:43 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[CEO]]></category>
+		<category><![CDATA[CEO de Apple]]></category>
+		<category><![CDATA[El camino de Steve Jobs]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<category><![CDATA[Vic Gundotra]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4650</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/steve-jobs-porque-fue-uno-de-los-mejores-ceos/">Steve Jobs, porqué fue uno de los mejores CEOs</a></p>
+<p>Vic Gundotra relata en su perfil de Google+ una anéctoda muy curiosa por la cual demuestra porqué Steve Jobs ha sido uno</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/steve-jobs-porque-fue-uno-de-los-mejores-ceos/">Steve Jobs, porqué fue uno de los mejores CEOs</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/steve-jobs-porque-fue-uno-de-los-mejores-ceos/">Steve Jobs, porqué fue uno de los mejores CEOs</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/08/Steve-Jobs-CEO-de-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/08/Steve-Jobs-CEO-de-Apple.jpg" alt="" title="Steve Jobs CEO de Apple" width="550" height="310" class="aligncenter size-full wp-image-4651" srcset="https://www.MacSfera.com/wp-content/uploads/2011/08/Steve-Jobs-CEO-de-Apple.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/08/Steve-Jobs-CEO-de-Apple-300x169.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Vic Gundotra relata en su perfil de Google+ una anéctoda muy curiosa por la cual demuestra porqué <strong><a href="www.macsfera.com/tag/steve-jobs" title="Steve Jobs" target="_blank">Steve Jobs</a></strong> ha sido uno de los mejores CEOs de la historia.<br />
+<span id="more-4650"></span></p>
+<blockquote><p>
+Una mañana de domingo, el 6 de enero de 2008 estaba en la iglesia cuando mi móvil vibró. Tan discretamente como pude, comprobé el teléfono y ví que marcaba “Desconocido”. Preferí ignorarlo.<br />
+Después de la ceremonia, mientras iba hacia el coche con mi familia, comprobé los mensajes. El mensaje era de Steve Jobs. “Vic, ¿puedes llamarme a casa? tengo algo urgente que discutir”, decía.</p>
+<p>Antes de llegar al coche devolví la llamada a Steve Jobs. Yo era responsable de todas las aplicaciones móviles en Google, y en ese puesto tenía trato frecuente con Steve. Era uno de los beneficios del trabajo.</p>
+<p>“Hola Steve; soy Vic”, dije. “Siento no haber respondido antes tu llamada. Estaba en la iglesia y me apareció “llamante desconocido” así que no la cogí”.</p>
+<p>Steve se rió. Dijo: “Vic, a no ser que la identificación de llamada diga “DIOS”, nunca debes coger una llamada en una iglesia”.</p>
+<p>Me reí nervioso. Después de todo, aunque era normal para Steve llamar durante la semana enfadado con algo, era extraño llamarme un domingo y pedirme que le llamara a su casa. Me preguntaba qué sería tan importante.</p>
+<p>“Mira, Vic, tenemos un problema urgente, uno que hay que resolver cuanto antes. Ya he asignado a alguien de mi equipo para ayudarte, y espero que puedas arreglar esto mañana”, dijo Steve.</p>
+<p>“He estado viendo el logo de Google en el iPhone y no estoy contento con el icono. La segunda O en Google no tiene el gradiente de amarillo correcto. Está mal y voy a hacer que Greg lo arregle mañana. ¿Te parece bien?”</p>
+<p>Por supuesto que me parecía bien. Unos minutos después en ese domingo recibí un email de Steve con el asunto “Ambulancia de icono”. El email me indicaba que trabajara con Greg Christie para arreglar el icono.</p>
+<p>Desde que tenía 11 años y me enamoré de un Apple II, tengo docenas de historias para contar sobre los productos de Apple. Han sido parte de mi vida durante décadas. Incluso cuando trabajé 15 años para Bill Gates en Microsoft, tenía una enorme admiración por Steve y lo que Apple había producido.</p>
+<p>Pero al final, cuando pienso en el liderazgo, la pasión y la atención al detalle, recuerdo esa llamada que recibí de Steve Jobs una mañana de un domingo de Enero. Fue una lección que nunca olvidaré. Los CEOs deben preocuparse por los detalles. Incluso por los tonos de amarillo. Un domingo.</p>
+<p>A uno de los mayores líderes que he conocido, mis oraciones y esperanzas están contigo, Steve.</p>
+<p>-Vic
+</p></blockquote>
+<p>Cómo podemos ver en esta anécdota, <strong>Steve Jobs</strong> llama al representante de Google en <strong><a href="www.macsfera.com/" title="Apple" target="_blank">Apple</a></strong>, un domingo de misa, y se preocupa porque el degradado de la segunda O del nombre de Google porque está. Es decir, la mayoría de la gente ni se preocupa por este tipo de detalles pero tal vez es eso precísamente por lo que <strong>Apple</strong> está ahí en estos momentos.</p>
+<p>Es más, si os leéis el libro de <strong>El camino de Steve Jobs</strong> vemos prácticamente lo mismo, y esta vez no de una deducción, sino <strong>del segundo de Apple en una época pasada</strong>.</p>
+<p>Vía |<a href="http://desencadenado.com/2011/08/la-mejor-anecdota-sobre-steve-jobs-que-he-leido-hoy.html" target="_blank">Desencadenado</a></p>
+<p>Imagen | <a href="http://www.flickr.com/photos/58651446@N03/" target="_blank">Flickr de Boni Satani</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/steve-jobs-porque-fue-uno-de-los-mejores-ceos/">Steve Jobs, porqué fue uno de los mejores CEOs</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple supera a Google y es ahora la marca más valiosa del mundo</title>
+		<link>https://www.MacSfera.com/apple-supera-a-google-y-es-ahora-la-marca-mas-valiosa-del-mundo/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 09 May 2011 19:18:59 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2106</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-supera-a-google-y-es-ahora-la-marca-mas-valiosa-del-mundo/">Apple supera a Google y es ahora la marca más valiosa del mundo</a></p>
+<p>Apple hoy en día es la marca más valiosa del mundo según el ranking global de BrandZ. Desde que se inició ese</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-supera-a-google-y-es-ahora-la-marca-mas-valiosa-del-mundo/">Apple supera a Google y es ahora la marca más valiosa del mundo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-supera-a-google-y-es-ahora-la-marca-mas-valiosa-del-mundo/">Apple supera a Google y es ahora la marca más valiosa del mundo</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2010/09/Logo-Apple-de-Xanadú.jpg"><img src="http://cdn.MacSfera.com/wp-content/uploads/2010/09/Logo-Apple-de-Xanadú.jpg" alt="Logo Apple de Xanadú" title="Logo Apple de Xanadú" width="550" height="413" class="size-full wp-image-3170" srcset="https://www.MacSfera.com/wp-content/uploads/2010/09/Logo-Apple-de-Xanadú.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2010/09/Logo-Apple-de-Xanadú-300x225.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple">Apple</a></strong> <strong>hoy en día es la marca más valiosa del mundo</strong> según el ranking global de BrandZ.<br />
+<span id="more-2106"></span><br />
+Desde que se inició ese ranking, <strong>Google</strong> estuvo en el puesto número uno todos los años (desde 2006) pero ahora se ha visto superada por <strong>Apple</strong> que alcanza un valor de <strong>153 mil millones de dólares que supone un aumento del 83% respecto al año pasado.</strong></p>
+<p>Una prueba clara de este hecho son sus <strong><a href="www.macsfera.com/resultados-financieros-de-apple-del-segundo-trimestre-fiscal-de-2011/" title="Últimos resultados financieros">últimos resultados financieros</a></strong> y de como la empresa, que tan mal estuvo en una época, ha crecido y crecido hasta superar a Google.</p>
+<p>Parte de esta subida se debe a la creación del <strong>iPhone</strong> y del <strong>iPad</strong> que supuso un éxito rotundo aunque cada vez más y gracias a este crecimiento, los demás productos <strong>Apple</strong> van haciéndose hueco en los hogares de muchas personas porque cada vez es más frecuente ver a distintos usuarios con un <strong>Mac</strong> o con un <strong>iPod</strong>.</p>
+<p>No solo cuenta los productos que creas y vendes,<strong> también cuenta como los vendes,</strong> y en eso <strong>Apple</strong> es una empresa pionera que tiene una <strong>muy buena estrategia a la hora de crear, publicitar y repartir sus productos</strong> (aunque hay algunas excepciones).</p>
+<p>Según el ranking antes mencionado, una gran mayoría del top 10 son <strong>empresas tecnológicas</strong> cuyos productos también van, aunque por detrás que los de <strong>Apple</strong>, encontrando a su público y vendiendo más, de manera que va a ser un reto para la <strong>empresa de la manzana</strong> conservar este puesto.</p>
+<p>Como ya digo, una buena noticia para <strong>Apple</strong> que les servirá para tener el reconocimiento que se merecen aunque, no se deben dormir porque todas esas empresas que andan detrás buscarán superarla.</p>
+<p>Vía | <a href="http://www.electronista.com/articles/11/05/08/apple.pips.google.in.brand.value.study/">Electronista</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-supera-a-google-y-es-ahora-la-marca-mas-valiosa-del-mundo/">Apple supera a Google y es ahora la marca más valiosa del mundo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Steve Jobs se citará con Barack Obama mañana</title>
+		<link>https://www.MacSfera.com/steve-jobs-se-citara-con-obama-manana/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 17 Feb 2011 21:25:05 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Barack Obama]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[Jeffrey Immelt]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Marc Zuckerberg]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Steve Jobs]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1145</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/steve-jobs-se-citara-con-obama-manana/">Steve Jobs se citará con Barack Obama mañana</a></p>
+<p>Pues al parecer Steve Jobs, Mark Zuckerberg y Jeffrey Immelt el director ejecutivo de Google, mañana tendrán una reunión en California con</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/steve-jobs-se-citara-con-obama-manana/">Steve Jobs se citará con Barack Obama mañana</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/steve-jobs-se-citara-con-obama-manana/">Steve Jobs se citará con Barack Obama mañana</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Steve-Jobs-con-El-Presidente.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Steve-Jobs-con-El-Presidente.jpg" alt="" title="Steve Jobs con El Presidente" width="550" height="358" class="aligncenter size-full wp-image-3415" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Steve-Jobs-con-El-Presidente.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/02/Steve-Jobs-con-El-Presidente-300x195.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Pues al parecer <strong><a href="www.macsfera.com/tag/steve-jobs">Steve Jobs</a>, Mark Zuckerberg y Jeffrey Immelt el director ejecutivo de Google, mañana tendrán una reunión en California con el presidente Barack Obama</strong> para hablar sobre distintos temas.</p>
+<p><span id="more-1145"></span></p>
+<p>Según diferentes fuentes pueden que traten diferentes <strong>temas entre creación de empleo hasta temas escolares.</strong></p>
+<p>La verdad es que en cuanto al tema de la creación de empleo entiendo que traten con Google y <strong><a href="www.macsfera.com/">Apple</a></strong> pero con Facebook me cuesta un poco, aunque puede que Zuckerberg tenga otro plan en mente ageno a Facebook.</p>
+<p>En cuanto al tema escolar, ya se han escuchado casos en el que los colegios emplean el <strong>iPad</strong> como material escolar y en algunas bibliotecas hay diferentes <strong>Mac</strong> a disposición. En cuanto a Google puede tratarse de algún proyecto que en estos instantes no nos incumbe.</p>
+<p>El caso es que <strong>una reunión con El Presidente es algo serio</strong> y para que acuda <strong>Steve Jobs</strong> cuando no anda muy bien de salud debe significar que una de dos, o no quiere ser descortés (lo más probable) o lo que se rumorea del muy mal estado de Jobs es una información muy erronea.</p>
+<p>En cualquier caso intentaremos enterarnos de algo y comentarlo si nos enteramos de algo.</p>
+<p><strong>ACTUALIZACIÓN Viernes 18 de Febrero de 2011</strong><br />
+He aquí una foto de la prueba de que estuvieron reunidos, al lado de el Presidente se halla <strong>Steve Jobs</strong> (arriba)</p>
+<p>Vía | <a href="http://www.elpais.com/articulo/tecnologia/Obama/reune/hoy/San/Francisco/Jobs/Zuckerberg/Schmidt/elpeputec/20110217elpeputec_9/Tes">El País</a><br />
+Imagen | <a href="http://www.flickr.com/photos/whitehouse/5455525432/">Flickr Casa Blanca</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/steve-jobs-se-citara-con-obama-manana/">Steve Jobs se citará con Barack Obama mañana</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

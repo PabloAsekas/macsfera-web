@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>macOS &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/category/macos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:36 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Resumen y opinión de la keynote de la WWDC19</title>
+		<link>https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2019 20:54:44 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[iOS13]]></category>
+		<category><![CDATA[iPadOS]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[macOS Catalina]]></category>
+		<category><![CDATA[Pro Display XDR]]></category>
+		<category><![CDATA[Proyecto Catalyst]]></category>
+		<category><![CDATA[Swift]]></category>
+		<category><![CDATA[Switf UI]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC19]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+<p>Hace justo una semana se celebró la keynote de inauguración de la WWDC19, el evento anual de desarrolladores donde Apple presenta las</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10214927/WWDC19.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10214927/WWDC19.jpg" alt="WWDC19" width="1670" height="1096" class="aligncenter size-full wp-image-17107" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10214927/WWDC19.jpg 1670w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10214927/WWDC19.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10214927/WWDC19.jpg 1024w" sizes="(max-width: 1670px) 100vw, 1670px" /></a></p>
+<p>Hace justo una semana <strong>se celebró la keynote de inauguración de la WWDC19,</strong> el evento anual de desarrolladores donde Apple presenta las novedades que afectan a los distintos sistemas operativos y servicios de la compañía.</p>
+<p>La presentación me gustó mucho, fue larga (2 horas y cuarto) y hubo mucha acción. Se presentaron cosas relevantes a mi modo de ver, no como otros años en los que la movilidad de la caja de búsqueda de Spotlight fue una característica destacada.</p>
+<p><span id="more-17105"></span></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/fa5p19APgd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Así que, sin más dilación, vamos a hacer un repaso de las novedades, centrándonos en lo más importante de cada una.</p>
+<h2 class="review">tvOS</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220301/tvOS-13.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220301/tvOS-13.jpg" alt="tvOS 13" width="2416" height="1360" class="aligncenter size-full wp-image-17109" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220301/tvOS-13.jpg 2416w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10220301/tvOS-13.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10220301/tvOS-13.jpg 1024w" sizes="(max-width: 2416px) 100vw, 2416px" /></a></p>
+<p>tvOS es uno de los sistemas menos destacables de la compañía y se nota en este tipo de presentaciones. Esto se debe a su sencillez funcional, el sistema debe gestionar contenido multimedia usando los servicios de Apple, no hay mucho más donde rascar, y aún así hemos obtenido grandes mejoras.</p>
+<p><strong>Ahora tvOS es multiusuario,</strong> permitiendo que varios usuarios usen el Apple TV como si no lo compartiesen. Además, y con la llegada de Apple Arcade en mente, <strong>Apple ha añadido compatibilidad para poder usar los mandos de la PS4 y de la Xbox,</strong> dos de los más populares mandos de la historia del videojuego.</p>
+<p>Apple Music, Apple TV+, Apple Arcade y mucho más gracias a las aplicaciones de terceros, el Apple TV está luchando por ser un centro multimedia muy completo. Lo único en lo que debería mejorar, bajo mi propio beneficio, <strong>es en la compatibilidad de funcionalidades en el resto de países.</strong></p>
+<h2 class="review">watchOS 6</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10215853/watchOS-6.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10215853/watchOS-6.jpg" alt="watchOS 6" width="1517" height="830" class="aligncenter size-full wp-image-17108" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10215853/watchOS-6.jpg 1517w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10215853/watchOS-6.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10215853/watchOS-6.jpg 1024w" sizes="(max-width: 1517px) 100vw, 1517px" /></a></p>
+<p>El Apple Watch se ha convertido en éxito de ventas en su campo, <strong>y Apple lo está dando todo por mantenerlo ahí arriba, sistema operativo incluido.</strong></p>
+<p>Ahora watchOS 6 incluye nuevas esferas, <strong>nuevas aplicaciones nativas,</strong> su propia App Store, y han mejorado el sistema para que los desarrolladores hagan aplicaciones menos dependientes del iPhone, consiguiendo, un poco más, la deseada independencia que el Apple Watch lleva buscando un tiempo <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<p>Otra nueva novedad es que <strong>watchOS 6 incluye una nueva API de streaming de audio,</strong> lo que significa que empresas como Spotify podrán tener una aplicación 100% funcional en el reloj, en teoría. Veremos si esto se materializa finalmente, las cosas están bastante mal entre las dos empresas, y a mí no habría nada me guste más que ver Spotify en la muñeca. <strong>Soy de los que piensa que si quieres vender tu servicio debes hacerlo por la calidad del propio servicio, no porque dificultes a tus usuarios el uso de la competencia.</strong> Y esto se extrapola a todos los aspectos en los que Apple tiene negocio.</p>
+<p>Por último, la salud y el deporte van ligados con el Apple Watch desde el principio, de modo que no sorprende ver <strong>una serie de agradables mejoras en estos aspectos:</strong></p>
+<ul>
+<li><strong>Mejoras en la forma de guardar y presentar toda la información relativa al ejercicio.</strong> Siempre buscando hacer que el usuario tenga una vida más ejercitada.</li>
+<li><strong>Nueva aplicación que controla el nivel de ruido a nuestro alrededor</strong> y busca informarnos para no desgastar en exceso el oído.</li>
+<li><strong>Nueva aplicación para controlar los periodos menstruales</strong> de la mujer que busca llevar un registro y aportar más información acerca de los días fértiles del mes.</li>
+</ul>
+<p>Sigo pensando que Apple debería permitir crear esferas a desarrolladores de terceros, al menos de una forma controlada. <strong>El goteo que van ofreciendo actualmente de sus diseños no está a la altura de las ventajas de tener una pantalla de la calidad actual y las ganas de los usuarios para tener un reloj distinto cada día.</strong></p>
+<h2 class="review">iOS 13</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220605/iOS-13.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220605/iOS-13.jpg" alt="iOS 13" width="2500" height="906" class="aligncenter size-full wp-image-17110" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10220605/iOS-13.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10220605/iOS-13.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10220605/iOS-13.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Y con una pequeña broma sobre su nombre, nos plantamos en uno de los puntos más importantes del evento, <strong>la presentación de iOS 13.</strong></p>
+<p>Al igual que macOS  el año pasado, <strong>iOS ya tiene su propio modo oscuro.</strong> Además ha incorporado la función de escribir en el teclado deslizando el dedo por encima. </p>
+<p>Se incluyen algunas <strong>mejoras de rendimiento:</strong></p>
+<ul>
+<li>FaceID ahora es un 30% más rápido</li>
+<li>Las actualizaciones de apps reducen su peso en hasta un 60%</li>
+<li>Las descargas de las apps reducen su peso en hasta un 50%</li>
+<li>Las apps se abren y cargan el doble de rápido</li>
+</ul>
+<p><strong>La aplicación de Mapas ha recibido una actualización de diseño y funcionalidad,</strong> mostrando más información, de forma más precisa y con un modo similar a Street View de Google. Para Apple son muy importantes los mapas <sup class="modern-footnotes-footnote ">2</sup>, <strong>de modo que me cuesta entender porqué sueltan las novedades año a año.</strong> Entiendo que la dificultad de tener un buen servicio requiere tiempo, pero teniendo competidores que aprietan más que nunca, no sé si compensaría más lanzar novedades de usabilidad y precisión a lo largo del año en un flujo de mejoras constantes, como hace Google con su, más que conocido y usado, Google Maps.</p>
+<div class="galerias grande" data-layout="42" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221356/iOS-13-recordatorios.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222311/iOS-13-Mensajes.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221400/iOS-13-app-Fotos.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221400/iOS-13-Mapas-de-Apple.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221359/iOS-13-mapas.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221357/iOS-13-calendario.jpg" title="" alt="" />
+
+</div>
+<p>Ya sabéis que soy un fan empedernido del esfuerzo que Apple hace para garantizar la seguridad de sus usuarios, <strong>y iOS 13 sigue con esa premisa un poco más.</strong> Se añade la posibilidad de compartir la ubicación con apps <strong>sólo una vez,</strong> de modo que la siguiente vez que usemos la app nos pedirá de nuevo permiso para usar la localización. <strong>Se acabó espiar a la gente con procesos en segundo plano.</strong> <strong>Se acabó usar los recursos de las antenas Wi-Fi y Bluetooth para localizar a las personas.</strong></p>
+<p>Y, dando la sorpresa, <strong>Apple ha creado su propio botón para <em>“Iniciar sesión con Apple”</em> en servicios de terceros.</strong> Con este nuevo método podremos usar aplicaciones sabiendo que se respeta nuestra privacidad. Además, en caso de que el servicio necesite tener nuestro email, <strong>Apple ofrece la posibilidad de crear emails aleatorios que van a ser redirigidos a nuestro email particular de Apple,</strong> de modo que el servicio nunca conoce nuestro email y nosotros podemos seguir usándolo sin problemas. La guinda al pastel viene en que este nuevo mecanismo de login es de <strong>uso obligatorio para todas las apps que quieran poner botones de otros servicios,</strong> y a mí no me pueden doler más las manos de aplaudir.</p>
+<p>Siguiendo con la privacidad y la seguridad, <strong>se han presentado nuevos mecanismos de seguridad para dispositivos compatibles con HomeKit,</strong> sobre todo las cámaras, ofreciendo almacenar las imágenes en la nube privada de Apple de forma temporal con cifrado punto a punto y sin consumir espacio del plan que tenemos contratado en iCloud. Además, se van a empezar a fabricar routers compatibles con HomeKit que sirvan como punto de protección extra para los dispositivos que hay en nuestra casa.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221936/redise%C3%B1o-de-mapas-ios-13.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10221936/redise%C3%B1o-de-mapas-ios-13.gif" alt="Rediseño de mapas iOS 13" width="452" height="860" class="aligncenter size-full wp-image-17117" /></a></p>
+<p><strong>La aplicación de Fotos ha sido rediseñada para mostrar los recuerdos adecuados, en el momento adecuado.</strong> Gracias a machine learning, es capaz de elegir la mejor foto entre varias similares y ocultar el resto, además, es capaz de personalizar los recuerdos en base a los días del año y los eventos que van ocurriendo. Disfruto mucho de los recuerdos, hace no mucho os conté mi <a target="_blank" title="Guía para almacenar tus fotos digitales y abandonar Fotos.app" href="www.macsfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/" rel="noopener noreferrer">nueva forma de organizar las fotos en carpetas y con Lightroom</a>, y uno de los motivos fue para poder sincronizar luego sólo las mejores, ya editadas, en mis dispositivos. Gracias a esta nueva característica de la app de Fotos, podré despreocuparme un poco más a la hora de importar y exportar mis capturas porque sabré que por detrás, <strong>la inteligencia de iOS 13,</strong> me estará cubriendo las espaldas.</p>
+<p>Por último, destacar que Siri cambia de voz, obtiene mejoras de compatibilidad con los AirPods, integra atajos y ya podemos disfrutar de handoff en el HomePod.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/E5Jg4Wm9b7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2 class="review">iPadOS</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222650/iPadOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222650/iPadOS.jpg" alt="iPadOS" width="1869" height="1428" class="aligncenter size-full wp-image-17121" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222650/iPadOS.jpg 1869w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10222650/iPadOS.jpg 262w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10222650/iPadOS.jpg 1024w" sizes="(max-width: 1869px) 100vw, 1869px" /></a></p>
+<p>Y a esta altura de la presentación, sin haber visto ninguna imagen de iOS 13 en el iPad, <strong>nos presentan iPadOS,</strong> la versión de iOS 13 adaptada exclusivamente al iPad.</p>
+<p>Esta versión, aparte de todo lo antes dicho, <strong>incluye un rediseño que permite aprovechar mejor toda la pantalla del iPad, mejora enormemente la multitarea y la selección de aplicaciones, permite tener varias instancias de una misma aplicación</strong> (dos ventanas de la misma app), <strong>permite la gestión de discos duros externos, mejora la gestión de ficheros e incluye la posibilidad de compartir carpetas en iCloud.</strong></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222942/iPadOS-modo-oscuro.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222942/iPadOS-modo-oscuro.jpg" alt="iPadOS modo oscuro" width="2500" height="1761" class="aligncenter size-full wp-image-17122" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10222942/iPadOS-modo-oscuro.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10222942/iPadOS-modo-oscuro.jpg 284w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10222942/iPadOS-modo-oscuro.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Además, Safari ahora cargará las páginas como si de un navegador se tratase, se han añadido muchos más comandos de teclado, compatibilidad con ratones, gestor de descargas, tipos de fuentes para descarga en la App Store, nuevos gestos para realizar aún más rápido la selección de texto/copiar/cortar/pegar/deshacer. <strong>El Apple Pencil ha reducido su latencia de 20ms a 9ms.</strong> Y el sistema, en general, se ha adaptador para una compatibilidad absoluta con el stylus de Apple en cualquier momento.</p>
+<p><strong>Desde la introducción de la multitarea no veía un salto así de importante para el iPad.</strong> Me gustó mucho ver las novedades y el empujón que le da al iPad para <a target="_blank" title="Regala un iPad Pro" href="www.macsfera.com/regala-ipad-pro/" rel="noopener noreferrer">independizarse aún más del ordenador</a>.</p>
+<h2 class="review">Mac Pro</h2>
+<div id="attachment_17123" style="width: 2050px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224026/Mac-Pro-WWDC19.jpg"><img aria-describedby="caption-attachment-17123" src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224026/Mac-Pro-WWDC19.jpg" alt="Mac Pro WWDC19" width="2040" height="1360" class="size-full wp-image-17123" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224026/Mac-Pro-WWDC19.jpg 2040w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224026/Mac-Pro-WWDC19.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224026/Mac-Pro-WWDC19.jpg 1024w" sizes="(max-width: 2040px) 100vw, 2040px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-17123" class="wp-caption-text">Imagen de <a href="https://www.theverge.com/2019/6/3/18651148/apple-mac-pro-imac-comparison-specs-cpu-graphics-price" target="_blank" rel="noopener noreferrer">The Verge</a></p></div>
+<p>Hace poco más de dos años supimos por una entrevista con unos pocos medios que <strong><a target="_blank" title="El futuro del Mac Pro, el iMac y las pantallas de Apple" href="www.macsfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/" rel="noopener noreferrer">Apple estaba trabajando ya en el nuevo Mac Pro</a>.</strong> Un equipo modular, con una nueva arquitectura, adaptado al mercado, que fuese una opción real para el mercado profesional. <strong>Ese ordenador ya es una realidad.</strong></p>
+<p>Apple nos sorprendió con todas las características, diseños y precios de entrada del nuevo Mac Pro, <strong>el Mac más potente creado hasta la fecha.</strong></p>
+<p>Es ampliable, modular, repleto de tecnología para dar el mejor rendimiento logrado hasta la fecha, y va muy enfocado al mercado del procesamiento gráfico. </p>
+<p>Hasta 28 núcleos en el procesador Xeon, hasta 1.5 TB de memoria RAM, 8 ranuras de expansión PCIe. Hasta 4 Radeon Pro Vega II a la vez. Acelerador gráfico que es capaz de procesar 3 entradas de vídeo RAW 8K a la vez. Lo que se dice una mala bestia.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/wl4Hg23RQHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Para complementar al Mac Pro, <strong>han creado una pantalla de 32 pulgadas llamada Pro Display XDR.</strong> 20 millones de píxeles, resolución 6K, contraste 1.000.000:1, 1000 nits de brillo, gama cromática P3 a 10 bits. Lo que se vuelve a decir, una mala bestia.</p>
+<p>Estoy deseando que llegue al mercado para que gente con capacidades de aprovechamiento sea capaz de probar lo que Apple ha preparado para ellos. No hablo de los típicos test de cálculo, hablo de la gente para la que este equipo está diseñado, gente cuyo trabajo computacional se nos escapa de las manos.</p>
+<p>Y, aunque resulte gracioso y costoso, <strong>por una vez vamos a dejar de lado los precios que aquí se manejan</strong> <sup class="modern-footnotes-footnote ">3</sup><strong>, esto es un equipo destinado para profesionales, y como tal, juegan en otra liga donde los precios son distintos.</strong></p>
+<h2 class="review">macOS Catalina</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224242/macOS-Catalina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224242/macOS-Catalina.jpg" alt="macOS Catalina" width="2500" height="897" class="aligncenter size-full wp-image-17124" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224242/macOS-Catalina.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224242/macOS-Catalina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224242/macOS-Catalina.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Tras conocer el Mac Pro, entramos en la última presentación de la tarde, <strong>macOS Catalina, la nueva versión de macOS.</strong></p>
+<p><strong>Empezamos la presentación con un adiós, a iTunes.</strong> Apple por fin ha retirado la aplicación como la conocíamos, y en el camino ha reconocido que estaba en decadencia debido a la gran carga de funcionalidades que tenía, dificultando al final su uso y generando un impacto negativo en el usuario. <a target="_blank" title="Apple, acaba con este iTunes ya" href="www.macsfera.com/apple-acaba-con-este-itunes-ya/" rel="noopener noreferrer">Cuatro años llevo pidiendo este momento</a>.</p>
+<p>Como sustituto salen 3 nuevas aplicaciones: <strong>Música, Apple TV y Apple Podcast.</strong> De esta forma separamos las distintas funciones en cada aplicación, simplificando su uso y facilitando al usuario la interacción final. ¿Lo mejor de la jugada?, <strong>el contenido y sincronización con dispositivos externos como el iPhone o el iPad ahora se hará a través de Finder,</strong> como tenía que haber sido desde hace mucho tiempo.</p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224326/Sidecar-iPadOS-macOS-Catalina.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224326/Sidecar-iPadOS-macOS-Catalina.jpg" alt="Sidecar iPadOS macOS Catalina" width="1822" height="1048" class="aligncenter size-full wp-image-17125" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224326/Sidecar-iPadOS-macOS-Catalina.jpg 1822w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224326/Sidecar-iPadOS-macOS-Catalina.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224326/Sidecar-iPadOS-macOS-Catalina.jpg 1024w" sizes="(max-width: 1822px) 100vw, 1822px" /></a></p>
+<p><strong>Sidecar es una funcionalidad que nos pilló a contra pie,</strong> por lo menos a mí, <strong>y es que Apple ahora permite tener nuestro iPad como segundo monitor del Mac.</strong> Sin cables y con plena compatibilidad con el Apple Pencil. Sí amigos, <strong>nuestro iPad ahora se ha convertido en una tableta gráfica de gran precisión y calidad de imagen para trabajar con los programas más profesionales de la industria.</strong> Me parece increíble y un movimiento fascinante.</p>
+<p>En temas de accesibilidad, <strong>Apple ha mejorado enormemente Voice Control y lo ha integrado en el corazón de macOS permitiendo realizar prácticamente cualquier función con nuestra voz.</strong> Hay <a target="_blank" title="Creemos que la tecnología debe ser accesible a todo el mundo" href="www.macsfera.com/accesibilidad-creemos-que-la-tecnologia-debe-ser-accesible-a-todo-el-mundo/" rel="noopener noreferrer">muchas</a> pruebas de <a target="_blank" title="Cómo Apple me ha salvado la vida" href="www.macsfera.com/apple-me-ha-salvado-la-vida/" rel="noopener noreferrer">cómo</a> Apple <a target="_blank" title="Diseñado para todo el mundo" href="www.macsfera.com/disenado-para-todo-el-mundo/" rel="noopener noreferrer">encabeza la adaptación de su software y su hardware</a> para que todo el mundo pueda usarlos, y ver que no se cansan de seguir innovando y mejorando en este campo me produce gran satisfacción.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/aqoXFCCTfm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>La nueva aplicación Find My mezcla Find My iPhone con Find My Friends. Pero además añade una novedad muy interesante, y es que ahora <strong>se pueden localizar Macs que no están conectados a Internet pero están suspendidos.</strong> Para conseguirlo, Apple utilizará el resto de dispositivos que pertenecen a otros usuarios para crear una gran red de dispositivos y utilizar las conexiones de otra gente para notificar la ubicación. La comunicación entre todos ellos será gracias a las antenas Wi-Fi y Bluetooth siempre que el Mac esté suspendido (y no apagado). Se intercambiarán pequeñas ráfagas de información, y el receptor con conexión a Internet las subirá a iCloud. Debido al pequeño tamaño de la información, Apple garantiza preservar la batería y no consumir los planes de datos. Básicamente es un “hoy por ti, mañana por mí”. </p>
+<p>Como estamos en un evento para desarrolladores, <strong>Apple presentó el framework SwiftUI, una biblioteca para desarrollo de aplicación en Swift que permite simplificar y estandarizar la creación de interfaces gráficas.</strong> En los ejemplos vistos se podía apreciar la velocidad, sencillez y simplicidad con la que se pueden implementar interfaces. Además, la compatibilidad se extiende a los 4 sistemas operativos de Apple. Hubo mucha alegría entre el público al conocer esta noticia.</p>
+<p>No me gustaría obviar el <strong>gran avance que han hecho en temas de procesamiento gráfico 3D y detección de objetos.</strong> iOS lleva unos años experimentando con la realidad aumentada y en estas versiones los avances son significativos: mejor detección del entorno, mejor creación y animación de objetos, mejor detección de humanos… Sólo os diré que, si podéis, veáis la demo de Minecraft porque fue increíble.</p>
+<p>Por último, y para acabar, <strong>hablamos del proyecto Catalyst,</strong> el nombre que Apple ha querido usar para el proyecto en el cual <strong>han sido capaces de transformar aplicaciones para iPad en aplicaciones 100% funcionales de Mac, a golpe de clicks.</strong> Gracias a este avance, Apple conseguirá ampliar el número de aplicaciones disponibles en Mac que hasta ahora no habían llegado debido a que los costes de producción y mantenimiento eran elevados.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224545/Tim-Cook-WWDC19.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224545/Tim-Cook-WWDC19.jpg" alt="Tim Cook WWDC19" width="2500" height="1667" class="aligncenter size-full wp-image-17126" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/06/10224545/Tim-Cook-WWDC19.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224545/Tim-Cook-WWDC19.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/06/10224545/Tim-Cook-WWDC19.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Como podéis ver, fue una keynote larga, con muchas novedades y presentaciones muy deseadas. Me gustó muchísimo y no puedo esperar a que lleguen las betas públicas para empezar a trastear con todas estas novedades.</p>
+<p>Además, recordaros que siempre quedan novedades en el tintero de cara a la presentación de los nuevos dispositivos que harán uso de estos sistemas operativos, así que esto, siguiendo años pasados, no ha acabado.</p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/psL_5RIBqnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Lleva buscando, y lleva consiguiendo, no nos olvidemos de que el último modelo ya cuenta con capacidad interna para guardar música, GPS y hasta opción de conectividad móvil.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Fijaos si lo son que las betas públicas existen para que puedan probar muchas mejoras y novedades.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Sí, incluidos los 1000 dólares que pretende cobrar por el pie de la pantalla &#x1f602;.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mi experiencia estudiando Ingeniería del software con un Mac</title>
+		<link>https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 19:28:25 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Estudios]]></category>
+		<category><![CDATA[Experiencia]]></category>
+		<category><![CDATA[Ingeniería del software]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[Virtualización]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17069</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
+<p>En 2012 empecé mis estudios universitarios, Ingeniería del software para ser exactos. Por aquella época yo ya usaba Mac, y no me</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg" alt="MacBook Retina Dorado" width="2500" height="1667" class="aligncenter size-full wp-image-11119" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163207/MacBook-Retina-Dorado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En 2012 empecé mis estudios universitarios, <strong>Ingeniería del software para ser exactos.</strong> Por aquella época <strong>yo ya usaba Mac,</strong> y no me planteé la opción de usar otro dispositivo en esa nueva aventura en la que me iba a meter.</p>
+<p>Pero si estáis dudando entre si usar un Mac u otro tipo de ordenador, hoy os voy a contar <strong>mi experiencia usando un Mac para estudiar la carrera de Ingeniería del software,</strong> donde el uso del ordenador es tan variado que la misma asignatura puede cambiar radicalmente según el año en que se de.</p>
+<p><span id="more-17069"></span></p>
+<div class="alerta">
+<p>Si estás estudiando, puede que esta <strong><a href="https://www.MacSfera.com/guia-para-tomar-apuntes-en-el-ipad/" title="Guía para tomar apuntes en el iPad" rel="noopener" target="_blank">guía para tomar apuntes en el iPad</a></strong> te sea de gran utilidad.</p>
+</div>
+<p>Sin bien ahora la diferencia entre un Mac y un PC portátil es cada vez menor, no siempre ha sido así. Estos últimos años, <strong>los PCs han reducido mucho esa enorme barrera que había antes.</strong></p>
+<p>Por supuesto, ese mismo tiempo en el que el hardware del PC ha ido cogiendo al Mac, lo mismo ha pasado desde el otro lado. <strong>El Mac</strong> –más concretamente macOS– <strong>ha ganado muchísimos adeptos en cuanto a software se refiere,</strong> y soluciones que antes estaban atadas a un sistema operativo como Windows, ahora están disponibles en más plataformas.</p>
+<p>De modo que tenemos, por un lado, que los portátiles PC se han acercado mucho al Mac, aunque en mi opinión el Mac sigue por delante. Por otro lado, Windows sigue llevando la delantera en compatibilidad software, pero este terreno se ha reducido mucho gracias a las distintas soluciones abiertas que se han ido lanzando al mercado.</p>
+<h2 class="review">Lenguajes y tecnologías</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231054/Estudiar-Ingenieria-del-software-con-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231054/Estudiar-Ingenieria-del-software-con-Mac.jpg" alt="Estudiar Ingenieria del software con Mac" width="832" height="468" class="aligncenter size-full wp-image-17071" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231054/Estudiar-Ingenieria-del-software-con-Mac.jpg 832w, https://cdn.macsfera.com/wp-content/uploads/2019/02/19231054/Estudiar-Ingenieria-del-software-con-Mac.jpg 300w" sizes="(max-width: 832px) 100vw, 832px" /></a></p>
+<p>Desde que inicié la carrera, hasta que la terminé, las asignaturas nos han ido trayendo una amplia variedad de lenguajes de programación y tecnologías con las que realizar prácticas y aprender conocimientos. <strong>Esta es una lista de algunas tecnologías y lenguajes que he podido desarrollar sin problemas en el Mac:</strong></p>
+<ul>
+<li>Java</li>
+<li>C</li>
+<li>C++</li>
+<li>Shell script</li>
+<li>Haskell</li>
+<li>SQL</li>
+<li>PostgreSQL</li>
+<li>TypeScript</li>
+<li>Docker</li>
+<li>Desarrollo web con Spring Boot</li>
+<li>Gestión multihilo</li>
+<li>Diseño y desarrollo de interfaces</li>
+<li>Ruby</li>
+<li>PHP</li>
+<li>JavaScript</li>
+</ul>
+<p>Dependiendo de la asignatura, el profesor, y la práctica en sí, tendremos mayor o menor similitud en los aspectos generales del entorno de trabajo: el <a href="www.macsfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/" rel="noopener" title="Coda: fantástico editor multilenguaje para Mac, iPhone y iPad" target="_blank">editor de texto usado</a>, el IDE, la forma de configurar algunos componentes, la gestión de las librerías externas, etc. <strong>Pero lo que está claro es que lo importante lo vamos a poder realizar sin problemas.</strong></p>
+<p>A lo mejor en la asignatura se usa un IDE que no está disponible en Mac, y hay que utilizar otro. Es posible. Pero os aseguro que con ese IDE vais a poder realizar la misma práctica sin problemas. Cambiarán algunas cosas, la forma de realizar algunas tareas, o incluso no tendrá alguna herramienta que en esa asignatura se usa (como un gestor de bases de datos integrado), pero no hay nada que no podáis realizar, <strong>lo único que hay que hacer es buscar otro camino.</strong></p>
+<h2 class="review">Ventajas de usar un Mac</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231410/Ventajas-de-usar-un-Mac-estudiando-Ingenieria-del-software.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231410/Ventajas-de-usar-un-Mac-estudiando-Ingenieria-del-software.jpg" alt="Ventajas de usar un Mac estudiando Ingenieria del software" width="1000" height="750" class="aligncenter size-full wp-image-17072" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231410/Ventajas-de-usar-un-Mac-estudiando-Ingenieria-del-software.jpg 1000w, https://cdn.macsfera.com/wp-content/uploads/2019/02/19231410/Ventajas-de-usar-un-Mac-estudiando-Ingenieria-del-software.jpg 267w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p>Las ventajas de usar un Mac son subjetivas a cada uno, por eso os voy a poner aquí unas cuantas que valoro y que hacen que usar el Mac sea una delicia.</p>
+<ul>
+<li><strong>Velocidad general:</strong> macOS está tan bien optimizado que la separación de procesos hace que puedas realizar tareas pesadas en segundo plano sin apenas afectar a las tareas de menor peso. Puede que a simple vista os parezca una tontería, pero yo valoro muchísimo que mi ordenador esté siempre disponible, aunque por detrás esté realizando una tarea que dejaría bloqueados a la mitad de los ordenadores.</li>
+<li><strong>La simplicidad y eficiencia:</strong> <em>“It just works”</em> es un lema que está vinculado a los productos de Apple. Y si bien es cierto que hay veces que no se cumple, la mayoría sí. Para mí es muy importante que todo aquello que tiene que funcionar, funcione, sin más. Bastante nos vamos a pegar en la carrera para averiguar qué está pasando y porqué no funcionan nuestros programas, como para encima tener que hacerlo con todas esas cosas que deberían funcionar, no lo hacen y encima se nos escapan de las manos <sup class="modern-footnotes-footnote ">1</sup>.</li>
+<li><strong>Batería:</strong> como he comentado, los PCs se han acercado mucho al Mac en cuanto al hardware, pero aun así hay cosas que tienen pendiente. La batería es uno de esos aspectos, y no sabéis lo bien que se vive sabiendo que no tienes que llevar el cargador en ciertas circunstancias porque tu Mac va a aguantar todo lo que dure la jornada. Todavía recuerdo a gente peleándose por los escasos enchufes de las aulas, o cerrando los portátiles porque se habían quedado sin batería.</li>
+<li><strong>Aspectos físicos:</strong> cuando estás en la universidad, es muy habitual que estés andando entre clases, edificios, y por todo el campus. Tener un equipo ligero como lo es un Mac, pero con la potencia de procesamiento adecuada, es una bendición. Es posible que ahora no notéis la diferencia entre llevar o no llevar medio kilo, pero se nota. La calidad de la pantalla también se nota mucho, vamos a estar horas y horas pegados a ella, por lo tanto, tener un equipo que ni dañe ni canse la vista es un requisito obligatorio.</li>
+</ul>
+<p>Disfruto de la tecnología, me encanta saber que mis productos tecnológicos funcionan sin problemas, me ocurre con todos ellos, de modo que haber tenido un Mac <sup class="modern-footnotes-footnote ">2</sup> en mi periodo universitario ha sido de lo más gratificante. Mis amig@s lo pueden confirmar, rara vez estaba sin el ordenador encima, y todo eso se debe a que me encanta lo que me transmite este ordenador y este sistema operativo. <strong>Los ordenadores son mi pasión, y en el Mac he encontrado la mejor forma de disfrutar de esa pasión como con ningún otro.</strong></p>
+<h2 class="review">Desventajas de usar un Mac</h2>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231530/Desventajas-de-usar-un-Mac-en-Ingenieria-del-software.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231530/Desventajas-de-usar-un-Mac-en-Ingenieria-del-software.jpg" alt="Desventajas de usar un Mac en Ingenieria del software" width="640" height="640" class="aligncenter size-full wp-image-17073" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231530/Desventajas-de-usar-un-Mac-en-Ingenieria-del-software.jpg 640w, https://cdn.macsfera.com/wp-content/uploads/2019/02/19231530/Desventajas-de-usar-un-Mac-en-Ingenieria-del-software.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>Si bien estoy enamorado de este ordenador y de su sistema, vamos a ser sinceros, <strong>siempre hay desventajas,</strong> en cualquier cosa. Y quien os diga que no hay desventajas, <strong>os miente.</strong></p>
+<p>En el caso del Mac en Ingeniería del software, <strong>el mayor problema que he encontrado ha sido relacionado con la compatibilidad de algunas tecnologías y programas.</strong></p>
+<p>Es muy normal que se toque de todo en la carrera, y no siempre va a estar disponible para macOS. Desde programas específicos de seguridad informática, hasta soluciones propias desarrolladas por la universidad, pasando por programas que, de lo antiguos que son, no saben cómo funcionan aún hoy en día.</p>
+<p>Estos casos me afectaron a mi directamente. Por un lado, tuvimos un par de prácticas en las que se utilizaban herramientas de seguridad informática de una distribución de Linux que, <strong>o no estaban disponibles para Mac en ese momento, o su funcionamiento era mucho más limitado.</strong> Por otro lado, un par de profesores muy cracks de mi universidad crearon una modificación del famoso Eclipse, y extendieron su funcionalidad para que los alumnos pudiésemos utilizar una única interfaz con varios lenguajes y funciones que veríamos a lo largo de la carrera. Por desgracia, <strong>sólo es compatible con Windows y con Ubuntu.</strong></p>
+<p>Y, además de encontrar soluciones que funcionan a medias, o no funcionan directamente, <strong>también tenemos el caso de los errores particulares de la aplicación en el sistema.</strong> Estos tipos de errores se dan en aquellas aplicaciones que son multiplataforma, pero suelen usar otros componentes para funcionar.</p>
+<p>Por ejemplo, un IDE de una tecnología concreta enfocada al desarrollo web: si bien la aplicación funciona bien, existe la posibilidad de que haya un error en el componente que ejecuta y gestiona el servicio web, y este puede ser distinto en Mac y Windows.</p>
+<p>Esto puede hacer que la resolución de problemas con la ayuda del profesor se dificulte porque hay errores derivados que dependen del sistema, y el profesor al no estar familiarizado, no puede ayudar.</p>
+<h2 class="review">Virtualización: la solución</h2>
+<div class="galerias medio" data-layout="3" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231845/Maldito-Windows.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231846/Maldito-pantallazo-azul-de-Windows.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19231848/Ubuntu-virtualizado-en-Mac.jpg" title="" alt="" />
+
+</div>
+<p>La virtualización es uno de esos inventos que ha cambiado la forma de trabajar con los ordenadores. De tener un ordenador ejecutando un solo sistema, a tener un ordenador ejecutando infinitos sistemas. Cada uno aislado, cada uno con su propio entorno y su propia naturaleza.</p>
+<p>Gracias a los sistemas de virtualización, <strong>podemos usar nuestro Mac para ejecutar todo lo que sea compatible, y a la vez, virtualizar otros sistemas operativos para ejecutar todo aquello que no es compatible de entrada.</strong></p>
+<p>En Mac, además, hay varias soluciones, gratuitas y de pago, con las que podemos virtualizar sistemas operativos:</p>
+<ul>
+<li><strong><a target="_blank" href="https://www.virtualbox.org/">VirtualBox</a>:</strong> herramienta gratuita y open-source para virtualizar en Mac. No es de las mejores, pero siempre viene bien para saber si la virtualización soluciona nuestros problemas</li>
+<li><strong><a target="_blank" href="https://www.vmware.com/es/products/fusion.html">VMWare Fusion</a>:</strong> solución propietaria de una empresa con muchos años de especialización en entornos virtuales. Fue la aplicación que elegí y usé durante mis años universitarios.</li>
+<li><strong><a target="_blank" href="https://www.parallels.com/es/">Parallels Desktop</a>:</strong> solución popular en entornos Mac que destaca por su versatilidad</li>
+<li><strong><a target="_blank" href="https://support.apple.com/es-es/boot-camp">Boot Camp</a></strong>: no es técnicamente una solución para virtualizar porque lo que hacemos es instalar nativamente Windows, pero lo pongo porque viene incluido en todos nuestros Macs y a alguno de vosotros os puede servir</li>
+</ul>
+<p>Gracias a la virtualización, podía tener todas mis aplicaciones del día a día y la herramienta particular y concreta, a la vez. No había que decidir, ni había incomodidades. Todo junto. <strong>Lo mejor de un lado y lo necesario del otro.</strong></p>
+<p>Además, y esto es importante en Ingeniería del software, vamos a tener que instalar un montón de cosas que sólo vamos a necesitar, a priori, para una asignatura o dos <sup class="modern-footnotes-footnote ">3</sup>. Si sois como yo, que hacéis de vuestro ordenador un templo, <strong>tener una máquina virtual donde podemos instalar de todo para realizar las prácticas de la asignatura,</strong> sin importar cuanto afecte al rendimiento de nuestros Macs, <strong>es una delicia.</strong> Después de esa asignatura, apagaba la máquina virtual y mi Mac se encontraba como si nada. Por no hablar de que eliminar y levantar máquinas es sumamente sencillo.</p>
+<p>Por último, mencionaros que <strong>vuestra universidad puede tener algún acuerdo con Microsoft por el cual os den licencias de Windows gratuitas para estudiantes,</strong> que tienen una validez de 2 años. Eso a mí me facilitó mucho las cosas porque no tenía que preocuparme de nada. Creaba y eliminaba máquinas virtuales a placer, sin importar lo que instalaba en ellas, cómo lo dejaba todo al acabar, y sin preocuparme por el rendimiento.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/02/19232232/Yo-usando-mi-Mac-para-la-universidad.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/02/19232232/Yo-usando-mi-Mac-para-la-universidad.jpg" alt="Yo usando mi Mac para la universidad" width="2500" height="1667" class="aligncenter size-full wp-image-17078" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/02/19232232/Yo-usando-mi-Mac-para-la-universidad.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/02/19232232/Yo-usando-mi-Mac-para-la-universidad.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/02/19232232/Yo-usando-mi-Mac-para-la-universidad.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>¿Se puede estudiar una carrera de informática técnica con un Mac? Sí, sin lugar a duda, mucha gente somos la prueba de ello.</strong> Algún profesor os gastará bromas, otros os tomarán menos en serio, y otros os pondrán un punto más porque ellos también usan Mac.</p>
+<p>Como anécdota, os contaré que en una asignatura de programación concurrente, yo estaba usando la máquina virtual por las distintas dependencias que necesitábamos para cursar la asignatura. Y un día, haciendo pruebas, mi código dio error. Un error muy raro. Tras mucho investigar y depurar el código paso a paso ¿cuál fue a solución? <strong>Ejecutarlo en Mac.</strong> Tal cual <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Mismo código, misma configuración, en uno funciona y en otro no. A día de hoy sigue siendo un misterio para mí.</p>
+<p>Al comentárselo a mi profesor, que usaba Mac como equipo principal, la única respuesta que me dio fue: <em>“Eso te pasa por usar Windows dentro de un Mac.”</em>.</p>
+<p>Bromas aparte, <strong>el Mac es un equipo brillante capacitado más que de sobra para realizar la parte técnica de una carrera como Ingeniería del software.</strong> Ya sea de forma nativa, o mediante virtualización.</p>
+<p><strong>Si tuviese que repetir</strong> <sup class="modern-footnotes-footnote ">4</sup> <strong>no dudaría ni un segundo en volver a la carga con mi Mac.</strong></p>
+<p class="medio"><iframe width="860" height="484" src="https://www.youtube.com/embed/8jwXA9FOTiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Cuando le digo a la gente a lo que me dedico y que uso un Mac como equipo principal en casa, se sorprenden mucho porque piensan que alguien como yo tiene que tener un sistema super complejo. Yo siempre les respondo lo mismo: en el trabajo me pego con un ordenador por imposición, no quiero hacerlo al llegar a casa.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Dos en realidad: <a target="_blank" title="Nuevo MacBook Pro para el blog" href="www.macsfera.com/nuevo-macbook-pro-para-el-blog/">mi viejo MacBook Pro de 2010</a> y <a target="_blank" title="Mi nuevo MacBook Pro Retina" href="www.macsfera.com/mi-nuevo-macbook-pro-retina/">mi actual MacBook Pro de 2015</a>.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Y el problema ya no es el programa en sí, sino sus dependencias. Yo lo considero basura, porque se queda por ahí aunque desinstales la herramienta principal que lo ha instalado.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Ya he tenido más que suficiente con una vez, así que esperemos que no haya que repetir &#x1f61d;</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Resumen y opinión de la keynote de la WWDC18</title>
+		<link>https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 07 Jun 2018 16:25:34 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[iOS 12]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[macOS Mojave]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[tvOS 12]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<category><![CDATA[watchOS 5]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC18]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16862</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a></p>
+<p>Esta semana se celebró la keynote de la WWDC18, la presentación inaugural de la Worldwide Developers Conference de Apple en la que</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145606/WWDC18.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145606/WWDC18.jpg" alt="WWDC18" width="2400" height="1350" class="aligncenter size-full wp-image-16866" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145606/WWDC18.jpg 2400w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07145606/WWDC18.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07145606/WWDC18.jpg 1024w" sizes="(max-width: 2400px) 100vw, 2400px" /></a></p>
+<p>Esta semana se celebró la keynote de la <a target="_blank" title="WWDC18" href="www.macsfera.com/tag/wwdc18" rel="noopener noreferrer">WWDC18</a>, <strong>la presentación inaugural de la Worldwide Developers Conference de Apple en la que conocimos el futuro de los sistemas operativos de la empresa.</strong></p>
+<p>Este año la keynote no se ha salido de lo básico y fundamental. Software, software y más software <sup class="modern-footnotes-footnote ">1</sup>. Y es que ya lo dijo Tim Cook al inicio <em>“Hoy, todo es sobre el software”</em>,  no ha habido ninguna novedad en cuanto a hardware, ni si quiera una actualización de componentes internos.</p>
+<p><span id="more-16862"></span></p>
+<p>En dos horas pudimos ver cuál es el futuro más inmediato de los sistemas operativos de la empresa, y un pequeño vistazo al largo plazo que Apple tiene planeado para el Mac. Empecemos.</p>
+<h2 class="review">Nuevo iOS 12</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145817/nuevo-iOS-12.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145817/nuevo-iOS-12.jpg" alt="Nuevo iOS 12" width="2500" height="886" class="aligncenter size-full wp-image-16867" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07145817/nuevo-iOS-12.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07145817/nuevo-iOS-12.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07145817/nuevo-iOS-12.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>El primer conocido en la presentación fue iOS 12.</strong> Es raro verlo el primero, pero ahí estaba Craig Federighi para presentarnos las novedades del nuevo sistema operativo móvil de Apple.</p>
+<p><strong>Empezó hablando del rendimiento y optimización</strong> del sistema y de cómo funcionan las cosas bajo el capó en su unión con el hardware. Esta explicación nos llevó a saber que iOS 12 estará disponible para los mismos dispositivos compatibles con iOS 11, de modo que este año no hay ningún perjudicado en la actualización. Esos dispositivos son: desde el iPhone 5s en adelante, desde el iPad mini 2 en adelante, desde el iPad Air en adelante y el iPod touch 6.</p>
+<p>La realidad aumentada ocupó la siguiente novedad. Apple está apostando fuerte por esta tecnología y el mejor ejemplo lo tuvimos en esta presentación. <strong>iOS 12 es más compatible con AR gracias a un nuevo formato de archivo llamado USDZ</strong> que han creado junto a Pixar. Este nuevo formato <strong>permite crear objetos tridimensionales y manejables que podemos insertar en distintas aplicaciones, incluida la web.</strong> Además de ver y compartir objetos 3D, también vamos a poder ubicarlos en nuestro entorno gracias a las propiedades de realidad aumentada. Algunas de las mejoras de AR en iOS 12 son tracking facial mejorado, renderizado de objetos más realista, detección de objetos 3D mejorada y experiencia compartida.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151734/AR-en-iOS-12.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151734/AR-en-iOS-12.jpg" alt="AR en iOS 12" width="2500" height="1407" class="aligncenter size-full wp-image-16873" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151734/AR-en-iOS-12.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07151734/AR-en-iOS-12.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07151734/AR-en-iOS-12.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Este último punto es muy importante, Apple ha logrado que varios dispositivos puedan compartir la experiencia de juego 3D. Cada uno con su dispositivo, desde su punto de vista y con un mismo entorno en 3D. La demo que vimos en directo de lo que Lego tiene preparado fue increíble. Me encantó. Es una demo que difícilmente se puede simular <sup class="modern-footnotes-footnote ">2</sup>, y eso hace que sea más impresionante aún. En ella vemos cómo dos personas juegan cada uno con su iPad y <strong>son capaces de crear un mundo virtual a partir de un objeto real en una mesa</strong> (un edificio)<strong>.</strong> La tecnología está tan bien desarrollada que en un momento dado pueden mostrar el interior del edificio físico y moverse por la escena como si este edificio (que recordemos está sobre la mesa y se puede tocar) fuese virtual. Hasta que no lo veamos en nuestras propias carnes no sabremos al 100% cómo de bien funciona, pero me dejó impresionado los avances que han logrado.</p>
+<p>La aplicación de fotos ha recibido algunas mejoras de organización y optimización, siendo posible realizar mejores búsquedas y encontrar contenido de forma más precisa. Tenemos una pestaña personal en la que se muestran fotos destacadas y en la que podemos obtener selecciones inteligentes de fotos. La inteligencia artificial se utiliza en este punto para buscar las mejores fotografías e incluso nos sugiere con quién compartir estas fotografías en base a la gente que aparece en ella.</p>
+<p>El año pasado supimos que <a target="_blank" title="Apple compra la app de automatización Workflow" href="www.macsfera.com/apple-compra-app-de-automatizacion-workflow/" rel="noopener noreferrer">Apple compraba Workflow</a>, la estupenda app de automatización para iOS, y ya sabemos cuál es su uso. <strong>Apple ha integrado Workflow con Siri y el resultado es una nueva app llamada Shortcuts que nos va a permitir crear flujos de trabajo que Siri va a realizar con solo decirle una frase predeterminada.</strong> Por ejemplo, podremos configurar un flujo de trabajo que al decir «Buenas noches» se apaguen todas las lámparas inteligentes que tengamos en casa, se eche la llave de la cerradura inteligente, se active la alarma del día siguiente y se ponga el modo no molestar en el teléfono. Para definir estos pasos, tenemos la misma interfaz de arrastrar y soltar acciones que existe en Workflow, la cual es muy amigable y facilita la tarea de «programación» al usuario medio. <strong>Tengo muchas ganas de probar esta característica porque ahora sí que veo que Siri pueda tener una personalización y utilidad que,</strong> junto a la API pública lanzada con <a target="_blank" title="Nuevo iOS 10" href="www.macsfera.com/nuevo-ios-10/" rel="noopener noreferrer">iOS 10</a>, <strong>dispare su uso notablemente.</strong></p>
+<div class="galerias grande" data-layout="5" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07152128/Bloquear-notificaciones-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07152130/Fotos-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07152132/Notificaciones-agrupadas-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07152133/Shortcuts-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07152752/App-de-seguimiento-en-iOS-12.jpg" title="" alt="" />
+
+</div>
+<p>En iOS 12 se han rediseñado las aplicaciones de noticias, bolsa, notas de voz y iBooks, que ahora pasa a llamarse Apple Books. También se permite el uso de aplicaciones de terceros de navegación como Google Maps o Waze en Car Play. Y se han introducido cuatro animojis nuevos más la opción de crear los nuestros propios basados en personas.</p>
+<p>Un punto importante al que se hizo referencia fue al uso que hacemos de nuestros dispositivos y a la adicción que estos pueden crear. Por ello Apple ha integrado en iOS 12 algunas mejoras para reducir esos problemas. </p>
+<ol>
+<li>La primera de ellas <strong>está relacionada con el modo «No molestar»</strong> que ha recibido una nueva propiedad que permite ocultar todas las notificaciones durante la noche para que al despertar no veamos directamente ese mar de actividad que ha ocurrido mientras dormíamos. También es posible configurar la duración del modo desde el centro de control y no desde los ajustes del teléfono.</li>
+<li>La segunda de ellas <strong>es un sistema mejorado de notificaciones que agrupa en la pantalla de bloqueo las notificaciones por aplicación.</strong> Además aporta más control sobre las notificaciones en el momento, nada de tener que navegar por distintos menús, todo a golpe de dedo.</li>
+<li>La tercera, y última, <strong>hace referencia a una nueva aplicación que nos va a indicar nuestra actividad en el teléfono:</strong> qué apps hemos usado, cuánto tiempo, cuáles han recibido más notificaciones, he incluso podremos fijar límites de tiempo para algún caso concreto. Llegado a ese límite, iOS 12 nos notificará que ya hemos alcanzado el tiempo máximo asignado (pudiendo ignorar el mensaje para seguir usando la app). Por último, y lo que más me ha gustado de esta opción, es que la aplicación es compatible con los controles parentales, de modo que los padres pueden ver la actividad de su hijo en su dispositivo, limitarla temporalmente, etc., todo ello desde el dispositivo del adulto y sincronizado con iCloud.</li>
+</ol>
+<div class="galerias medio" data-layout="3" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07153540/Bloquear-cookies-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07153541/Bolsa-en-iOS-12.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07153543/Juegos-en-iOS-12.jpg" title="" alt="" />
+
+</div>
+<p>Por último, el servicio FaceTime ha recibido una actualización que permite llamadas grupales de hasta 32 miembros a la vez. Al igual que hace Google Hangouts, destacará a las personas que estén hablando en ese momento y se permitirá aplicar filtros y emojis en directo para darle un toque más gracioso a la llamada.</p>
+<h2 class="review">Nuevo watchOS 5</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154035/watchOS-5.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154035/watchOS-5.jpg" alt="" width="2460" height="1241" class="aligncenter size-full wp-image-16883" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154035/watchOS-5.jpg 2460w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07154035/watchOS-5.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07154035/watchOS-5.jpg 1024w" sizes="(max-width: 2460px) 100vw, 2460px" /></a></p>
+<p>La presentación de watchOS 5 empezó con una bonita historia relatada por Tim Cook en la que una mujer pudo salvar a su marido gracias al Apple Watch y a la conectividad móvil. El marido tuvo un problema médico muscular y cayó al agua sin poder nadar para no ahogarse, la mujer pudo llamar a emergencias gracias al Apple Watch mientras ayudaba a su marido.</p>
+<p>Tras el relato, <strong>Kevin Lynch subió al escenario para mostrar las novedades de watchOS 5 para el reloj.</strong> Dos fueron las novedades presentadas en este aspecto: <strong>mejoras en actividad y mejoras de conectividad.</strong></p>
+<p><strong>En el área de actividad se ha mejorado la detección automática de entrenamiento</strong> para monitorizar mejor la actividad sin que el usuario tenga que estar tan pendiente. También se han añadido nueva detección de las actividades de yoga y hiking, así como se ha mejorado las métricas de la actividad de correr.</p>
+<p>En cuanto al área de conectividad, los podcasts ya están disponibles en el Apple Watch con sincronización automática y compatibilidad con Siri. <strong>Se ha introducido una nueva app llamada Walkie-Talkie</strong> que nos permitirá hablar por el reloj como si de un walkie-talkie fuese <sup class="modern-footnotes-footnote ">3</sup>. Se ha mejorado Siri, siendo más predictiva y proactiva a través de su propia esfera. Las notificaciones ahora cobran más importancia porque permiten realizar ciertas acciones sin necesidad de acudir a la propia aplicación. Y por último webkit llega al Apple Watch para poder visualizar páginas web desde el reloj <sup class="modern-footnotes-footnote ">4</sup>.</p>
+<h2 class="review">Nuevo tvOS 12</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07150449/Nuevo-tvOS-12.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07150449/Nuevo-tvOS-12.jpg" alt="Nuevo tvOS 12" width="2206" height="1292" class="aligncenter size-full wp-image-16869" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07150449/Nuevo-tvOS-12.jpg 2206w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07150449/Nuevo-tvOS-12.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07150449/Nuevo-tvOS-12.jpg 1024w" sizes="(max-width: 2206px) 100vw, 2206px" /></a></p>
+<p>tvOS 12 fue el sistema operativo que menos novedades introdujo, normal sabiendo el impacto que tiene el Apple TV respecto al resto de productos, pero aún así vimos una mejora notable: <strong>el Apple TV ahora es compatible con Dolby Atmos,</strong> la tecnología de sonido envolvente de Dolby que centra al espectador en medio de la película. Para disfrutarlo hay que usar sistemas de sonido Dolby, pero todas las películas de iTunes serán actualizadas gratuitamente para disfrutar de esta característica.</p>
+<p>Además, se introdujeron una serie de mejoras en cuanto a la entrega de contenido de pago. Hace dos años <a target="_blank" title="Nueva versión de tvOS" href="www.macsfera.com/nueva-version-tvos/" rel="noopener noreferrer">introdujeron el inicio de sesión sencillo</a>, este año introducen el inicio de sesión automático: si se detecta que el Apple TV está en la red del distribuidor, automáticamente inicia sesión y pone a disposición del usuario el contenido contratado.</p>
+<p>Por último, han añadido nuevos wallpapers animados, las vistas aéreas que se ponen en el Apple TV cuando no se visualiza contenido.</p>
+<h2 class="review">Nuevo macOS Mojave</h2>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154219/macOS-Mojave.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154219/macOS-Mojave.jpg" alt="macOS Mojave" width="2500" height="1306" class="aligncenter size-full wp-image-16884" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07154219/macOS-Mojave.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07154219/macOS-Mojave.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07154219/macOS-Mojave.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Y entramos en la recta final de la keynote, <strong>la presentación de macOS Mojave,</strong> el nuevo sistema operativo de Mac que nos acompañará durante un año.</p>
+<p>Lo primero que supimos fue que <strong>macOS Mojave tiene un modo oscuro real.</strong> Actualmente el modo oscuro del Mac se limita al dock y a la barra de tareas, pero en macOS Mojave va a ser por todo el sistema, <strong>aplicaciones incluidas.</strong> En las demos vimos esos aspectos y no lucen nada mal, pero me interesa más saber si las aplicaciones de terceros pueden hacer uso de este sistema y de la facilidad que tendrá el modo oscuro para aplicarse <sup class="modern-footnotes-footnote ">5</sup>.</p>
+<p><strong>Hay algunas mejoras de usabilidad y utilidad bastante curiosas:</strong></p>
+<ul>
+<li>Organizar por pilas los archivos del escritorio para tener todo organizado</li>
+<li>Propiedades de edición rápida de las capturas de pantalla como en iOS</li>
+<li>Nueva vista del Finder donde el archivo cobra más protagonismo (es un rediseño de la vista actual Cover Flow)</li>
+<li>Podemos definir tareas automáticas en Finder para que, con un solo toque se ejecuten sobre los archivos que hemos seleccionado (poner marcas de agua, hacer un PDF, rotar imágenes, etc.)</li>
+<li>Nuevo sistema de capturas de pantalla más intuitivo y útil que, además, permite capturar vídeo sin necesidad de utilizar software de terceros <sup class="modern-footnotes-footnote ">6</sup></li>
+<li>Continuity añade la posibilidad de invocar la cámara del iPhone cuando  la aplicación requiera de una entrada de foto. De esta manera si queremos insertar una foto en un documento, por ejemplo, podremos sacarla con el iPhone y automáticamente aparecerá en el Mac</li>
+<li>Nueva aplicación de Noticias, Notas de Voz, Bolsa y Home disponibles para el Mac</li>
+<li>Mejoras de privacidad para acceso a la cámara, localización, micrófono, información de Safari, copias de seguridad, cookies, historial de mensajes y base de datos del correo de email</li>
+</ul>
+<div class="galerias medio" data-layout="43" style="visibility: hidden;">
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07180001/macOS-Mojave-xCode.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07180000/macOS-Mojave-nueva-vista-Finder.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07175959/macOS-Mojave-Keynote.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07175958/macOS-Mojave-FaceTime-llamada-multigrupo.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07175955/macOS-Mojave-apuntar.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07175956/macOS-Mojave-Calendario.jpg" title="" alt="" />
+<img src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07175954/macOS-Mojave-App-Store.jpg"/>
+
+</div>
+<p>Y continuando con la privacidad, Safari va a deshabilitar por defecto las cajas de comentarios, plugins de compartición de contenido y rastreo de cookies de páginas que no son la principal. Además, <strong>añadirá más ruido a la información digital que se recolecta sobre nosotros, para que sea más difícil identificar nuestro dispositivo con fines publicitarios y de rastreo.</strong> Hay que añadir que estas medidas de seguridad también llegan a iOS.</p>
+<p>Lo siguiente que pudimos ver fue <strong>el rediseño de la Mac App Store,</strong> la tienda de aplicaciones del Mac, que aparte del modo oscuro antes mencionado, <strong>se adapta al estilo que está teniendo tanto éxito en iOS.</strong> Mismos patrones de diseño, más protagonismo del contenido, categorías más diferenciadas, historias sobre las aplicaciones, etc. En iOS el cambio vino muy bien, aumentando las visitas semanales de la plataforma, así que el nuevo diseño no solo aporta homogeneidad y continuidad al Mac, sino que también espera aumentar el tráfico y la popularización de la tienda.</p>
+<p>Con la llegada de Metal hace cuatro años, Apple estaba plantando una semilla para prescindir de los motores gráficos de terceros, y <strong>parece que con macOS Mojave esto se empieza a definir al considerar estas tecnologías como obsoletas en el desarrollo de aplicaciones para el nuevo sistema operativo.</strong> Seguirán siendo compatibles y podrán ejecutarse, pero es el aviso que Apple da para que los desarrolladores empiecen a migrar de motor. Además, Metal 2 incluye mejoras de velocidad y cualidades nuevas para el machine learning.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07180321/Modo-Oscuro-macOS-Mojave.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07180321/Modo-Oscuro-macOS-Mojave.jpg" alt="Modo Oscuro macOS Mojave" width="1558" height="884" class="aligncenter size-full wp-image-16892" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07180321/Modo-Oscuro-macOS-Mojave.jpg 1558w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07180321/Modo-Oscuro-macOS-Mojave.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07180321/Modo-Oscuro-macOS-Mojave.jpg 1024w" sizes="(max-width: 1558px) 100vw, 1558px" /></a></p>
+<p>Y por último en la presentación, una pequeña bomba informativa y un momento anecdótico. Craig Federighi se auto preguntó si <em>“Apple iba a fusionar macOS y iOS”</em>. La respuesta la tenéis justo debajo de estas líneas.</p>
+<p><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07212229/WWDC-No.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07212229/WWDC-No.gif" alt="WWDC No" width="700" height="auto" class="aligncenter size-full wp-image-16899" /></a></p>
+<p>Pero sí que nos enseñó lo que depara el futuro de las aplicaciones en Mac, y es que <strong>a partir del año que viene va a ser posible utilizar algunas de las aplicaciones de iOS en macOS gracias a la migración de algunas librerías.</strong> De esta forma, se podría desarrollar una aplicación para iOS y tenerla, automáticamente, disponible para descarga y uso en el Mac.</p>
+<p>Evidentemente no se van a poder migrar todas las aplicaciones, <strong>sólo algunas que no utilicen propiedades exclusivas de un dispositivo como el iPhone o el iPad,</strong> pero tampoco podemos saber mucho más sobre este apartado ya que es algo que no está 100% definido a día de hoy. De hecho, Apple lo está probando por sí mismo con las nuevas aplicaciones que llegan al Mac (Noticias, Notas de Voz, Bolsa y Home).</p>
+<p>En un futuro, el año que viene según los planes, veremos muchísimos más detalles sobre esto, pero de momento es un vistazo a los planes que tiene Apple sobre el desarrollo de aplicaciones.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151000/Tim-Cook-en-la-WWDC18.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151000/Tim-Cook-en-la-WWDC18.jpg" alt="Tim Cook en la WWDC18" width="1632" height="1088" class="aligncenter size-full wp-image-16871" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/06/07151000/Tim-Cook-en-la-WWDC18.jpg 1632w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07151000/Tim-Cook-en-la-WWDC18.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/06/07151000/Tim-Cook-en-la-WWDC18.jpg 1024w" sizes="(max-width: 1632px) 100vw, 1632px" /></a></p>
+<p>Y con esto acabamos todas las novedades de la presentación. No hubo ni una sola referencia al hardware, <strong>así que probablemente nos espere un final de año cargado de novedades en cuanto a los dispositivos.</strong></p>
+<p>Personalmente estoy contento con lo visto aunque no sé hasta qué punto nos va a perjudicar a los usuarios el que Apple haga un anuncio tan impactante como la portabilidad de las aplicaciones de iOS a macOS ya que <strong>puede hacer que una empresa decida aguantar un año sin novedades, actualizaciones, mejoras, etc. de su aplicación, porque el año que viene pueden ahorrarse trabajo y dinero al migrar algo que ya han hecho.</strong></p>
+<p>En cuanto al resto de novedades, muchas son una capa extra de funcionalidad que no le viene nada mal a los sistemas operativos y que en general van a mejorar la experiencia de usuario. Algunas de ellas llegan tarde (como las notificaciones agrupadas), bien es sabido que Apple no es el mejor ejemplo de velocidad en este tipo de asuntos.</p>
+<p>A pesar de que este es el evento principal de desarrollo, viendo el modo de actuar de otros años, <strong>seguro que tendremos más novedades cuando se actualicen los dispositivos,</strong> y tengo la sensación de que las funcionalidades que nos presentarán rellenarán el vacío que esta presentación ha dejado en algunos de vosotros. Sólo el tiempo me dirá si me equivoco.</p>
+<p>Yo en general estoy contento con lo aquí anunciado, me quedo con la parte de mejora de estabilidad y velocidad, <strong>al final del día es algo que todos vamos a agradecer sí o sí,</strong> y estoy deseando probar ese aumento del rendimiento prometido.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://www.apple.com/apple-events/june-2018/" rel="noopener noreferrer" target="_blank">Apple</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Obvio, es una conferencia para desarrolladores.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Como ha ocurrido otros años.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Nostalgia modo on.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;La propia Apple reconoce que no es lo mejor que se puede hacer, pero que lo habilita para permitir vistazos rápidos en caso de necesidad.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;A día de hoy sólo conozco el ejemplo de <a href="https://www.MacSfera.com/enlaces/tweetbot-para-ios/" rel="noopener noreferrer" target="_blank">Tweetbot para iOS</a> que ha sabido integrar un modo oscuro eficiente al permitir, de forma manual y sencilla, activar a placer dicho modo.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;Esto ya se puede hacer con QuickTime pero ahora es más rápido y directo.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nueva API para reseñas en las apps de iOS y macOS</title>
+		<link>https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 25 Jan 2017 11:00:55 +0000</pubDate>
+				<category><![CDATA[App Store]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Betas]]></category>
+		<category><![CDATA[Daring Fireball]]></category>
+		<category><![CDATA[Noticias de iOS]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[Reseñas]]></category>
+		<category><![CDATA[The Loop]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16282</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a></p>
+<p>Ayer Apple lanzó una nueva beta para macOS y para iOS con varios cambios. Entre ellos se encontraba una nueva API para</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2017/01/25115310/API-de-resenas-de-iOS-y-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2017/01/25115310/API-de-resenas-de-iOS-y-macOS.jpg" alt="API de reseñas de iOS y macOS" width="2000" height="1250" class="aligncenter size-full wp-image-16284" srcset="https://cdn.macsfera.com/wp-content/uploads/2017/01/25115310/API-de-resenas-de-iOS-y-macOS.jpg 2000w, https://cdn.macsfera.com/wp-content/uploads/2017/01/25115310/API-de-resenas-de-iOS-y-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2017/01/25115310/API-de-resenas-de-iOS-y-macOS.jpg 1024w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></p>
+<p>Ayer Apple lanzó una nueva beta para macOS y para iOS con varios cambios. Entre ellos se encontraba <strong>una nueva API para desarrolladores relacionada con las reseñas de sus aplicaciones.</strong></p>
+<p>Hay varios cambios en este aspecto y según han podido saber en <a target="_blank" href="http://www.loopinsight.com/2017/01/24/apple-explains-the-new-app-reviews-api-for-developers/" rel="noopener noreferrer">The Loop</a> y en <a target="_blank" href="http://daringfireball.net/2017/01/new_app_store_review_features" rel="noopener noreferrer">Daring Fireball</a>, estos son:</p>
+<p><span id="more-16282"></span></p>
+<p><strong>Los desarrolladores tendrán la posibilidad de responder a las reseñas que les han dejado.</strong> Por fin va a haber una comunicación bilateral entre ambos. El sistema permitirá al desarrollador responder una vez por cada reseña. tras hacerlo, la reseña y la contestación quedarán unidas para futuros usuarios que quieran leerla. Además, cuando una reseña obtenga una respuesta, el usuario podrá modificarla a modo de respuesta, y el desarrollador podrá hacer lo mismo una vez más. De esta forma se evitan largos hilos de comentarios y se mantiene siempre la última modificación.</p>
+<p>Ahora cuando nos pregunten por una reseña en una aplicación, <strong>no saldremos de dicha aplicación para poder evaluarla.</strong> Se permitirá al usuario valorar la app y seguir con lo que estaba haciendo, facilitando así la posibilidad de dejar reseñas <a target="_blank" title="La importancia de dejar una reseña de una aplicación" href="www.macsfera.com/la-importancia-de-dejar-una-resena-de-una-aplicacion/" rel="noopener noreferrer">que tanto pueden beneficiar</a>.</p>
+<p>A todos nos han preguntado alguna vez sobre si podíamos evaluar una app, <strong>pues ahora esa petición se ve reducida a un límite de 3 veces al año.</strong> No 3 veces por versión, sino 3 veces por cada año natural. Si el usuario deja la reseña, no volverá a aparecer. Si el usuario dice que no al dialogo emergente con la petición 3 veces, no volverá a mostrase hasta dentro de un año.</p>
+<p>A su vez, <strong>se ha habilitado un botón en los ajustes que impedirá a cualquier aplicación preguntar al usuario si quiere escribir una reseña.</strong> Si el usuario desactiva esta propiedad, ninguna app podrá pedirlo, aunque no se haya cumplido el límite de 3 veces al año.</p>
+<p><strong>Los usuarios <a target="_blank" title="Mi review del iPhone 7" href="www.macsfera.com/review-del-iphone-7/" rel="noopener noreferrer">cuyo iPhone tenga 3D Touch</a> podrán marcar una review como «Útil» al hacer el gesto de presión.</strong> Imagino que ese tipo de reviews aparecerán más arriba o serán más visibles de cara al desarrollador.</p>
+<p>Por ahora no hay una fecha inminente para que los desarrolladores implementen esta API, pero en algún momento llegará a ser obligatorio.</p>
+<p>Si bien estos cambios vienen muy bien para los desarrolladores y los usuarios <sup class="modern-footnotes-footnote ">1</sup> <strong>hay otros cambios que también se podrían hacer.</strong></p>
+<p>En particular, tal y como destaca John Gruber, la política de que desaparezca la media de estrellas obtenidas cada vez que un desarrollador lanza una actualización, aunque dicha actualización sea menor. Esto puede hacer que los desarrolladores tarden más en actualizar sus aplicaciones por miedo a perder las buenas reseñas, o algunos a lanzar actualizaciones vacías para que desaparezca la mala puntuación bien merecida.</p>
+<p>Apple no se ha pronunciado y no ha dicho nada sobre este apartado, de modo que no sabemos si en un futuro veremos cambios en las puntuaciones.</p>
+<p>En cualquier caso, <strong>estas mejoras van a venirnos muy bien,</strong> tanto a usuarios como desarrolladores, la comunicación será más fluida y no se molestará tanto al usuario final.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Un sistema para poder responder reseñas por parte de un desarrollador se lleva pidiendo demasiados años, prácticamente desde el inicio de la App Store.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Error en Spotify para Mac que degrada nuestros SSD</title>
+		<link>https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 12 Nov 2016 17:07:02 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[HDD]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[SSD]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15769</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a></p>
+<p>Ha salido a la luz que un error en la aplicación de Mac (y Windows) de Spotify causaba degradación en los SSD</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg" alt="Spotify error degradacion SSD" width="2500" height="1484" class="aligncenter size-full wp-image-15772" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Ha salido a la luz que un error en la aplicación de Mac</strong> (y Windows) <strong>de <a target="_blank"title="Spotify" href="www.macsfera.com/tag/spotify/">Spotify</a> causaba degradación en los SSD debido a una escritura innecesaria de datos en el disco duro.</strong></p>
+<p>Varios usuarios se han dado cuenta del fallo y se ha confirmado el error de forma oficial aportando una única solución: <strong>actualizar.</strong></p>
+<p><span id="more-15769"></span></p>
+<p>Un moderador del <a target="_blank"href="http://spoti.fi/2fTZAfQ">foro de Spotify</a> ha comentado lo siguiente:</p>
+<blockquote>
+<p>Hemos visto algunas preguntas en nuestra Comunidad acerca de la cantidad de datos escritos usando el cliente de escritorio de Spotify. Han sido revisados y cualquier caso referente a este tema se ha solucionado en la versión 1.0.42, disponible ya para todos los usuarios.</p>
+</blockquote>
+<p>De modo que ya sabéis, <strong>actualizad Spotify a la última versión disponible para evitar una escritura excesiva e innecesaria que degrade nuestros SSDs.</strong></p>
+<p>Siempre y cuando tengáis una <strong>versión superior a la 1.0.42,</strong> no habrá problemas.</p>
+<div id="attachment_15773" style="width: 448px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg"><img aria-describedby="caption-attachment-15773" src="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg" alt="Spotify degrada SSD" width="438" height="75" class="size-full wp-image-15773" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg 438w, https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg 300w" sizes="(max-width: 438px) 100vw, 438px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-15773" class="wp-caption-text">Imagen cedida por <a href="https://twitter.com/Adrimartin" target="_blank" rel="noopener noreferrer">Adri Martín</a></p></div>
+<p><em>¿Por qué los SSDs y no los HDDs?</em> <strong>Los SSDs se degradan más cuando se escriben mucha cantidad de datos.</strong> A los HDDs también les viene mal, pero les afecta bastante menos. Así que, en cualquier caso, actualizad para evitar este fallo problemático.</p>
+<p>La imagen de muestra es de <a target="_blank"href="https://twitter.com/Adrimartin/status/797034272628609026">un caso real</a>, <a target="_blank"href="https://www.twitter.com/adrimartin">Adrián Martín</a> ha relatado cómo en menos de 2 horas y sin usar la app, sólo con tenerla abierta, se han escrito 5,5 GB en su SSD.</p>
+<p>Los datos escritos no ocupan espacio como tal, pero el SSD los procesa y escribe, de modo que está en todo momento trabajando y eso es lo que hace que se degrade, acortando su vida.</p>
+<p>Las actualizaciones de Spotify saltan solas y por desgracia no hay forma de forzarlas <sup class="modern-footnotes-footnote ">1</sup>. Por ello, <strong>si no tenéis la versión 1.0.42 o más evitad tener la app abierta si no la estáis usando hasta que os salte la actualización.</strong></p>
+<p><span class="source">Fuente</span> <span class="via"><a href="http://arstechnica.com/information-technology/2016/11/for-five-months-spotify-has-badly-abused-users-storage-drives/" target="_blank" rel="noopener noreferrer">Ars Technical</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Tal y como <a target="_blank"href="https://twitter.com/SpotifyAyuda/status/797449490559041536">me confirman en Twitter</a>.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Recuperación por Internet: cuando el modo Recovery no es suficiente</title>
+		<link>https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/</link>
+					<comments>https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2016 16:13:31 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Recovery]]></category>
+		<category><![CDATA[Recuperación por Internet]]></category>
+		<category><![CDATA[Reinstalar macOS]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15664</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/">Recuperación por Internet: cuando el modo Recovery no es suficiente</a></p>
+<p>La semana pasada, a parte de un ataque masivo a medio Internet, yo tuve mi pequeña batalla personal con el mundo tecnológico:</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/">Recuperación por Internet: cuando el modo Recovery no es suficiente</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/">Recuperación por Internet: cuando el modo Recovery no es suficiente</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175639/Recuperacion-Internet-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175639/Recuperacion-Internet-macOS.jpg" alt="Recuperacion Internet macOS" width="2500" height="1875" class="aligncenter size-full wp-image-15666" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175639/Recuperacion-Internet-macOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27175639/Recuperacion-Internet-macOS.jpg 267w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27175639/Recuperacion-Internet-macOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La semana pasada, a parte de un ataque masivo a medio Internet, yo tuve mi pequeña batalla personal con el mundo tecnológico: <strong>mi iMac fallaba como nunca y por eso decidí intervenir a base de formateo y reinstalación.</strong></p>
+<p>Hoy os vengo a contar <strong>qué hacer cuando el modo Recovery no es suficiente y hay que recurrir al modo Recuperación por Internet.</strong></p>
+<p><span id="more-15664"></span></p>
+<p>Cuando actualicé a <a target="_blank"title="macOS Sierra" href="www.macsfera.com/tag/sierra">macOS Sierra</a> todo iba bien, hasta que un día empecé a notar que algunas tareas sencillas hacían aparecer la pelota de playa con más frecuencia de la que me gustaría reconocer.</p>
+<p>Poco a poco las tareas con las que se bloqueaba aumentaron, al igual que el tiempo de bloqueo, resultando imposible hacer nada con él.</p>
+<p>Así que la solución era sencilla: <strong>formateo e instalo macOS Sierra de cero.</strong> No hay nada como una instalación limpia para evitar arrastrar errores en el sistema.</p>
+<p>Para ello usé el modo Recovery, <strong>una utilidad de Apple para <a target="_blank"title="Recovery: cómo reinstalar macOS" href="www.macsfera.com/recovery-reinstalar-macos/">reinstalar macOS</a>.</strong> Este modo nos provee de herramientas necesarias para formatear e instalar una copia del sistema actual que tengamos, y se manifiesta como una partición del disco ocult, que está disponible para nosotros siempre que queramos invocarla.</p>
+<p>En vista de que todo el sistema me iba fatal, llegué a pensar que me resultaría imposible reinstalarlo, <strong>pero curiosamente el modo Recovery iba genial en cuanto a velocidad.</strong> No mostraba ningún síntoma de fallo o inestabilidad.</p>
+<p>Pero cuando intenté formatear el disco, <strong>éste me arrojó distintos errores que me impidieron realizar la acción.</strong></p>
+<p>Para salir del paso <strong>intenté reinstalar macOS sin formatear,</strong> para ver si luego podía volver a acceder al modo Recovery y reinstalar todo, <strong>pero curiosamente no pude,</strong> otro error me lo impidió.</p>
+<h2>Recuperación por Internet como solución</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175855/Instalando-macOS-Mountain-Lion-como-recuperacion-por-Internet.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175855/Instalando-macOS-Mountain-Lion-como-recuperacion-por-Internet.jpg" alt="Instalando macOS Mountain Lion como recuperacion por Internet" width="2500" height="1875" class="aligncenter size-full wp-image-15667" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/27175855/Instalando-macOS-Mountain-Lion-como-recuperacion-por-Internet.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27175855/Instalando-macOS-Mountain-Lion-como-recuperacion-por-Internet.jpg 267w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27175855/Instalando-macOS-Mountain-Lion-como-recuperacion-por-Internet.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ahí fue cuando me vi en las últimas. Pensaba que era fallo del disco duro y me iba a tocar abrir el ordenador, cambiarle el disco duro y volver a montarlo, <strong>pero de casualidad me encontré con el modo Recuperación por Internet y mis problemas se solucionaron.</strong></p>
+<p><strong>Resulta que este modo carga una imagen igual que Recovery pero basada en el sistema operativo con el que compramos el Mac.</strong> En mi caso, es un iMac de 2012 así que el modo me puso toda la interfaz de Mountain Lion.</p>
+<p>Yo esto, a la hora de ejecutar el modo, no lo sabía, así que imaginad mi cara al ver esa interfaz que llevaba tiempo sin ver.</p>
+<p>Ya os digo, <strong>este modo es exactamente igual que el Recovery,</strong> así que vais a tener las mismas herramientas. De modo que el proceso que iba a intentar era el mismo:</p>
+<ul>
+<li>Intentar formatear el disco duro</li>
+<li>Intentar instalar Mountain Lion</li>
+<li>Actualizar a macOS Sierra desde Mountain Lion</li>
+</ul>
+<p><strong>Y curiosamente funcionó.</strong> La herramienta Utilidad de discos me dejó formatear el disco duro sin problemas, y fui capaz de ejecutar el instalador de Mountain Lion a la primera y sin ningún error en la ejecución.</p>
+<p>Tras configurar Mountain Lion, lo primero que hice fue actualizar a Sierra y una vez hecho, <strong>volví a entrar en el modo Recovery para instalarlo de cero desde el propio Sierra.</strong></p>
+<p>Nuevamente, <strong>todo salió bien y sin problemas.</strong></p>
+<h2>Cómo acceder al modo Recuperación por Internet</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/02112750/Entrar-al-modo-recuperacion-por-Internet-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/02112750/Entrar-al-modo-recuperacion-por-Internet-macOS.jpg" alt="Entrar al modo recuperacion por Internet macOS" width="2407" height="1518" class="aligncenter size-full wp-image-16772" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/02112750/Entrar-al-modo-recuperacion-por-Internet-macOS.jpg 2407w, https://cdn.macsfera.com/wp-content/uploads/2016/10/02112750/Entrar-al-modo-recuperacion-por-Internet-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/02112750/Entrar-al-modo-recuperacion-por-Internet-macOS.jpg 1024w" sizes="(max-width: 2407px) 100vw, 2407px" /></a></p>
+<p>Para acceder al modo Recuperación por Internet, lo único que hay que hacer es pulsar las teclas <strong>mayúsculas+cmd+alt+R</strong> cuando el ordenador se acabe de encender o se esté reiniciando.</p>
+<p>Aparecerá una bola del mundo y una barra de progreso. Cuando la barra se complete, <strong>podremos acceder a todas las herramientas disponibles.</strong></p>
+<p>Pensad que el proceso depende enteramente de Internet, así que la velocidad de ejecución dependerá de la velocidad de vuestra conexión.</p>
+<hr />
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/27180754/iMac-recuperado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/27180754/iMac-recuperado.jpg" alt="iMac recuperado" width="2500" height="1667" class="aligncenter size-full wp-image-15669" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/27180754/iMac-recuperado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27180754/iMac-recuperado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/27180754/iMac-recuperado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Podéis leer <a target="_blank"href="https://twitter.com/PabloAsekas/status/789472158825246720">este hilo en Twitter</a> en el que estuve contando todos y cada uno de los pasos que di desde que inicié el proceso hasta que encontré la solución:</strong> modo recovery, modo seguro, intento de recuperación de datos, recuperación por Internet, diversos fallos, etc.</p>
+<p>Ha sido una alegría poder recuperar el ordenador sin necesidad de abrirlo y sabiendo que no es un fallo mayor, aparentemente.</p>
+<p><strong>Todavía estoy en modo observación porque no me fío de que el fallo se vuelva a repetir,</strong> al fin y al cabo, cuando me empezó a fallar no fue algo que ocurrió de la noche a la mañana, sino que fue progresivo.</p>
+<p>De todas formas, ya sabéis que aunque el modo Recovery no os ayude, <strong>podéis intentar usar el modo Recuperación por Internet para salir del paso</strong> y así evitar visitar el servicio técnico de Apple.</p>
+<p>Si esto no funciona, no dudéis en llevarlo al servicio técnico  donde le harán un diagnóstico completo y os darán detalles sobre el error. Es posible que no sea un fallo por software sino que haya algún componente afectado, de modo que ellos van a ser los que mejor lo detecten.</p>
+<p>A mí me ha salido bien, por eso he querido compartir con vosotros el caso, no vaya a ser que a alguno le ocurra algo similar y se ahorre el disgusto <strong>gracias al modo Recuperación por Internet.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/">Recuperación por Internet: cuando el modo Recovery no es suficiente</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Recovery: cómo reinstalar macOS</title>
+		<link>https://www.MacSfera.com/recovery-reinstalar-macos/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 23 Oct 2016 15:25:58 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Recovery]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15651</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/recovery-reinstalar-macos/">Recovery: cómo reinstalar macOS</a></p>
+<p>La tendencia de Apple desde hace unos años hasta ahora ha sido la de eliminar por completo los lectores de CD de</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/recovery-reinstalar-macos/">Recovery: cómo reinstalar macOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/recovery-reinstalar-macos/">Recovery: cómo reinstalar macOS</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/23135001/Recovery-de-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/23135001/Recovery-de-macOS.jpg" alt="Recovery de macOS" width="2500" height="1667" class="aligncenter size-full wp-image-15643" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/23135001/Recovery-de-macOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23135001/Recovery-de-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23135001/Recovery-de-macOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La tendencia de Apple desde hace unos años hasta ahora ha sido la de eliminar por completo los lectores de CD de sus ordenadores. <strong>Estos recursos,</strong> entre otras cosas, <strong>le servían a Apple para entregar software a sus usuarios, como las distintas versiones de macOS.</strong></p>
+<p>Pero ahora que todo el software se entrega por Internet y que los lectores de DVD no están presentes en casi ningún modelo que Apple vende, no podemos usar los CDs para reinstalar el sistema operativo. <strong>Ahí es donde entra en juego Recovery, la partición de <a href="www.macsfera.com/tag/macos" title="macOS" target="_blank">macOS</a> que nos ayudará a reinstalar el sistema sin DVD alguno.</strong></p>
+<p><span id="more-15651"></span></p>
+<h2>Qué es Recovery de macOS</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/23135949/Iniciar-modo-recuperacion-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/23135949/Iniciar-modo-recuperacion-macOS.jpg" alt="Iniciar modo recuperacion macOS" width="2500" height="1667" class="aligncenter size-full wp-image-15644" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/23135949/Iniciar-modo-recuperacion-macOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23135949/Iniciar-modo-recuperacion-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23135949/Iniciar-modo-recuperacion-macOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>La partición Recovery de macOS,</strong> o el modo recuperación, <strong>es una partición intocable del ordenador que nos permitirá acceder a distintas herramientas para poder restaurar el sistema.</strong></p>
+<p>Hay ocasiones en las que nuestro sistema falla, y en vez de usar el propio sistema para reinstalarse <sup class="modern-footnotes-footnote ">1</sup>, <strong>Apple pensó que una partición totalmente externa e intocable sería lo mejor para esta tarea, y no se equivocaba.</strong></p>
+<p>De esta forma, <strong>Recovery nos brinda 4 herramientas muy importantes para reinstalar macOS:</strong></p>
+<ul>
+<li><strong>Reinstalar de una copia de seguridad de Time Machine</strong></li>
+<li><strong>Reinstalar macOS</strong></li>
+<li>Obtener ayuda en Internet</li>
+<li><strong>Utilidad de discos</strong></li>
+</ul>
+<p>Gracias a estas 4 herramientas <strong>podremos reinstalar macOS sin problemas</strong> cuando nos de problemas de software.</p>
+<h2>Cómo acceder al modo Recovery</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/23152152/Entrar-en-modo-recovery-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/23152152/Entrar-en-modo-recovery-macOS.jpg" alt="Entrar en modo recovery macOS" width="2407" height="1518" class="aligncenter size-full wp-image-15649" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/23152152/Entrar-en-modo-recovery-macOS.jpg 2407w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23152152/Entrar-en-modo-recovery-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23152152/Entrar-en-modo-recovery-macOS.jpg 1024w" sizes="(max-width: 2407px) 100vw, 2407px" /></a></p>
+<p>Antes, Recovery se manifestaba como una partición más de disco (<a href="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Recovery-de-OS-X-Lion.jpg" target="_blank">como podéis ver en esta foto</a>) pero ahora necesitamos pulsar un comando para invocarlo:</p>
+<p><strong>Cuando encendamos el Mac o empiece a reiniciarse, deberemos dejar pulsado el comando cmd+R durante unos segundos.</strong></p>
+<p>Al soltarlo, veremos cómo empieza a cargar el Mac como si no pasase nada, pero al acabar el inicio <strong>veremos las herramientas antes mencionadas y ya estaremos en el modo recuperación de macOS.</strong></p>
+<p>Si por cualquier motivo no habéis conseguido entrar en él, no pasa nada, basta con reiniciar el ordenador, y pulsar antes el comando y durante más tiempo para asegurarnos de que capta la señal.</p>
+<h2>Cómo reinstalar macOS</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/23141338/Instalar-macOS-desde-cero.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/23141338/Instalar-macOS-desde-cero.jpg" alt="Instalar macOS desde cero" width="2500" height="1667" class="aligncenter size-full wp-image-15645" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/23141338/Instalar-macOS-desde-cero.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23141338/Instalar-macOS-desde-cero.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23141338/Instalar-macOS-desde-cero.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Llegados a este punto, <strong>lo único que nos queda es reinstalar macOS</strong> y aquí os voy a dictar los pasos que siempre sigo antes de entrar en faena:</p>
+<h3>Formatear el disco disco duro</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/23142205/Utilidad-de-discos-modo-recuperacion-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/23142205/Utilidad-de-discos-modo-recuperacion-macOS.jpg" alt="Utilidad de discos modo recuperacion macOS" width="2500" height="1510" class="aligncenter size-full wp-image-15646" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/23142205/Utilidad-de-discos-modo-recuperacion-macOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23142205/Utilidad-de-discos-modo-recuperacion-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23142205/Utilidad-de-discos-modo-recuperacion-macOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Personalmente, <strong>antes de reinstalarlo me gusta dejar el disco completamente limpio,</strong> así que lo que haremos será formatear el disco duro para que la nueva copia de macOS se instale bien y sin problemas:</p>
+<p>Para ello, <strong>accedemos a la herramienta Utilidad de discos</strong> y en la barra lateral <strong>seleccionamos la imagen de nuestro disco duro que actualmente tiene nuestros datos.</strong> Ojo, hay que elegir la imagen, no el disco duro en sí.</p>
+<p>Una vez elegido, <strong>iremos al botón del menú que pone <em>Borrar</em> y elegiremos el formato macOS Plus (con registro),</strong> el nombre puede ser el que queráis.</p>
+<p>Tras ese proceso, el disco empezará a formatearse y cuando acabe nos notificará si se ha hecho correctamente.</p>
+<p><strong>Este paso borrará todos los datos del disco duro,</strong> así que si lo hacéis que sea porque tenéis copia de seguridad de todos ellos. Os recomiendo estos <a href="www.macsfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/" title="10 consejos a la hora de formatear tu Mac" target="_blank">10 consejos a la hora de formatear tu Mac</a>.</p>
+<h3>Instalar macOS o una copia de seguridad</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/23145100/Instalar-macOS-modo-recuperacion.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/23145100/Instalar-macOS-modo-recuperacion.jpg" alt="Instalar macOS modo recuperacion" width="2500" height="1667" class="aligncenter size-full wp-image-15647" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/23145100/Instalar-macOS-modo-recuperacion.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23145100/Instalar-macOS-modo-recuperacion.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23145100/Instalar-macOS-modo-recuperacion.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ahora que ya tenemos el disco duro limpio, <strong>es hora de instalar el sistema.</strong> Esto lo podemos hacer desde cero o desde una copia de seguridad de Time Machine. Empecemos por cerrar la aplicación de Utilidad de discos, gracias a ello podremos ver de nuevo el menú principal del modo Recovery con el que podremos elegir una de las dos opciones mencionadas.</p>
+<p>Para iniciar la instalación, basta con elegir la selección adecuada en el menú principal y seguir los pasos. <strong>O bien restaurar una copia de Time Machine, o bien reinstalar macOS.</strong> Después, lo único que hay que hacer es seguir los pasos que nos muestran. <strong>Lo importante en cada caso será elegir el lugar de instalación</strong> (el disco duro que acabamos de formatear) y, en el caso de restaurar una copia de Time Machine, <strong>elegir bien la imagen que queramos restaurar.</strong></p>
+<p>Si decidimos instalar macOS de cero, habrá que configurar el lenguaje, tipo de teclado, Wi-Fi, cuenta, etc. como si fuera un ordenador nuevo vamos.</p>
+<p>En el caso de la copia de Time Machine, nos encontraremos el sistema como lo capturo Time Machine el día que se hizo la copia.</p>
+<hr />
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/23150405/macOS-reinstalado-de-cero.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/23150405/macOS-reinstalado-de-cero.jpg" alt="macOS reinstalado de cero" width="2500" height="1667" class="aligncenter size-full wp-image-15648" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/23150405/macOS-reinstalado-de-cero.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23150405/macOS-reinstalado-de-cero.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/23150405/macOS-reinstalado-de-cero.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Y de esta forma tan sencilla, <strong>vamos a poder reinstalar macOS siempre que queramos</strong> independientemente de si nuestra versión da muchos fallos, pocos, queramos recuperar una copia o simplemente instalar macOS de cero.</p>
+<p>Recordad que si instalais de cero macOS, éste se va a descargar desde Internet, así que va a llevar su tiempo. Además, la instalación en sí (ya sea instalación o recuperación de copia de seguridad) va a ser lenta, debéis tener paciencia.</p>
+<p>Espero que con este pequeño tutorial <strong>sepáis cómo reinstalar macOS sin DVD y sin complicaciones.</strong> En Apple han hecho un buen trabajo al proveer de las herramientas suficientes para gestionar el formateo y la reinstalación desde el propio equipo, sin componentes externos o conocimientos técnicos.</p>
+<div class="alerta">
+<p>Aún así, si no os ha funcionado, mirad éste tutorial sobre <a href="www.macsfera.com/recuperacion-internet-cuando-modo-recovery-no-suficiente/" title="Recuperación por Internet: cuando el modo Recovery no es suficiente" target="_blank">cómo recuperar macOS por Internet</a>, para cuando el modo recovery no funciona.</p>
+</div>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Cosa que resulta imposible si el sistema principal está bloqueado todo el rato o con errores críticos.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/recovery-reinstalar-macos/">Recovery: cómo reinstalar macOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Con macOS Sierra iCloud Drive mejora enormemente</title>
+		<link>https://www.MacSfera.com/con-macos-sierra-icloud-drive-mejora-enormemente/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2016 11:09:49 +0000</pubDate>
+				<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[iCloud Drive]]></category>
+		<category><![CDATA[macOS Sierra]]></category>
+		<category><![CDATA[Sierra]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15576</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/con-macos-sierra-icloud-drive-mejora-enormemente/">Con macOS Sierra iCloud Drive mejora enormemente</a></p>
+<p>Desde que el mismísimo Steve Jobs intentase comprar Dropbox, Apple ha querido tener su propio servicio en la nube. Eso nos llevó</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/con-macos-sierra-icloud-drive-mejora-enormemente/">Con macOS Sierra iCloud Drive mejora enormemente</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/con-macos-sierra-icloud-drive-mejora-enormemente/">Con macOS Sierra iCloud Drive mejora enormemente</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174311/iCloud-Drive-mejora-en-macOS-Sierra.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174311/iCloud-Drive-mejora-en-macOS-Sierra.jpg" alt="iCloud Drive mejora en macOS Sierra" width="2500" height="1563" class="aligncenter size-full wp-image-15578" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174311/iCloud-Drive-mejora-en-macOS-Sierra.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/14174311/iCloud-Drive-mejora-en-macOS-Sierra.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/14174311/iCloud-Drive-mejora-en-macOS-Sierra.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Desde que el mismísimo <a target="_blank"title="Steve Jobs" href="www.macsfera.com/tag/steve-jobs">Steve Jobs</a> intentase comprar Dropbox, Apple ha querido tener su propio servicio en la nube. Eso nos llevó al <a target="_blank"title="iCloud.com abierta a todo el mundo" href="www.macsfera.com/icloud-com-abierta-a-todo-el-mundo/">lanzamiento de iCloud en 2011</a> y de iCloud Drive <a target="_blank"title="Nuevo OS X Yosemite: Rediseño elegante y sencillo" href="www.macsfera.com/nuevo-os-x-yosemite-rediseno-elegante-y-sencillo/">con macOS Yosemite</a> unos años más tarde.</p>
+<p><strong>Estas son las novedades que trae iCloud Drive con macOS Sierra para que el servicio en la nube de Apple haya mejorado tanto.</strong></p>
+<p><span id="more-15576"></span></p>
+<p>Mientras que iCloud funcionaba sin ningún problema sincronizando archivos ligeros y en segundo plano sin que el usuario se percatase, <strong>iCloud Drive por el contrario mostraba algunas carencias respecto a sus competidores más directos,</strong>  carencias que se han visto solucionadas con esta nueva versión de macOS.</p>
+<p><a target="_blank"title="¿Por qué iCloud es mi servicio en la nube favorito?" href="www.macsfera.com/por-que-icloud-es-mi-servicio-en-la-nube-favorito/">Soy usuario habitual de iCloud</a>, lo he dicho muchas veces y a día de hoy sigue siendo realidad, por eso he sufrido y he notado las carencias que tenía iCloud Drive en la versión de escritorio. <strong>Y por ese mismo motivo quiero hablar de las novedades que han llegado con <a target="_blank"title="Nuevo macOS Sierra" href="www.macsfera.com/nuevo-macos-sierra/">macOS Sierra</a> a la nube de Apple.</strong> En su día puede que os echara para atrás cómo había planteado Apple el servicio, pero ahora es mucho mejor.</p>
+<h2>Mayor velocidad de sincronización</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174349/iCloud-Drive-en-macOS-Sierra-y-iOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174349/iCloud-Drive-en-macOS-Sierra-y-iOS.jpg" alt="iCloud Drive en macOS Sierra y iOS" width="2168" height="1244" class="aligncenter size-full wp-image-15579" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174349/iCloud-Drive-en-macOS-Sierra-y-iOS.jpg 2168w, https://cdn.macsfera.com/wp-content/uploads/2016/10/14174349/iCloud-Drive-en-macOS-Sierra-y-iOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/14174349/iCloud-Drive-en-macOS-Sierra-y-iOS.jpg 1024w" sizes="(max-width: 2168px) 100vw, 2168px" /></a></p>
+<p>Es un hecho, y lo he notado tanto en iOS como en macOS, <strong>iCloud sincroniza mucho más rápido los documentos.</strong> No solo lo he notado en archivos pesados, sino entre aplicaciones.</p>
+<p>Recuerdo que antes tenía que esperar un par de minutos para que <a target="_blank"title="iPad Pro: lo que esperaba, y mucho más" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/">mi iPad</a> recibiese la última versión del artículo que había acabado en el iMac a través de <a target="_blank"title="Ulysses" href="www.macsfera.com/tag/ulysses/">Ulysses</a>, <strong>ahora la subida es casi instantánea y la bajada más de lo mismo.</strong></p>
+<p>iCloud Drive, con archivos más pesados que un simple documento de texto, funciona igual. Recuerdo que cuando subía 2 o 3 GB seguidos <a target="_blank"title="Mi nuevo MacBook Pro Retina" href="www.macsfera.com/mi-nuevo-macbook-pro-retina/">mi MacBook Pro</a> encendía los ventiladores cómo si de un helicóptero se tratase y se tiraba largos periodos de tiempo procesando todo para descargarse la información. Nunca más.</p>
+<h2>Mayor información en pantalla</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174408/iCloud-Drive-mostrando-mas-informacion-en-macOS-Sierra.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174408/iCloud-Drive-mostrando-mas-informacion-en-macOS-Sierra.jpg" alt="iCloud Drive mostrando mas informacion en macOS Sierra" width="1764" height="1174" class="aligncenter size-full wp-image-15580" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174408/iCloud-Drive-mostrando-mas-informacion-en-macOS-Sierra.jpg 1764w, https://cdn.macsfera.com/wp-content/uploads/2016/10/14174408/iCloud-Drive-mostrando-mas-informacion-en-macOS-Sierra.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/14174408/iCloud-Drive-mostrando-mas-informacion-en-macOS-Sierra.jpg 1024w" sizes="(max-width: 1764px) 100vw, 1764px" /></a></p>
+<p><strong>Una de las cosas que odiaba del antiguo iCloud Drive era la poca información que había por todos lados.</strong></p>
+<p>Servicios como Dropbox o Google Drive tienen sus propias aplicaciones que muestran estados de proceso, información reciente, etc. Pero iCloud Drive no, ponías algo a subir y lo único que te notificaba el estado era el pequeño gráfico de forma circular que había al lado de la pestaña de iCloud Drive en Finder. Eso, o una pequeña barra de sincronización en cada archivo individualmente que funcionaba tan mal o peor que el gráfico.</p>
+<p>Con macOS Sierra la comunicación está mucho más presente. <strong>Podemos obtener tiempos de sincronización, estados de sincronización de algunos archivos</strong> (disponibles en la nube pero sin haberse descargado al ordenador), <strong>y ahora las barras de cada archivo individual se corresponden realmente con el estado de sincronización.</strong></p>
+<p>Además, hay que sumarle el hecho de que junto al nombre veremos los MB o KB que quedan por descargar o subir. Así sabremos que archivo en particular está en subida o bajada.</p>
+<p>De esta forma, obtenemos algo que en informática nos encanta: tiempo estimado para acabar una tarea. La información es poder y aquí no iba a ser menos así que, que iCloud nos deje ver más detalles de la subida de archivos es un gran paso que ya estaban tardando en dar.</p>
+<h2>Mejores opciones de sincronización</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174429/Descarga-selectiva-iCloud-Drive-macOS-Sierra.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174429/Descarga-selectiva-iCloud-Drive-macOS-Sierra.jpg" alt="Descarga selectiva iCloud Drive macOS Sierra" width="1764" height="1096" class="aligncenter size-full wp-image-15581" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174429/Descarga-selectiva-iCloud-Drive-macOS-Sierra.jpg 1764w, https://cdn.macsfera.com/wp-content/uploads/2016/10/14174429/Descarga-selectiva-iCloud-Drive-macOS-Sierra.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/10/14174429/Descarga-selectiva-iCloud-Drive-macOS-Sierra.jpg 1024w" sizes="(max-width: 1764px) 100vw, 1764px" /></a></p>
+<p>Hasta ahora, iCloud Drive permitía subir archivos en su propia carpeta y ya, <strong>pero gracias a que Apple tiene el control de macOS y de iCloud Drive puede hacer cosas como sincronizar automáticamente carpetas del sistema.</strong></p>
+<p>En particular, <strong>iCloud Drive sincroniza automáticamente la carpeta Documentos y el Escritorio de todos los ordenadores que tengamos</strong> (si decidimos activarlo)<strong>.</strong> De esta forma lo tenemos accesible desde cualquier dispositivo iOS o Mac, sin tocar nada.</p>
+<p>Lo mejor de todo, es que gracias a esta propiedad, <strong>hemos descubierto la sincronización selectiva de iCloud Drive.</strong> Si accedemos desde otro ordenador a estas carpetas, veremos cómo hay algunos archivos pesados que no se han descargado, pudiendo a su vez solicitar que se descarguen en el ordenador.</p>
+<p>Es cierto que no podemos controlar cuáles de esos archivos se descargan a nuestro ordenador, pero sí que sabemos que el sistema es capaz de mantener accesibles documentos que no están descargados.</p>
+<p>Además, si procedemos a purgar espacio, macOS sabrá qué archivos de iCloud Drive no utilizamos con frecuencia y los borrará del ordenador, pero dejándolos accesibles para cuando queramos descargarlos y abrirlos. No descargados en nuestro disco, pero sí accesibles.</p>
+<hr />
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174455/iCloud-Drive.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174455/iCloud-Drive.jpg" alt="iCloud Drive" width="2500" height="1875" class="aligncenter size-full wp-image-15582" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/10/14174455/iCloud-Drive.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/10/14174455/iCloud-Drive.jpg 267w, https://cdn.macsfera.com/wp-content/uploads/2016/10/14174455/iCloud-Drive.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Si bien iCloud lleva entre nosotros unos cuantos años, iCloud Drive no, algo que se notaba en la madurez del servicio. Mientras que iCloud funciona a la perfección sin que apenas nos demos cuenta, iCloud Drive sí que cuenta con más interacción por parte del usuario, y <strong>con <a target="_blank"title="macOS Sierra" href="www.macsfera.com/tag/macos-sierra">macOS Sierra</a> se han solucionado muchas de las carencias que arrastraban desde las primeras versiones.</strong></p>
+<p><strong>¿Me gustaría que siguiese mejorando?</strong> Por supuesto, faltaría más. Hay mucho que hacer, como permitir acceder a la carpeta desde una ruta absoluta desde el Finder, o permitir desincronizar archivos manualmente.</p>
+<p><strong>Pero creo que macOS Sierra ha puesto a iCloud Drive a la altura de los grandes en este campo</strong>, y eso me encanta porque creo que iCloud puede aportarnos más que el resto de servicios a las personas que tenemos un ecosistema de Apple.</p>
+<p><span class="source">En MacSfera</span> <span class="via"><a href="www.macsfera.com/nuevos-precios-para-el-espacio-en-icloud/" target="_blank">Nuevos precios para el espacio en iCloud</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/con-macos-sierra-icloud-drive-mejora-enormemente/">Con macOS Sierra iCloud Drive mejora enormemente</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ponte al mando de macOS Sierra</title>
+		<link>https://www.MacSfera.com/ponte-al-mando-macos-sierra/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 19 Sep 2016 10:29:21 +0000</pubDate>
+				<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Carlos Burges]]></category>
+		<category><![CDATA[Faq-mac]]></category>
+		<category><![CDATA[iBooks]]></category>
+		<category><![CDATA[iBooks Store]]></category>
+		<category><![CDATA[macOS Sierra]]></category>
+		<category><![CDATA[Ponte al mando de macOS Sierra]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15420</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ponte-al-mando-macos-sierra/">Ponte al mando de macOS Sierra</a></p>
+<p>Mañana sale macOS Sierra, el nuevo sistema operativo para Mac de Apple y como suele ser habitual, Carlos Burges ha sacado un</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ponte-al-mando-macos-sierra/">Ponte al mando de macOS Sierra</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ponte-al-mando-macos-sierra/">Ponte al mando de macOS Sierra</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/19122614/Ponte-al-mando-de-macOS-Sierra.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/19122614/Ponte-al-mando-de-macOS-Sierra.jpg" alt="Ponte al mando de macOS Sierra" width="1400" height="882" class="aligncenter size-full wp-image-15422" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/19122614/Ponte-al-mando-de-macOS-Sierra.jpg 1400w, https://cdn.macsfera.com/wp-content/uploads/2016/09/19122614/Ponte-al-mando-de-macOS-Sierra.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/09/19122614/Ponte-al-mando-de-macOS-Sierra.jpg 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /></a></p>
+<p><a target="_blank"title="macOS Sierra disponible el 20 de septiembre" href="www.macsfera.com/macos-sierra-disponible-20-septiembre/">Mañana sale macOS Sierra</a>, el <a href="www.macsfera.com/nuevo-macos-sierra/" title="Nuevo macOS Sierra" target="_blank" rel="noopener noreferrer">nuevo sistema operativo para Mac</a> de Apple y como suele ser habitual, <strong>Carlos Burges ha sacado un nuevo libro llamado <em>“Ponte al mando de macOS Sierra”</em> para todos aquellos que quieran saber más sobre la nueva versión.</strong></p>
+<blockquote class="enlace">
+<p>El libro incluye una serie de secciones especializadas dedicadas a la migración desde El Capitán a Sierra, detalles técnicos y este año, además de seguir incluyendo dentro del libro los ya clásicos trucos y tutoriales, incluye una serie de capítulos dedicado al Terminal, en los que se examina su entorno y los primeros pasos a dar para aprovechar esta aplicación.</p>
+</blockquote>
+<p>Además, <a target="_blank"title="Ponte al mando de Fotos" href="www.macsfera.com/ponte-al-mando-de-fotos/">y como hace siempre</a>, <strong>Carlos se compromete a ir actualizando el libro con novedades,</strong> de modo que en el futuro no os extrañe recibir más novedades, trucos y curiosidades de macOS Sierra.</p>
+<p>200 páginas de contenido, trucos y vídeos que están disponibles en la <a target="_blank"href="https://geo.itunes.apple.com/es/book/ponte-al-mando-de-macos-sierra/id1156009064?mt=11&amp;at=1010l9LC">iBooks Store</a> por un precio de 5€ y es compatible con la última versión de iBooks 2. Si queréis aprender mucho más de la mano de un experto formador, ya sabéis.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ponte-al-mando-macos-sierra/">Ponte al mando de macOS Sierra</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>macOS Sierra disponible el 20 de septiembre</title>
+		<link>https://www.MacSfera.com/macos-sierra-disponible-20-septiembre/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 09 Sep 2016 18:43:08 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[macOS Sierra]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[See you on the 7th]]></category>
+		<category><![CDATA[Sierra]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15323</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/macos-sierra-disponible-20-septiembre/">macOS Sierra disponible el 20 de septiembre</a></p>
+<p>Otra de las novedades presentadas en la keynote del 7 de septiembre Apple fue que ya tenemos fecha de salida para el</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/macos-sierra-disponible-20-septiembre/">macOS Sierra disponible el 20 de septiembre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/macos-sierra-disponible-20-septiembre/">macOS Sierra disponible el 20 de septiembre</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/06/14204437/Siri-en-macOS-Sierra.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/06/14204437/Siri-en-macOS-Sierra.jpg" alt="Siri en macOS Sierra" width="2200" height="1258" class="aligncenter size-full wp-image-14922" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/06/14204437/Siri-en-macOS-Sierra.jpg 2200w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14204437/Siri-en-macOS-Sierra.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/06/14204437/Siri-en-macOS-Sierra.jpg 1024w" sizes="(max-width: 2200px) 100vw, 2200px" /></a></p>
+<p>Otra de las novedades presentadas en <a target="_blank" title="See you on the 7th" href="www.macsfera.com/tag/see-you-on-the-7th/" rel="noopener noreferrer">la keynote del 7 de septiembre Apple</a> fue que <strong>ya tenemos fecha de salida para el <a target="_blank" title="Nuevo macOS Sierra" href="www.macsfera.com/nuevo-macos-sierra/" rel="noopener noreferrer">nuevo macOS Sierra</a>: disponible el 20 de septiembre.</strong></p>
+<p>A través de la web, nos han hecho saber que el sistema operativo estará disponible para descarga a finales de septiembre a través de la Mac App Store.</p>
+<p><span id="more-15323"></span></p>
+<p>A su vez, se ha entregado la versión Golden Master de <a target="_blank" title="macOS Sierra" href="www.macsfera.com/tag/macos-sierra" rel="noopener noreferrer">macOS Sierra</a> a los desarrolladores.</p>
+<p>Por desgracia, no hemos sabido más novedades del sistema, así que habrá que esperar al futuro para saber si realmente hay algo más, como en pasadas ocasiones, o ya sabemos todo lo que hay que saber.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/macos-sierra-disponible-20-septiembre/">macOS Sierra disponible el 20 de septiembre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Transmission una vez más infectado. Esta vez con el malware Keydnap</title>
+		<link>https://www.MacSfera.com/transmission-una-vez-mas-infectado-esta-vez-malware-keydnap/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 04 Sep 2016 16:31:14 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Keydnap]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[Transmission]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15258</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/transmission-una-vez-mas-infectado-esta-vez-malware-keydnap/">Transmission una vez más infectado. Esta vez con el malware Keydnap</a></p>
+<p>Una vez más, han saltado las alarmas en Transmission al haber sido detectado una inyección de malware en su versión 2.92. Al</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/transmission-una-vez-mas-infectado-esta-vez-malware-keydnap/">Transmission una vez más infectado. Esta vez con el malware Keydnap</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/transmission-una-vez-mas-infectado-esta-vez-malware-keydnap/">Transmission una vez más infectado. Esta vez con el malware Keydnap</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163630/Cuerpo-MacBook-Dorado.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163630/Cuerpo-MacBook-Dorado.jpg" alt="Cuerpo MacBook Dorado" width="2500" height="1667" class="aligncenter size-full wp-image-11125" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/07/06163630/Cuerpo-MacBook-Dorado.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163630/Cuerpo-MacBook-Dorado.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/07/06163630/Cuerpo-MacBook-Dorado.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Una vez más, <strong>han saltado las alarmas en Transmission al haber sido detectado una inyección de malware en su versión 2.92.</strong></p>
+<p>Al igual que pasó con <a target="_blank" title="KeyRanger: primer ransomware detectado que encripta los archivos de OS X" href="www.macsfera.com/keyranger-primer-ransomware-detectado-encripta-los-archivos-os-x/" rel="noopener noreferrer">KeyRanger la primera vez</a>, <strong>esta vez ha sido Keydnap el malware que infectaba nuestro Mac.</strong></p>
+<p><span id="more-15258"></span></p>
+<p><strong>Keydnap es un malware que busca robar las contraseñas de los llaveros de <a href="www.macsfera.com/tag/macos" title="macOS" target="_blank" rel="noopener noreferrer">macOS</a> con el objetivo de mantener una puerta trasera abierta en todo momento.</strong></p>
+<p>El ataque se realizó exactamente igual que la primera vez: se sustituyeron los archivos originales de actualizaciones de Transmission por los infectadas. Los usuarios, al actualizar, quedaban infectados con el malware.</p>
+<p>Aunque por suerte, este ataque ha sido un poco menos agresivo que el anterior porque no se descargó para los usuarios que tenían la actualización automática activada. Además, <strong>los archivos infectados estuvieron en los servidores de Transmission menos de 24 horas.</strong></p>
+<p>Desde Transmission han tomado ciertas medidas para que no se repita el suceso.</p>
+<h2>Eliminar Keydnap si estamos infectados</h2>
+<div id="attachment_15260" style="width: 924px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/04182145/Trozo-de-codigo-que-ejecuta-Keydnap.jpg"><img aria-describedby="caption-attachment-15260" src="https://cdn.macsfera.com/wp-content/uploads/2016/09/04182145/Trozo-de-codigo-que-ejecuta-Keydnap.jpg" alt="Trozo de codigo que ejecuta Keydnap" width="914" height="480" class="size-full wp-image-15260" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/04182145/Trozo-de-codigo-que-ejecuta-Keydnap.jpg 914w, https://cdn.macsfera.com/wp-content/uploads/2016/09/04182145/Trozo-de-codigo-que-ejecuta-Keydnap.jpg 300w" sizes="(max-width: 914px) 100vw, 914px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-15260" class="wp-caption-text">Imagen de <a href="http://www.welivesecurity.com/2016/08/30/osxkeydnap-spreads-via-signed-transmission-application/" target="_blank" rel="noopener noreferrer">WeLiveSecurity</a></p></div>
+<p>En la propia web de Transmission han publicado <a target="_blank" href="https://transmissionbt.com/keydnap_removal/" rel="noopener noreferrer">una pequeña guía</a> para eliminar Keydnap de forma sencilla.</p>
+<p>Lo primero que hay que hacer es <strong>cerrar Transmission</strong> y seguidamente <strong>finalizar los siguientes procesos en el Monitor de Actividad:</strong></p>
+<ul>
+<li>icloudproc</li>
+<li>icloudsyncd</li>
+<li>License.rtf</li>
+<li>/usr/libexec/icloudsyncd -launchd netlogon.bundle</li>
+</ul>
+<p>Tras finalizar los procesos, <strong>hay que eliminar los siguientes archivos:</strong></p>
+<ul>
+<li>/Library/Application Support/com.apple.iCloud.sync.daemon/</li>
+<li>/Library/LaunchAgents/com.apple.iCloud.sync.daemon.plist</li>
+<li>/Users/$USER/Library/Application Support/com.apple.iCloud.sync.daemon/</li>
+<li>/Users/$USER/Library/Application Support/com.geticloud/</li>
+<li>/Users/$USER/Library/LaunchAgents/com.apple.iCloud.sync.daemon.plist</li>
+<li>/Users/$USER/Library/LaunchAgents/com.geticloud.icloud.photo.plist</li>
+</ul>
+<p>Por último, lo que hay que hacer es <strong>eliminar Transmission de forma segura y completa</strong> <sup class="modern-footnotes-footnote ">1</sup>.</p>
+<p><strong>Y de esta forma quitaríamos Keydnap de macOS.</strong></p>
+<hr />
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/09/04182243/Eliminando-Transmission-por-el-malware-Keydnap.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/09/04182243/Eliminando-Transmission-por-el-malware-Keydnap.jpg" alt="Eliminando Transmission por el malware Keydnap" width="860" height="300" class="aligncenter size-full wp-image-15261" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/09/04182243/Eliminando-Transmission-por-el-malware-Keydnap.jpg 860w, https://cdn.macsfera.com/wp-content/uploads/2016/09/04182243/Eliminando-Transmission-por-el-malware-Keydnap.jpg 300w" sizes="(max-width: 860px) 100vw, 860px" /></a></p>
+<p><strong>Se acabó la confianza en Transmission.</strong> Lo siento pero uno tiene un límite con los errores y bugs en las aplicaciones, <strong>y Transmission ha conseguido colmar mi paciencia ya.</strong></p>
+<p>No es la primera vez que le ocurre algo así y no se sabe si puede ser la última, aunque hayan tomado ciertas medidas. <strong>Lo que sí tengo claro es que mi seguridad y la de mis archivos no va a depender de una aplicación que no es capaz de controlar la integridad de sus archivos que afectan a tantos usuarios.</strong></p>
+<p>Si queréis saber más sobre Keydnap y cómo afecta a macOS, podéis leer <a target="_blank" href="http://www.welivesecurity.com/2016/08/30/osxkeydnap-spreads-via-signed-transmission-application/" rel="noopener noreferrer">este artículo</a> de WeLiveSecurity donde lo analizan en profundidad.</p>
+<p><span class="source">Más info</span> <span class="via"><a href="https://transmissionbt.com/keydnap_qa/" target="_blank" rel="noopener noreferrer">Transmission</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Una buena aplicación para eliminarla completamente sería <a target="_blank" title="CleanMyMac 3: limpia y optimiza OS X Yosemite" href="www.macsfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/" rel="noopener noreferrer">CleanMyMac</a>.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/transmission-una-vez-mas-infectado-esta-vez-malware-keydnap/">Transmission una vez más infectado. Esta vez con el malware Keydnap</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dos formas de ver vídeos Picture in Picture antes de que llegue macOS Sierra</title>
+		<link>https://www.MacSfera.com/dos-formas-de-ver-videos-picture-in-picture-antes-de-que-llegue-macos-sierra/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 16 Aug 2016 10:34:33 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Fluid]]></category>
+		<category><![CDATA[Helium]]></category>
+		<category><![CDATA[macOS Sierra]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Navegadores]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Picture in Picture]]></category>
+		<category><![CDATA[Sierra]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15178</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-ver-videos-picture-in-picture-antes-de-que-llegue-macos-sierra/">Dos formas de ver vídeos Picture in Picture antes de que llegue macOS Sierra</a></p>
+<p>Con la presentación del nuevo macOS Sierra, Apple introdujo una característica llamada Picture in Picture que ya presentó en iOS 9 para</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-ver-videos-picture-in-picture-antes-de-que-llegue-macos-sierra/">Dos formas de ver vídeos Picture in Picture antes de que llegue macOS Sierra</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-ver-videos-picture-in-picture-antes-de-que-llegue-macos-sierra/">Dos formas de ver vídeos Picture in Picture antes de que llegue macOS Sierra</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122100/Helium-para-ver-Picture-in-Picture-en-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122100/Helium-para-ver-Picture-in-Picture-en-macOS.jpg" alt="Helium para ver Picture in Picture en macOS" width="2500" height="1667" class="aligncenter size-full wp-image-15180" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122100/Helium-para-ver-Picture-in-Picture-en-macOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122100/Helium-para-ver-Picture-in-Picture-en-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122100/Helium-para-ver-Picture-in-Picture-en-macOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Con la presentación del <a target="_blank" title="Nuevo macOS Sierra" href="www.macsfera.com/nuevo-macos-sierra/">nuevo macOS Sierra</a>, <strong>Apple introdujo una característica llamada Picture in Picture</strong> que ya presentó en <a target="_blank" title="iOS 9 para iPad" href="www.macsfera.com/nuevo-ios-9/">iOS 9 para el iPad</a>.</p>
+<p>Esta propiedad <strong>permite sacar cualquier vídeo de una página web o una aplicación compatible y dejarlo flotando en distintos lugares del escritorio.</strong> Picture in Picture significa “Imagen en imagen”, lo que resume muy bien la propiedad: el vídeo (primera imagen) sobre el escritorio (segunda imagen).</p>
+<p><span id="more-15178"></span></p>
+<p>En definitiva, permite reproducir un vídeo y dejarlo permanentemente en el aire independiente de lo que estemos haciendo. <a target="_blank" href="https://twitter.com/PabloAsekas/status/718175021089308674">Adoro esta propiedad</a> en <a target="_blank" title="Review del iPad Pro" href="www.macsfera.com/ipad-pro-lo-esperaba-mucho-mas/">el iPad Pro</a>, y que venga al Mac de forma nativa para mí es una gran noticia.</p>
+<p>Pero claro, <strong>macOS Sierra no va a salir hasta otoño</strong> <sup class="modern-footnotes-footnote ">1</sup>, de modo que ahora mismo no podemos disfrutar de los vídeos flotantes en El Capitan o versiones anteriores, por lo menos de forma nativa.</p>
+<p><strong>Aquí es donde entran las aplicaciones de terceros y las dos elecciones que os traigo para que podáis tener vídeos en Picture in Picture sin tener instalado macOS Sierra.</strong></p>
+<h2>Fluid Browser</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122131/Fluid-browser-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122131/Fluid-browser-para-Mac.jpg" alt="Fluid browser para Mac" width="1200" height="700" class="aligncenter size-full wp-image-15181" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122131/Fluid-browser-para-Mac.jpg 1200w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122131/Fluid-browser-para-Mac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122131/Fluid-browser-para-Mac.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<p><strong>Fluid</strong> es un navegador completamente funcional que se mantendrá siempre presente. Podemos insertar cualquier dirección web, añadir favoritos e incluso abrir distintos archivos que tengamos guardados en local.</p>
+<p><strong>Todo lo que se abra en el navegador permanecerá presente en pantalla independientemente de lo que estemos haciendo.</strong></p>
+<p>Además, permite elegir la transparencia de la ventana para que se camufle mejor en el entorno de trabajo y podamos entrever lo que hay debajo para no estar moviendo la ventana todo el rato de un lado a otro.</p>
+<p>Si bien muchas de sus características son buenas, hay una pega bastante grande, y es que <strong>la aplicación no puede estar presente con aplicaciones a pantalla completa.</strong> Sólo estará flotando encima de todo en los escritorios.</p>
+<h2>Helium</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122205/Helium-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122205/Helium-para-Mac.jpg" alt="Helium para Mac" width="1000" height="550" class="aligncenter size-full wp-image-15182" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122205/Helium-para-Mac.jpg 1000w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122205/Helium-para-Mac.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p><strong>Helium</strong> es una herramienta complemento de nuestros navegadores que nos permite abrir cualquier página web en Picture in Picture.</p>
+<p>Si bien permite abrir URLs independientemente, la mejor forma de invocarlo es a través del menú Compartir nativo de macOS.</p>
+<p>Es capaz de abrir enlaces, archivos, ajustar su transparencia y lo más importante: <strong>es capaz de permanecer flotando incluso en aplicaciones a pantalla completa.</strong></p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122226/Helium-Picture-in-Picture-para-macOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122226/Helium-Picture-in-Picture-para-macOS.jpg" alt="Helium Picture in Picture para macOS" width="2500" height="1667" class="aligncenter size-full wp-image-15183" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/08/16122226/Helium-Picture-in-Picture-para-macOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122226/Helium-Picture-in-Picture-para-macOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/08/16122226/Helium-Picture-in-Picture-para-macOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Ambas aplicaciones están disponibles en la Mac App Store. <strong>Fluid <a target="_blank" href="https://geo.itunes.apple.com/es/app/fluid-browser-transparent/id1077036385?mt=12&amp;at=1010l9LC">está disponible</a> por 3€</strong> (aunque ahora tiene descuento por una actualización mayor). <strong>Helium <a target="_blank" href="https://geo.itunes.apple.com/es/app/helium/id1054607607?mt=12&amp;at=1010l9LC">está disponible</a> de forma gratuita.</strong></p>
+<p>De entre las dos opciones, <strong>yo me decanto por Helium.</strong> No porque sea gratuita sino porque creo que funciona mejor que Fluid para lo que yo necesito.</p>
+<p>Helium funciona en pantalla completa, puedes ajustar la opacidad de la ventana, e incluso configurarla para que reaccione al paso del cursor, y la forma nativa de invocarla es muy cómoda.</p>
+<p><strong>Aún así os comparto las dos aplicaciones por si alguna de ellas os cuadra más que la otra,</strong> que las opciones siempre bien.</p>
+<p>Ya sabéis, si no queréis esperar a <strong><a target="_blank" title="macOS Sierra" href="www.macsfera.com/tag/sierra">macOS Sierra</a></strong> para poder ver vídeos que estén siempre flotando independientemente de lo que tengamos debajo, <strong>Helium y Fluid son dos aplicaciones que os ayudarán a ello.</strong></p>
+<p><span class="source">Mac App Store</span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/fluid-browser-transparent/id1077036385?mt=12&amp;at=1010l9LC" target="_blank">Fluid</a></span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/helium/id1054607607?mt=12&amp;at=1010l9LC" target="_blank">Helium</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Puede ser a principios, mediados o finales, no se sabe.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-ver-videos-picture-in-picture-antes-de-que-llegue-macos-sierra/">Dos formas de ver vídeos Picture in Picture antes de que llegue macOS Sierra</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

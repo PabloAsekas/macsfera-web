@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VLC &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/vlc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:28:19 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Cómo pasar vídeos al iPhone y iPad sin iTunes con VLC</title>
+		<link>https://www.MacSfera.com/pasar-videos-al-iphone-ipad-sin-itunes-vlc/</link>
+					<comments>https://www.MacSfera.com/pasar-videos-al-iphone-ipad-sin-itunes-vlc/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2016 15:32:01 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[VLC]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15883</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/pasar-videos-al-iphone-ipad-sin-itunes-vlc/">Cómo pasar vídeos al iPhone y iPad sin iTunes con VLC</a></p>
+<p>En la batalla entre cuál es el mejor sistema operativo del mundo, sale un argumento siempre en contra de iOS que afirma</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/pasar-videos-al-iphone-ipad-sin-itunes-vlc/">Cómo pasar vídeos al iPhone y iPad sin iTunes con VLC</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/pasar-videos-al-iphone-ipad-sin-itunes-vlc/">Cómo pasar vídeos al iPhone y iPad sin iTunes con VLC</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/20121603/VLC-para-iOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/11/20121603/VLC-para-iOS.jpg" alt="VLC para iOS" width="2500" height="1667" class="aligncenter size-full wp-image-15885" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/20121603/VLC-para-iOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/11/20121603/VLC-para-iOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/11/20121603/VLC-para-iOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En la batalla entre cuál es el mejor sistema operativo del mundo, sale un argumento siempre en contra de iOS que afirma que <em>«el sistema es muy cerrado»</em> y sólo permite transmisión de datos por vías oficiales. <strong>Nada más alejado de la realidad.</strong></p>
+<p><strong>Hoy os voy a enseñar cómo pasar vídeos, películas y series a vuestro <a target="_blank"title="iPhone" href="www.macsfera.com/tag/iphone">iPhone</a> o <a target="_blank"title="iPad" href="www.macsfera.com/tag/ipad">iPad</a> sin la necesidad de usar iTunes y sin cables.</strong></p>
+<p><span id="more-15883"></span></p>
+<p>VLC es el famoso reproductor de vídeo que ha conquistado medio mundo gracias a su disponibilidad y a su amplia compatibilidad con distintos formatos de vídeo. En iOS ha tenido sus más y sus menos, apareciendo y desapareciendo a lo largo de su vida en el sistema operativo móvil de Apple, pero ahora que ya se han solucionado todos los problemas, <strong>es hora de sacarle mucho partido.</strong></p>
+<h2>Transmitir vídeos por Wi-Fi y VLC</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/20121945/Compartir-mediante-Wi-Fi-VLC.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/11/20121945/Compartir-mediante-Wi-Fi-VLC.jpg" alt="Compartir mediante Wi-Fi VLC" width="2500" height="1667" class="aligncenter size-full wp-image-15886" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/20121945/Compartir-mediante-Wi-Fi-VLC.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/11/20121945/Compartir-mediante-Wi-Fi-VLC.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/11/20121945/Compartir-mediante-Wi-Fi-VLC.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>La forma más conocida de pasar vídeos a VLC es con iTunes, <strong>pero hay un modo desarrollado en la propia app que nos permitirá pasarlos por Wi-Fi.</strong></p>
+<p>Para poder hacerlo a la perfección, necesitaremos unos prerrequisitos:</p>
+<ol>
+<li><strong>Tener un ordenador con un navegador web instalado</strong> <sup class="modern-footnotes-footnote ">1</sup></li>
+<li><strong>Tener conectado el ordenador y el iPhone o el iPad a la misma red Wi-Fi</strong> <sup class="modern-footnotes-footnote ">2</sup></li>
+<li><strong>Tener el archivo de la película, serie, audio o vídeo en el ordenador</strong> <sup class="modern-footnotes-footnote ">3</sup></li>
+</ol>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/20124358/Pasar-peliculas-al-iPad-sin-iTunes.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/11/20124358/Pasar-peliculas-al-iPad-sin-iTunes.jpg" alt="Pasar peliculas al iPad sin iTunes" width="1114" height="824" class="aligncenter size-full wp-image-15889" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/20124358/Pasar-peliculas-al-iPad-sin-iTunes.jpg 1114w, https://cdn.macsfera.com/wp-content/uploads/2016/11/20124358/Pasar-peliculas-al-iPad-sin-iTunes.jpg 270w, https://cdn.macsfera.com/wp-content/uploads/2016/11/20124358/Pasar-peliculas-al-iPad-sin-iTunes.jpg 1024w" sizes="(max-width: 1114px) 100vw, 1114px" /></a></p>
+<p>Una vez que cumplamos los tres puntos, <strong>vamos a seguir estos sencillos pasos para pasar un vídeo a iOS:</strong></p>
+<ol>
+<li>En la aplicación VLC para iOS, accedemos al menú lateral y activamos la opción que pone <strong><em>«Compartir mediante Wi-Fi»</em></strong></li>
+<li>Al hacerlo, nos aparecerán dos direcciones, una que será <strong>«http://192.168.1./<em>XX</em>«</strong> y otra que pondrá <strong>«http://<em>NOMBRE-DE-VUESTRO-DISPOSITIVO</em>.local/»</strong></li>
+<li>Insertamos una de esas dos direcciones en el navegador web de nuestro ordenador</li>
+<li>Nos aparecerá una página web que mostrará los archivos que tengamos actualmente en ese dispositivo y botón grande para cargar nuevo contenido</li>
+<li>En el ordenador, <strong>vamos a la carpeta que tenga los archivos que queramos pasar, los seleccionamos todos y los arrastramos a la ventana del navegador,</strong> o pulsamos el botón + y elegimos los archivos en la ventana emergente. Automáticamente veremos cómo dichos archivos se ponen en forma de lista y aparece una barra porcentual que indicará el progreso que llevan al pasarse al iPhone o iPad</li>
+<li>Cuando se haya completado la transmisión, procederemos a revisar si se han pasado todos los archivos a nuestro iPhone o iPad y desactivaremos el modo <em>«Compartir mediante Wi-Fi»</em> que hemos activado en el punto 1</li>
+</ol>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/20123906/Compartir-video-iPhone-WiFi-VLC.gif"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/11/20123906/Compartir-video-iPhone-WiFi-VLC.gif" alt="Compartir video iPhone WiFi VLC" width="860" height="349" class="aligncenter size-full wp-image-15887" /></a></p>
+<p><strong>Es imprescindible que tanto el iPhone o iPad, como el ordenador, estén conectados en la misma red Wi-Fi, porque esto sólo funciona gracias al router.</strong> Cada vez que nos conectamos al router, éste nos asigna una dirección local, por eso los únicos números que cambian en la dirección IP del paso 2 son los dos últimos, el resto siempre son iguales.</p>
+<p>Con esa dirección local, <strong>los distintos dispositivos</strong> <sup class="modern-footnotes-footnote ">4</sup> <strong>conectados al mismo router se pueden comunicar entre ellos,</strong> y eso es lo que hacemos en este caso.</p>
+<p>VLC está disponible tanto para iPhone como para iPad de forma gratuita en <a href="https://geo.itunes.apple.com/es/app/vlc-for-mobile/id650377962?mt=8&#038;at=1010l9LC" target="_blank">la App Store</a>.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/20162902/Viendo-Harry-Potter-en-VLC-iPad.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/11/20162902/Viendo-Harry-Potter-en-VLC-iPad.jpg" alt="Viendo Harry Potter en VLC iPad" width="2500" height="1667" class="aligncenter size-full wp-image-15892" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/20162902/Viendo-Harry-Potter-en-VLC-iPad.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/11/20162902/Viendo-Harry-Potter-en-VLC-iPad.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/11/20162902/Viendo-Harry-Potter-en-VLC-iPad.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Todos sabemos que <a target="_blank"title="Apple, acaba con este iTunes ya" href="www.macsfera.com/apple-acaba-con-este-itunes-ya/">iTunes es bastante odioso</a>, así que contar con alternativas que mejoran la experiencia es importante. Además, <strong>VLC está disponible de forma gratuita en la App Store.</strong></p>
+<p><strong>Lo mejor de todo es que esta opción la podremos hacer independientemente del ordenador que usemos.</strong> Si estamos en casa de un familiar o amigo y queremos pasarnos algo, lo podremos hacer sin problemas, lo único que hay que cumplir son los prerrequisitos antes descritos. Esto está genial porque todos sabemos lo molesto que es que iTunes sólo permita sincronizar un único ordenador con un iPhone o iPad.</p>
+<p>Así que ya sabéis, <strong>la forma más rápida y sencilla de pasar series, películas y vídeos al iPhone o iPad sin iTunes es con VLC.</strong></p>
+<p>Ahora ya no tendréis quebraderos de cabeza de ningún tipo a la hora de hacerlo y podréis disfrutar de todo lo que queráis en vuestro dispositivo iOS.</p>
+<p><span class="source">VLC</span> <span class="via"><a href="https://geo.itunes.apple.com/es/app/vlc-for-mobile/id650377962?mt=8&#038;at=1010l9LC" target="_blank">App Store</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Safari, Chrome, Firefox, etc.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Luego veremos porqué.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Tenemos que tenerla descargada y en un formato compatible con VLC.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Nuestro iPhone o iPad y nuestro ordenador en este caso.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/pasar-videos-al-iphone-ipad-sin-itunes-vlc/">Cómo pasar vídeos al iPhone y iPad sin iTunes con VLC</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/pasar-videos-al-iphone-ipad-sin-itunes-vlc/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple, acaba con este iTunes ya</title>
+		<link>https://www.MacSfera.com/apple-acaba-con-este-itunes-ya/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 14:12:19 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[VLC]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10736</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-acaba-con-este-itunes-ya/">Apple, acaba con este iTunes ya</a></p>
+<p>Se que puede sonar radical, pero ya va siendo hora de que Apple acabe con iTunes tal y como lo conocemos ahora.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-acaba-con-este-itunes-ya/">Apple, acaba con este iTunes ya</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-acaba-con-este-itunes-ya/">Apple, acaba con este iTunes ya</a></p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/05/24123330/iTunes.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/05/24123330/iTunes.jpg" alt="iTunes" width="1650" height="1040" class="aligncenter size-full wp-image-10738" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/24123330/iTunes.jpg 1650w, https://cdn.macsfera.com/wp-content/uploads/2015/05/24123330/iTunes.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/05/24123330/iTunes.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /></a></p>
+<p>Se que puede sonar radical, <strong>pero ya va siendo hora de que Apple acabe con <a href="www.macsfera.com/tag/itunes" title="iTunes" target="_blank">iTunes</a> tal y como lo conocemos ahora.</strong> Es imposible que la aplicación que existe hoy en día conviva de forma saludable con el entorno de Mac y iOS que la empresa lleva creando años.</p>
+<p>El otro día quería añadir audios a mi iPhone, digo audios porque no son canciones y no están disponibles en la iTunes Store. La importación a mi biblioteca local fue como siempre, fácil. <strong>El problema vino a la hora de querer transferir el contenido al móvil.</strong></p>
+<p><span id="more-10736"></span></p>
+<p>Desde iOS 5 es posible configurar el dispositivo sin necesidad de usar iTunes, no como se hacía en versiones anteriores. Algo que ha sido un avance y que está genial. Con el paso del tiempo también se permitía meter música, películas o aplicaciones a través de iCloud siempre y cuando estuviesen compradas desde la iTunes Store. <strong>Todo eran avances para no tener que depender del ordenador a la hora de gestionar nuestros dispositivos.</strong></p>
+<p>Pero a pesar de todos esos avances, hubo una cosa que nunca cambio: <strong>la sincronización con una biblioteca.</strong> Así es, a pesar de todos estos avances por independizar nuestros dispositivos móviles de los ordenadores, hoy en día sólo podemos tenerlos sincronizados con una sola librería de iTunes. Da igual que tengas varios ordenadores, da igual que todos sean de la misma cuenta y da igual que todas las librerías tengan el mismo contenido, sólo es posible sincronizar nuestros dispositivos iOS con un ordenador. El resto de veces que lo conectemos a cualquier ordenador nos pedirá que borremos el contenido del iPhone, iPad o iPod para poder sincronizar lo que hay en esa librería.</p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/05/24134602/Borrar-contenido-iPhone-iTunes.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/05/24134602/Borrar-contenido-iPhone-iTunes.jpg" alt="Borrar contenido iPhone iTunes" width="860" height="525" class="aligncenter size-full wp-image-10745" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/24134602/Borrar-contenido-iPhone-iTunes.jpg 860w, https://cdn.macsfera.com/wp-content/uploads/2015/05/24134602/Borrar-contenido-iPhone-iTunes.jpg 300w" sizes="(max-width: 860px) 100vw, 860px" /></a></p>
+<p>Y esto fue exactamente lo que me pasó a mí. A pesar de que nunca había conectado mi iPhone a iTunes <sup class="modern-footnotes-footnote ">1</sup>, me pidió que borrase todo su contenido y que instalase mi biblioteca actual de iTunes. Como podéis imaginar, <strong>esto no me hizo ni pizca de gracia.</strong></p>
+<p>La única vez que he sentido que iTunes tenía utilidad fue cuando quise sincronizar música con mi iPod Nano. Funcionaba genial, y además gestionaba sin problemas todo el contenido del iPod. Pero cuando empecé a tratar con iOS (o más bien iPhone OS) en su versión 3.0, vi que ya empezaba a ser confuso. El poder añadir contenido al sistema sin usar iTunes no estaba bien implementado, los &quot;transferir compras&quot; no siempre funcionaban y sentías que la simplicidad que propulsó el iPod y iTunes se iba desvaneciendo.</p>
+<p><strong>Ahora esa simplicidad se encuentra en el propio iOS,</strong> accedes a la iTunes Store y compras con dos clicks el contenido que quieras, pero no puedes transferir tu propio contenido. Canciones de CDs, música propia, música descargada que no está en la tienda online o, como en mi caso, un audiolibro. <strong>Tienes que pasar por iTunes y este no te lo pone nada fácil.</strong></p>
+<h2>Mi primitiva solución</h2>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/05/24132339/VLC-archivos-compartidos-iTunes.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/05/24132339/VLC-archivos-compartidos-iTunes.jpg" alt="VLC archivos compartidos iTunes" width="892" height="453" class="aligncenter size-full wp-image-10741" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/24132339/VLC-archivos-compartidos-iTunes.jpg 892w, https://cdn.macsfera.com/wp-content/uploads/2015/05/24132339/VLC-archivos-compartidos-iTunes.jpg 300w" sizes="(max-width: 892px) 100vw, 892px" /></a></p>
+<p>Ante un problema, uno busca una solución y a mí lo único que se me ocurrió rápidamente <strong>fue usar una aplicación de terceros.</strong> VLC fue la elegida para reproducir ese audiolibro y sólo por el simple hecho de que transferir contenido a la aplicación es muy sencillo. Es justo como creo que debería ser para la aplicación oficial de música.</p>
+<p>En la sección de aplicaciones de tu iPhone en iTunes, hay un apartado de aplicaciones a las que puedes añadir contenido. Ahí se encuentra VLC,<strong> y transferir archivos al iPhone es tan sencillo como arrastrarlos al cuadro.</strong> Automáticamente aparecerán en la aplicación de tu móvil y no habrá que borrar nada, ni quebrarse la cabeza, ni nada de nada. <strong>Así de sencillo.</strong></p>
+<p><strong>¿Por qué no es posible hacerlo así ahora que iTunes no es el centro de la gestión del dispositivo?</strong> Algo tan sencillo como arrastrar y transferir. Total, la música que hemos comprado está disponible a través del dispositivo y la podemos añadir siempre que queramos. No veo problema de compatibilidad y el usuario no sufriría tanto, aprovechando al 100% las aplicaciones nativas de iOS.</p>
+<blockquote class="medio">
+<p>iTunes como tal no puede convivir con el ecosistema de Apple</p>
+</blockquote>
+<p>Espero mucho de Apple, y más que novedades espero que se arreglen todos los fallos que han ido saliendo a medida que se presentaban otros avances. Es difícil cambiar la forma en la que se realizan las cosas, pero hay que asegurarse de que todo funciona correctamente, <strong>y esa es la parte que le falla a Apple actualmente,</strong> no solo con iTunes.</p>
+<p>La <a href="www.macsfera.com/la-wwdc-de-2015-se-celebrara-del-8-al-12-de-junio/" title="La WWDC de 2015 se celebrará del 8 al 12 de junio" target="_blank">WWDC de este año</a> va a ser un punto de inflexión bastante importante para esto, <strong>ahí es donde espero que Apple de un golpe sobre la mesa y asiente realmente todo su ecosistema</strong> que ahora está un poco despuntado.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;No lo he sincronizado nunca precisamente porque puedo configurar todo sin la aplicación y la mayoría de contenido que consumo es online.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-acaba-con-este-itunes-ya/">Apple, acaba con este iTunes ya</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Colección de iconos para aplicaciones estilo flat y minimalista</title>
+		<link>https://www.MacSfera.com/coleccion-de-iconos-para-aplicaciones-estilo-flat-y-minimalista/</link>
+					<comments>https://www.MacSfera.com/coleccion-de-iconos-para-aplicaciones-estilo-flat-y-minimalista/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 13 May 2013 08:22:55 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[.icns]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[CandyBar]]></category>
+		<category><![CDATA[Carpetas]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Coda]]></category>
+		<category><![CDATA[Dashboard]]></category>
+		<category><![CDATA[Finder]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[iCal]]></category>
+		<category><![CDATA[Iconos]]></category>
+		<category><![CDATA[iMessage]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[iWork]]></category>
+		<category><![CDATA[Mail]]></category>
+		<category><![CDATA[Minimalista]]></category>
+		<category><![CDATA[Monitor de Actividad]]></category>
+		<category><![CDATA[Notas Adhesivas]]></category>
+		<category><![CDATA[Office]]></category>
+		<category><![CDATA[Papelera]]></category>
+		<category><![CDATA[Personalizar]]></category>
+		<category><![CDATA[Preferencias del Sistema]]></category>
+		<category><![CDATA[QuickTime Player]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Skype]]></category>
+		<category><![CDATA[Sparrow]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[Sublime Text]]></category>
+		<category><![CDATA[Terminal]]></category>
+		<category><![CDATA[Text Edit]]></category>
+		<category><![CDATA[Time Machine]]></category>
+		<category><![CDATA[Vista Previa]]></category>
+		<category><![CDATA[VLC]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9372</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/coleccion-de-iconos-para-aplicaciones-estilo-flat-y-minimalista/">Colección de iconos para aplicaciones estilo flat y minimalista</a></p>
+<p>Últimamente corre en Internet una ola marcada por el minimalismo y el estilo flat, aquí os traemos una colección de iconos siguiendo</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/coleccion-de-iconos-para-aplicaciones-estilo-flat-y-minimalista/">Colección de iconos para aplicaciones estilo flat y minimalista</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/coleccion-de-iconos-para-aplicaciones-estilo-flat-y-minimalista/">Colección de iconos para aplicaciones estilo flat y minimalista</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2013/05/app.icns_.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2013/05/app.icns_.png" alt="app.icns" width="710" height="201" class="aligncenter size-full wp-image-9373" srcset="https://www.MacSfera.com/wp-content/uploads/2013/05/app.icns_.png 710w, https://www.MacSfera.com/wp-content/uploads/2013/05/app.icns_-300x85.png 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Últimamente corre en Internet una ola marcada por el minimalismo y el estilo flat, <strong>aquí os traemos una colección de iconos siguiendo estos parámetros para unas cuantas <a href="www.macsfera.com/tag/aplicaciones" title="Aplicaciones" target="_blank" rel="noopener noreferrer">aplicaciones</a> de OS X.</strong></p>
+<p><span id="more-9372"></span></p>
+<p><strong>Cuarenta son los iconos que forman esta composición que cubre muchas de las aplicaciones más usadas por los usuarios.</strong> Como hemos comentado, los iconos son minimalistas, no son copias de los originales ya que carecen de ciertos detalles, aunque se identifica perfectamente la aplicación.</p>
+<p><strong>Las aplicaciones cuyos iconos podremos cambiar son:</strong> Finder, Dashboard, Mail, iTunes, iPhoto, Vista Previa, Notas Adhesivas, Text Edit, Chrome, Safari, Firefox, Skype, Mensajes, iCal, Agenda, QuickTime Player, Monitor de actividad, Papelera, VLC, CandyBar, Carpeta, Preferencias del Sistema, Photo Booth, Terminal, Sparrow, Spotify, Coda, Sublime Text, la suite de Adobe, Time Machine, la suite de iWork y la suite de Office.</p>
+<p>En el paquete de descarga encontraremos <strong>una carpeta con los .icns, otra con los .png y un archivo ejecutable compatible con la aplicación <a href="www.macsfera.com/candybar-modifica-facilmente-los-iconos-de-aplicaciones-y-del-sistema/" title="CandyBar: modifica fácilmente los iconos de aplicaciones y del sistema" target="_blank" rel="noopener noreferrer">CandyBar</a></strong> que importará la colección automáticamente para que podamos usarla fácilmente.</p>
+<p>Para descargar estos bonitos iconos basta con ir a su web oficial y efectuar la descarga. Por supuesto, en dicha web podremos previsualizar toda la colección.</p>
+<p>Descarga | <a href="http://appicns.com/" target="_blank" rel="noopener noreferrer">app.icns</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/coleccion-de-iconos-para-aplicaciones-estilo-flat-y-minimalista/">Colección de iconos para aplicaciones estilo flat y minimalista</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/coleccion-de-iconos-para-aplicaciones-estilo-flat-y-minimalista/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple ha liberado el códec del audio ALAC</title>
+		<link>https://www.MacSfera.com/apple-ha-liberado-el-codec-del-audio-alac/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2011 22:18:50 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[AirPlay]]></category>
+		<category><![CDATA[AirPort Express]]></category>
+		<category><![CDATA[ALAC]]></category>
+		<category><![CDATA[Códec]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Licencia Apache]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<category><![CDATA[Plex]]></category>
+		<category><![CDATA[QuickTime]]></category>
+		<category><![CDATA[VLC]]></category>
+		<category><![CDATA[Wave]]></category>
+		<category><![CDATA[XBMC]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5410</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-ha-liberado-el-codec-del-audio-alac/">Apple ha liberado el códec del audio ALAC</a></p>
+<p>Apple ha decidido liberal el código de ALAC (Apple Lossless Audio Codec) cuyo objetivo es el de comprimir archivos de música entre</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-ha-liberado-el-codec-del-audio-alac/">Apple ha liberado el códec del audio ALAC</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-ha-liberado-el-codec-del-audio-alac/">Apple ha liberado el códec del audio ALAC</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/10/Tarjeta-Apple-iPod.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/10/Tarjeta-Apple-iPod.jpg" alt="" title="Tarjeta Apple iPod" width="550" height="250" class="aligncenter size-full wp-image-5411" srcset="https://www.MacSfera.com/wp-content/uploads/2011/10/Tarjeta-Apple-iPod.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/10/Tarjeta-Apple-iPod-300x136.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> ha decidido liberal el código de <strong>ALAC</strong> (<strong>Apple Lossless Audio Codec</strong>) cuyo objetivo es el de <strong>comprimir archivos de música entre un 40% y un 60% sin perder calidad.</strong></p>
+<p><span id="more-5410"></span></p>
+<p>El códec, usado en <strong><a href="www.macsfera.com/tag/itunes" title="iTunes" target="_blank" rel="noopener noreferrer">iTunes</a></strong>, <strong>QuickTime</strong>, el <strong>iPod</strong>, el <strong>iPhone</strong> y el <strong>iPad</strong> ha sido liberado y actualmente está como código abierto. El proyecto <strong>Apple LossLess Audio Codec</strong> es el que incluye el codificador y decodificador de <strong>ALAC</strong>, permite su lectura y escritura <strong>con formato CAF y WAVE,</strong> también incluye una descripción para saber como usarlo con archivos MP4 y M4A.</p>
+<p>Creado en el 2004, este códec ha aumentado su popularidad al <strong>ser capaz de comprimir los archivos a la mitad de espacio</strong> y sin alterar apenas la calidad. Su velocidad para decodificarlo también ha hecho que fuese bastante conocido, pero, lo que realmente le hizo crecer fue que <strong>se pudiese utilizar en aparatos como el iPod.</strong></p>
+<p>Actualmente este sistema también se usa en el <strong><a href="www.macsfera.com/tag/airplay" title="AirPlay" target="_blank" rel="noopener noreferrer">AirPlay</a></strong> del <strong>AirPort Express</strong>, y a parte de los productos de <strong>Apple</strong> mencionados, Plex, VLC, Boxee y XBMC también lo han implementado en su código. Probablemente, gracias a la liberación del código (bajo licencia Apache) muchas más <strong>aplicaciones</strong> lo incluyan.</p>
+<p>Vía | <a href="http://www.idg.es/macworld/content.asp?idn=114887" target="_blank" rel="noopener noreferrer">MacWorld</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-ha-liberado-el-codec-del-audio-alac/">Apple ha liberado el códec del audio ALAC</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</title>
+		<link>https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/</link>
+					<comments>https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 21 Feb 2011 13:20:21 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Descargas]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[QuickTime Player]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Ventana/Actividades]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[VLC]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<category><![CDATA[YouTube Video Downloader for Safari]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1162</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a></p>
+<p>Normalmente cuando vemos un vídeo en YouTube y nos gusta, puede que lo queramos tener entre nuestros vídeos, sobre todo cuando es</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari.png" alt="" title="Descargar vídeos de YouTube con Safari" width="550" height="344" class="aligncenter size-full wp-image-3926" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeos-de-YouTube-con-Safari-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Normalmente cuando vemos un vídeo en YouTube y nos gusta, puede que lo queramos tener entre nuestros vídeos, sobre todo cuando es un videoclip o algo por el estilo. Hasta ahora tenemos infinidad de programas para descargarlo, también hay páginas que permiten la descarga on-line. Pero aquí <strong>os traigo dos maneras sencillas de descargar un vídeo desde <strong><a href="www.macsfera.com/tag/safari">Safari</a></strong>,</strong> sin utilizar ningún programa.<br />
+<span id="more-1162"></span><br />
+<strong>La primera de todas es siguiendo unos pasos:</strong></p>
+<ul>
+<li>Accedemos a YouTube y nos metemos en el vídeo que queramos descargar.</li>
+<li>En la barra de menús seleccionamos <strong>Ventana/actividades</strong>.</li>
+<li>Aparecerá una ventana con las actividades del navegador y deberemos buscar la que salga cargando (3,1 de 36,2 MB en caso de la imagen), hacemos doble click y empezará una descarga (imagen 1).</li>
+<li>Cuando esta acabe podréis disfrutar del vídeo con <strong>VLC</strong> (<strong>Quick Time Player</strong> no reproduce el formato).</li>
+</ul>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube.png" alt="" title="Descargar vídeo de YouTube" width="514" height="294" class="aligncenter size-full wp-image-3425" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube.png 514w, https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube-300x172.png 300w" sizes="(max-width: 514px) 100vw, 514px" /></a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1.png" alt="" title="Descargar vídeo de YouTube" width="550" height="374" class="aligncenter size-full wp-image-3424" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/02/Descargar-vídeo-de-YouTube1-300x204.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>La segunda opción es descargando e instalando un plugin gratuito para <strong>Safari</strong> <strong>llamado <strong>YouTube Video Downloader for Safari</strong></strong> que es un plugin muy discreto que no vas a notar su presencia cuando esté instalado y <strong>se adapta perfectamente a la interfaz gráfica de YouTube.</strong></p>
+<p>Este plugin añade la opción Download al lado del botón de Suscribirse y si lo pulsamos nos aparecen <strong>distintos formatos para descargar dicho vídeo</strong> entre los que se incluye el de 720p o 1080p si el vídeo está en dichos formatos.<br />
+El plugin lo podéis descargar desde <a href="https://github.com/jonathanboom/YouTube-video-downloader-for-Safari">aquí</a>.</p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari.png" alt="" title="YouTube Video Downloader for Safari" width="401" height="35" class="aligncenter size-full wp-image-3426" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari.png 401w, https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari-300x26.png 300w" sizes="(max-width: 401px) 100vw, 401px" /></a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1.png" alt="" title="YouTube Video Downloader for Safari" width="490" height="60" class="aligncenter size-full wp-image-3427" srcset="https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1.png 490w, https://www.MacSfera.com/wp-content/uploads/2011/02/YouTube-Video-Downloader-for-Safari1-300x37.png 300w" sizes="(max-width: 490px) 100vw, 490px" /></a></p>
+<p>A mi parecer la segunda opción es la mejor puesto que permite descargar el vídeo en distintos formatos y en distintas calidades y da más juego, todo es más sencillo.</p>
+<p>Pero si no quieres instalar ningún plugin ahí tienes la primera opción que aunque es más engorrosa es muy eficaz.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

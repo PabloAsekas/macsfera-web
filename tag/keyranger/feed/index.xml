@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>KeyRanger &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/keyranger/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:22:22 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>KeyRanger: primer ransomware detectado que encripta los archivos de OS X</title>
+		<link>https://www.MacSfera.com/keyranger-primer-ransomware-detectado-encripta-los-archivos-os-x/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 07 Mar 2016 12:14:35 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Encriptación]]></category>
+		<category><![CDATA[KeyRanger]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Transmission]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=13077</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keyranger-primer-ransomware-detectado-encripta-los-archivos-os-x/">KeyRanger: primer ransomware detectado que encripta los archivos de OS X</a></p>
+<p>Ayer saltaron las alarmas entre todos los usuarios de OS X que usan el cliente de BitTorrent Transmission. La actualización 2.90, lanzada</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keyranger-primer-ransomware-detectado-encripta-los-archivos-os-x/">KeyRanger: primer ransomware detectado que encripta los archivos de OS X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keyranger-primer-ransomware-detectado-encripta-los-archivos-os-x/">KeyRanger: primer ransomware detectado que encripta los archivos de OS X</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/07130856/KeyRanger-infectado-transmission.jpg" rel="attachment wp-att-13079"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/07130856/KeyRanger-infectado-transmission.jpg" alt="KeyRanger infectado transmission" width="1000" height="500" class="aligncenter size-full wp-image-13079" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/07130856/KeyRanger-infectado-transmission.jpg 1000w, https://cdn.macsfera.com/wp-content/uploads/2016/03/07130856/KeyRanger-infectado-transmission.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/07130856/KeyRanger-infectado-transmission.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p>Ayer saltaron las alarmas entre todos los usuarios de OS X que usan el cliente de BitTorrent Transmission. <strong>La actualización 2.90,</strong> lanzada hace una semana, <strong>viene infectada con un ransomware llamado <em>KeyRanger</em> que cifra todos nuestros archivos personales y ofrece desencriptarlos a cambio de una determinada cantidad de dinero.</strong></p>
+<p>Rápidamente, Transmission emitió una nueva actualización que eliminaba <em>KeyRanger</em> de todo Mac infectado, <strong>pero no ayudaba a la gente que ya tiene encriptado su sistema.</strong></p>
+<p><span id="more-13077"></span></p>
+<p>El reporte viene por <a href="http://researchcenter.paloaltonetworks.com/2016/03/new-os-x-ransomware-keranger-infected-transmission-bittorrent-client-installer/" target="_blank" rel="noopener noreferrer">PaloAlto Networks</a>, que identifica los distintos archivos que provocan el encriptado. En particular, hay un archivo llamado <strong><em>General.rtf</em></strong> en la ubicación <strong><em>Transmission.app/Contents/Resources</em></strong>.</p>
+<p>Para encriptar nuestro disco, Transmission mueve ese archivo a la ubicación <strong><em>/Library/kernelservice</em></strong> y ejecuta <strong><em>kernel_service</em></strong>.</p>
+<p>Tras la ejecución, <em>KeyRanger</em> genera 3 archivos más que ubica en <strong><em>/Library</em></strong>. Esos archivos son: <strong><em>.kernel_pid</em></strong>, <strong><em>.kernel_time</em></strong> and <strong><em>.kernel_complete</em></strong>. Al acabar, escribe en <strong><em>.kernel_time</em></strong> la fecha actual y se desactiva durante 3 días.</p>
+<p>A pesar de estar desactivado, cada 5 minutos conecta con un servidor ubicado en la red tor a la que le comunica diferente información de nuestro ordenador capturada por el archivo <strong><em>General.rtf</em></strong>.</p>
+<p>A los 3 días, automáticamente se ejecuta y encripta todo tipo de archivos que estén ubicados en <strong><em>/Users</em></strong> y en <strong><em>/Volumes</em></strong> siempre y cuando la extensión sea alguna de las siguientes:</p>
+<ul>
+<li><strong>Documentos:</strong> .doc, .docx, .docm, .dot, .dotm, .ppt, .pptx, .pptm, .pot, .potx, .potm, .pps, .ppsm, .ppsx, .xls, .xlsx, .xlsm, .xlt, .xltm, .xltx, .txt, .csv, .rtf, .tex</li>
+<li><strong>Imágenes:</strong> .jpg, .jpeg</li>
+<li><strong>Audio y vídeo:</strong> .mp3, .mp4, .avi, .mpg, .wav, .flac</li>
+<li><strong>Archivos:</strong> .zip, .rar., .tar, .gzip</li>
+<li><strong>Código fuente:</strong> .cpp, .asp, .csh, .class, .java, .lua</li>
+<li><strong>Bases de datos:</strong> .db, .sql</li>
+<li><strong>Email:</strong> .eml</li>
+<li><strong>Certificados:</strong> .pem</li>
+</ul>
+<p>Tras encriptar nuestros datos, se nos pide un pago de 1 bitcoin (al cambio, unos 400$) para desencriptar esos archivos. <strong>Se recomienda no pagar porque nadie asegura que tras el pago se vayan a desencriptar realmente nuestros archivos.</strong></p>
+<p>Es una faena, sí, pero sería peor si encima perdiésemos 400$ de nuestro bolsillo.</p>
+<p>Tras descubrir el ransomware, PaloAlto Networks avisó a Apple y ésta bloqueó el instalador a través de <a title="Apple presenta Developer ID para identificar aplicaciones fiables fuera de la Mac App Store" href="www.macsfera.com/apple-presenta-developer-id-para-identificar-aplicaciones-fiables-fuera-de-la-mac-app-store/" target="_blank" rel="noopener noreferrer">Gatekeeper de OS X</a>, de modo que no se permite la instalación <strong>siempre y cuando los permisos de seguridad en el <em>Preferencias del sistema > Seguridad y privacidad</em> estén configurados para sólo instalar aplicaciones de la Mac App Store y desarrolladores identificados.</strong></p>
+<hr />
+<p><strong>Para los afectados por encriptación:</strong> poco se puede hacer la verdad. Intentar recuperar todos los archivos con la copia de seguridad y concienciarse para hacerlas más a menudo porque nunca se sabe cuándo puede volver a pasar.</p>
+<p>KeyRanger es el primer ransomware descubierto en OS X y probablemente se vuelva a manifestar otras veces ya que los reportes indican que es posible que no esté acabado. Se piensa que los desarrolladores estarían trabajando para encriptar también las copias de seguridad de Time Capsule.</p>
+<p><strong>Yo,</strong> personalmente, <strong>usaba Transmission y,</strong> ante la duda, <strong>lo he desinstalado completamente con <a title="CleanMyMac 3: limpia y optimiza OS X Yosemite" href="www.macsfera.com/cleanmymac-3-limpia-y-optimiza-os-x-yosemite/" target="_blank" rel="noopener noreferrer">CleanMyMac</a> hasta que todo se aclare más y se calme la situación.</strong></p>
+<p>También recomiendo deshabilitar la actualización automática de las aplicaciones. No sé si en Transmission está la posibilidad de automatizarlo, <strong>pero nunca está de más tener el control de las versiones que vamos a actualizar o no actualizar.</strong> Yo me he librado de KeyRanger precisamente por no actualizar la aplicación.</p>
+<p>La respuesta ha sido rápida por parte de Transmission, pero espero en un futuro un informe detallado sobre cómo ha pasado esto y sus labores para evitar que vuelva a pasar en el futuro. Si no se publica, me costará confiar de nuevo en la aplicación porque no sabremos si se ha solventado.</p>
+<p><span class="source">Vía</span> <span class="via"><a href="http://9to5mac.com/2016/03/06/first-os-x-ransomware-detected-in-the-wild-will-maliciously-encrypt-hard-drives-on-infected-macs/" target="_blank" rel="noopener noreferrer">9To5Mac</a></span></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keyranger-primer-ransomware-detectado-encripta-los-archivos-os-x/">KeyRanger: primer ransomware detectado que encripta los archivos de OS X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

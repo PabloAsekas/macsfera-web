@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2014/01/30-aniversario-del-Macintosh.png?simply_static_page=269883">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2014/01/30-aniversario-del-Macintosh.png?simply_static_page=269883";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2014/01/30-aniversario-del-Macintosh.png?simply_static_page=269883">https://www.macsfera.com/wp-content/uploads/2014/01/30-aniversario-del-Macintosh.png?simply_static_page=269883</a></p>
+	</body>
+</html>

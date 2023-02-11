@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2014/04/Queremos-dejar-un-mundo-mejor-del-que-nos-encontramos.jpg?simply_static_page=268556">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2014/04/Queremos-dejar-un-mundo-mejor-del-que-nos-encontramos.jpg?simply_static_page=268556";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2014/04/Queremos-dejar-un-mundo-mejor-del-que-nos-encontramos.jpg?simply_static_page=268556">https://www.macsfera.com/wp-content/uploads/2014/04/Queremos-dejar-un-mundo-mejor-del-que-nos-encontramos.jpg?simply_static_page=268556</a></p>
+	</body>
+</html>

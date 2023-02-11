@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>En Familia &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/en-familia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Tue, 23 Jun 2015 09:32:05 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Porqué activar el modo En Familia de Apple</title>
+		<link>https://www.MacSfera.com/porque-activar-el-modo-en-familia-de-apple/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2015 11:46:26 +0000</pubDate>
+				<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[En Familia]]></category>
+		<category><![CDATA[iBooks Store]]></category>
+		<category><![CDATA[ID de Apple]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 8]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[iTunes Store]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10609</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/porque-activar-el-modo-en-familia-de-apple/">Porqué activar el modo En Familia de Apple</a></p>
+<p>Puede que como yo, tengas varios miembros de la familia que cuenten con un dispositivo Apple. Si eres de los que comparten</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/porque-activar-el-modo-en-familia-de-apple/">Porqué activar el modo En Familia de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/porque-activar-el-modo-en-familia-de-apple/">Porqué activar el modo En Familia de Apple</a></p>
+<p class="medio"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/04/17123154/En-Familia-de-iOS.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/04/17123154/En-Familia-de-iOS.jpg" alt="En Familia de iOS" width="2500" height="1728" class="aligncenter size-full wp-image-10610" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/17123154/En-Familia-de-iOS.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/04/17123154/En-Familia-de-iOS.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/17123154/En-Familia-de-iOS.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Puede que como yo, tengas varios miembros de la familia que cuenten con un <a href="www.macsfera.com/category/productos-apple/" title="Productos Apple" target="_blank">dispositivo Apple</a>. Si eres de los que comparten la misma cuenta de Apple, <strong>hoy voy a intentar convencerte para usar el modo En Familia de Apple.</strong></p>
+<p>Hasta ahora siempre compartía la misma cuenta porque llevo unos 6 años comprando y descargando aplicaciones. Obviamente, quería que mis familiares pudiesen usar todo ese contenido que yo he ido acumulando a lo largo del tiempo, <strong>pero con la unificación de OS X y iOS esto se ha vuelto bastante incómodo.</strong></p>
+<p><span id="more-10609"></span></p>
+<p>Te vas dando cuenta de que hay servicios que no funcionan bien, o mejor dicho, <strong>funcionan perfectamente pero no como a ti te gustaría:</strong> ciertos mensajes de iMessages no llegan al destinatario adecuado, llamadas de FaceTime que se notifican en unos dispositivos y en otros no, llamadas entrantes que recibes en tu iPhone cuando en realidad están entrando al iPhone de tu hermano, etc.</p>
+<p>Obviamente, al sistema de Apple no le pasa nada. Todos esos dispositivos son de la misma persona y por lo tanto está notificando y enviando las cosas correctamente. <strong>Pero tú en el fondo sabes que eso no es así,</strong> y mientras no haya solución, pues a aguantarse <sup class="modern-footnotes-footnote ">1</sup>. Ahora bien, Apple sabía que es raro que un mismo ID tenga asociado 2 Macs, 3 iPhones y 4 iPads, <strong>por ello presentó En Familia.</strong></p>
+<p><strong>El sistema En Familia permite vincular hasta 5 Apple IDs para que puedan compartir todas las compras realizadas</strong> en las distintas tiendas virtuales de la empresa. Esto hace que cada dispositivo sea completamente independiente pero con las ventajas obvias de compartir todas las compras como si las hubiésemos realizado nosotros mismos.</p>
+<p class="grande"><a href="http://cdn.macsfera.com/wp-content/uploads/2015/04/17123314/Dispositivos-de-Apple.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2015/04/17123314/Dispositivos-de-Apple.jpg" alt="Dispositivos de Apple" width="2500" height="1511" class="aligncenter size-full wp-image-10611" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/04/17123314/Dispositivos-de-Apple.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/04/17123314/Dispositivos-de-Apple.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/04/17123314/Dispositivos-de-Apple.jpg 1024w, https://cdn.macsfera.com/wp-content/uploads/2015/04/17123314/Dispositivos-de-Apple.jpg 220w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Además, en caso de que algún dispositivo pertenezca a un menor, podemos configurar <a href="https://support.apple.com/es-es/ht201079" target="_blank">las compras</a> para que nos pida permiso a la hora de comprar algo. El niño realiza la petición, a nosotros nos salta una notificación y, en caso de aceptar, la pagamos con nuestra tarjeta. Todo comodidades que evitarán <a href="http://www.ipadsfera.com/2011/02/08/un-nino-de-8-anos-se-gasta-1-400-con-el-juego-de-los-pitufos/" target="_blank">problemas o percances</a> como se ha demostrado en el pasado. Como añadido, cabe destacar que ahora Apple permite crear cuentas <a href="https://support.apple.com/es-es/HT201084" target="_blank">a menores de 13 años</a>, algo que no supone un peligro gracias al control descrito.</p>
+<p><strong>Las descargas no son sólo una de las ventajas de En Familia:</strong> ahora puedo hablar con todos y cada uno de mis familiares sabiendo que les va a llegar lo que les envíe. Puedo compartir mis fotos con un álbum especial que sólo ellos verán. Puedo añadir eventos a mi calendario sabiendo que a ellos también les saldrá. Y puedo obtener la localización de sus dispositivos aunque no pertenezcan a mi cuenta de iCloud.</p>
+<p><strong>Desde que hice el cambio he aprovechado mucho mejor los servicios de Apple.</strong> Tengo todo más organizado y controlado, se que no va a haber malentendidos porque la persona que no debe recibió algo que no era para ella y tengo una nueva vía directa de comunicación con mi familia.</p>
+<p><strong>Para gestionar En Familia hay que tener iOS 8 y <a href="www.macsfera.com/tag/os-x-yosemite" title="OS X Yosemite" target="_blank">OS X Yosemite</a>,</strong> por desgracia una versión antigua no lo reconoce y por lo tanto no puede mostrar las compras realizadas ni los calendarios. En los dispositivos que si los reconoce hay que ir con cuidado porque por defecto están ocultas, <strong>hay que acceder al apartado Comprado de cualquiera de las tiendas</strong> y elegir al miembro de la familia del que queramos descargar algo. Esto resulta un poco molesto porque hay que hacer varias búsquedas de lo mismo para saber si un miembro de la familia ha comprado lo buscado en caso de que nosotros queramos beneficiarnos de ello.</p>
+<p>Hay veces que nos cuesta adaptar ciertas características que vienen en las nuevas versiones de los sistemas operativos. Pensamos que no son relevantes y que no nos van a ayudar todo lo que realmente lo hacen y por eso las ignoramos. <strong>Debido a ese motivo he empezado a mirar más a fondo todas estas funciones que pasan un poco más desapercibidas y me he llevado la grata sorpresa de que En Familia me ha solucionado muchos problemas.</strong></p>
+<p><span class="source">Más info</span> <span class="via"><a href="http://www.apple.com/es/icloud/family-sharing/" target="_blank">Apple</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Se pueden añadir distintos emails a una cuenta para intentar tener independencia, pero hay ciertas acciones en los ajustes de iCloud que afectan a todos y sigue siendo una mala idea.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/porque-activar-el-modo-en-familia-de-apple/">Porqué activar el modo En Familia de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

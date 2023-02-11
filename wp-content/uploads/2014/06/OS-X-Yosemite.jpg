@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2014/06/OS-X-Yosemite.jpg?simply_static_page=267605">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2014/06/OS-X-Yosemite.jpg?simply_static_page=267605";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2014/06/OS-X-Yosemite.jpg?simply_static_page=267605">https://www.macsfera.com/wp-content/uploads/2014/06/OS-X-Yosemite.jpg?simply_static_page=267605</a></p>
+	</body>
+</html>

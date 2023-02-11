@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Core OS &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/core-os/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:54:26 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Keynote de la WWDC el lunes 11 de junio</title>
+		<link>https://www.MacSfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 30 May 2012 13:00:14 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Core OS]]></category>
+		<category><![CDATA[Herramienta]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Juegos]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Servicios de aplicaciones]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6795</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/">Keynote de la WWDC el lunes 11 de junio</a></p>
+<p>Ayer Apple presentó la agenda oficial del evento WWDC la cual se anunció hace escasas semanas y ya sabemos que habrá organizado</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/">Keynote de la WWDC el lunes 11 de junio</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/">Keynote de la WWDC el lunes 11 de junio</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/05/Keynote-11-de-junio-WWDC.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/05/Keynote-11-de-junio-WWDC.png" alt="Keynote 11 de junio WWDC" title="Keynote 11 de junio WWDC" width="550" height="312" class="aligncenter size-full wp-image-6796" srcset="https://www.MacSfera.com/wp-content/uploads/2012/05/Keynote-11-de-junio-WWDC.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/05/Keynote-11-de-junio-WWDC-300x170.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Ayer <strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> presentó la agenda oficial del evento <strong><a href="www.macsfera.com/la-wwdc-2012-se-celebrara-del-11-al-15-de-junio-entradas-ya-disponibles/" title="La WWDC 2012 se celebrará del 11 al 15 de Junio. Entradas ya disponibles" target="_blank" rel="noopener noreferrer">WWDC la cual se anunció hace escasas semanas</a></strong> y ya sabemos que habrá organizado par las fechas. Además <strong>Apple confirmó que habrá una keynote el lunes 11 de junio.</strong></p>
+<p><span id="more-6795"></span></p>
+<ul>
+<li><strong>Esenciales</strong>: Trucos y consejos para desarrolladores de <strong><a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank" rel="noopener noreferrer">OS X</a></strong> y iOS.</li>
+<li><strong>Servicios de aplicaciones</strong>: Trucos y consejos más profundos para desarrolladores de <strong>OS X</strong> y iOS.</li>
+<li><strong>Herramientas para Desarrolladores</strong>: Trucos y consejos para desarrollar mejor y más rápido con las herramientas de <strong>Apple</strong>.</li>
+<li><strong>Gráficos, medios y juegos</strong>: Trucos y consejos para sacar el máximo provecho a los gráficos de las aplicaciones con herramientas más modernas.</li>
+<li><strong>Safari e Internet</strong>: Trucos y consejos para adaptar las webs a dispositivos móviles y desarrollo de extensiones para <strong>Safari</strong>.</li>
+<li><strong>Core OS</strong>: Donde se tratarán temas de seguridad para aprovechar al máximo sus propiedades.</li>
+</ul>
+<p>Y con esto quedaría marcado todo el guión de lo que se daría en la <strong>WWDC</strong> con el <strong>inicio de esa keynote la cual no nos perderemos.</strong></p>
+<p>Más información | <a href="https://developer.apple.com/wwdc/schedule/" target="_blank" rel="noopener noreferrer">Apple</a><br />
+Vía | <a href="http://9to5mac.com/2012/05/29/apple-posts-wwdc-schedule-and-app/" target="_blank" rel="noopener noreferrer">9To5Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/">Keynote de la WWDC el lunes 11 de junio</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

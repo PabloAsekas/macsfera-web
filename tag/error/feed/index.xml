@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Error &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/error/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:58:48 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Error en Spotify para Mac que degrada nuestros SSD</title>
+		<link>https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 12 Nov 2016 17:07:02 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[HDD]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[SSD]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15769</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a></p>
+<p>Ha salido a la luz que un error en la aplicación de Mac (y Windows) de Spotify causaba degradación en los SSD</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg" alt="Spotify error degradacion SSD" width="2500" height="1484" class="aligncenter size-full wp-image-15772" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/11/12175308/Spotify-error-degradacion-SSD.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Ha salido a la luz que un error en la aplicación de Mac</strong> (y Windows) <strong>de <a target="_blank"title="Spotify" href="www.macsfera.com/tag/spotify/">Spotify</a> causaba degradación en los SSD debido a una escritura innecesaria de datos en el disco duro.</strong></p>
+<p>Varios usuarios se han dado cuenta del fallo y se ha confirmado el error de forma oficial aportando una única solución: <strong>actualizar.</strong></p>
+<p><span id="more-15769"></span></p>
+<p>Un moderador del <a target="_blank"href="http://spoti.fi/2fTZAfQ">foro de Spotify</a> ha comentado lo siguiente:</p>
+<blockquote>
+<p>Hemos visto algunas preguntas en nuestra Comunidad acerca de la cantidad de datos escritos usando el cliente de escritorio de Spotify. Han sido revisados y cualquier caso referente a este tema se ha solucionado en la versión 1.0.42, disponible ya para todos los usuarios.</p>
+</blockquote>
+<p>De modo que ya sabéis, <strong>actualizad Spotify a la última versión disponible para evitar una escritura excesiva e innecesaria que degrade nuestros SSDs.</strong></p>
+<p>Siempre y cuando tengáis una <strong>versión superior a la 1.0.42,</strong> no habrá problemas.</p>
+<div id="attachment_15773" style="width: 448px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg"><img aria-describedby="caption-attachment-15773" src="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg" alt="Spotify degrada SSD" width="438" height="75" class="size-full wp-image-15773" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg 438w, https://cdn.macsfera.com/wp-content/uploads/2016/11/12175512/Spotify-degrada-SSD.jpg 300w" sizes="(max-width: 438px) 100vw, 438px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-15773" class="wp-caption-text">Imagen cedida por <a href="https://twitter.com/Adrimartin" target="_blank" rel="noopener noreferrer">Adri Martín</a></p></div>
+<p><em>¿Por qué los SSDs y no los HDDs?</em> <strong>Los SSDs se degradan más cuando se escriben mucha cantidad de datos.</strong> A los HDDs también les viene mal, pero les afecta bastante menos. Así que, en cualquier caso, actualizad para evitar este fallo problemático.</p>
+<p>La imagen de muestra es de <a target="_blank"href="https://twitter.com/Adrimartin/status/797034272628609026">un caso real</a>, <a target="_blank"href="https://www.twitter.com/adrimartin">Adrián Martín</a> ha relatado cómo en menos de 2 horas y sin usar la app, sólo con tenerla abierta, se han escrito 5,5 GB en su SSD.</p>
+<p>Los datos escritos no ocupan espacio como tal, pero el SSD los procesa y escribe, de modo que está en todo momento trabajando y eso es lo que hace que se degrade, acortando su vida.</p>
+<p>Las actualizaciones de Spotify saltan solas y por desgracia no hay forma de forzarlas <sup class="modern-footnotes-footnote ">1</sup>. Por ello, <strong>si no tenéis la versión 1.0.42 o más evitad tener la app abierta si no la estáis usando hasta que os salte la actualización.</strong></p>
+<p><span class="source">Fuente</span> <span class="via"><a href="http://arstechnica.com/information-technology/2016/11/for-five-months-spotify-has-badly-abused-users-storage-drives/" target="_blank" rel="noopener noreferrer">Ars Technical</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Tal y como <a target="_blank"href="https://twitter.com/SpotifyAyuda/status/797449490559041536">me confirman en Twitter</a>.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/error-en-spotify-para-mac-que-degrada-los-ssd/">Error en Spotify para Mac que degrada nuestros SSD</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Error en los certificados de la Mac App Store</title>
+		<link>https://www.MacSfera.com/error-en-los-certificados-de-la-mac-app-store/</link>
+					<comments>https://www.MacSfera.com/error-en-los-certificados-de-la-mac-app-store/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2015 09:41:20 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Apple Store]]></category>
+		<category><![CDATA[Mac App Store]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12461</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/error-en-los-certificados-de-la-mac-app-store/">Error en los certificados de la Mac App Store</a></p>
+<p>Recientemente, muchos usuarios hemos sufrido un error general que nos impedía abrir algunas aplicaciones descargadas desde la Mac App Store si usábamos</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/error-en-los-certificados-de-la-mac-app-store/">Error en los certificados de la Mac App Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/error-en-los-certificados-de-la-mac-app-store/">Error en los certificados de la Mac App Store</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/11/13102931/Error-en-la-Mac-App-Store.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/11/13102931/Error-en-la-Mac-App-Store.jpg" alt="Error en la Mac App Store" width="1500" height="700" class="aligncenter size-full wp-image-12462" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/11/13102931/Error-en-la-Mac-App-Store.jpg 1500w, https://cdn.macsfera.com/wp-content/uploads/2015/11/13102931/Error-en-la-Mac-App-Store.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/11/13102931/Error-en-la-Mac-App-Store.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Recientemente, <strong>muchos usuarios hemos sufrido un error general que nos impedía abrir algunas aplicaciones descargadas desde la Mac App Store</strong> si usábamos <a href="www.macsfera.com/tag/el-capitan" title="El Capitan" target="_blank" rel="noopener noreferrer">OS X El Capitan</a> o Yosemite.</p>
+<p>Básicamente, tratábamos de abrir una aplicación y <strong>nos salía una alerta informando de que no se había lanzado la app porque estaba dañada,</strong> que si queríamos abrirla debíamos eliminarla y volver a descargarla.</p>
+<p><span id="more-12461"></span></p>
+<p>Algunos usuarios <strong>también hemos tenido que iniciar sesión en la Mac App Store porque el sistema nos lo pedía para poder usar una de las aplicaciones.</strong> Una en concreto. No actualizarla, no comprarla, usarla en el Mac en el que ya estaba instalada. El motivo de esta petición viene porque esa aplicación se compró desde otro Mac y hay que validar que somos el propietario de la cuenta que la compró si queremos usarla.</p>
+<p><strong>El problema ha saltado porque los certificados de seguridad de la Mac App Store que verificaban la procedencia de la aplicación caducaron ayer</strong> tal y como <a href="https://twitter.com/tapbot_paul/status/664653066679906304" target="_blank" rel="noopener noreferrer">descubrió Paul Haddad</a>. De modo que el sistema, por precaución, <strong>impide la apertura para no causar problemas mayores.</strong></p>
+<p>En este caso no habría ningún problema, es decir, las aplicaciones ni han caducado, ni van a hacer un destrozo ni nada por el estilo, simplemente se hace por seguridad.</p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/11/13103006/Iniciar-sesion-Mac-App-Store-para-usar-una-app.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/11/13103006/Iniciar-sesion-Mac-App-Store-para-usar-una-app.jpg" alt="Iniciar sesion Mac App Store para usar una app" width="1364" height="608" class="aligncenter size-full wp-image-12463" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/11/13103006/Iniciar-sesion-Mac-App-Store-para-usar-una-app.jpg 1364w, https://cdn.macsfera.com/wp-content/uploads/2015/11/13103006/Iniciar-sesion-Mac-App-Store-para-usar-una-app.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/11/13103006/Iniciar-sesion-Mac-App-Store-para-usar-una-app.jpg 1024w, https://cdn.macsfera.com/wp-content/uploads/2015/11/13103006/Iniciar-sesion-Mac-App-Store-para-usar-una-app.jpg 346w" sizes="(max-width: 1364px) 100vw, 1364px" /></a></p>
+<p>El error puede darse en una o varias aplicaciones (o incluso en ninguna). Es más, es tan aleatorio que en dos Macs distintos con las mismas apps instaladas el error se ha mostrado dispar. En <a href="http://www.mylaif.es/post/57090398673/bienvenido-a-la-familia" title="Bienvenido a la familia" target="_blank" rel="noopener noreferrer">mi iMac</a> el error estaba en <a href="www.macsfera.com/tweetbot-2-el-mejor-cliente-de-twitter-para-os-x/" title="Tweetbot 2: el mejor cliente de Twitter para OS X" target="_blank" rel="noopener noreferrer">Tweetbot</a>, mientras que en <a href="www.macsfera.com/mi-nuevo-macbook-pro-retina/" title="Mi nuevo MacBook Pro Retina" target="_blank" rel="noopener noreferrer">mi MBPr</a> se encontraba en Fantastical. Por otro lado, sólo me han pedido iniciar sesión en el portátil mientras que en el de sobremesa no ha pasado nada.</p>
+<h2>La solución</h2>
+<p>El mensaje pide que para volver a utilizar la aplicación debemos eliminarla y descargarla de nuevo. <strong>Esto,</strong> obviamente, <strong>puede ser una locura si tenemos bastantes aplicaciones instaladas.</strong> Nadie quiere dedicar tiempo a desinstalar, instalar y configurar todas sus herramientas porque sí.</p>
+<p>Una posible solución pasaría por reiniciar el equipo para que los certificados se actualizasen, como nuevamente <a href="https://twitter.com/tapbot_paul/status/664795353376382977" target="_blank" rel="noopener noreferrer">descubrió Paul</a>. Yo lo he probado y puedo abrir las aplicaciones sin problema, pero me pide que inicie sesión si quiero usar <a href="www.macsfera.com/fantastical-2-de-complemento-a-herramienta-indispensable/" title="Fantastical 2: de complemento a herramienta indispensable" target="_blank" rel="noopener noreferrer">Fantastical 2</a>.</p>
+<p>Desconozco porqué ha pasado esto, pero es un fallo generalizado que no aporta mucha información y que puede causar más problemas de los que realmente evita a los usuarios, ya que la única solución aparente pasa por reinstalar la compra. No nos olvidemos también de los desarrolladores, que sufrirán muchas críticas y malas reviews por algo que no ha sido su culpa.</p>
+<p><strong>Esperemos que se solucione cuanto antes y que cause el menor número de estragos posibles.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/error-en-los-certificados-de-la-mac-app-store/">Error en los certificados de la Mac App Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/error-en-los-certificados-de-la-mac-app-store/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Algunos Mac del 2012 no pueden reinstalar OS X Mountain Lion</title>
+		<link>https://www.MacSfera.com/algunos-mac-del-2012-no-pueden-reinstalar-os-x-mountain-lion/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Wed, 27 Feb 2013 12:53:41 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[Noticias de macOS]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[Recovery]]></category>
+		<category><![CDATA[Reinstalar]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8535</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/algunos-mac-del-2012-no-pueden-reinstalar-os-x-mountain-lion/">Algunos Mac del 2012 no pueden reinstalar OS X Mountain Lion</a></p>
+<p>Se han reportado varios casos por los que algunos modelo de Mac posteriores al 2012 no pueden reinstalar Mountain Lion. Estos casos</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/algunos-mac-del-2012-no-pueden-reinstalar-os-x-mountain-lion/">Algunos Mac del 2012 no pueden reinstalar OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/algunos-mac-del-2012-no-pueden-reinstalar-os-x-mountain-lion/">Algunos Mac del 2012 no pueden reinstalar OS X Mountain Lion</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2013/02/Error-reinstalar-OS-X-Lion.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2013/02/Error-reinstalar-OS-X-Lion.jpg" alt="Error reinstalar OS X Lion" width="550" height="203" class="aligncenter size-full wp-image-8536" srcset="https://www.MacSfera.com/wp-content/uploads/2013/02/Error-reinstalar-OS-X-Lion.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2013/02/Error-reinstalar-OS-X-Lion-300x110.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Se han reportado varios casos por los que algunos modelo de <a href="www.macsfera.com/" title="Mac" target="_blank" rel="noopener noreferrer">Mac</a> posteriores al 2012 no pueden reinstalar Mountain Lion.</strong></p>
+<p><span id="more-8535"></span></p>
+<p>Estos casos se dan principalmente en <strong>ordenadores cuyo sistema está corrupto</strong> (y por ello se ven obligados a reinstalar) pero salta un mensaje que impide la instalación porque &#8216;<strong><a href="www.macsfera.com/tag/os-x-mountain-lion" title="OS X Mountain Lion" target="_blank" rel="noopener noreferrer">OS X Mountain Lion</a></strong> no es compatible con ese ordenador&#8217;. Pasa incluso si se intenta hacer desde una copia de seguridad de <strong>Time Machine</strong>.</p>
+<p>El error no solo se da si se intenta reinstalar el sistema desde el propio <strong>OS X</strong>, también salta <strong>desde la partición <a href="www.macsfera.com/tag/recovery/" title="Recovery" target="_blank" rel="noopener noreferrer">Recovery</a></strong> (tanto la reinstalación como la reinstalación por Time Machine). La solución al problema parece estar en la reparación de permisos del disco duro, pero no es nada oficial.</p>
+<p>Actualmente <strong>Apple no ha dado solución alguna a este error</strong> que impide la reinstalación del sistema. Esperemos que la corrección del error sea lo más pronto posible porque muchas personas pueden perder sus sistemas.</p>
+<p>Vía | <a href="http://www.cultofmac.com/217570/late-2012-macs-may-have-an-issue-re-installing-or-restoring-os-x-mountain-lion/" target="_blank" rel="noopener noreferrer">Cult Of Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/algunos-mac-del-2012-no-pueden-reinstalar-os-x-mountain-lion/">Algunos Mac del 2012 no pueden reinstalar OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cómo hacer que Spotlight indexe de nuevo tu disco duro</title>
+		<link>https://www.MacSfera.com/como-hacer-que-spotlight-indexe-de-nuevo-tu-disco-duro/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 26 Mar 2012 14:54:43 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Disco Duro]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[Finder]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Preferencias del Sistema]]></category>
+		<category><![CDATA[Privacidad]]></category>
+		<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6599</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-spotlight-indexe-de-nuevo-tu-disco-duro/">Cómo hacer que Spotlight indexe de nuevo tu disco duro</a></p>
+<p>En este sencillo tutorial aprenderemos como hacer que Spotlight indexe de nuevo nuestro disco duro en caso de haber errores. La cosa</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-spotlight-indexe-de-nuevo-tu-disco-duro/">Cómo hacer que Spotlight indexe de nuevo tu disco duro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-spotlight-indexe-de-nuevo-tu-disco-duro/">Cómo hacer que Spotlight indexe de nuevo tu disco duro</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/03/Hacer-que-Spotlight-indexe-de-nuevo-el-disco-duro.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/03/Hacer-que-Spotlight-indexe-de-nuevo-el-disco-duro.png" alt="" title="Hacer que Spotlight indexe de nuevo el disco duro" width="550" height="344" class="aligncenter size-full wp-image-6601" srcset="https://www.MacSfera.com/wp-content/uploads/2012/03/Hacer-que-Spotlight-indexe-de-nuevo-el-disco-duro.png 550w, https://www.MacSfera.com/wp-content/uploads/2012/03/Hacer-que-Spotlight-indexe-de-nuevo-el-disco-duro-300x188.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>En este sencillo <a href="www.macsfera.com/tag/tutoriales" title="Tutoriales" target="_blank">tutorial</a> <strong>aprenderemos como hacer que Spotlight indexe de nuevo nuestro disco duro</strong> en caso de haber errores.</p>
+<p><span id="more-6599"></span></p>
+<p>La cosa es que <strong><a href="www.macsfera.com/tag/spotlight" title="Spotlight" target="_blank">Spotlight</a></strong> en ocasiones puede tener errores y una forma de solucionarlo es <strong>provocando que indexe el contenido de nuestro disco duro de nuevo,</strong> para esto vamos a seguir los siguientes pasos:</p>
+<ol>
+<li>Acceder a <strong>Preferencias del Sistema</strong>.</li>
+<li>Ir al apartado de <strong>Spotlight</strong> y luego a la pestaña de <strong>Privacidad</strong>.</li>
+<li>Abrimos una ventana de <strong>Finder</strong> y arrastramos el <strong>Macintosh HD</strong> (puede que tu disco duro tenga otro nombre) (<a href="https://www.MacSfera.com/wp-content/uploads/2012/03/Hacer-que-Spotlight-no-indexe-el-disco-duro.png" title="Hacer que Spotlight no indexe el disco duro" target="_blank">imagen de ayuda</a>) al cuadro blanco de <strong>Preferencias del Sistema</strong> y le damos a <strong>Aceptar</strong> al siguiente mensaje que nos aparezca. (<a href="https://www.MacSfera.com/wp-content/uploads/2012/03/Mensaje-de-aviso-sobre-Spotlight.png" title="Mensaje de aviso de Spotlight" target="_blank">imagen de ayuda</a>)</li>
+<li>Cuando salga el disco duro en el cuadrado blanco lo seleccionamos y le damos al botón <strong>&#8211;</strong> para eliminarlo. (<a href="https://www.MacSfera.com/wp-content/uploads/2012/03/Borrar-disco-duro-de-la-lista-de-Spotlight.png" title="Borrar disco duro de la lista de Spotlight" target="_blank">imagen de ayuda</a>)</li>
+</ol>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2012/03/Spotlight-indexando.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2012/03/Spotlight-indexando.png" alt="" title="Spotlight indexando" width="518" height="240" class="aligncenter size-full wp-image-6606" srcset="https://www.MacSfera.com/wp-content/uploads/2012/03/Spotlight-indexando.png 518w, https://www.MacSfera.com/wp-content/uploads/2012/03/Spotlight-indexando-300x139.png 300w" sizes="(max-width: 518px) 100vw, 518px" /></a></p>
+<p>Para que entendamos un poco lo que hacemos, <strong>primero le denegamos el acceso al disco duro,</strong> de ese modo «olvida» todo lo que ha indexado, posteriormente, al borrar el disco duro de la lista <strong>le volvemos a dar permiso para que encuentre archivos de ahí.</strong> Por eso volverá a indexar todo el contenido.</p>
+<p>Al acabar el proceso tendremos de nuevo todo el contenido indexado. Hemos de aclarar que puesto que va a investigar por todo el ordenador, <strong>lo más probable es que notéis que vaya lento</strong> pero una vez acabado ese proceso ya irá todo como antes.</p>
+<p>Vía | <a href="http://www.cultofmac.com/152173/make-spotlight-work-again-os-x-tips/" target="_blank">Cult Of Mac</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-spotlight-indexe-de-nuevo-tu-disco-duro/">Cómo hacer que Spotlight indexe de nuevo tu disco duro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Safari se actualiza a la versión 5.1.2</title>
+		<link>https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2011 22:37:52 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Actualización]]></category>
+		<category><![CDATA[Actualización de Software]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Mejoras]]></category>
+		<category><![CDATA[Noticias de apps]]></category>
+		<category><![CDATA[Páginas en Blanco]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5712</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a></p>
+<p>Apple acaba de lanzar una nueva actualización de Safari que corrige algunos errores. Por lo general son soluciones a problemas y ajustes</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a></p>
+<p align="center"><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Actualización.png"><img src="http://cdn.MacSfera.com/wp-content/uploads/2011/08/Actualización.png" alt="Actualización" title="Actualización" width="550" height="212" class="size-full wp-image-4647" srcset="https://www.MacSfera.com/wp-content/uploads/2011/08/Actualización.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/08/Actualización-300x116.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong><a href="www.macsfera.com/" title="Apple" target="_blank" rel="noopener noreferrer">Apple</a></strong> acaba de lanzar una nueva actualización de <strong><a href="www.macsfera.com/tag/safari" title="Safari" target="_blank" rel="noopener noreferrer">Safari</a></strong> que corrige algunos errores.</p>
+<p><span id="more-5712"></span></p>
+<p>Por lo general son <strong>soluciones a problemas y ajustes internos</strong> tanto de compatibilidad como de seguridad. Los más destacados son:</p>
+<ul>
+<li>Mejoran la estabilidad.</li>
+<li>Resuelven problemas que podrían causar cuelgues y un uso de memoria excesivo.</li>
+<li>Resuelven problemas que podrían causar que las páginas web quedaran en blanco.</li>
+<li>Permiten mostrar PDF dentro de contenido web.</li>
+</ul>
+<p>Personalmente ya me estaba cansando de que las páginas se me quedasen en blanco o inutilizadas, a parte de otros problemas como que recargase todas las pestañas así porque sí.</p>
+<p>En el rato que llevo usándolo, cargando flash, muchas páginas y demás contenido, si que <strong>lo noto más fluido,</strong> menos brusco y se ha solucionado un problema que tenía (mi navegador por lo menos) que consistía en que <strong>las búsquedas que hiciese desde la barra de Google las hacía en la web americana</strong> y no en la española.</p>
+<p>La actualización tiene un peso de <strong>40,2 MB</strong> y al finalizar deberemos reiniciar el sistema para que se acaben de instalar los componentes. <strong>Para actualizar</strong> tan solo debéis ir al símbolo de la manzana y buscar la actualización.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Definiciones del estado de las canciones en iTunes</title>
+		<link>https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/</link>
+					<comments>https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 15 Nov 2011 18:44:45 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[iCloud]]></category>
+		<category><![CDATA[Canciones]]></category>
+		<category><![CDATA[Compra]]></category>
+		<category><![CDATA[Duplicado]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[iTunes Match]]></category>
+		<category><![CDATA[No elegible]]></category>
+		<category><![CDATA[Not elegible]]></category>
+		<category><![CDATA[Purchased]]></category>
+		<category><![CDATA[Removed]]></category>
+		<category><![CDATA[Servicio]]></category>
+		<category><![CDATA[Subida]]></category>
+		<category><![CDATA[Uploaded]]></category>
+		<category><![CDATA[Waiting Somewhere]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5612</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/">Definiciones del estado de las canciones en iTunes</a></p>
+<p>Con la salida de iTunes Match y la nueva versión de iTunes tenemos una nueva columna que indica el estado de cada</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/">Definiciones del estado de las canciones en iTunes</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/">Definiciones del estado de las canciones en iTunes</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/11/iCloud-Estados-de-canciones.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/11/iCloud-Estados-de-canciones.jpg" alt="" title="iCloud Estados de canciones" width="550" height="112" class="aligncenter size-full wp-image-5614" srcset="https://www.MacSfera.com/wp-content/uploads/2011/11/iCloud-Estados-de-canciones.jpg 550w, https://www.MacSfera.com/wp-content/uploads/2011/11/iCloud-Estados-de-canciones-300x61.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Con la <a href="https://www.MacSfera.com/apple-lanza-oficialmente-itunes-match-primer-contacto-con-el-servicio/" title="Salida de iTunes Match" target="_blank" rel="noopener noreferrer">salida de <strong>iTunes Match</strong></a> y la nueva versión de <strong><a href="www.macsfera.com/tag/itunes" title="iTunes" target="_blank" rel="noopener noreferrer">iTunes</a></strong> tenemos una nueva columna que indica el estado de cada canción respecto a su situación con el servicio, aquí os decimos el significado de cada una.</p>
+<p><span id="more-5612"></span></p>
+<p>Tras activar la vista de las columnas de estado en la pestaña <strong>Ver/Opciones</strong> y marcando las casillas de <strong>iCloud Download y iCloud Status</strong>, podremos ver la información detalla de las canciones de nuestra librería en cuanto al servicio:</p>
+<ul>
+<li><strong>Comprada</strong> (Purchased): Indica las canciones compradas con el mismo <strong><a href="www.macsfera.com/tag/id-de-apple" title="ID de Apple" target="_blank" rel="noopener noreferrer">ID de Apple</a></strong> que tiene asociado la cuenta de <strong>iTunes Match</strong>, puedes elegir bajártela de nuevo con una calidad de 256 kbps, en un archivo ACC sin la protección DRM.</li>
+<li><strong>Igualados</strong> (Matched): Este valor indica que la canción que hay en tu biblioteca no ha sido comprada en la <strong>iTunes Store</strong> (la has añadido de otros medios como un CD externo) y el sistema la ha reconocido vinculándola con la homóloga en la tienda. Si decides descargarla la tendrás con la calidad de 256 kbps en ACC.</li>
+<li><strong>Subida</strong> (Uploaded): Se refiere a las canciones que no están disponibles en la <strong>iTunes Store</strong> y que no han podido vincular con el sistema, por ello, <strong>iTunes</strong> la sube a tu espacio en <strong>iCloud</strong> con el que está disponible en todos tus dispositivos.</li>
+<li><strong>Eliminada</strong> (Removed): Se trata de las canciones que has borrado en otros dispositivos pero que siguen estando en tu librería, se representa con el <strong>símbolo de la nube con una gran X superpuesta</strong>, si quieres subirlos de nuevo tan solo debes seleccionarlos y elegir la opción de sincronización con <strong><a href="www.macsfera.com/tag/icloud" title="iCloud" target="_blank" rel="noopener noreferrer">iCloud</a></strong>.</li>
+</ul>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/11/iTunes-Match-Preferencias.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/11/iTunes-Match-Preferencias.png" alt="" title="iTunes Match Preferencias" width="550" height="260" class="aligncenter size-full wp-image-5615" srcset="https://www.MacSfera.com/wp-content/uploads/2011/11/iTunes-Match-Preferencias.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/11/iTunes-Match-Preferencias-300x142.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<ul>
+<li><strong>Esperando en algún lugar</strong> (Waiting Somewhere): Este estado te notifica que esa canción está añadida a la carpeta local de <strong>iTunes</strong> pero no se encuentra en <strong>iCloud</strong>, para ello tan solo hay que seleccionarla y elegir la opción de sincronización con <strong>iCloud</strong>.</li>
+<li><strong>No elegible</strong> (Not Eligible): Con esta etiqueta, <strong>iTunes</strong> nos informa de que ese archivo tiene un formato no soportado por <strong>iTunes Match</strong> y por ello no puede subirlo a la nube, este tipo de archivos son los <strong>podcast, folletos digitales, radios de Internet</strong>, etc&#8230; Además de ello, las canciones superiores a 200 mb o 96 Kbps tampoco podrán subirse.</li>
+<li><strong>Duplicado</strong> (Duplicate): Nos indica las canciones que tenemos duplicadas en nuestra biblioteca local, también nos informa de que solo se ha subido una vez.</li>
+<li><strong>Error</strong> (Error): Te informa de que algo va mal con esas canciones, puede ser por ejemplo unas canciones que están en tu biblioteca local pero que no están en tu disco duro.</li>
+</ul>
+<p>Esos son los posibles estados que hay en el nuevo <strong>iTunes Match</strong> en cuanto a las canciones se refiere, es bueno saber que significa cada uno para saber en todo momento como están esas canciones, si hay un error como solucionarlo y evitar posibles quebraderos de cabeza al intentar averiguar por qué esa canción no se ha subido.</p>
+<p>Vía | <a href="http://www.macworld.com/article/163606/2011/11/check_your_musics_icloud_status.html" target="_blank" rel="noopener noreferrer">MacWorld</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/">Definiciones del estado de las canciones en iTunes</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/definiciones-del-estado-de-las-canciones-en-itunes/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

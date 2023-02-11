@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SSL &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/ssl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Tue, 19 Apr 2016 08:39:08 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>MacSfera 2.0</title>
+		<link>https://www.MacSfera.com/macsfera-2-0/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 19 Mar 2016 19:05:12 +0000</pubDate>
+				<category><![CDATA[MacSfera]]></category>
+		<category><![CDATA[Diseño]]></category>
+		<category><![CDATA[Novedades]]></category>
+		<category><![CDATA[SSL]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14187</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/macsfera-2-0/">MacSfera 2.0</a></p>
+<p>Hace justo un año daba el anuncio más importante de este blog. Hace un año os comunicaba que MacSfera iba a abandonar</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/macsfera-2-0/">MacSfera 2.0</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/macsfera-2-0/">MacSfera 2.0</a></p>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/03/19195632/MacSfera.png" rel="attachment wp-att-14189"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/03/19195632/MacSfera.png" alt="MacSfera" width="1944" height="932" class="aligncenter size-full wp-image-14189" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/03/19195632/MacSfera.png 1944w, https://cdn.macsfera.com/wp-content/uploads/2016/03/19195632/MacSfera.png 300w, https://cdn.macsfera.com/wp-content/uploads/2016/03/19195632/MacSfera.png 1024w" sizes="(max-width: 1944px) 100vw, 1944px" /></a></p>
+<p>Hace justo un año daba <a target="_blank"title="¡Bienvenidos al nuevo MacSfera!" href="www.macsfera.com/bienvenidos-al-nuevo-macsfera/">el anuncio más importante de este blog</a>. Hace un año os comunicaba que MacSfera iba a abandonar su estructura de blog comercial para pasar a ser mi blog personal sobre el mundo Apple. También estrené diseño, hecho enteramente por mí. Y con el paso del tiempo configuré un CDN, cambié de <a target="_blank"title="Feed de MacSfera" href="www.macsfera.com/feed">gestor de RSS</a>, introduje los <a target="_blank"title="Enlaces" href="www.macsfera.com/category/enlaces">artículos de tipo enlace</a> y empecé a gestionar <a target="_blank"title="Publicidad de MacSfera" href="www.macsfera.com/publicidad">la publicidad del blog</a>.</p>
+<p>Hoy, un año después, <strong>creo que es buen momento para anunciaros todas las mejoras en las que he trabajado y que ya están aplicadas al blog.</strong></p>
+<p><span id="more-14187"></span></p>
+<h2>Plantilla</h2>
+<p>Empecemos por lo que todos véis: la plantilla. Si bien la estructura es idéntica a la versión 1.2, <strong>hay ciertos cambios significativos que hacen de la interfaz actual algo más bonita y elegante.</strong></p>
+<p>He simplificado un poco más el diseño, los artículos de tipo enlace ahora son más visibles y reconocibles a lo largo de toda la plantilla. Los botones para compartir contenido son más llamativos y los thumbnails más grandes.</p>
+<p>En cuanto al código se refiere, todo está mejor programado la verdad. Seguro que hay alguna cagada por ahí pero esta vez he puesto todo mi empeño y esfuerzo en programarlo bien y que no haga cosas raras. Además, diseñé la plantilla con sus diferentes vistas en <a target="_blank"href="#">Sketch</a>, un fantástico programa para diseño de interfaz, con lo que todo está medido al milímetro y pensado y repensado tres o cuatro veces.</p>
+<p>Me gusta mucho el look que tiene MacSfera, y lo mejor de todo es que no he acabado con los cambios, poco a poco iré incluyendo novedades al diseño con el fin de mejorarlo y de que la información os llegue mejor.</p>
+<p>He de dar las gracias a <a href="https://twitter.com/_pabloalonso" target="_blank">Pablo Alonso</a> que me ha ayudado con el diseño, ha sido responsable del resultado final y me gustaría reconocerle el mérito.</p>
+<h2>Certificado SSL</h2>
+<p>No sé si os habréis fijado pero <strong>la web ahora funciona bajo https.</strong> Esto significa que la conexión entre vuestro ordenador y los servidores de MacSfera está cifrada.</p>
+<p>Al principio era reticente a hacerlo, para mí no tenía sentido puesto que esto es un blog y no trato ningún tipo de información que sea sensible ni nada por el estilo <sup class="modern-footnotes-footnote ">1</sup>, pero estoy estudiando seguridad informática y la verdad es que no viene nunca mal protegerse un poco, sobre todo si el proceso es sencillo.</p>
+<p>Así que me lancé a investigar y aquí está, conexión segura a través de toda la web, incluso con el CDN.</p>
+<h2>Velocidad</h2>
+<p>Me obsesiona bastante la velocidad de carga de MacSfera, me gusta que todo se entregue rápido y de forma eficiente para que vosotros no tengáis que esperar para recibir lo que escribo. Por ese motivo empecé a usar un CDN y por ese motivo he implementado distintos sistemas de caché (todos en el lado del servidor) para que disfrutéis de los artículos de forma más rápida.</p>
+<p>También he hecho compatible el blog con <a target="_blank"href="https://www.ampproject.org/">AMP</a>, un proyecto que busca entregar contenido de forma instantánea en las versiones móviles de las páginas web. Poco a poco, todos los artículos aparecerán en Google con este nuevo sistema para que se os entregue exactamente lo que buscáis y de la forma más rápida posible si usáis un móvil.</p>
+<p>Además, trabajo periódicamente realizando tareas de mantenimiento con el fin de mejorar constantemente la velocidad de carga y los recursos utilizados por la web.</p>
+<h2>Menos es más</h2>
+<p>Me di cuenta de que había demasiadas categorías en el blog, así que he decidido reducirlas dejando las principales únicamente. Para suplir esa carencia de información, voy a intentar enlazar en cada entrada con la etiqueta del contenido principal de ficho artículo, así cualquiera puede obtener lo que busca.</p>
+<p>Por supuesto, el buscador siempre está presente en la web para vuestro uso y disfrute, y si queréis ver la web de forma estructurada, podéis recurrir a la página Más con la que veréis todo el contenido principal clasificado y enlazado.</p>
+<h2>Newsletter</h2>
+<p>Por último, y acabando con las novedades, os comunico que le estoy dando mucha más importancia a la <a target="_blank"title="Newsletter de MacSfera" href="https://feed.press/e/mailverify?feed_id=macsfera">newsletter de MacSfera</a>. Lleva existiendo desde los inicios del blog, pero va a ser ahora cuando la intente impulsar más por un simple motivo:</p>
+<p>Cuando nos esforzamos por conseguir seguidores en <a target="_blank"href="http://www.twitter.com/macsferablog">Twitter</a> o <a target="_blank"href="http://www.facebook.com/macsfera">Facebook</a>, esos seguidores los conseguimos en una red social que no es nuestra. Si el día de mañana resulta que esa red social cierra o gira completamente su modelo de negocio, nos quedamos sin nada, no tendríamos ninguna forma de comunicarnos. Por eso quiero tener, en cualquier caso, un contacto directo con vosotros que no dependa de factores externos.</p>
+<p>La forma de conseguirlo es mediante el <a target="_blank"title="Feed de MacSfera" href="www.macsfera.com/feed">feed de MacSfera</a> o la <a target="_blank"title="Newsletter de MacSfera" href="https://feed.press/e/mailverify?feed_id=macsfera">Newsletter de MacSfera</a>. De modo que si no os queréis perder ningún artículo del blog y tener un contacto directo, ya sabéis que podéis suscribiros por esas dos vías de comunicación.</p>
+<hr />
+<p>Y eso es todo por ahora, lamento que la novedad no esté relacionada con Apple, pero una vez al año espero que me permitáis compartir con vosotros, asiduos lectores, la situación de este pequeño proyecto que tanto me gusta, que tanto me hace disfrutar y que tan feliz me hace.</p>
+<p>PD: si queréis saber un poco más de mí y del blog, podéis pasaros por la nueva página <a target="_blank"title="Acerca de MacSfera" href="www.macsfera.com/acerca-de-macsfera">Acerca de</a> <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f61d.png" alt="😝" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Lo único sensible que hay son las contraseñas de los distintos editores del blog y de eso ya se ocupa WordPress. Además, a vosotros no os afecta.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/macsfera-2-0/">MacSfera 2.0</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

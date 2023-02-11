@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.macsfera.com/wp-content/uploads/2015/09/Apple-Watch-Herme-edition.jpg?simply_static_page=264071">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.macsfera.com/wp-content/uploads/2015/09/Apple-Watch-Herme-edition.jpg?simply_static_page=264071";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://www.macsfera.com/wp-content/uploads/2015/09/Apple-Watch-Herme-edition.jpg?simply_static_page=264071">https://www.macsfera.com/wp-content/uploads/2015/09/Apple-Watch-Herme-edition.jpg?simply_static_page=264071</a></p>
+	</body>
+</html>

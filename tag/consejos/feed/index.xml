@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Consejos &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/consejos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Mon, 18 Feb 2019 22:30:32 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Ampliando la memoria RAM de mi iMac</title>
+		<link>https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 20 Jan 2019 13:25:42 +0000</pubDate>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Consejos]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Memoria RAM]]></category>
+		<category><![CDATA[Timetec]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17051</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a></p>
+<p>En 2012 el iMac llegó a mi vida, y antes de comprarlo tuve que hacer una pequeña elección: más memoria RAM o</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135611/Cambiar-memoria-RAM-iMac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135611/Cambiar-memoria-RAM-iMac.jpg" alt="Cambiar memoria RAM iMac" width="2500" height="1670" class="aligncenter size-full wp-image-17053" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135611/Cambiar-memoria-RAM-iMac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135611/Cambiar-memoria-RAM-iMac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135611/Cambiar-memoria-RAM-iMac.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>En 2012 el iMac llegó a mi vida, y antes de comprarlo tuve que hacer una pequeña elección: <strong>más memoria RAM o Fusion Drive.</strong> En aquel momento los SSDs no eran tan populares como hoy en día y un joven Pablo dudaba entre una cosa u otra. <strong>Acabé eligiendo Fusion Drive.</strong></p>
+<p>Hoy, 7 años después, puedo afirmar con rotundidad que fue una gran decisión. El motivo por el cual opté por <a href="https://www.MacSfera.com/fusion-drive-nuevo-sistema-de-almacenamiento-para-los-imac/" title="Fusion Drive: nuevo sistema de almacenamiento para los iMac" target="_blank">Fusion Drive</a> fue muy sencillo: <strong>el día de mañana, cambiar la memoria RAM es más fácil que cambiar el disco duro.</strong> Lo que no esperaba es que pasasen tantos años hasta que ese momento llegase.</p>
+<p><span id="more-17051"></span></p>
+<p>Estos últimos meses, si bien mi uso del iMac ha sido más relajado que en otros momentos de mi vida, sí he notado ese envejecimiento del ordenador y cómo sus características iniciales se iban quedando anticuadas para rendir a un ritmo adecuado. ¿Mi solución? <strong>revitalizarlo ampliando la RAM.</strong></p>
+<p>La verdad es que poco hay que contar sobre el proceso de ampliación de RAM para Mac. En los Macs que lo permiten, es sumamente sencillo, y Apple cuenta con <a target="_blank" href="https://support.apple.com/es-es/HT201191">instrucciones para todos ellos</a>: desde el tipo de RAM que necesita cada ordenador, hasta los pasos a seguir para instalarla satisfactoriamente.</p>
+<p>Aún así, me parece digno mencionar un par de cosas al respecto:</p>
+<h2>Los “Made for Mac” no son necesarios</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135631/Memoria-RAM-para-iMac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135631/Memoria-RAM-para-iMac.jpg" alt="Memoria RAM para iMac" width="2500" height="1670" class="aligncenter size-full wp-image-17054" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135631/Memoria-RAM-para-iMac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135631/Memoria-RAM-para-iMac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135631/Memoria-RAM-para-iMac.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Si bien la memoria RAM que yo he comprado tiene un gran y vistoso <em>“Made for Mac”</em> en la caja, <strong>desde ya os digo que no es necesario.</strong> Las memorias tienen una serie de características, de modo que con comprar una que tenga las mismas cualidades que describe Apple, debería bastarnos.</p>
+<p>Pero, aun así, yo he comprado una con el <em>“Made for Mac”</em>, ¿por qué? Muy sencillo: <strong>porque era,</strong> con diferencia, <strong><a target="_blank" href="https://www.MacSfera.com/enlaces/memoria-ram-imac/">más barata</a> que el resto de opciones que estuve mirando.</strong> Sin más.</p>
+<p>Aparte de esas características que se mencionan en fábrica, hay otras muchas que hacen que dos memorias del mismo tipo sean de mejor o peor calidad. Está claro que las más baratas serán de peor calidad, pero a lo que voy es a que la etiqueta <em>“Made for Mac”</em> <strong>no debe hacer que el precio sea superior,</strong> deben ser esas características. Y de vosotros dependerá si queréis pagar más o menos para tener una memoria de mayor calidad.</p>
+<p>Así que antes de comprar nada, evaluad bien las diferencias entre los modelos que estéis valorando <sup class="modern-footnotes-footnote ">1</sup>, y cuando veáis que el precio está justificado, decidid la que queráis, pero no os tiréis a por la que está <em>“Made for Mac”</em> sólo por este simple hecho.</p>
+<p>No está demás que una vez que tengáis un modelo elegido, busquéis qué tal funciona en Mac, para ver las opiniones del resto de clientes.</p>
+<h2>Los 3 pitidos de la muerte</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135649/Memoria-RAM-de-Apple-iMac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135649/Memoria-RAM-de-Apple-iMac.jpg" alt="Memoria RAM de Apple iMac" width="2500" height="1670" class="aligncenter size-full wp-image-17055" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135649/Memoria-RAM-de-Apple-iMac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135649/Memoria-RAM-de-Apple-iMac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135649/Memoria-RAM-de-Apple-iMac.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>A pesar de que la instalación es un proceso sencillo, siempre puede salir algo mal, y es importante saber cómo nos lo va a hacer saber nuestro Mac.</p>
+<p><strong>Si la instalación de RAM no ha ido bien, nuestro Mac emitirá 3 pitidos cada pocos segundos.</strong></p>
+<p>Nos bastará con apagar el ordenador y revisar cómo hemos instalado las tarjetas de memoria. Estas son algunas de las acciones que podéis hacer:</p>
+<ul>
+<li>La zona está expuesta al polvo, de modo que hacer una limpieza de las tarjetas y las ranuras puede ayudar</li>
+<li>Revisad que las tarjetas se han insertado bien en sus ranuras. Al no tener un seguro de plástico –<a href="https://www.MacSfera.com/wp-content/uploads/2019/01/seguro-memoria-ram.jpg" title="Seguro memoria RAM" target="_blank">como muchas placas base de ordenadores de sobremesa</a>– es difícil saber si hemos insertado correctamente las ranuras, hay que revisarlo para estar seguros de que están bien colocadas</li>
+<li>Si como en mi caso el Mac permite más de dos tarjetas, y vais a conservar las originales de Apple, insertad las nuevas en los huecos restantes aunque aparentemente no tenga sentido el orden final <sup class="modern-footnotes-footnote ">2</sup></li>
+</ul>
+<p>Después de revisar la instalación, iniciamos el ordenador y todo debería ir bien. Si no, <strong>revisadlo todo,</strong> incluidas las características de la memoria RAM, no vaya a ser que nos hayamos confundido al comprarla, o nos la hayan mandado mal.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135705/Memoria-RAM-iMac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135705/Memoria-RAM-iMac.jpg" alt="Memoria RAM iMac" width="2500" height="1670" class="aligncenter size-full wp-image-17056" srcset="https://cdn.macsfera.com/wp-content/uploads/2019/01/20135705/Memoria-RAM-iMac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135705/Memoria-RAM-iMac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2019/01/20135705/Memoria-RAM-iMac.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Por ahora, con este sencillo movimiento, he conseguido que mi iMac vaya mejor. Y tengo muy claro que <strong>el siguiente paso será <a target="_blank" title="Habilita la orden TRIM si has instalado un SSD" href="www.macsfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/">instalar un SSD</a>,</strong> como ya hice en <a target="_blank" title="Nuevo MacBook Pro para el blog" href="www.macsfera.com/nuevo-macbook-pro-para-el-blog/">mi antiguo</a> –y aún funcional– MacBook Pro.</p>
+<p>Por lo que he podido ver, esta situación <a target="_blank" href="https://twitter.com/MatthieusP/status/1085995803297103877">se repite</a> en <a target="_blank" href="https://twitter.com/pablo1medina/status/1086255546351697920">varios de vosotros</a>, <strong>así que me alegra saber que con una inversión mínima el buen resultado se nota,</strong> haciendo que nuestros cerrados Macs amplíen un poco más su vida. Es por eso por lo que celebré que <a target="_blank" title="Resumen y opinión de la keynote “There’s more in the making” - Nuevo Mac mini" href="www.macsfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/?#nuevo-mac-mini">el nuevo Mac mini</a> recuperase la modularidad en la memoria RAM.</p>
+<p>En cualquier caso, <a target="_blank" href="https://www.MacSfera.com/enlaces/memoria-ram-imac/">aquí os dejo</a> la memoria RAM que yo he comprado, por si os puede ayudar a la hora de elegir componente para darle más vida a vuestro Mac.</p>
+<p><span class="source">Memoria RAM</span> <span class="via"><a target="_blank" href="https://www.MacSfera.com/enlaces/memoria-ram-imac/">Amazon</a></span></p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;Google es vuestro amigo para todas las características que no conozcáis.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;En mi iMac las tarjetas de Apple estaban en las posiciones 2 y 4. Mi nueva memoria RAM ha sido insertada en las posiciones 1 y 3, de modo que están todas ellas mezcladas, algo que puede chocar, pero es totalmente normal.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Consejos para comprar Macs de segunda mano</title>
+		<link>https://www.MacSfera.com/consejos-para-comprar-macs-de-segunda-mano/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Mon, 25 Aug 2014 09:33:45 +0000</pubDate>
+				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Compra]]></category>
+		<category><![CDATA[Consejos]]></category>
+		<category><![CDATA[Segunda mano]]></category>
+		<category><![CDATA[Trucos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10212</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/consejos-para-comprar-macs-de-segunda-mano/">Consejos para comprar Macs de segunda mano</a></p>
+<p>Los elevados precios de los Macs hacen que muchos usuarios se planteen adquirir equipos de segunda mano. Aquí puedes seguir una serie</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/consejos-para-comprar-macs-de-segunda-mano/">Consejos para comprar Macs de segunda mano</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/consejos-para-comprar-macs-de-segunda-mano/">Consejos para comprar Macs de segunda mano</a></p>
+<p><a href="http://cdn.macsfera.com/wp-content/uploads/2014/08/Consejos-para-comprar-Macs-de-segunda-mano.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.macsfera.com/wp-content/uploads/2014/08/Consejos-para-comprar-Macs-de-segunda-mano.jpg" alt="Consejos para comprar Macs de segunda mano" width="710" height="473" class="aligncenter size-full wp-image-10216" srcset="https://www.MacSfera.com/wp-content/uploads/2014/08/Consejos-para-comprar-Macs-de-segunda-mano.jpg 710w, https://www.MacSfera.com/wp-content/uploads/2014/08/Consejos-para-comprar-Macs-de-segunda-mano-300x200.jpg 300w" sizes="(max-width: 710px) 100vw, 710px" /></a></p>
+<p>Los elevados precios de los Macs hacen que muchos usuarios se planteen adquirir equipos de segunda mano. Aquí puedes seguir <strong>una serie de consejos que te ayudarán a la hora de elegir vendedor y de aprovechar el dinero lo máximo posible.</strong></p>
+<p><span id="more-10212"></span></p>
+<p>Si ya de por si los precios originales son caros, <strong>los Macs son uno de los productos que menos se devalúan,</strong> de modo que no van a dejar de ser caros. Lo mejor que podemos hacer es asegurarnos de que estamos comprando lo que nos venden y no nos engañan. Para ello seguiremos estos consejos:</p>
+<h3>Comprobar el número de serie</h3>
+<p>El número de serie va a ser lo primero que comprobemos. Deberemos solicitarlo para saber a través de Apple el estado respecto a la garantía o servicios que puede seguir ofreciendo la compañía. Además, lo usaremos en AppleSerialNumerInfo para saber los <strong>detalles del equipo y asegurarnos de que realmente nos venden lo que nos prometen.</strong></p>
+<h3>Revisar componentes</h3>
+<p>Accediendo a <strong>/Acerca de este Mac</strong> podremos ver toda la información del equipo. Así comprobaremos todos los componentes que equipa en caso de que el vendedor nos diga que ha ampliado algunos de ellos.</p>
+<p>Usando la aplicación <strong>Utilidad de Discos</strong>, sería recomendable verificar el estado del disco. Si la verificación no arroja errores es que el disco duro se encuentra en buen estado. En caso de que el equipo que queramos comprar sea un portátil <strong>sería recomendable revisar el estado de la batería.</strong> Podemos hacernos una idea de como está la batería por el número de ciclos o usar <strong><a href="www.macsfera.com/como-cuidar-la-bateria-de-tu-mac/" title="www.macsfera.com/como-cuidar-la-bateria-de-tu-mac/" target="_blank">alguna aplicación</a></strong> que nos aporta más información sobre el estado de esta.</p>
+<p>La pantalla es uno de los componentes más importantes de modo que habrá que revisar que se encuentra en buen estado. Sin pixeles muertos ni manchas, por ello es recomendable usar un poco el dispositivo para darnos cuenta de ello.</p>
+<h3>Pedir facturas</h3>
+<p>Es aconsejable <strong>pedir las facturas de compra del equipo</strong> para saber que realmente estamos hablando de ese mismo equipo y que no haya malentendidos. Además, es frecuente que los vendedores hayan modificado el equipo aumentando los componentes o cambiándolos. <strong>Si te dicen que han cambiado algún componente por Apple o distribuidor oficial también pedir el comprobante de compra.</strong> Es mucho más importante pedir este tipo de cosas con los cambios de batería, pantalla, antena Wi-Fi, etc. (cualquier componente que no se pueda cambiar fácilmente).</p>
+<h3>Revisar estado físico general</h3>
+<p><strong>Los Mac se dañan y desgastan por el uso, da igual lo bien que los trates que si no están con una funda constantemente habrá alguna pequeña marca de desgaste.</strong> Sería conveniente revisar roces, arañazos, desgastes o roturas más que nada para ser consciente de lo que se compra y en que estado. Además, si podemos revisar que los altavoces, la antena Wi-Fi, bluetooth, ventilador, etc. funciona correctamente también sería bueno.</p>
+<h3>Las aplicaciones no entran en la venta</h3>
+<p><strong>Evitad todos los anuncios que intenten incrementar el precio del equipo porque incluye ciertas aplicaciones.</strong> Las aplicaciones pueden estar asociadas a su cuenta de Apple (con lo que no podríamos actualizarlas ni reinstalarlas en caso de formatear el ordenador), pueden ser piratas, etc. De modo que no dejéis que os cobren de más por llevar X aplicación, incluso si te dicen la típica frase de “Encima te incluyo tal aplicación”, <strong>no dejéis que eso sirva para poner la balanza a su favor.</strong></p>
+<h3>Evitar robos o pérdidas</h3>
+<p>Mucha gente roba Macs o se los encuentran y como no les van a sacar partido intentan venderlos. Es recomendable no comprar este tipo de dispositivos porque <strong>sus legítimos dueños pueden bloquearlos y al final habremos comprado un pisapapeles muy caro.</strong> Desconfiad por regla general de este tipo de vendedores porque lo único que van a intentar es deshacerse del equipo y eso no va a beneficiaros en nada.</p>
+<h3>La actitud es muy importante</h3>
+<p>Por regla general, <strong>si veis que la actitud del vendedor no es positiva en todo lo que le pedís, desconfiad.</strong> Normalmente significa que tiene algo que ocultar y eso no os favorece. Un vendedor honesto no tendrá problema en mostrarte todo lo que le pidas como los distintos tests, información adicional, etc.</p>
+<h3>Dónde comprar</h3>
+<p>Lo mejor sería comprar a una persona que conozcamos o que nos permita tocar el dispositivo para comprobar todo lo que queramos. Pero como esto no es posible siempre, podremos encontrar <a href="http://www.olx.com.sv/" target="_blank">anuncios clasificados gratis</a> en Internet con información del equipo, el usuario y contacto. Como último consejo para la compra por Internet, <strong>os recomendamos nunca pagar por transferencia bancaria, usar sistemas que permitan devolución y en la que un tercer agente pueda supervisar la compra para evitar estafas.</strong></p>
+<p>Esperamos que estos consejos os faciliten la búsqueda y compra de un equipo Apple para que podáis disfrutar de su sistema y sus prestaciones sin ser estafados o engañados.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/consejos-para-comprar-macs-de-segunda-mano/">Consejos para comprar Macs de segunda mano</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>10 consejos a la hora de formatear tu Mac</title>
+		<link>https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/</link>
+					<comments>https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 05 Feb 2013 19:08:43 +0000</pubDate>
+				<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Archivos]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Consejos]]></category>
+		<category><![CDATA[Copia de seguridad]]></category>
+		<category><![CDATA[El capitan]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Formatear]]></category>
+		<category><![CDATA[Lion]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[Mountain Lion]]></category>
+		<category><![CDATA[OS X El Capitan]]></category>
+		<category><![CDATA[OS X Lion]]></category>
+		<category><![CDATA[OS X Mavericks]]></category>
+		<category><![CDATA[OS X Mountain Lion]]></category>
+		<category><![CDATA[OS X Snow Leopard]]></category>
+		<category><![CDATA[OS X Yosemite]]></category>
+		<category><![CDATA[Preferencias del Sistema]]></category>
+		<category><![CDATA[Recovery]]></category>
+		<category><![CDATA[Safari]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<category><![CDATA[Trucos]]></category>
+		<category><![CDATA[Utilidad de discos]]></category>
+		<category><![CDATA[Yosemite]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8372</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a></p>
+<p>Formatear un Mac es un proceso bastante sencillo y común entre los que suelen notar problemas de rendimiento, pero hay veces que</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2013/02/disco-duro.jpeg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2013/02/disco-duro.jpeg" alt="Disco duro" width="710" height="473" class="aligncenter size-full" /></a></p>
+<p><strong>Formatear un <a href="www.macsfera.com/" title="Mac" target="_blank">Mac</a></strong> es un proceso bastante sencillo y común entre los que suelen notar problemas de rendimiento, pero hay veces que se nos puede pasar algo por encima, por eso <strong>os damos estos 10 consejos para que no os suponga ninguna pérdida o quebradero de cabeza el borrar y reinstalar.</strong></p>
+<p><span id="more-8372"></span></p>
+<p>Vamos a partir desde el supuesto de que el formateo e instalación será <strong>sin copia de seguridad.</strong> Algunos lo verán una locura, pero cuando hay problemas de rendimiento es lo que se recomienda ya que puede que con la copia de seguridad arrastremos esos errores.</p>
+<p>Empezamos:</p>
+<ol>
+<li><strong>Salvar todos nuestros archivos:</strong> Es algo obvio, pero hay que tenerlo muy en cuenta sobre todo partiendo de la base de que no vamos a tener copia de seguridad. Registrad las carpetas y salvad todo lo que os sirva.</li>
+<li><strong>Recordar las aplicaciones que tengamos instaladas:</strong> Otra cosa obvia, pero no hay que confiar en nuestra memoria, lo mejor es sacar una captura de nuestra carpeta de aplicaciones y, luego cuando nos toque volver a reinstalar todo, decidir si seguimos queriendo ciertas aplicaciones.</li>
+<li><strong>Recordar los complementos instalados:</strong> Este punto es algo que se descuida más pero que puede ser tan importante como el anterior. Los complementos son pequeños paquetes que instalamos que nos aportan funciones al sistema. Sabremos cuales son si nos fijamos en <strong>Preferencias del sistema.</strong></li>
+<li><strong>Revisar todas las aplicaciones:</strong> Gracias a la nueva funcionalidad de <strong><a href="www.macsfera.com/tag/os-x" title="OS X" target="_blank">OS X</a></strong>, no hace falta guardar un archivo ya que al abrir la aplicación este aparecerá de nuevo tal y como la habíamos dejado. Por eso es importante revisar todas las aplicaciones para saber si nos hemos dejado algo sin guardar.</li>
+<li><strong>Tener en cuenta las configuraciones del sistema y de las aplicaciones:</strong> No estaría demás fijarnos en nuestra propia configuración del sistema para dejarlo todo como lo teníamos. También sería conveniente prestar atención al mismo aspecto de nuestras aplicaciones instaladas, puede que alguna de ellas la hayamos configurado y luego no sepamos exactamente como estaba.</li>
+<li><strong>Observar como están configuradas nuestras cuentas de email:</strong> esto tiene menos importancia si son del tipo Gmail, Yahoo y demás, pero <strong><a href="www.macsfera.com/como-configurar-tu-email-personalizado-en-mail/" title="Cómo configurar tu email personalizado en Mail" target="_blank">si son con dominio personalizado</a></strong> lo mejor será echar un vistazo para saber si hay algo especial que ya no recordemos.</li>
+<li><strong>Guardar los favoritos que tengamos en el navegador:</strong> En función del navegador que uséis, deberéis tener en cuenta guardar la sección de favoritos. En <strong>Safari</strong> basta con ir a la pestaña Archivo y seleccionar Exportar favoritos, en <strong>Chrome</strong> se nos sincroniza con nuestra cuenta de email y en <strong>Firefox</strong> deberemos mostrar todos los marcadores (cmd+shift+B) y elegir la opción de exportar que está en la barra de herramientas.</li>
+<li><strong>Tener cuidado con las copias de seguridad:</strong> Como ya hemos comentado, el uso de copias de seguridad a la hora de formatear por un problema no te garantiza que que se vaya a solucionar ya que puede persistir. Siempre depende de lo que guardemos, pero hay que tener cuidado porque puede que perdamos tiempo y para conseguir lo mismo.</li>
+<li><strong>Utilizar Recovery para el formateo e instalación:</strong> Antes de hacer nada lo mejor es plantear como queremos formatear nuestro disco duro, lo mejor va a ser utilizar el sistema <strong><a href="www.macsfera.com/recovery-o-como-reinstalar-os-x-lion-sin-dvd/" title="Recovery, o como reinstalar OS X Lion sin DVD" target="_blank">Recovery</a></strong>, desde él podremos formatear el disco duro y luego reinstalar el sistema sin ningún problema. Para acceder a este modo basta con pulsar la tecla Alt cuando se está encendiendo el ordenador y seleccionarlo.</li>
+<li><strong>Paciencia:</strong> Parece mentira, pero si, hay que tener paciencia, el proceso de reinstalación si no tenemos CDs es lento, se tiene que descargar el sistema, y luego instalarlo, a parte, la partición Recovery es un poco lenta y si encima le sumas el hecho de que hay que formatear… Es proceso sencillo, puesto que nosotros tenemos que hacer poco, pero es lento, por eso, si lo hacéis, hacedlo con tiempo.</li>
+</ol>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Recovery-de-OS-X-Lion.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/07/Recovery-de-OS-X-Lion.jpg" alt="Recovery de OS X Lion" width="550" height="239" class="aligncenter size-full" /></a></p>
+<p><strong>Esperamos que estos consejos y pasos os sirvan para que vuestra experiencia a la hora de formatear y reinstalar el sistema no sea un caos.</strong> Como ya decimos el proceso es sencillo pero hay que tener ciertos conceptos seguros para evitar errores y recurrir al servicio técnico.</p>
+<p>Por supuesto, siempre hay que ir con cabeza y ante la duda, <strong>buscar ayuda.</strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/">10 consejos a la hora de formatear tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/10-consejos-a-la-hora-de-formatear-tu-mac/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cómo cuidar la batería de tu Mac</title>
+		<link>https://www.MacSfera.com/como-cuidar-la-bateria-de-tu-mac/</link>
+					<comments>https://www.MacSfera.com/como-cuidar-la-bateria-de-tu-mac/?#comments</comments>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2011 10:48:53 +0000</pubDate>
+				<category><![CDATA[Aplicaciones]]></category>
+		<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Batería]]></category>
+		<category><![CDATA[Consejos]]></category>
+		<category><![CDATA[Genius Bar]]></category>
+		<category><![CDATA[iStat Pro]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Watts]]></category>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1754</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-cuidar-la-bateria-de-tu-mac/">Cómo cuidar la batería de tu Mac</a></p>
+<p>La razón principal por la cual fui a la Genius Bar fue para que me guiasen con el cuidado de mi batería.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-cuidar-la-bateria-de-tu-mac/">Cómo cuidar la batería de tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-cuidar-la-bateria-de-tu-mac/">Cómo cuidar la batería de tu Mac</a></p>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/04/Cómo-cuidar-la-batería-de-tu-Mac.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/04/Cómo-cuidar-la-batería-de-tu-Mac-e1311332379191.png" alt="" title="Cómo cuidar la batería de tu Mac" width="550" height="344" class="aligncenter size-full" /></a></p>
+<p>La razón principal por la cual fui a la <strong><a href="www.macsfera.com/tag/genius-bar">Genius Bar</a></strong> fue <strong>para que me guiasen con el cuidado de mi batería.</strong></p>
+<p><span id="more-1754"></span></p>
+<p>En Internet te puedes encontrar un montón de información acerca de cual es «la mejor» manera de cuidar la batería de tu <strong><a href="www.macsfera.com/" title="Mac">Mac</a></strong>. Normalmente <strong>son experiencias vividas o haciendo referencias a páginas especialistas</strong> en el tema, pero <strong>yo hoy os traigo lo que me dijo el Genius.</strong></p>
+<p>Me comentó que <strong>los Mac pueden estar conectados a la luz unas 48 horas seguidas,</strong> pero que al pasar ese tiempo y repetir la situación varias veces la batería podría deteriorarse y perder vida útil.</p>
+<p>En caso de usar la batería, <strong>dejar que el ordenador se apague y no conectar el cargador hasta que el led blanco no se encienda. Cuando eso pase lo podemos conectar a la luz para que cargue.</strong></p>
+<p>Para evitar reacciones químicas indebidas y que la batería se deteriorase, <strong>era conveniente no tenerlo al sol, no dejarlo «encerrado» en lugares que estén expuesto al calor (un coche, una funda al sol, etc&#8230;) y que procurásemos que el <strong>Mac</strong> estuviera en una zona lisa y uniforme, a ser posible, no usarlo en cojines, camas, o cosas similares ya que el poco espacio que le levanta las cuatro «patas de goma» es suficiente para evitar reacciones químicas.</strong></p>
+<p>En función de la usabilidad que tengamos con el <strong>Mac</strong>,<strong> es recomendable <a href="www.macsfera.com/watts-calibra-tu-bateria-paso-a-paso/">hacer un calibrado de la batería</a> cada mes o dos meses,</strong> aunque si la usas poco intenta hacerlo con más frecuencia.</p>
+<p>Pero si creéis que la vida de vuestra batería no está en condiciones y tenéis un <strong>Mac Unibody</strong>, <strong>no os preocupeis porque la batería se puede cambiar</strong> y en mi caso por no más de 130€ (<strong>MacBook Pro</strong>).</p>
+<p>Un pequeño consejo, si no quieres que se te pula la batería en nada es el de <strong>tener,</strong> siempre que se pueda, <strong>la mayoría de las cosas del Mac desactivada</strong> (Bluetooth, WiFi, programas que no estés usando y que hayas abierto antes, brillo de la pantalla y sonido), aunque hay que tener en cuenta que <strong>muchas acciones que parecen normales consumen mucha energía</strong> como por ejemplo reproducir Flash desde el navegador.</p>
+<p>Así, a simple vista, el <strong>Mac</strong> no nos da mucha información de la batería, pero si investigamos un poco más si. Esto que buscamos son parámetros como la vida y los ciclos que tiene nuestra batería, y aunque no lo dicen de una manera legible, si que <strong>es posible saberlos con diversas apps,</strong> nosotros te recomendamos dos.</p>
+<h2>Watts</h2>
+<p>Es una <strong>app</strong> de la que ya hemos hablado y a parte de darte la información te guía paso a paso por el proceso del calibrado de batería.<br />
+<a href="www.macsfera.com/watts-calibra-tu-bateria-paso-a-paso/">Más información sobre Watts.</a></p>
+<h2>iStat Pro</h2>
+<p><a href="http://cdn.MacSfera.com/wp-content/uploads/2011/04/iStat-Pro.png"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="http://cdn.MacSfera.com/wp-content/uploads/2011/04/iStat-Pro.png" alt="" title="iStat Pro" width="550" height="85" class="aligncenter size-full wp-image-3541" srcset="https://www.MacSfera.com/wp-content/uploads/2011/04/iStat-Pro.png 550w, https://www.MacSfera.com/wp-content/uploads/2011/04/iStat-Pro-300x46.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>iStat Pro</strong> es un widget, no es una <strong>aplicación</strong>, se aloja en el <strong>Dashbord</strong> y a parte de la información de la batería te da parámetros varios en general de componentes de tu <strong>Mac</strong>.</p>
+<p>En el caso de la batería lo que <strong>te aporta es la vida, la carga, los ciclos, si está conectada</strong> y una pequeña imagen que emula el porcentaje de esta. A parte, si tienes algún dispositivo conectado como un <strong>Magic Mouse</strong> te dice cual es su porcentaje de la batería. A pesar de que pone Pro es gratis.</p>
+<p>En cualquier caso, estos consejos que os he aportado vienen dados por un <strong>Genius</strong> de <strong>Apple</strong> y yo no me he inventado nada.</p>
+<p>Podéis seguir estos consejos o no hacerlos, eso depende de vosotros, también podéis fiaros de otras webs o si queréis, tal y como hice yo, podéis quedar en la <strong>Genius Bar</strong> y que os cuenten ellos.</p>
+<p><strong>Esperamos que estos pequeños consejos os sirvan para tener vuestra batería lo más saludable que podáis.</strong></p>
+<p>Descarga | <a href="http://www.apple.com/downloads/dashboard/status/istatpro.html">iStat Pro</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-cuidar-la-bateria-de-tu-mac/">Cómo cuidar la batería de tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.MacSfera.com/como-cuidar-la-bateria-de-tu-mac/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ráfagas de fotos &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/rafagas-de-fotos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Fri, 23 Aug 2019 11:28:48 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Guía para almacenar tus fotos digitales y abandonar Fotos.app</title>
+		<link>https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sun, 30 Sep 2018 16:38:11 +0000</pubDate>
+				<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[Cámara lenta]]></category>
+		<category><![CDATA[Estructura de carpetas]]></category>
+		<category><![CDATA[Fotos]]></category>
+		<category><![CDATA[iCloud Drive]]></category>
+		<category><![CDATA[Lightroom]]></category>
+		<category><![CDATA[Live Photos]]></category>
+		<category><![CDATA[Migración]]></category>
+		<category><![CDATA[Ráfagas de fotos]]></category>
+		<category><![CDATA[Recuerdos]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16936</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a></p>
+<p>Desde su lanzamiento en 2015, Fotos.app ha sido mi sistema de almacenamiento principal para las fotos que he sacado, tanto con el</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a></p>
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175219/Guia-para-almacenar-fotos-digitales.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175219/Guia-para-almacenar-fotos-digitales.jpg" alt="Guia para almacenar fotos digitales" width="2500" height="1667" class="aligncenter size-full wp-image-16948" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175219/Guia-para-almacenar-fotos-digitales.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175219/Guia-para-almacenar-fotos-digitales.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175219/Guia-para-almacenar-fotos-digitales.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Desde su <a target="_blank" title="OS X 10.10.3 disponible con la nueva aplicación Fotos" href="www.macsfera.com/os-x-10-10-3-disponible-con-la-nueva-aplicacion-fotos/" rel="noopener noreferrer">lanzamiento en 2015</a>, Fotos.app ha sido mi sistema de almacenamiento principal para las fotos que he sacado, tanto con el móvil como con la cámara de fotos, e incluso fotos sacadas por otras personas que me interesa guardar.</p>
+<p>Pero a medida que crecía mi biblioteca y que iban pasando los años, <strong>me he dado cuenta de que Fotos.app ya no es para mí,</strong> no al menos según el uso que le quiero dar ahora a mis imágenes. <strong>Así que aquí tenéis la guía para almacenar tus fotos digitales y abandonar Fotos.app como sistema de gestión principal.</strong></p>
+<p><span id="more-16936"></span></p>
+<div class="table-of-contents">
+<hr/>
+<p><strong>Tabla de contenidos</strong></p>
+<ul>
+<li><a href="#mi-actual-flujo-de-trabajo">Mi actual flujo de trabajo con Fotos.app</a></li>
+<li><a href="#porque-abandonar-fotos-app">Porqué abandonar Fotos.app</a></li>
+<li><a href="#mi-nuevo-flujo-de-trabajo">Mi nuevo flujo de trabajo</a>
+<ul>
+<li><a href="#nuevo-sistema-de-almacenamiento">Nuevo sistema de almacenamiento</a></li>
+<li><a href="#estructura-de-carpetas">Estructura de carpetas</a></li>
+<li><a href="#lightroom-como-software-principal">Lightroom como software principal</a></li>
+<li><a href="#numero-de-catalogos">Número de catálogos</a></li>
+</ul>
+</li>
+<li><a href="#la-migracion">La migración</a>
+<ul>
+<li><a href="#casos-especiales">Casos especiales</a></li>
+</ul>
+</li>
+<li><a href="#sincronizacion-de-contenidos">Sincronización de contenidos</a>
+<ul>
+<li><a href="#utilizar-fotos-app-para-sincronizarlo-todo">Utilizar Fotos.app para sincronizarlo todo</a></li>
+</ul>
+</li>
+</ul>
+<hr/>
+</div>
+<p><a name="mi-actual-flujo-de-trabajo"></a></p>
+<h2>Mi actual flujo de trabajo con Fotos.app</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg" alt="Fotos para Mac" width="2500" height="1517" class="aligncenter size-full wp-image-10694" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg 1024w, https://cdn.macsfera.com/wp-content/uploads/2015/05/06175418/Fotos-para-Mac.jpg 220w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Os voy a dar un poco de contexto, porque una migración así sin más no tiene sentido si no está justificada. Así que os voy a contar brevemente cómo trabajo actualmente con Fotos.app:</p>
+<ul>
+<li><strong>Todas las fotos</strong> se importan a Fotos.app.</li>
+<li>La biblioteca, por disponibilidad y por su gran peso, <strong>está guardada en un disco duro externo</strong>.</li>
+<li><strong>Nada se sincroniza en la nube</strong> porque pesa mucho, el precio de los servidores es caro y no veo utilidad a tener todas mis fotos en todos los dispositivos.</li>
+</ul>
+<p>Para que os hagáis una idea, siento que mis fotos están almacenadas como si de una factura del banco se tratase, para guardarlas y ya. Y <strong>no considero que eso deba ser así</strong> ni mucho menos, las fotos hay que disfrutarlas, hay que verlas y hay que tratarlas.</p>
+<p><a name="porque-abandonar-fotos-app"></a></p>
+<h2>Porqué abandonar Fotos.app</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175257/Abandonar-Fotos-app.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175257/Abandonar-Fotos-app.jpg" alt="Abandonar Fotos app" width="2500" height="1667" class="aligncenter size-full wp-image-16949" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175257/Abandonar-Fotos-app.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175257/Abandonar-Fotos-app.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175257/Abandonar-Fotos-app.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Viendo cómo trabajo con las fotos, me he dado cuenta de que tengo una serie de carencias bastante importantes y que me gustaría no tener. <strong>Estos son los principales motivos que me han impulsado a abandonar Fotos.app:</strong></p>
+<ul>
+<li><strong>Lentitud cuando el catálogo de imágenes es grande:</strong> llega un punto en el que la aplicación se vuelve lenta y pesada cuando se excede un gran número de fotografías, eso hace que navegar por tus recuerdos sea una tarea tediosa.</li>
+<li><strong>Poca versatilidad de acceso:</strong> Fotos.app encapsula de forma interna todas las imágenes, de modo que sólo se pueden abrir en un Mac. Además, si el Mac no es el tuyo, es un poco más cansado porque se pueden cambiar configuraciones de la biblioteca principal por error.</li>
+<li><strong>Si quiero sincronizar, he de pagar:</strong> como mi catálogo es muy amplio, he de pagar por espacio en la nube que a día de hoy no necesito para disfrutar de unas pocas fotos <sup class="modern-footnotes-footnote ">1</sup> que realmente quiero tener en mis dispositivos.</li>
+<li><strong>Límite a la hora de editar las fotos:</strong> si bien el flujo no destructivo de Fotos.app me gusta, sus herramientas básicas de edición no sirven para mis archivos RAW. Y las extensiones de aplicaciones como Affinity Photo o Pixelmator, o bien son lentas, o bien están limitadas.</li>
+<li><strong>Su público objetivo es el principiante-medio:</strong> y, si bien yo no soy un profesional, hay algunas tareas para profesionales que he incorporado a mi flujo de tratamiento fotográfico y que me vienen muy bien, ya sea por los resultados obtenidos o por la velocidad en la ejecución.</li>
+<li><strong>Lentitud con las actualizaciones:</strong> las novedades llegan a Fotos.app con cuentagotas. Una vez al año, y si llegan. Hay herramientas de terceros que tienen un periodo de desarrollo más acelerado y cuyas mejoras y novedades llegan con más frecuencia.</li>
+<li><strong>No cumplo mi objetivo:</strong> al final, entre unas cosas y otras no cumplo el objetivo de guardar todas mis imágenes y disfrutar de un subconjunto ordenado y editado, por lo tanto mis recuerdos se quedan ahí, en el disco duro externo sin más uso y disfrute.</li>
+</ul>
+<p><a name="mi-nuevo-flujo-de-trabajo"></a></p>
+<h2>Mi nuevo flujo de trabajo</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180908/Flujo-de-trabajo-fotos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180908/Flujo-de-trabajo-fotos.jpg" alt="Flujo de trabajo fotos" width="2429" height="2500" class="aligncenter size-full wp-image-16956" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180908/Flujo-de-trabajo-fotos.jpg 2429w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30180908/Flujo-de-trabajo-fotos.jpg 194w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30180908/Flujo-de-trabajo-fotos.jpg 995w" sizes="(max-width: 2429px) 100vw, 2429px" /></a></p>
+<p>Así pues, <strong>me he visto obligado a buscar una nueva forma de almacenar las fotos, junto a un nuevo flujo de trabajo y una nueva aplicación gestora.</strong> Todo ello con el objetivo de poder solucionar estos problemas que me he encontrado con el paso de los años.</p>
+<p>De modo que lo que antes hacía una sola aplicación, ahora se divide en varias tomas de decisiones, veámoslas una a una.</p>
+<p><a name="nuevo-sistema-de-almacenamiento"></a></p>
+<h3>Nuevo sistema de almacenamiento</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2016/07/29121545/Disco-duro-en-BackPack.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2016/07/29121545/Disco-duro-en-BackPack.jpg" alt="Disco duro en BackPack" width="2500" height="1667" class="aligncenter size-full wp-image-15094" srcset="https://cdn.macsfera.com/wp-content/uploads/2016/07/29121545/Disco-duro-en-BackPack.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2016/07/29121545/Disco-duro-en-BackPack.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2016/07/29121545/Disco-duro-en-BackPack.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Las fotos ya no se van a guardar de forma encapsulada y con el orden que una aplicación quiera. Ahora vamos a ser nosotros los que decidamos cómo queremos que se guarden, y lo más importante, dónde.</p>
+<p>La accesibilidad es el punto más importante en este aspecto, y qué hay más accesible que el gestor de ficheros del sistema. Así que sí, <strong>guardaremos las fotos en carpetas y subcarpetas usando Finder</strong> como se ha hecho toda la vida. De esta forma, da igual desde qué ordenador se consulte, da igual desde qué sistema se consulte, nuestras fotos siempre van a estar accesibles.</p>
+<p>Además, como esta solución es la más común, podemos emplearla en el disco duro del ordenador, en un disco duro externo, en sistemas de almacenamiento en la nube como <a target="_blank" title="¿Por qué iCloud es mi servicio en la nube favorito?" href="www.macsfera.com/por-que-icloud-es-mi-servicio-en-la-nube-favorito/" rel="noopener noreferrer">iCloud Drive</a> o Dropbox, e incluso en nuestro propio NAS.</p>
+<p>Yo por el momento voy a utilizar el mismo disco duro en el que estoy guardando la biblioteca de Fotos.app, pero no descarto en un futuro utilizar un NAS o algún servicio de almacenamiento en la nube.</p>
+<p><a name="estructura-de-carpetas"></a></p>
+<h3>Estructura de carpetas</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30183356/Estructura-de-carpetas-fotos-digitales.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30183356/Estructura-de-carpetas-fotos-digitales.jpg" alt="Estructura de carpetas fotos digitales" width="960" height="626" class="aligncenter size-full wp-image-16958" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30183356/Estructura-de-carpetas-fotos-digitales.jpg 960w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30183356/Estructura-de-carpetas-fotos-digitales.jpg 300w" sizes="(max-width: 960px) 100vw, 960px" /></a></p>
+<p>Como he comentado, antes era la propia aplicación de Fotos.app la que decidía cómo tenían que guardarse físicamente las fotos. Ahora esa decisión la tenemos que tomar nosotros, y he de admitir que ha sido una de las decisiones más complejas del plan.</p>
+<p>Hay muchas formas de estructurar las fotos, estos son algunos ejemplos de ellas que podéis utilizar. Es más, son tan comunes que hasta algún gestor fotográfico os permite automatizar la importación de modo que simplemente le pasas un montón de fotos y él mismo os las organiza en carpetas:</p>
+<ul>
+<li><strong>Año / Mes / Día:</strong> <em>2018 / 07 / 31</em></li>
+<li><strong>Año / Mes-Día:</strong> <em>2018 / 07-31</em></li>
+<li><strong>Año / Estación del año:</strong> <em>2018 / Verano</em></li>
+<li><strong>Año / Año-Mes-Día:</strong> <em>2018 / 2018-07-31</em></li>
+<li><strong>Año / Día de Mes en texto:</strong> <em>2018 / 31 de julio</em></li>
+<li><strong>Año / Mes en texto / Día:</strong> <em>2018 / Julio / 31</em></li>
+<li><strong>Año / Año &#8211; Mes / Día:</strong> <em>2018 / 2018-07 / 31</em></li>
+<li><strong>Año-Mes-Día:</strong> <em>2018-07-31</em></li>
+<li><strong>Año Mes en texto día:</strong> <em>2018 julio 31</em></li>
+<li><strong>Año MesMes en texto día:</strong> <em>2018 07julio 31</em></li>
+<li><strong>AñoMesDía:</strong> <em>20180731</em></li>
+</ul>
+<p>Podéis elegir la estructura de carpetas que deseéis, pero <strong>mi objetivo es usar un sistema que permita tener el control sobre el tiempo, que no mezcle temas y que,</strong> además, <strong>me permita usar el buscador de Finder para encontrar resultados</strong> en caso de que no pueda usar la nueva herramienta que catalogará y clasificará esas fotos.</p>
+<p>Por ello, la estructura que usaré será la siguiente:</p>
+<ul>
+<li><strong>Año / Año-Mes-Día descripción</strong></li>
+</ul>
+<p>Por ejemplo:</p>
+<ul>
+<li>2018
+<ul>
+<li>2018-07-31 día feliz</li>
+<li>2018-09-08 cumpleaños Raquel</li>
+</ul>
+</li>
+</ul>
+<p>Tenemos una carpeta general que identifica el año de las fotos. Dentro de esa carpeta tendremos todas las carpetas con un nombre compuesto:</p>
+<p><strong>año-mes-día temática de la fotos</strong></p>
+<p>Con el <strong>año-mes-día</strong> podemos distinguir la fecha de las fotos en una búsqueda que abarque múltiples años. Además, al incluirla en ese formato, cuando ordenemos las carpetas por nombre se ordenarán por fecha automáticamente. Y si en el futuro decidimos eliminar las carpetas principales que representan el año y mezclar todas las fotos, estarán ordenadas por fecha a su vez.</p>
+<p><strong>Con la <strong>temática de las fotos</strong> lo que conseguimos es poder realizar búsquedas rápidas y limitadas usando únicamente Finder,</strong> sin necesidad de software externo ni nada por el estilo. Esto es especialmente útil cuando estamos en un ordenador que no es el nuestro y no disponen del software adecuado para abrir nuestra colección de fotos para consultar los álbumes, etiquetas, metainformación, etc. También hay que tener en cuenta el contexto general que aporta una breve descripción a la hora de navegar por todo el mar de carpetas que podemos haber generado en un solo año <sup class="modern-footnotes-footnote ">2</sup>.</p>
+<p><a name="lightroom-como-software-principal"></a></p>
+<h3>Lightroom como software principal</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30112554/Lightroom-para-Mac.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30112554/Lightroom-para-Mac.jpg" alt="Lightroom para Mac" width="2500" height="1517" class="aligncenter size-full wp-image-16941" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30112554/Lightroom-para-Mac.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30112554/Lightroom-para-Mac.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30112554/Lightroom-para-Mac.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Una vez que hemos separado el almacenamiento fotográfico de la aplicación gestora, es hora de decidir cuál es el software que se va a encargar de organizar y editar nuestras fotos. <strong>En mi caso he elegido Lightroom,</strong> el famoso editor fotográfico de Adobe.</p>
+<p>¿Los motivos? Muy sencillos:</p>
+<ul>
+<li><strong>Es software para medios-profesionales:</strong> lo cual me da más herramientas para editar y tratar mis fotos.</li>
+<li><strong>Tiene un mejor rendimiento con un gran catálogo de fotos:</strong> está mejor optimizado y se mueve mucho mejor que Fotos.app con bibliotecas grandes y con fotografías pesadas.</li>
+<li><strong>Permite edición de raws y aplicar ajustes en masa:</strong> la herramienta está pensada para la edición de archivos RAW, de modo que es una tarea que hace realmente bien. Y para colmo me deja aplicar los mismos cambios en varias fotos, ahorrándome tiempo de edición.</li>
+<li><strong>No es destructivo:</strong> <sup class="modern-footnotes-footnote ">3</sup>: lo que significa que da igual cómo edite una foto, el archivo original se mantiene intacto, además de que puedo navegar siempre que quiera por el historial de cambios.</li>
+<li><strong>No tiene un sistema de almacenamiento propio y encapsulado:</strong> con lo cual, podemos importar todas las fotos que tengamos almacenadas de la manera que prefiramos. Es la aplicación la que se adapta a nosotros y no al revés.</li>
+</ul>
+<p>El hecho de usar Lightroom es porque es conocido, funciona bien, tiene complementos y hay infinidad de recursos en Internet para aprender a utilizarlo, además del mencionado ciclo de desarrollo. Si encontráis otro software que cumpla las condiciones antes descritas, <strong>también os valdrá sin ningún problema</strong> <sup class="modern-footnotes-footnote ">4</sup>. Por mi parte, además, estoy buscando soluciones multiplataforma porque quiero que todo lo que tenga que ser accesible conceptualmente hablando, lo sea lo máximo posible <sup class="modern-footnotes-footnote ">5</sup>.</p>
+<p><a name="numero-de-catalogos"></a></p>
+<h3>Número de catálogos</h3>
+<div id="attachment_16955" style="width: 2510px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180035/Como-guardar-fotos-digitales.jpg"><img aria-describedby="caption-attachment-16955" src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180035/Como-guardar-fotos-digitales.jpg" alt="Cómo guardar fotos digitales" width="2500" height="1667" class="size-full wp-image-16955" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30180035/Como-guardar-fotos-digitales.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30180035/Como-guardar-fotos-digitales.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30180035/Como-guardar-fotos-digitales.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-16955" class="wp-caption-text">Imagen de <a href="https://unsplash.com/@ninjason" target="_blank" rel="noopener noreferrer">Jason Leung</a></p></div>
+<p>Depende de vuestro volumen de fotos, del rendimiento de vuestro ordenador y de la nueva aplicación gestora, vais a querer tener un solo catálogo o varios. Cada decisión tiene sus pros y sus contras, así que os las pongo sobre la pantalla para que decidáis lo que mejor os conviene.</p>
+<p><strong>Un único catálogo:</strong></p>
+<ul>
+<li>Ventajas:
+<ul>
+<li>Todas las fotos en un mismo sitio y a un solo click.</li>
+<li>El filtro de etiquetas, álbumes, estadísticas, localizaciones, etc. afecta a todo el conjunto de fotos.</li>
+</ul>
+</li>
+<li>Desventajas:
+<ul>
+<li>Si hay mucho contenido, el programa se vuelve lento, consume más recursos y hace que, en general, todo cueste más esfuerzo y tiempo.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Varios catálogos:</strong></p>
+<ul>
+<li>Ventajas:
+<ul>
+<li>Velocidad y rapidez a la hora de navegar por nuestro catálogo fotográfico.</li>
+<li>Más independencia a la hora de mover o copiar años enteros.</li>
+</ul>
+</li>
+<li>Desventajas:
+<ul>
+<li>Nuestras fotos están separadas y la metainformación (etiquetas, álbumes, etc.) duplicada en varios catálogos.</li>
+</ul>
+</li>
+</ul>
+<p>Podéis usar la solución que más os convenga y se adapte a vuestras necesidades. Yo por mi parte he optado por un solo catálogo con todas las fotos, pero en cuanto vea que el sistema empieza a ir lento y pesado lo divido en años, porque uno de los motivos de iniciar toda esta migración ha sido la velocidad a la hora de interactuar con la aplicación.</p>
+<p><a name="la-migracion"></a></p>
+<h2>La migración</h2>
+<div id="attachment_16954" style="width: 2510px;  border: 1px solid #dddddd; background-color: #f3f3f3; padding: 4px; margin: 10px; text-align:center; display: block; margin-right: auto; margin-left: auto;" class="wp-caption aligncenter medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175849/Como-almacenar-fotos-digitales.jpg"><img aria-describedby="caption-attachment-16954" src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175849/Como-almacenar-fotos-digitales.jpg" alt="Como almacenar fotos digitales" width="2500" height="1739" class="size-full wp-image-16954" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175849/Como-almacenar-fotos-digitales.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175849/Como-almacenar-fotos-digitales.jpg 288w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175849/Como-almacenar-fotos-digitales.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a><p style=' padding: 0 4px 5px; margin: 0;'  id="caption-attachment-16954" class="wp-caption-text">Imagen de <a href="https://unsplash.com/@stefyaich" target="_blank" rel="noopener noreferrer">Stephane YAICH</a></p></div>
+<p>En todo proyecto, especialmente informático, una de las cosas que más miedo da es la migración de datos. Temblamos cada vez que nos dicen que hay que coger unos datos que tienen una forma y tenemos que llevarlos a otro sitio con otra forma. No es que sea imposible, simplemente que los datos es de las cosas más importantes en un sistema, y no se puede garantizar que se mantengan intactos si aplicamos transformaciones sobre ellos.</p>
+<p><strong>Y en esta tarea no iba a ser distinta.</strong> He tenido problemas con la exportación, con la importación y con el movimiento de imágenes entre discos. Aquí os los detallo mejor:</p>
+<ul>
+<li>He exportado todo un año de Fotos.app y <strong>he tenido error de un conjunto de imágenes que no se han exportado</strong> <sup class="modern-footnotes-footnote ">6</sup>.</li>
+<li>He importado todo un año de fotos en Lightroom para que lo ordene por carpetas según el año-mes-día y <strong>ha asignado fechas incorrectas a muchas imágenes.</strong></li>
+<li>He copiado archivos al disco duro, se han marcado como copiados y luego <strong>han desaparecido sin previo aviso.</strong></li>
+</ul>
+<p>Por eso, si queréis seguir una estructura de carpetas como la mía, en la que no podéis automatizar el proceso al 100% porque hay una parte que tiene que ser escrita por vosotros, <strong>esta es la mejor forma que he encontrado de hacerlo.</strong></p>
+<ol>
+<li><strong>Exportamos las fotografías de Fotos.app en conjuntos de mes a mes:</strong> acordaos de <a target="_blank" title="Cómo recuperar los archivos RAW importados en Fotos" href="www.macsfera.com/como-recuperar-los-archivos-raw-importados-en-fotos/" rel="noopener noreferrer">exportar la foto en calidad RAW</a>, u original.</li>
+<li><strong>Colocamos esas fotos en las subcarpetas finales:</strong> esta es la parte más dura y aburrida del proceso. Para que este flujo de trabajo sea lo más rápido y directo posible seguid estos pasos:
+<ol>
+<li>Creamos una carpeta (cmd + n).</li>
+<li>Añadimos el prefijo <em>“Año-Mes-“</em> según el año y el mes de las fotos que vamos a ordenar.</li>
+<li>Duplicamos esa carpeta muchas veces (cmd + d).</li>
+<li>Movemos las fotos según su fecha de creación y temática a las carpetas.</li>
+<li>Renombramos la carpeta añadiendo el día que se sacó la foto y la temática.</li>
+<li>El proceso de mover las fotos exportadas a sus respectivas carpetas ha de hacerse en el propio Mac, y cuando tengamos todas ordenadas, las pasamos al disco duro. Si lo hacemos sobre un disco duro externo directamente, la foto en vez de moverse se copiará, con lo que tendremos que borrarla más tarde de nuestro ordenador. Al hacerlo en local, nos ahorramos el paso de borrar cada foto individualmente.</li>
+</ol>
+</li>
+<li><strong>Buscamos duplicados</strong> para confirmar que no hemos exportado varias veces la misma foto, que no hemos duplicado por error, etc. Con <a target="_blank" title="Gemini 2 llega para limpiar tu Mac de archivos duplicados" href="www.macsfera.com/gemini-2-llega-para-limpiar-tu-mac-de-archivos-duplicados/" rel="noopener noreferrer">Gemini buscar archivos duplicados</a> es muy sencillo. Os la recomiendo para esta tarea.</li>
+<li>Por último, una vez que ya están todas las fotos colocadas en nuestro disco duro, lo único que tenemos que hacer <strong>es importarlo a Lightroom.</strong> La forma correcta de importarlo es dándole a la opción de “Añadir”. De esta forma, Lightroom cogerá la ubicación y la estructura de carpetas originales y la respetará.</li>
+</ol>
+<p><a name="casos-especiales"></a></p>
+<h3>Casos especiales</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg" alt="Live Photos" width="2500" height="1072" class="aligncenter size-full wp-image-12395" srcset="https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2015/10/29180632/Live-Photos.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Una de las cosas que voy a echar de menos de Fotos.app es la forma tan sencilla de gestionar los formatos especiales de las fotografías y vídeos que produce el iPhone, por eso os traigo la manera de exportar estos formatos específicos para que no perdáis nada de compatibilidad.</p>
+<h4>Fotos ya editadas en Fotos.app</h4>
+<p>Si ya tenemos alguna foto editada, la forma de actuar es:</p>
+<ol>
+<li>Exportamos la imagen normal para conservar una copia simple de la foto editada.</li>
+<li>Exportamos la foto original. Con este tipo de exportación, además se exportará un archivo .aeh que tiene las transformaciones que se han hecho sobre esta foto.</li>
+</ol>
+<p><strong>Así mantendremos una foto rápida con los cambios hechos, la foto original y los ajustes realizados a la foto.</strong> El archivo .aeh nos servirá el día de mañana por si queremos importar la imagen original de nuevo a Fotos.app para que esta se importe con los ajustes que hicimos en el pasado <sup class="modern-footnotes-footnote ">7</sup>.</p>
+<h4>LivePhotos</h4>
+<p>Las LivePhotos son una de las características que más me gustan del iPhone. Me encanta tener recuerdos en movimiento, poder elegir un frame distinto como foto principal porque ha quedado mejor, <a target="_blank" title="Cómo enviar nuestras Live Photos por WhatsApp o Telegram" href="www.macsfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/" rel="noopener noreferrer">hacer GIFs para compartirlos por WhatsApp</a>, etc.</p>
+<p>Por ello, <strong>es muy importante que podamos conservar la LivePhoto para nuestro uso y disfrute,</strong> aunque el programa gestor no la soporte.</p>
+<p>Para conseguirlo, vamos a exportar la foto original, y el resultado de dicha exportación será <strong>una imagen estática y un vídeo.</strong></p>
+<p>La clave aquí reside en que si conservamos ambos archivos, con los mismos nombres, <strong>luego los podemos importar en Fotos.app de nuevo como una LivePhoto y disfrutar de ella como si no la hubiésemos exportado.</strong></p>
+<h4>Fotos retrato</h4>
+<p>Las fotos retrato son un caso un tanto especial porque, si bien nosotros vemos tanto en el iPhone como en el Mac la foto con el efecto bokeh, en realidad es una foto normal a la que se añade por software el efecto, por lo que si exportamos la foto original no vamos a tener ningún efecto.</p>
+<p>Este es el procedimiento que hay que seguir para exportar satisfactoriamente las fotos retrato:</p>
+<ol>
+<li>Exportamos la imagen con el efecto bokeh para conservar una copia de la foto que sacamos y poder verla en todas partes como en el iPhone.</li>
+<li>Exportamos la foto original que no tendrá el efecto bokeh, pero tendrá todos los metadatos del bokeh. Estos metadatos son muy importantes porque si importamos esta foto de nuevo en Fotos.app vamos a poder aplicar de nuevo el efecto bokeh (y otros muchos).</li>
+</ol>
+<p>Gracias a estos dos archivos, vamos a poder tener una copia de la foto que podemos ver y utilizar con el efecto bokeh, y otra original que vamos a poder reimportar en Fotos.app cuando queramos y aplicar los efectos que queramos (ya sea con Fotos.app o con otras aplicaciones que permiten modificar los parámetros de bokeh).</p>
+<p>Es importante que os acordéis de que cuando reimportéis la foto en Fotos.app, hay que activar la opción de retrato para que se aplique el efecto bokeh. Esto se hace editando la foto en Fotos.app y <a href="https://www.MacSfera.com/wp-content/uploads/2019/08/Activar-fotos-retrato-Fotos.app_.jpg" target="_Blank" rel="noopener noreferrer">activando la opción «Retrato» que aparece abajo a la izquierda</a>.</p>
+<h4>Vídeos a cámara lenta</h4>
+<p>Los vídeos a cámara lenta, al igual que las fotos retrato, son otro caso especial porque Apple ha hecho un gran trabajo en su software para que nosotros mismos podamos definir cuál es el periodo de cámara lenta del vídeo grabado, de una forma muy sencilla y directa.</p>
+<p>Como ahora vamos a prescindir del software que hace que esto sea fácil y rápido, <strong>esta es mi recomendación para que podáis tener todo el material original</strong> que en un futuro os puede servir para vuestras propias producciones cinematográficas:</p>
+<ul>
+<li><strong>Exportamos el vídeo normal:</strong> de esta forma, obtenemos un vídeo de 25 FPS con la zona que hemos convertido a cámara lenta empotrada directamente en el vídeo. Este vídeo nos servirá para compartirlo rápidamente por redes sociales o para visualizarlo cómodamente en cualquier reproductor, disfrutando de la cámara lenta.</li>
+<li><strong>Exportamos el vídeo original:</strong> con esta exportación obtendremos dos archivos. Un archivo .mov de 120 FPS o 240 FPS (dependiendo de nuestro iPhone y <a target="_blank" title="Cómo grabar 4K y cámara lenta con el iPad Pro" href="www.macsfera.com/grabar-4k-camara-lenta-ipad-pro/" rel="noopener noreferrer">su configuración</a>) que contiene todo el vídeo a cámara lenta. Y un archivo .aeh que servirá para indicar a un programa compatible cuál es el periodo de tiempo que hemos decidido poner a cámara lenta <sup class="modern-footnotes-footnote ">8</sup>.</li>
+</ul>
+<p>Si bien puede parecer un poco redundante tener dos vídeos del mismo contenido, <strong>uno de ellos nos sirve para compartir rápidamente el montaje de cámara normal y cámara lenta,</strong> mientras que <strong>el otro nos sirve para que, con un editor de vídeo, podamos hacer lo que queramos con él sin perder la cámara lenta de todo el vídeo.</strong></p>
+<h4>Ráfaga de fotos</h4>
+<p>Para guardar las ráfagas de fotos, <strong>lo que tenemos que hacer es exportar el conjunto de fotos sin modificar.</strong> Así se exportará toda la colección aunque parezca que sólo vamos a exportar una sola foto.</p>
+<p>El único problema que le he visto a las ráfagas de fotos es que <strong>no he sido capaz de descubrir cómo importarlas de nuevo en Fotos.app y que detecte que es una ráfaga.</strong> Se importan todas de forma independiente e incluso no he visto una forma de convertirlas a ráfaga después.</p>
+<p>Puede que eso si que, aunque prescindamos de Fotos.app, nos interese tenerlo en la aplicación por si el día de mañana queremos importarla al iPhone como una ráfaga y no como imágenes individuales.</p>
+<p><a name="sincronizacion-de-contenidos"></a></p>
+<h2>Sincronización de contenidos</h2>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175349/Albumes-en-iPhone-X.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175349/Albumes-en-iPhone-X.jpg" alt="Albumes en iPhone X" width="2500" height="1667" class="aligncenter size-full wp-image-16950" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175349/Albumes-en-iPhone-X.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175349/Albumes-en-iPhone-X.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175349/Albumes-en-iPhone-X.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p>Otro de los objetivos de este cambio es el de <strong>poder disfrutar de todas las fotos que tengo,</strong> no solo las que saco con un producto Apple, también las que tomo con mi cámara de fotos o las que me pasan familiares y amigos. Además, me gusta la idea de editarlas y organizarlas, de modo que puedo crear pequeñas colecciones y llevarlas conmigo.</p>
+<p>Hay varias formas de atajar este problema, aquí van algunas:</p>
+<ul>
+<li><strong>Utilizar servicios en la nube</strong> como iCloud Drive, Dropbox o Google Drive.</li>
+<li><strong>Utilizar servicios de almacenamiento fotográfico</strong> como Fotos.app, Google Photos o Amazon Photos.</li>
+<li><strong>Utilizar un NAS o un disco duro en red privado.</strong></li>
+</ul>
+<p>Os voy a contar la que creo que es la mejor opción para mí ahora mismo: <strong>Fotos.app.</strong></p>
+<p><a name="utilizar-fotos-app-para-sincronizarlo-todo"></a></p>
+<h3>Utilizar Fotos.app para sincronizarlo todo</h3>
+<p class="medio"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175458/Fotos-para-sincronizar-con-el-iPhone.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175458/Fotos-para-sincronizar-con-el-iPhone.jpg" alt="Fotos para sincronizar con el iPhone" width="2500" height="1667" class="aligncenter size-full wp-image-16952" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175458/Fotos-para-sincronizar-con-el-iPhone.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175458/Fotos-para-sincronizar-con-el-iPhone.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175458/Fotos-para-sincronizar-con-el-iPhone.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><em>¿Qué?, ¿Cómo?, ¿Nos estás vacilando verdad?</em> No, no os estoy vacilando, <strong>quiero usar la aplicación Fotos.app para sincronizar ese subconjunto de instantáneas que tengo con mis múltiples dispositivos,</strong> y os voy a explicar porqué:</p>
+<p>Puesto que Fotos.app está pensado para usuarios principiantes, realiza muy bien su cometido con un uso básico, así que la forma de enfocar esto es sencilla, tan sencilla como su uso:</p>
+<ul>
+<li>Todas las fotos que importaré serán versiones editadas y reducidas de los archivos originales, de modo que la única misión de Fotos.app es almacenar y sincronizar.</li>
+<li>Como son versiones reducidas y es un subconjunto del total de imágenes, la aplicación se moverá fluidamente y no tendré que invertir en espacio en la nube porque con el que tengo contratado ahora mismo me es suficiente.</li>
+<li>Gracias a estas dos decisiones, cada equipo podrá tener su propia librería en local, de modo que podré acceder a estas imágenes sin necesidad de ningún disco duro externo ni ningún caso especial, siempre disponibles.</li>
+</ul>
+<p>Además, <strong>Fotos.app sincroniza todo el contenido realmente bien entre dispositivos gracias a iCloud Drive,</strong> así que me tengo que olvidar de que todo se haya subido, de que el NAS esté funcionando bien o de que se me haya olvidado guardar ciertas fotos en el carrete porque las sincronicé recientemente en Dropbox.</p>
+<p>Esta es la segunda parte más costosa de la tarea, el rellenar de contenido nuestros dispositivos. Esto es, a groso modo, <strong>el flujo de trabajo que voy a seguir para sincronizar las fotos que deseo con mis dispositivos:</strong></p>
+<ol>
+<li>Elijo un evento o temática que quiero tener y veo todas las fotos, seleccionando cuáles son las que quiero sincronizar.</li>
+<li>Edito la selección, refinando más si es necesario las elegidas en el punto 1. Aquí puedo ayudarme de los presets de Lightroom para editar fotos en masa y ahorrar tiempo.</li>
+<li>Exporto todas las fotos con una configuración adecuada para que la salida no pese mucho.</li>
+<li>Importo y coloco en Fotos.app todas las fotos editadas.</li>
+</ol>
+<p>El resto simplemente consiste en esperar a la sincronización y disfrutar de las fotos en mis múltiples dispositivos.</p>
+<hr />
+<p class="grande"><a href="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175414/Editando-fotos-en-Lightroom.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175414/Editando-fotos-en-Lightroom.jpg" alt="Editando fotos en Lightroom" width="2500" height="1667" class="aligncenter size-full wp-image-16951" srcset="https://cdn.macsfera.com/wp-content/uploads/2018/09/30175414/Editando-fotos-en-Lightroom.jpg 2500w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175414/Editando-fotos-en-Lightroom.jpg 300w, https://cdn.macsfera.com/wp-content/uploads/2018/09/30175414/Editando-fotos-en-Lightroom.jpg 1024w" sizes="(max-width: 2500px) 100vw, 2500px" /></a></p>
+<p><strong>Soy consciente de que esta labor es muy tediosa.</strong> Yo mismo la he sufrido en mis propias carnes, pero realmente creo que merece la pena cuidar y tener bien organizados nuestros recuerdos.</p>
+<p>He leído bastante acerca de este tema y casi siempre encontraba lo mismo: <strong>soluciones básicas y genéricas.</strong> Así que espero que esta guía os sirva y os amplíe un poco de información acerca de las distintas opciones que tenéis a la hora de prescindir de Fotos.app. Y aunque no os sirva directamente, <strong>espero que os ayude a desarrollar un sistema propio que se adapte a vuestras necesidades.</strong></p>
+<p><strong>Me gustaría dar las gracias a <a target="_blank" href="https://twitter.com/xtianp87" rel="noopener noreferrer">Christian Pérez</a></strong> porque ha estado ahí detrás escuchándome, dándome su opinión y ayudándome a ver los posibles problemas de todos los planteamientos que he hecho. Christian tiene mucha experiencia con el tema fotográfico, así que si queréis, echadle un vistazo <a target="_blank" href="https://www.instagram.com/xtianp87/" rel="noopener noreferrer">a su Instagram</a> donde cuelga fotos de sus viajes y aventuras.</p>
+<p>Por último, <strong>animaros a que compartáis vuestras experiencias, sugerencias, mejoras o ideas sobre cómo organizar vuestras fotos una vez abandonada la aplicación de Apple.</strong> Cada persona es un mundo y lo que a mí a lo mejor no me sirve, a otra persona le puede ayudar mucho, así que cuantas más ideas reunamos mejor.</p>
+<div>1&nbsp;&nbsp;&nbsp;&nbsp;No quiero sincronizar todas las fotos, sólo aquellas más bonitas y significativas.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Yo no sé vosotros, pero si veo trescientas carpetas de fechas sin ninguna descripción, me pierdo.</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Al igual que Fotos.app, la diferencia es que en Fotos.app no puedo editar mis imágenes.</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;Y hay alternativas, así que buscad bien para saber cuál os viene mejor.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;El que pueda ir a casa de un amigo con mi disco duro de fotos es más que posible, así que necesito soluciones multiplataforma. Sin embargo mi aplicación de lista de la compra no es tan esencial que esté disponible en varios entornos.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;Error no notificado, por supuesto, de modo que lo he tenido que descubrir yo mismo</div><div>7&nbsp;&nbsp;&nbsp;&nbsp;Gracias a este archivo, en Fotos.app tendremos la foto original y la foto editada todo en uno. De modo que si queremos revertir alguna modificación, podemos hacerlo porque el archivo .aeh incluye todos esos cambios que hicimos.</div><div>8&nbsp;&nbsp;&nbsp;&nbsp;QuickTime en el Mac es compatible con este formato de archivo, de modo que veremos el vídeo a cámara lenta como lo veríamos en el iPhone, he incluso podríamos editar la franja temporal de cámara lenta al momento.</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

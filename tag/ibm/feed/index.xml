@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IBM &#8211; MacSfera</title>
+	<atom:link href="https://www.MacSfera.com/tag/ibm/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.MacSfera.com/</link>
+	<description>Blog sobre Apple con especial interés en la opinión personal en el Mac, el iPhone y el iPad.</description>
+	<lastBuildDate>Sun, 29 Jan 2023 11:28:40 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>El Mac en la empresa</title>
+		<link>https://www.MacSfera.com/mac-la-empresa/</link>
+		
+		<dc:creator><![CDATA[Pablo Asekas]]></dc:creator>
+		<pubDate>Sat, 06 Feb 2016 22:54:08 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Enlaces]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Empresas]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[Noticias de Apple]]></category>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12948</guid>
+
+					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mac-la-empresa/">El Mac en la empresa</a></p>
+<p>Apple ha publicado una nueva página enfocada a vender la idea de usar el Mac en la empresa. Empresas de todo el</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mac-la-empresa/">El Mac en la empresa</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mac-la-empresa/">El Mac en la empresa</a></p>
+<p>Apple ha publicado una nueva página enfocada a vender la idea de usar el Mac en la empresa.</p>
+<blockquote class="enlace">
+<p>Empresas de todo el mundo se están dando cuenta de las posibilidades que ofrece el Mac a sus empleados. Han descubierto que la clave está en darles libertad para que usen las herramientas que más les gusten.</p>
+</blockquote>
+<p><a href="http://www.apple.com/es/business/mac/" target="_blank" rel="noopener noreferrer">La web</a> hace un repaso por todas la bondades de <a title="OS X" href="www.macsfera.com/tag/os-x" target="_blank" rel="noopener noreferrer">OS X</a> incluyendo testimonios de empresas que usan el Mac en su plantilla y reportes de IBM.</p>
+<p>Desconozco si convencerá a muchos, ya que los movimientos en empresas son más lentos y complicados que los individuales, pero puesto que <a title="Apple anuncia una nueva alianza con Cisco para optimizar la integración del iPhone y el iPad en entornos de empresa" href="www.macsfera.com/apple-anuncia-una-nueva-alianza-con-cisco-para-optimizar-la-integracion-del-iphone-y-el-ipad-en-entornos-de-empresa/" target="_blank" rel="noopener noreferrer">empezaron a hacerlo con el iPhone y el iPad</a>, no veo porqué con el Mac no.</p>
+<p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mac-la-empresa/">El Mac en la empresa</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
