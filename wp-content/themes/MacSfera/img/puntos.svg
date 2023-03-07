@@ -1,0 +1,13 @@
+<svg viewBox="0 0 128 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Created by Pablo Asekas</desc>
+	<defs></defs>
+	<g id="more" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Capa_1" fill="#FFFFFF">
+			<g id="Group">
+				<path d="M17,0 C7.626625,0 0,7.626625 0,17 C0,26.373375 7.626625,34 17,34 C26.373375,34 34,26.373375 34,17 C34,7.626625 26.373375,0 17,0 Z" id="Shape"></path>
+				<path d="M110.5,0 C101.126625,0 93.5,7.626625 93.5,17 C93.5,26.373375 101.126625,34 110.5,34 C119.873375,34 127.5,26.373375 127.5,17 C127.5,7.626625 119.873375,0 110.5,0 Z" id="Shape"></path>
+				<path d="M63.75,0 C54.376625,0 46.75,7.626625 46.75,17 C46.75,26.373375 54.376625,34 63.75,34 C73.123375,34 80.75,26.373375 80.75,17 C80.75,7.626625 73.123375,0 63.75,0 Z" id="Shape"></path>
+			</g>
+		</g>
+	</g>
+</svg>
