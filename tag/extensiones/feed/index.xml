@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Extensiones &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/extensiones/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[Safari]]></category>
 		<category><![CDATA[Tweetbot]]></category>
 		<category><![CDATA[Twitter]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14845</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/abrir-enlaces-twitter-cliente-escritorio/">Cómo abrir enlaces de Twitter en el cliente de escritorio</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14845</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/abrir-enlaces-twitter-cliente-escritorio/">Cómo abrir enlaces de Twitter en el cliente de escritorio</a></p>
 <p>Para los que usamos mucho Twitter, solemos tener un cliente de la red social para escritorio. Yo personalmente uso Tweetbot y lo</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/abrir-enlaces-twitter-cliente-escritorio/">Cómo abrir enlaces de Twitter en el cliente de escritorio</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Programación &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/programacion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Programación]]></category>
 		<category><![CDATA[Swift Playgrounds]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15897</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/cursos-gratuitos-hora-del-codigo-del-5-al-11-diciembre-las-apple-store/">Cursos gratuitos de Hora del código del 5 al 11 de diciembre en las Apple Store</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15897</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/cursos-gratuitos-hora-del-codigo-del-5-al-11-diciembre-las-apple-store/">Cursos gratuitos de Hora del código del 5 al 11 de diciembre en las Apple Store</a></p>
 <p>Apple ha anunciado que va a realizar cursos gratuitos sobre programación para niños del 5 al 11 de diciembre en todas las</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/cursos-gratuitos-hora-del-codigo-del-5-al-11-diciembre-las-apple-store/">Cursos gratuitos de Hora del código del 5 al 11 de diciembre en las Apple Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -67,9 +63,7 @@
 <div class="galerias medio" data-layout="21" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2016/11/Certificados-Ninos-en-Hora-del-Codigo-Apple.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2016/11/Ninos-en-Hora-del-Codigo-Apple.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2016/11/Chica-en-Hora-del-Codigo-Apple.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2016/11/Chica-en-Hora-del-Codigo-Apple.jpg" title="" alt="" /></div>
 <p><span class="source">Vía</span> <span class="via"><a href="http://www.apple.com/newsroom/2016/11/free-hour-of-code-workshops-december-5-through-11-at-every-apple-store.html" target="_blank" rel="noopener noreferrer">Apple</a></span></p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/cursos-gratuitos-hora-del-codigo-del-5-al-11-diciembre-las-apple-store/">Cursos gratuitos de Hora del código del 5 al 11 de diciembre en las Apple Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></content:encoded>

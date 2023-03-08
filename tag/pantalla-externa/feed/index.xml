@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Pantalla externa &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/pantalla-externa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[Pantalla externa]]></category>
 		<category><![CDATA[Reviews]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">http://aticomaquero.com/2010/12/como-poner-dos-pantallas-en-mac-con-el-adaptador-minidisplay-port/</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-poner-dos-pantallas-en-mac-con-el-adaptador-mini-displayport/">Cómo poner dos pantallas en Mac con el adaptador Mini DisplayPort</a></p>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/12/como-poner-dos-pantallas-en-mac-con-el-adaptador-minidisplay-port/</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-poner-dos-pantallas-en-mac-con-el-adaptador-mini-displayport/">Cómo poner dos pantallas en Mac con el adaptador Mini DisplayPort</a></p>
 <p>Debido a las fechas navideñas he sido obsequiado con un adaptador Mini DisplayPort. Este en particular es el que va al conector</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-poner-dos-pantallas-en-mac-con-el-adaptador-mini-displayport/">Cómo poner dos pantallas en Mac con el adaptador Mini DisplayPort</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

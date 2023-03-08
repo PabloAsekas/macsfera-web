@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Locationary &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/locationary/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[Locationary]]></category>
 		<category><![CDATA[Mapas]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=9904</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-adquiere-dos-empresas-para-mejorar-su-aplicacion-mapas/">Apple adquiere dos empresas para mejorar su aplicación Mapas</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9904</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-adquiere-dos-empresas-para-mejorar-su-aplicacion-mapas/">Apple adquiere dos empresas para mejorar su aplicación Mapas</a></p>
 <p>Apple ha adquirido dos empresas relacionadas con el mundo de los mapas para usar sus servicios con el fin de mejorar su</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-adquiere-dos-empresas-para-mejorar-su-aplicacion-mapas/">Apple adquiere dos empresas para mejorar su aplicación Mapas</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

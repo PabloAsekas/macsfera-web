@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>HomePod &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/homepod/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -48,9 +46,7 @@
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC17]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
 <p>Esta semana ha sido la keynote de la WWDC, el anual evento de desarrolladores que organiza Apple en el que presenta el</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

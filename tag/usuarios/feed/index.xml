@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Usuarios &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/usuarios/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Sistemas en la Nube]]></category>
 		<category><![CDATA[Tim Cook]]></category>
 		<category><![CDATA[Usuarios]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6261</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-servicio-icloud-alcanza-los-85-millones-de-usuarios-en-3-meses/">El servicio iCloud alcanza los 85 millones de usuarios en 3 meses</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6261</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-servicio-icloud-alcanza-los-85-millones-de-usuarios-en-3-meses/">El servicio iCloud alcanza los 85 millones de usuarios en 3 meses</a></p>
 <p>Peter Oppenheimer reveló el pasado martes, en la presentación de los beneficios fiscales del Q1 de 2012, que iCloud ya cuenta con</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-servicio-icloud-alcanza-los-85-millones-de-usuarios-en-3-meses/">El servicio iCloud alcanza los 85 millones de usuarios en 3 meses</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

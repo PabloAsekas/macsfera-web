@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Primer año &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/primer-ano/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Descargas]]></category>
 		<category><![CDATA[Noticias de apps]]></category>
 		<category><![CDATA[Primer año]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5944</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-mac-app-store-consigue-las-100-millones-de-descargas-en-su-primer-ano/">La Mac App Store consigue las 100 millones de descargas en su primer año</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5944</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-mac-app-store-consigue-las-100-millones-de-descargas-en-su-primer-ano/">La Mac App Store consigue las 100 millones de descargas en su primer año</a></p>
 <p>Apple ha publicado un comunicado en el que expresa que la Mac App Store, la tienda de aplicaciones para Mac, ha alcanzado</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-mac-app-store-consigue-las-100-millones-de-descargas-en-su-primer-ano/">La Mac App Store consigue las 100 millones de descargas en su primer año</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

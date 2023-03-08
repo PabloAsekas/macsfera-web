@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Fotos en Streaming &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/fotos-en-streaming/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[iCal]]></category>
 		<category><![CDATA[iWork]]></category>
 		<category><![CDATA[Volver a mi Mac]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5264</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/icloud-curiosidades-y-opinion/">iCloud, curiosidades y opinión</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5264</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/icloud-curiosidades-y-opinion/">iCloud, curiosidades y opinión</a></p>
 <p>iCloud fue presentado con la actualización de OS X Lion 10.7.2 y con el lanzamiento de iOS 5 al mercado y vamos</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/icloud-curiosidades-y-opinion/">iCloud, curiosidades y opinión</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

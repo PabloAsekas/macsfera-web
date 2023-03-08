@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>JAM &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/jam/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[Guitarra]]></category>
 		<category><![CDATA[iPad 2]]></category>
 		<category><![CDATA[JAM]]></category>
-		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1499</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/jam-conecta-tu-guitarra-a-tu-ipad-2-o-mac/">JAM, conecta tu guitarra a tu iPad 2 o Mac</a></p>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1499</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/jam-conecta-tu-guitarra-a-tu-ipad-2-o-mac/">JAM, conecta tu guitarra a tu iPad 2 o Mac</a></p>
 <p>JAM es un complemento para iPad o Mac que permite conectar nuestra guitarra eléctrica a dichos dispositivos y hacer uso de las</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/jam-conecta-tu-guitarra-a-tu-ipad-2-o-mac/">JAM, conecta tu guitarra a tu iPad 2 o Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

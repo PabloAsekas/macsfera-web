@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Mundo Apple &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/mundo-apple/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -37,9 +35,7 @@
 		<category><![CDATA[iPod]]></category>
 		<category><![CDATA[Mundo Apple]]></category>
 		<category><![CDATA[Reviews]]></category>
-		<guid isPermaLink="false">http://aticomaquero.com/2010/10/recomendacion-revista-icreate/</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/recomendacion-revista-icreate/">Recomendación revista iCreate</a></p>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/10/recomendacion-revista-icreate/</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/recomendacion-revista-icreate/">Recomendación revista iCreate</a></p>
 <p>Hola un día más, hoy vengo con un post que lleva algún tiempo en mi lista de post pendientes. Os vengo a</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/recomendacion-revista-icreate/">Recomendación revista iCreate</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

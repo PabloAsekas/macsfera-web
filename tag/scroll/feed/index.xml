@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Scroll &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/scroll/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -41,9 +39,7 @@
 		<category><![CDATA[Safari]]></category>
 		<category><![CDATA[Scroll]]></category>
 		<category><![CDATA[Spotlight]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=3858</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/">OS X Lion ya está entre nosotros. Proceso de instalacción</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=3858</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/">OS X Lion ya está entre nosotros. Proceso de instalacción</a></p>
 <p>Hace no mucho os hemos avisado de que OS X Lion ya estaba disponible en la Mac App Store y ahora os</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-lion-ya-esta-entre-nosotros-proceso-de-instalaccion/">OS X Lion ya está entre nosotros. Proceso de instalacción</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

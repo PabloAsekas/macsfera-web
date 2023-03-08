@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Dilan &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/dilan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Autismo]]></category>
 		<category><![CDATA[Dilan]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14376</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-voz-dilan/">La voz de Dilan</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14376</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-voz-dilan/">La voz de Dilan</a></p>
 <p>Ayer fue el 40 aniversario de Apple y en el pequeño artículo que escribí, agradecía la existencia de la empresa por sus</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-voz-dilan/">La voz de Dilan</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

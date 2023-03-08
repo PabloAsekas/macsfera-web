@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>QuickTime &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/quicktime/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -39,9 +37,7 @@
 		<category><![CDATA[Sacar]]></category>
 		<category><![CDATA[Sonido]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6280</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-extraer-el-audio-de-un-video-usando-quicktime-o-garageband/">Dos formas de extraer el audio de un vídeo usando QuickTime o GarageBand</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6280</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-extraer-el-audio-de-un-video-usando-quicktime-o-garageband/">Dos formas de extraer el audio de un vídeo usando QuickTime o GarageBand</a></p>
 <p>En este sencillo tutorial os vamos a enseñar a extraer el audio de un vídeo planteando dos alternativas, QuickTime o GarageBand. A</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-formas-de-extraer-el-audio-de-un-video-usando-quicktime-o-garageband/">Dos formas de extraer el audio de un vídeo usando QuickTime o GarageBand</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -102,9 +98,7 @@
 		<category><![CDATA[VLC]]></category>
 		<category><![CDATA[Wave]]></category>
 		<category><![CDATA[XBMC]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5410</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-ha-liberado-el-codec-del-audio-alac/">Apple ha liberado el códec del audio ALAC</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5410</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-ha-liberado-el-codec-del-audio-alac/">Apple ha liberado el códec del audio ALAC</a></p>
 <p>Apple ha decidido liberal el código de ALAC (Apple Lossless Audio Codec) cuyo objetivo es el de comprimir archivos de música entre</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-ha-liberado-el-codec-del-audio-alac/">Apple ha liberado el códec del audio ALAC</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Volvemos &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/volvemos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -28,9 +26,7 @@
 		<pubDate>Tue, 10 Jul 2012 08:54:01 +0000</pubDate>
 				<category><![CDATA[MacSfera]]></category>
 		<category><![CDATA[Volvemos]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6949</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ya-estamos-de-vuelta/">¡Ya estamos de vuelta!</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6949</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ya-estamos-de-vuelta/">¡Ya estamos de vuelta!</a></p>
 <p>Hola chic@s, tenemos una buena noticia ¡ESTAMOS DE VUELTA! Como habréis notado, desde hace un par de meses nuestra publicación de contenido</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ya-estamos-de-vuelta/">¡Ya estamos de vuelta!</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

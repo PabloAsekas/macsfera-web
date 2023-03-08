@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Comandos &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/comandos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -36,9 +34,7 @@
 		<category><![CDATA[Preferencias del Sistema]]></category>
 		<category><![CDATA[Teclado]]></category>
 		<category><![CDATA[Trackpad]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=7120</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/configura-un-comando-de-teclado-para-mostrar-el-centro-de-notificaciones/">Configura un comando de teclado para mostrar el centro de notificaciones</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7120</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/configura-un-comando-de-teclado-para-mostrar-el-centro-de-notificaciones/">Configura un comando de teclado para mostrar el centro de notificaciones</a></p>
 <p>En este tutorial os enseñaremos como configurar un comando de teclado para que podáis mostrar el Centro de notificaciones de manera muy</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/configura-un-comando-de-teclado-para-mostrar-el-centro-de-notificaciones/">Configura un comando de teclado para mostrar el centro de notificaciones</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -85,9 +81,7 @@
 		<category><![CDATA[Noticias de macOS]]></category>
 		<category><![CDATA[Seguridad]]></category>
 		<category><![CDATA[Terminal]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6639</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6639</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a></p>
 <p>El malware Flashback ha infectado más de 600.000 Mac según el analista Ivan Sorokin. Entre estos ordenadores hay un total de 274</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

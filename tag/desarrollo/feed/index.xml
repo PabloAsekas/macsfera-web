@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Desarrollo &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/desarrollo/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -43,9 +41,7 @@
 		<category><![CDATA[Panic]]></category>
 		<category><![CDATA[Servidores]]></category>
 		<category><![CDATA[SSH]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16780</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/">Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16780</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/">Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</a></p>
 <p>Hace años me topé con una aplicación con la que pude crear pequeñas páginas web desde mi Mac, pero nunca he hablado</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/">Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -76,9 +72,7 @@
 <h2>3. Herramientas de ayuda al desarrollador</h2>
 <div class="galerias medio" data-layout="2" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/01/Sistema-de-ficheros-Coda1.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/01/Conexion-SSH-de-Coda.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/01/Conexion-SSH-de-Coda.jpg" title="" alt="" /></div>
 <p>Además de los plugins que se pueden instalar, Coda tiene algunas funciones internas ya pensadas para ayudar al desarrollador en su cometido.</p>
 <p>Estas son algunas de esas herramientas:</p>
 <ul>
@@ -130,9 +124,7 @@
 		<category><![CDATA[Desarrollo]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Tim Cook]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14754</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-abrira-una-aceleradora-diseno-desarrollo-ios-india/">Apple abrirá una aceleradora de diseño y desarrollo iOS en India</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14754</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-abrira-una-aceleradora-diseno-desarrollo-ios-india/">Apple abrirá una aceleradora de diseño y desarrollo iOS en India</a></p>
 <p>Apple ha anunciado recientemente que va a abrir una aceleradora de diseño y desarrollo iOS en Bengaluru, India. El objetivo es ofrecer</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-abrira-una-aceleradora-diseno-desarrollo-ios-india/">Apple abrirá una aceleradora de diseño y desarrollo iOS en India</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -168,9 +160,7 @@
 		<category><![CDATA[Desarrollo]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Tim Cook]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=12843</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-abrira-primer-centro-desarrollo-ios-europeo-italia/">Apple abrirá el primer centro de desarrollo iOS europeo en Italia</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12843</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-abrira-primer-centro-desarrollo-ios-europeo-italia/">Apple abrirá el primer centro de desarrollo iOS europeo en Italia</a></p>
 <p>Hoy Apple ha anunciado que abrirá su primer centro de desarrollo europeo en Nápoles, Italia. El centro estará enfocado al desarrollo de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-abrira-primer-centro-desarrollo-ios-europeo-italia/">Apple abrirá el primer centro de desarrollo iOS europeo en Italia</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

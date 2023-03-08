@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>AirPrint &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/airprint/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -44,9 +42,7 @@
 		<category><![CDATA[Time Machine]]></category>
 		<category><![CDATA[Turbo Boost]]></category>
 		<category><![CDATA[USB C]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=10276</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10276</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a></p>
 <p>En el evento del 9 de marzo, Apple ha revivido la gama MacBook con un nuevo Mac que va a reinventar el</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-gama-macbook-vuelve-a-apple-con-este-nuevo-modelo/">La gama MacBook vuelve a Apple con este nuevo modelo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

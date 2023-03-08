@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Renovado &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/renovado/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[Nuevo]]></category>
 		<category><![CDATA[Renovado]]></category>
 		<category><![CDATA[USB 3]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=7731</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevos-mac-mini-renovados-por-dentro/">Nuevos Mac Mini renovados por dentro</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7731</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevos-mac-mini-renovados-por-dentro/">Nuevos Mac Mini renovados por dentro</a></p>
 <p>En otra de sus mejoras, Apple ha renovado también los Mac Mini, los pequeños ordenadores de sobre mesa que incorporan un mejor</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevos-mac-mini-renovados-por-dentro/">Nuevos Mac Mini renovados por dentro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

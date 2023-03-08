@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>CareKit &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/carekit/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -43,9 +41,7 @@
 		<category><![CDATA[Resumen]]></category>
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[watchOS]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14297</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/">Resumen y opinión de la keynote “Let us loop you in”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14297</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/">Resumen y opinión de la keynote “Let us loop you in”</a></p>
 <p>Han pasado ya unos días desde que se celebró la keynote “Let us loop you in” y aquí está el resumen de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/">Resumen y opinión de la keynote “Let us loop you in”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -121,9 +117,7 @@
 		<category><![CDATA[Let us loop you in]]></category>
 		<category><![CDATA[ResearchKit]]></category>
 		<category><![CDATA[Salud]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14221</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-carekit-complemento-researchkit/">Nuevo CareKit como complemento a ResearchKit</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14221</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-carekit-complemento-researchkit/">Nuevo CareKit como complemento a ResearchKit</a></p>
 <p>Hace un año, Apple presentó ResearchKit, un framework que permitía a investigadores y médicos hacer aplicaciones que aprovechasen las ventajas de Apple</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-carekit-complemento-researchkit/">Nuevo CareKit como complemento a ResearchKit</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

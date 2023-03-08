@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Nexus One &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/nexus-one/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[Nexus One]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Patentes]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6001</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-consigue-que-htc-tenga-que-modificar-su-sistema-bajo-prohibicion-de-venta/">Apple consigue que HTC tenga que modificar su sistema bajo prohibición de venta</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6001</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-consigue-que-htc-tenga-que-modificar-su-sistema-bajo-prohibicion-de-venta/">Apple consigue que HTC tenga que modificar su sistema bajo prohibición de venta</a></p>
 <p>Apple ha conseguido una orden por la cual HTC no podrá comercializar distintos teléfonos con Android a partir del 19 de abril</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-consigue-que-htc-tenga-que-modificar-su-sistema-bajo-prohibicion-de-venta/">Apple consigue que HTC tenga que modificar su sistema bajo prohibición de venta</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Yahoo &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/yahoo/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -37,9 +35,7 @@
 		<category><![CDATA[OS X Yosemite]]></category>
 		<category><![CDATA[Yahoo]]></category>
 		<category><![CDATA[Yosemite]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=10534</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fantastical-2-de-complemento-a-herramienta-indispensable/">Fantastical 2: de complemento a herramienta indispensable</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10534</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fantastical-2-de-complemento-a-herramienta-indispensable/">Fantastical 2: de complemento a herramienta indispensable</a></p>
 <p>Ya os hablé de Fantastical para Mac, un excelente complemento para manejar nuestros calendarios en la plataforma de escritorio. Hoy vengo a</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fantastical-2-de-complemento-a-herramienta-indispensable/">Fantastical 2: de complemento a herramienta indispensable</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

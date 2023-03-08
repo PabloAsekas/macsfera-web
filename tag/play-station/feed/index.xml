@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Play Station &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/play-station/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Play Station]]></category>
 		<category><![CDATA[PS4]]></category>
 		<category><![CDATA[Reviews]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14426</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/juega-la-ps4-desde-mac/">Juega a la PS4 desde tu Mac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14426</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/juega-la-ps4-desde-mac/">Juega a la PS4 desde tu Mac</a></p>
 <p>Un mes ha pasado desde que Sony anunció que iba a permitir jugar a la PS4 desde nuestros Macs o PCs. Y</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/juega-la-ps4-desde-mac/">Juega a la PS4 desde tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

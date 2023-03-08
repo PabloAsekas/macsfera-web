@@ -13,9 +13,7 @@ table.tablesorter thead tr .headerSortDown:hover{
 table.tablesorter thead tr .headerSortDown,
 table.tablesorter thead tr .headerSortUp:hover {
 	background-image: url(https://www.MacSfera.com/wp-content/plugins/easy-table/images/desc.gif);
-}
-
-@media (max-width: 767px) {
+}@media (max-width: 767px) {
   .table-responsive {
     width: 100%;
     margin-bottom: 15px;

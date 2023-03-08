@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Periodista &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/periodista/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -41,9 +39,7 @@
 		<category><![CDATA[Restablecimiento]]></category>
 		<category><![CDATA[Suspensión]]></category>
 		<category><![CDATA[Twitter]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=7170</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7170</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a></p>
 <p>Apple ha decidido suspender de forma cautelar el restablecimiento de contraseñas de iCloud por vía telefónica, esta suspensión sería de 24 horas</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-suspende-el-restablecimiento-de-contrasenas-de-icloud-por-telefono/">Apple suspende el restablecimiento de contraseñas de iCloud por teléfono</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

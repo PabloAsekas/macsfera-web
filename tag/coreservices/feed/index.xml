@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>CoreServices &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/coreservices/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -49,9 +47,7 @@
 		<category><![CDATA[TIFF]]></category>
 		<category><![CDATA[Utilidades]]></category>
 		<category><![CDATA[Vista Previa]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=7157</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-cambiar-el-fondo-del-centro-de-notificaciones-de-mountain-lion/">Cómo cambiar el fondo del Centro de Notificaciones de Mountain Lion</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7157</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-cambiar-el-fondo-del-centro-de-notificaciones-de-mountain-lion/">Cómo cambiar el fondo del Centro de Notificaciones de Mountain Lion</a></p>
 <p>En este sencillo tutorial veremos como cambiar el fondo del Centro de Notificaciones, una de las novedades del nuevo Mountain Lion. El</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-cambiar-el-fondo-del-centro-de-notificaciones-de-mountain-lion/">Cómo cambiar el fondo del Centro de Notificaciones de Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

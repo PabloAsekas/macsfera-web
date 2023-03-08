@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Terminal &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/terminal/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -62,9 +60,7 @@
 		<category><![CDATA[Time Machine]]></category>
 		<category><![CDATA[Vista Previa]]></category>
 		<category><![CDATA[VLC]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=9372</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/coleccion-de-iconos-para-aplicaciones-estilo-flat-y-minimalista/">Colección de iconos para aplicaciones estilo flat y minimalista</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9372</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/coleccion-de-iconos-para-aplicaciones-estilo-flat-y-minimalista/">Colección de iconos para aplicaciones estilo flat y minimalista</a></p>
 <p>Últimamente corre en Internet una ola marcada por el minimalismo y el estilo flat, aquí os traemos una colección de iconos siguiendo</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/coleccion-de-iconos-para-aplicaciones-estilo-flat-y-minimalista/">Colección de iconos para aplicaciones estilo flat y minimalista</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -106,9 +102,7 @@
 		<category><![CDATA[Noticias de macOS]]></category>
 		<category><![CDATA[Seguridad]]></category>
 		<category><![CDATA[Terminal]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6639</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6639</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a></p>
 <p>El malware Flashback ha infectado más de 600.000 Mac según el analista Ivan Sorokin. Entre estos ordenadores hay un total de 274</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/flashback-infecta-a-mas-de-600-000-equipos-apple-lanza-una-actualizacion-de-seguridad/">Flashback infecta a más de 600.000 equipos. Apple lanza una actualización de seguridad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -153,9 +147,7 @@
 		<category><![CDATA[OS X Lion]]></category>
 		<category><![CDATA[Personalizar]]></category>
 		<category><![CDATA[Terminal]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=4437</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-cambiar-el-fondo-de-mission-control/">Cómo cambiar el fondo de Mission Control</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4437</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-cambiar-el-fondo-de-mission-control/">Cómo cambiar el fondo de Mission Control</a></p>
 <p>Si eres uno de los que piensa que el fondo de Mission Control podría ser otro más a tu gusto este tutorial</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-cambiar-el-fondo-de-mission-control/">Cómo cambiar el fondo de Mission Control</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -200,9 +192,7 @@ Con esto del verano da para investigar mucho y si nos ponemos a ello sabemos hac
 		<category><![CDATA[Script]]></category>
 		<category><![CDATA[Terminal]]></category>
 		<category><![CDATA[WebRunner]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=4337</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/anade-google-plus-a-tu-dock-como-si-fuera-una-aplicacion/">Añade Google Plus a tu dock como si fuera una aplicación</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4337</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/anade-google-plus-a-tu-dock-como-si-fuera-una-aplicacion/">Añade Google Plus a tu dock como si fuera una aplicación</a></p>
 <p>Está claro que Google Plus ha tenido muy buena aceptación entre el público y hoy os traigo este tutorial para hacer de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/anade-google-plus-a-tu-dock-como-si-fuera-una-aplicacion/">Añade Google Plus a tu dock como si fuera una aplicación</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

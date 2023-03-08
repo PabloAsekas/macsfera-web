@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Ventana/Actividades &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/ventanaactividades/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -39,9 +37,7 @@
 		<category><![CDATA[VLC]]></category>
 		<category><![CDATA[YouTube]]></category>
 		<category><![CDATA[YouTube Video Downloader for Safari]]></category>
-		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1162</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a></p>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1162</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a></p>
 <p>Normalmente cuando vemos un vídeo en YouTube y nos gusta, puede que lo queramos tener entre nuestros vídeos, sobre todo cuando es</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/dos-maneras-muy-sencillas-de-descargarte-videos-de-youtube-con-safari/">Dos maneras muy sencillas de descargarte vídeos de YouTube con Safari</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

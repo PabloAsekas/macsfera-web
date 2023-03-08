@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Armas &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/armas/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Mac]]></category>
 		<category><![CDATA[Mac App Store]]></category>
 		<category><![CDATA[macOS]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=3804</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/gun-disassembly-un-simulador-de-armas-en-3d-para-tu-mac/">Gun Disassembly, un  simulador de armas en 3D para tu Mac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=3804</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/gun-disassembly-un-simulador-de-armas-en-3d-para-tu-mac/">Gun Disassembly, un  simulador de armas en 3D para tu Mac</a></p>
 <p>Gun Disassembly es una saga de simuladores de armas en 3D para Mac compuesta por 6 volúmenes en la que nos mostrarán</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/gun-disassembly-un-simulador-de-armas-en-3d-para-tu-mac/">Gun Disassembly, un  simulador de armas en 3D para tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

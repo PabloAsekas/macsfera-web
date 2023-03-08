@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Q3 2011 &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/q3-2011/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Q3 2011]]></category>
 		<category><![CDATA[Samsung]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5326</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-pierde-el-puesto-de-vendedor-de-moviles-en-este-trimestre/">Apple pierde el puesto de vendedor de móviles en este trimestre</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5326</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-pierde-el-puesto-de-vendedor-de-moviles-en-este-trimestre/">Apple pierde el puesto de vendedor de móviles en este trimestre</a></p>
 <p>Samsung ha sido la empresa que más dispositivos móviles ha vendido la Q3 del 2011 superando al iPhone de Apple. Hace 3</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-pierde-el-puesto-de-vendedor-de-moviles-en-este-trimestre/">Apple pierde el puesto de vendedor de móviles en este trimestre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

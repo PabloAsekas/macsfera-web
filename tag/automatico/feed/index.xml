@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Automático &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/automatico/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -39,9 +37,7 @@
 		<category><![CDATA[Scale Images]]></category>
 		<category><![CDATA[Solicitar ítems del Finder]]></category>
 		<category><![CDATA[Tamaño]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=7364</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/">Automator: Cómo cambiar el tamaño de las fotos automáticamente</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7364</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/">Automator: Cómo cambiar el tamaño de las fotos automáticamente</a></p>
 <p>Hoy os traemos un nuevo tutorial en el que usaremos Automator para cambiar el tamaño de todas las imágenes que queramos de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/automator-como-cambiar-el-tamano-de-las-fotos-automaticamente/">Automator: Cómo cambiar el tamaño de las fotos automáticamente</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -92,9 +88,7 @@ Fuente | <a href="http://www.arturogoga.com/2010/08/04/tutorial-aprendiendo-auto
 		<category><![CDATA[Realizar una captura de vídeo]]></category>
 		<category><![CDATA[Servicio]]></category>
 		<category><![CDATA[Servicios]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=7191</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/automator-haz-fotos-con-tu-camara-de-forma-instantanea/">Automator: Haz fotos con tu cámara de forma instantánea</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7191</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/automator-haz-fotos-con-tu-camara-de-forma-instantanea/">Automator: Haz fotos con tu cámara de forma instantánea</a></p>
 <p>En este tutorial aprenderemos a configurar Automator para que haga una foto con nuestra cámara FaceTime o externa de forma automática y</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/automator-haz-fotos-con-tu-camara-de-forma-instantanea/">Automator: Haz fotos con tu cámara de forma instantánea</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

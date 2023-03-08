@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Mundo Mac &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/mundo-mac/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Mundo Mac]]></category>
 		<category><![CDATA[Preferencias del Sistema]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">http://aticomaquero.com/2010/07/como-cambiar-el-idioma-del-teclado-y-ocultar-el-icono-de-la-barra-de-menus/</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-cambiar-el-idioma-del-teclado-y-ocultar-el-icono-de-la-barra-de-menus/">Cómo cambiar el idioma del teclado y ocultar el icono de la barra de menús</a></p>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/07/como-cambiar-el-idioma-del-teclado-y-ocultar-el-icono-de-la-barra-de-menus/</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-cambiar-el-idioma-del-teclado-y-ocultar-el-icono-de-la-barra-de-menus/">Cómo cambiar el idioma del teclado y ocultar el icono de la barra de menús</a></p>
 <p>Este es un sencillo tutorial donde aprenderéis a cambiar el idioma del teclado de vuestro Mac, en caso de que os hayáis</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-cambiar-el-idioma-del-teclado-y-ocultar-el-icono-de-la-barra-de-menus/">Cómo cambiar el idioma del teclado y ocultar el icono de la barra de menús</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

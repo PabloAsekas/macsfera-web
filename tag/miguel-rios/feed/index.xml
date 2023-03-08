@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Miguel Rios &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/miguel-rios/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -31,9 +29,7 @@
 		<category><![CDATA[Steve Jobs]]></category>
 		<category><![CDATA[Tributos a Steve Jobs]]></category>
 		<category><![CDATA[Twitter]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5200</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/twitter-homenajea-a-steve-jobs-con-una-imagen-de-millones-de-tweets/">Twitter homenajea a Steve Jobs con una imagen de millones de tweets</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5200</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/twitter-homenajea-a-steve-jobs-con-una-imagen-de-millones-de-tweets/">Twitter homenajea a Steve Jobs con una imagen de millones de tweets</a></p>
 <p>La red social Twitter decidió hacer un gran homenaje a Steve Jobs y ha compuesto una imagen con millones de tweets de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/twitter-homenajea-a-steve-jobs-con-una-imagen-de-millones-de-tweets/">Twitter homenajea a Steve Jobs con una imagen de millones de tweets</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

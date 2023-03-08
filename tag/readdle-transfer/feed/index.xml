@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Readdle Transfer &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/readdle-transfer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[Noticias de apps]]></category>
 		<category><![CDATA[PDF Expert]]></category>
 		<category><![CDATA[Readdle Transfer]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14775</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/pdf-expert-se-vuelve-compatible-apple-pencil/">PDF Expert se vuelve compatible con el Apple Pencil</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14775</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/pdf-expert-se-vuelve-compatible-apple-pencil/">PDF Expert se vuelve compatible con el Apple Pencil</a></p>
 <p>PDF Expert, la aplicación que uso para leer y anotar PDFs, ha recibido una pequeña actualización que la hace compatible con el</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/pdf-expert-se-vuelve-compatible-apple-pencil/">PDF Expert se vuelve compatible con el Apple Pencil</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

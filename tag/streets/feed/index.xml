@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Streets &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/streets/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -45,9 +43,7 @@
 		<category><![CDATA[Streets]]></category>
 		<category><![CDATA[Ulysses]]></category>
 		<category><![CDATA[Working Copy]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16134</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ulysses-para-mac-al-25-de-descuento/">Ulysses para Mac al 25% de descuento</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16134</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ulysses-para-mac-al-25-de-descuento/">Ulysses para Mac al 25% de descuento</a></p>
 <p>Buenas noticias para todos los que estéis esperando un buen momento para comprar Ulysses para Mac, porque desde hoy hasta el 5</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ulysses-para-mac-al-25-de-descuento/">Ulysses para Mac al 25% de descuento</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

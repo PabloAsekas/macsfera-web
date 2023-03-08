@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>iTunes Radio &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/itunes-radio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -52,9 +50,7 @@
 		<category><![CDATA[Pages]]></category>
 		<category><![CDATA[Phil Schiller]]></category>
 		<category><![CDATA[Tim Cook]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=10093</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10093</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a></p>
 <p>Ayer se celebró la keynote del 22 de octubre en San Francisco y estuvo repleta de presentaciones, aquí tenéis un breve resumen</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

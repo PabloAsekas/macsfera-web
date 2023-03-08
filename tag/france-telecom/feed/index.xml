@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>France Telecom &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/france-telecom/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[iPhone 5]]></category>
 		<category><![CDATA[Micro-Sim]]></category>
 		<category><![CDATA[Tarjeta SIM]]></category>
-		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2521</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-desistira-en-crear-su-sim-por-consejo-de-las-operadoras/">Apple desistirá en crear su SIM por consejo de las operadoras</a></p>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2521</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-desistira-en-crear-su-sim-por-consejo-de-las-operadoras/">Apple desistirá en crear su SIM por consejo de las operadoras</a></p>
 <p>Apple podría crear una SIM mucho más pequeña que la Micro SIM actual por eso de reducir el tamaño en los dispositivos,</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-desistira-en-crear-su-sim-por-consejo-de-las-operadoras/">Apple desistirá en crear su SIM por consejo de las operadoras</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

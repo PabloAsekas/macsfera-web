@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>MiFi &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/mifi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -49,9 +47,7 @@
 		<category><![CDATA[TSA]]></category>
 		<category><![CDATA[USB]]></category>
 		<category><![CDATA[Viaje]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=7026</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/lo-que-steve-wozniak-se-lleva-en-los-viajes/">Lo que Steve Wozniak se lleva en los viajes</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7026</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/lo-que-steve-wozniak-se-lleva-en-los-viajes/">Lo que Steve Wozniak se lleva en los viajes</a></p>
 <p>Recientemente se ha conseguido sacar una foto con el contenido de la bolsa que suele llevar Steve Wozniak a sus viajes y</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/lo-que-steve-wozniak-se-lleva-en-los-viajes/">Lo que Steve Wozniak se lleva en los viajes</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

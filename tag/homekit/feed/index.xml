@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>HomeKit &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/homekit/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[iPhone]]></category>
 		<category><![CDATA[Publicidad]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16427</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-anuncio-destacando-homekit-y-la-app-home/">Nuevo anuncio destacando HomeKit y la app Home</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16427</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-anuncio-destacando-homekit-y-la-app-home/">Nuevo anuncio destacando HomeKit y la app Home</a></p>
 <p>Apple ha publicado un nuevo anuncio sobre la aplicación Home que vimos presentada en la WWDC16. Dicha aplicación permite al usuario controlar</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-anuncio-destacando-homekit-y-la-app-home/">Nuevo anuncio destacando HomeKit y la app Home</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -72,9 +68,7 @@
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC16]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14904</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14904</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a></p>
 <p>Continuando con las novedades de la WWDC, Apple presentó la siguiente versión del sistema operativo del Apple TV, tvOS. Esta versión no</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

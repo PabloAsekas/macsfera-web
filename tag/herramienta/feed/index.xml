@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Herramienta &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/herramienta/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -37,9 +35,7 @@
 		<category><![CDATA[Safari]]></category>
 		<category><![CDATA[Servicios de aplicaciones]]></category>
 		<category><![CDATA[WWDC]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6795</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/">Keynote de la WWDC el lunes 11 de junio</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6795</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/">Keynote de la WWDC el lunes 11 de junio</a></p>
 <p>Ayer Apple presentó la agenda oficial del evento WWDC la cual se anunció hace escasas semanas y ya sabemos que habrá organizado</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-la-wwdc-el-lunes-11-de-junio/">Keynote de la WWDC el lunes 11 de junio</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -81,9 +77,7 @@ Vía | <a href="http://9to5mac.com/2012/05/29/apple-posts-wwdc-schedule-and-app/
 		<category><![CDATA[Lion]]></category>
 		<category><![CDATA[Noticias de macOS]]></category>
 		<category><![CDATA[OS X Lion]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6699</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-publica-una-herramienta-para-eliminar-flashback-en-os-x-sin-java/">Apple publica una herramienta para eliminar Flashback en OS X sin Java</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6699</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-publica-una-herramienta-para-eliminar-flashback-en-os-x-sin-java/">Apple publica una herramienta para eliminar Flashback en OS X sin Java</a></p>
 <p>Apple ha publicado una nueva herramienta que permitirá eliminar todo rastro del malware Flashback en cualquier sistema que no tenga Java. Hace</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-publica-una-herramienta-para-eliminar-flashback-en-os-x-sin-java/">Apple publica una herramienta para eliminar Flashback en OS X sin Java</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

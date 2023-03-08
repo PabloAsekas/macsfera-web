@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Eventos &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/category/eventos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -37,9 +35,7 @@
 		<category><![CDATA[iPhone 11]]></category>
 		<category><![CDATA[iPhone 11 Pro]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17172</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-by-innovation-only/">Resumen y opinión de la keynote “By innovation only”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17172</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-by-innovation-only/">Resumen y opinión de la keynote “By innovation only”</a></p>
 <p>Ayer se celebró una de las keynotes más esperadas del año, la keynote “By innovation only” en la que se presentan, entre</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-by-innovation-only/">Resumen y opinión de la keynote “By innovation only”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -147,9 +143,7 @@
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC19]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
 <p>Hace justo una semana se celebró la keynote de inauguración de la WWDC19, el evento anual de desarrolladores donde Apple presenta las</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -195,9 +189,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-app-Fotos.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-Mapas-de-Apple.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-mapas.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" /></div>
 <p>Ya sabéis que soy un fan empedernido del esfuerzo que Apple hace para garantizar la seguridad de sus usuarios, <strong>y iOS 13 sigue con esa premisa un poco más.</strong> Se añade la posibilidad de compartir la ubicación con apps <strong>sólo una vez,</strong> de modo que la siguiente vez que usemos la app nos pedirá de nuevo permiso para usar la localización. <strong>Se acabó espiar a la gente con procesos en segundo plano.</strong> <strong>Se acabó usar los recursos de las antenas Wi-Fi y Bluetooth para localizar a las personas.</strong></p>
 <p>Y, dando la sorpresa, <strong>Apple ha creado su propio botón para <em>“Iniciar sesión con Apple”</em> en servicios de terceros.</strong> Con este nuevo método podremos usar aplicaciones sabiendo que se respeta nuestra privacidad. Además, en caso de que el servicio necesite tener nuestro email, <strong>Apple ofrece la posibilidad de crear emails aleatorios que van a ser redirigidos a nuestro email particular de Apple,</strong> de modo que el servicio nunca conoce nuestro email y nosotros podemos seguir usándolo sin problemas. La guinda al pastel viene en que este nuevo mecanismo de login es de <strong>uso obligatorio para todas las apps que quieran poner botones de otros servicios,</strong> y a mí no me pueden doler más las manos de aplaudir.</p>
 <p>Siguiendo con la privacidad y la seguridad, <strong>se han presentado nuevos mecanismos de seguridad para dispositivos compatibles con HomeKit,</strong> sobre todo las cámaras, ofreciendo almacenar las imágenes en la nube privada de Apple de forma temporal con cifrado punto a punto y sin consumir espacio del plan que tenemos contratado en iCloud. Además, se van a empezar a fabricar routers compatibles con HomeKit que sirvan como punto de protección extra para los dispositivos que hay en nuestra casa.</p>
@@ -262,9 +254,7 @@
 		<category><![CDATA[Apple TV]]></category>
 		<category><![CDATA[It’s show time]]></category>
 		<category><![CDATA[Keynote]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17093</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-its-show-time/">Resumen y opinión de la keynote “It’s show time”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17093</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-its-show-time/">Resumen y opinión de la keynote “It’s show time”</a></p>
 <p>Ayer se celebró la keynote “It’s show time” desde el Steve Jobs Theater y hoy os traigo el resumen de lo presentado.</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-its-show-time/">Resumen y opinión de la keynote “It’s show time”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -336,9 +326,7 @@
 		<category><![CDATA[Nueva York]]></category>
 		<category><![CDATA[There’s more in the making]]></category>
 		<category><![CDATA[USB C]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16976</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16976</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a></p>
 <p>Ayer se celebró la keynote “There’s more in the making”, el evento en el que esperábamos ver novedades acerca de los Mac</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -399,9 +387,7 @@
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Nueva York]]></category>
 		<category><![CDATA[There’s more in the making]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16968</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-theres-more-in-the-making-el-30-de-octubre/">Keynote “There’s more in the making” el 30 de octubre</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16968</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-theres-more-in-the-making-el-30-de-octubre/">Keynote “There’s more in the making” el 30 de octubre</a></p>
 <p>Apple ha mandado hoy las invitaciones para la keynote “There’s more in the making” que se celebrará el 30 de octubre. En</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keynote-theres-more-in-the-making-el-30-de-octubre/">Keynote “There’s more in the making” el 30 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -439,9 +425,7 @@
 		<category><![CDATA[iPhone XS Max]]></category>
 		<category><![CDATA[Keynote]]></category>
 		<category><![CDATA[Steve Jobs Theater]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16916</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-gather-round/">Resumen y opinión de la keynote “Gather Round”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16916</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-gather-round/">Resumen y opinión de la keynote “Gather Round”</a></p>
 <p>Ayer fue la keynote más esperada del año, el evento en el que Apple presenta los futuros iPhones que nos acompañarán durante</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-gather-round/">Resumen y opinión de la keynote “Gather Round”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -460,9 +444,7 @@
 <div class="galerias medio" data-layout="3" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/Apple-Watch-Series-4-fuego.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/Nuevo-Apple-Watch-Series-4.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/Apple-Watch-Series-4-electrocardiograma.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/Apple-Watch-Series-4-electrocardiograma.jpg" title="" alt="" /></div>
 <p><strong>Jeff Williams salió al escenario para presentar Apple Watch Series 4, el futuro reloj de Apple.</strong></p>
 <p>Con un nuevo diseño que aporta más pantalla, el Apple Watch Series 4 da un paso más en la dirección deportiva y de salud, <strong>plantándose en el mercado como casi la única solución completa en cuanto a relojes inteligentes se trata.</strong></p>
 <p>De 38mm y 42mm hemos pasado a 40mm y 44mm, aumentando la pantalla significativamente **y rediseñando el sistema para aprovechar ese espacio extra. **Se sigue sin poder elegir y diseñar esferas propias, pero es verdad que esta versión incluye un poco más de personalización.</p>
@@ -485,18 +467,14 @@
 <div class="galerias medio" data-layout="33" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-rojo.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Coral.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Amarillo.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Amarillo.jpg" title="" alt="" /></div>
 <p>Un nuevo modelo de iPhone ha llegado y su nombre es <strong>el iPhone XR.</strong> Es la primera vez que Apple lanza un modelo distinto al principal pero con características recién presentadas.</p>
 <p><strong>Mismo procesador A12 Bionic, misma versión de Face ID mejorada, mismo diseño  aunque en un tamaño que se encuentra entre el iPhone XS y el XS Max</strong> <sup class="modern-footnotes-footnote ">3</sup><strong>, misma cámara gran angular que una de las dos que equipa el iPhone XS y mismo tipo de cristal.</strong></p>
 <p>El único problema que se encuentra este teléfono es la pantalla. Si bien es un logro conseguir el diseño que han implementado con la tecnología LCD,<strong> su resolución es un poco baja considerando el tamaño de 6,1 pulgadas que tiene.</strong> Además, no equipa 3D Touch aunque sí True Tone.</p>
 <div class="galerias medio" data-layout="33" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Azul.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Blanco.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Space-Gray.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Space-Gray.jpg" title="" alt="" /></div>
 <p>Disponible en 6 acabados (azul, gris espacial, coral, blanco, amarillo y rojo), el iPhone XR es un gran terminal con un tremendo potencial: <strong>su precio.</strong> En España se puede encontrar por 860€ la versión de 64GB. <strong>Sin duda es el punto más fuerte de una gran teléfono que equipa mucha de la última tecnología y se convierte en un modelo de entrada muy curioso.</strong></p>
 <p>El iPhone XR se podrá reservar el 19 de octubre y se podrá comprar a partir del 26 de ese mismo mes.</p>
 <p><span class="source">Más info</span> <span class="via"><a href="https://www.apple.com/es/iphone-xr/" rel="noopener noreferrer" target="_blank">Apple</a></span></p>
@@ -525,9 +503,7 @@
 		<category><![CDATA[Keynote]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Steve Jobs Theater]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16907</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-gather-round-el-12-de-septiembre/">Keynote “Gather round” el 12 de septiembre</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16907</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-gather-round-el-12-de-septiembre/">Keynote “Gather round” el 12 de septiembre</a></p>
 <p>Apple ha enviado hoy mismo las invitaciones para la keynote “Gather round” que se celebrará el 12 de septiembre a las 10</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keynote-gather-round-el-12-de-septiembre/">Keynote “Gather round” el 12 de septiembre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -563,9 +539,7 @@
 		<category><![CDATA[watchOS 5]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC18]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16862</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16862</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a></p>
 <p>Esta semana se celebró la keynote de la WWDC18, la presentación inaugural de la Worldwide Developers Conference de Apple en la que</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -589,9 +563,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Fotos-en-iOS-12.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Notificaciones-agrupadas-en-iOS-12.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Shortcuts-en-iOS-12.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/App-de-seguimiento-en-iOS-12.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/App-de-seguimiento-en-iOS-12.jpg" title="" alt="" /></div>
 <p>En iOS 12 se han rediseñado las aplicaciones de noticias, bolsa, notas de voz y iBooks, que ahora pasa a llamarse Apple Books. También se permite el uso de aplicaciones de terceros de navegación como Google Maps o Waze en Car Play. Y se han introducido cuatro animojis nuevos más la opción de crear los nuestros propios basados en personas.</p>
 <p>Un punto importante al que se hizo referencia fue al uso que hacemos de nuestros dispositivos y a la adicción que estos pueden crear. Por ello Apple ha integrado en iOS 12 algunas mejoras para reducir esos problemas. </p>
 <ol>
@@ -602,9 +574,7 @@
 <div class="galerias medio" data-layout="3" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Bloquear-cookies-en-iOS-12.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Bolsa-en-iOS-12.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Juegos-en-iOS-12.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Juegos-en-iOS-12.jpg" title="" alt="" /></div>
 <p>Por último, el servicio FaceTime ha recibido una actualización que permite llamadas grupales de hasta 32 miembros a la vez. Al igual que hace Google Hangouts, destacará a las personas que estén hablando en ese momento y se permitirá aplicar filtros y emojis en directo para darle un toque más gracioso a la llamada.</p>
 <h2 class="review">Nuevo watchOS 5</h2>
 <p class="grande"><a href="https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5.jpg" alt="" width="2460" height="1241" class="aligncenter size-full wp-image-16883" srcset="https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5.jpg 2460w, https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5-300x151.jpg 300w, https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5-1024x517.jpg 1024w" sizes="(max-width: 2460px) 100vw, 2460px" /></a></p>
@@ -639,9 +609,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-FaceTime-llamada-multigrupo.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-apuntar.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-Calendario.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-App-Store.jpg"/>
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-App-Store.jpg"/></div>
 <p>Y continuando con la privacidad, Safari va a deshabilitar por defecto las cajas de comentarios, plugins de compartición de contenido y rastreo de cookies de páginas que no son la principal. Además, <strong>añadirá más ruido a la información digital que se recolecta sobre nosotros, para que sea más difícil identificar nuestro dispositivo con fines publicitarios y de rastreo.</strong> Hay que añadir que estas medidas de seguridad también llegan a iOS.</p>
 <p>Lo siguiente que pudimos ver fue <strong>el rediseño de la Mac App Store,</strong> la tienda de aplicaciones del Mac, que aparte del modo oscuro antes mencionado, <strong>se adapta al estilo que está teniendo tanto éxito en iOS.</strong> Mismos patrones de diseño, más protagonismo del contenido, categorías más diferenciadas, historias sobre las aplicaciones, etc. En iOS el cambio vino muy bien, aumentando las visitas semanales de la plataforma, así que el nuevo diseño no solo aporta homogeneidad y continuidad al Mac, sino que también espera aumentar el tráfico y la popularización de la tienda.</p>
 <p>Con la llegada de Metal hace cuatro años, Apple estaba plantando una semilla para prescindir de los motores gráficos de terceros, y <strong>parece que con macOS Mojave esto se empieza a definir al considerar estas tecnologías como obsoletas en el desarrollo de aplicaciones para el nuevo sistema operativo.</strong> Seguirán siendo compatibles y podrán ejecutarse, pero es el aviso que Apple da para que los desarrolladores empiecen a migrar de motor. Además, Metal 2 incluye mejoras de velocidad y cualidades nuevas para el machine learning.</p>
@@ -691,9 +659,7 @@
 		<category><![CDATA[Realidad Virtual]]></category>
 		<category><![CDATA[Schoolwork]]></category>
 		<category><![CDATA[Stylus]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16805</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-lets-take-a-field-trip/">Resumen y opinión de la keynote “Let’s take a field trip”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16805</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-lets-take-a-field-trip/">Resumen y opinión de la keynote “Let’s take a field trip”</a></p>
 <p>Apple celebró el pasado martes la keynote “Let’s take a field trip” en la que han profundizado en la educación y en</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-lets-take-a-field-trip/">Resumen y opinión de la keynote “Let’s take a field trip”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -758,9 +724,7 @@
 		<category><![CDATA[Let’s take a field trip]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Servicios]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16800</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-lets-take-field-trip-27-marzo/">Keynote “Let’s take a field trip” el 27 de marzo</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16800</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-lets-take-field-trip-27-marzo/">Keynote “Let’s take a field trip” el 27 de marzo</a></p>
 <p>Apple ha mandado las invitaciones para una nueva keynote el 27 de marzo llamada “Let’s take a field trip” que se celebrará</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keynote-lets-take-field-trip-27-marzo/">Keynote “Let’s take a field trip” el 27 de marzo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -794,9 +758,7 @@
 		<category><![CDATA[San José]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC18]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16796</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc18-se-celebrara-del-4-al-8-de-junio-en-san-jose/">La WWDC18 se celebrará del 4 al 8 de junio en San José</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16796</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc18-se-celebrara-del-4-al-8-de-junio-en-san-jose/">La WWDC18 se celebrará del 4 al 8 de junio en San José</a></p>
 <p>Apple ha hecho pública hoy la fecha de su famosa WWDC, la conferencia de desarrolladores anual. Será del 4 al 8 de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc18-se-celebrara-del-4-al-8-de-junio-en-san-jose/">La WWDC18 se celebrará del 4 al 8 de junio en San José</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -840,9 +802,7 @@
 		<category><![CDATA[Resumen]]></category>
 		<category><![CDATA[Steve Jobs]]></category>
 		<category><![CDATA[Tim Cook]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16689</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-lets-meet-at-our-place-del-iphone-x/">Resumen y opinión de la keynote «Let&#8217;s meet at our place» del iPhone X</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16689</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-lets-meet-at-our-place-del-iphone-x/">Resumen y opinión de la keynote «Let&#8217;s meet at our place» del iPhone X</a></p>
 <p>Han pasado dos días desde que se celebró la keynote. Como cada septiembre, Apple nos cita para que conozcamos el futuro de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-lets-meet-at-our-place-del-iphone-x/">Resumen y opinión de la keynote «Let&#8217;s meet at our place» del iPhone X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

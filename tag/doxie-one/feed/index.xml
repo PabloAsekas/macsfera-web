@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Doxie One &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/doxie-one/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -31,9 +29,7 @@
 		<category><![CDATA[Doxie]]></category>
 		<category><![CDATA[Doxie One]]></category>
 		<category><![CDATA[Escáneres]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=10500</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/doxie-one-el-escaner-portatil-que-combina-hardware-y-software/">Doxie One: el escáner portátil que combina hardware y software</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10500</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/doxie-one-el-escaner-portatil-que-combina-hardware-y-software/">Doxie One: el escáner portátil que combina hardware y software</a></p>
 <p>Las pasadas navidades me regalaron un Doxie One, un escáner portátil con rodillos que funciona realmente bien gracias a su hardware y</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/doxie-one-el-escaner-portatil-que-combina-hardware-y-software/">Doxie One: el escáner portátil que combina hardware y software</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -101,8 +97,6 @@
 					<wfw:commentRss>https://www.MacSfera.com/doxie-one-el-escaner-portatil-que-combina-hardware-y-software/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
-		<enclosure url="https://www.MacSfera.com/wp-content/uploads/2015/04/06161341/Como-funciona-Doxie-One-escaner.mp4" length="2082343" type="video/mp4" />
-
-			</item>
+		<enclosure url="https://www.MacSfera.com/wp-content/uploads/2015/04/06161341/Como-funciona-Doxie-One-escaner.mp4" length="2082343" type="video/mp4" />			</item>
 	</channel>
 </rss>

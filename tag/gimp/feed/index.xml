@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Gimp &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/gimp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[OS X Snow Leopard]]></category>
 		<category><![CDATA[Trackpad]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">http://aticomaquero.com/2010/08/opinion-macbook-pro-13%e2%80%9d-y-mac-os-x/</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/opinion-macbook-pro-13%e2%80%9d-y-os-x-snow-leopard/">Opinión MacBook Pro 13” y OS X Snow Leopard</a></p>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/08/opinion-macbook-pro-13%e2%80%9d-y-mac-os-x/</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/opinion-macbook-pro-13%e2%80%9d-y-os-x-snow-leopard/">Opinión MacBook Pro 13” y OS X Snow Leopard</a></p>
 <p>Después de diecisiete días con el MacBook Pro en mis manos y controlando el OS X, tengo una opinión objetiva sobre el</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/opinion-macbook-pro-13%e2%80%9d-y-os-x-snow-leopard/">Opinión MacBook Pro 13” y OS X Snow Leopard</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

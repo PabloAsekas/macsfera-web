@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Documents in the cloud &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/documents-in-the-cloud/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -47,9 +45,7 @@
 		<category><![CDATA[Photo Stream]]></category>
 		<category><![CDATA[Steve Jobs]]></category>
 		<category><![CDATA[WWDC]]></category>
-		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2676</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/icloud-todo-lo-que-necesitas-en-la-nube/">iCloud, todo lo que necesitas, en la nube</a></p>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2676</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/icloud-todo-lo-que-necesitas-en-la-nube/">iCloud, todo lo que necesitas, en la nube</a></p>
 <p>Ayer fue sin duda el día de iCloud, el  nuevo servicio de los de cupertino, presentado en el WWDC 2011. Fue claramente</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/icloud-todo-lo-que-necesitas-en-la-nube/">iCloud, todo lo que necesitas, en la nube</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>QuickSilver &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/quicksilver/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -37,9 +35,7 @@
 		<category><![CDATA[QuickPick]]></category>
 		<category><![CDATA[QuickSilver]]></category>
 		<category><![CDATA[Spotlight]]></category>
-		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1038</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/especial-lanzadores-de-aplicaciones-para-mac/">Especial lanzadores de aplicaciones para Mac</a></p>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1038</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/especial-lanzadores-de-aplicaciones-para-mac/">Especial lanzadores de aplicaciones para Mac</a></p>
 <p>Es muy común tener en Mac un lanzador de aplicaciones, ya que no vamos a abarrotar nuestro dock con todas las apps</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/especial-lanzadores-de-aplicaciones-para-mac/">Especial lanzadores de aplicaciones para Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -91,9 +87,7 @@ Dentro de una página, <strong>si escribimos algo, también podemos hacer una b�
 		<category><![CDATA[Finder]]></category>
 		<category><![CDATA[QuickSilver]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">http://aticomaquero.com/2010/09/lo-primero-que-hay-que-hacer-cuando-enciendes-tu-mac-parte-1/</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/lo-primero-que-hay-que-hacer-con-tu-mac-parte-1/">Lo primero que hay que hacer con tu Mac. Parte 1</a></p>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/09/lo-primero-que-hay-que-hacer-cuando-enciendes-tu-mac-parte-1/</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/lo-primero-que-hay-que-hacer-con-tu-mac-parte-1/">Lo primero que hay que hacer con tu Mac. Parte 1</a></p>
 <p>A petición de un usuario de Twitter, he hecho este pequeño tutorial (al que le acompañará un par de ellos más) diciendo</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/lo-primero-que-hay-que-hacer-con-tu-mac-parte-1/">Lo primero que hay que hacer con tu Mac. Parte 1</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

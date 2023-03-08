@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Países Bajos &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/paises-bajos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -41,9 +39,7 @@
 		<category><![CDATA[Países Bajos]]></category>
 		<category><![CDATA[Paseo de Gracia]]></category>
 		<category><![CDATA[Rumores]]></category>
-		<guid isPermaLink="false">http://www.aticomaquero.com/?p=786</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/confirmadas-las-apple-store-de-2011/">Confirmadas las Apple Store de 2011</a></p>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=786</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/confirmadas-las-apple-store-de-2011/">Confirmadas las Apple Store de 2011</a></p>
 <p>Ha salido una lista con las Apple Store que se tienen pensado abrir este 2011, no se en lo referente a otros</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/confirmadas-las-apple-store-de-2011/">Confirmadas las Apple Store de 2011</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

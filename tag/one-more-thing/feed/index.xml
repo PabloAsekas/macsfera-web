@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>One More Thing &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/one-more-thing/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -54,9 +52,7 @@
 		<category><![CDATA[StoryBoard]]></category>
 		<category><![CDATA[Unibody]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">http://aticomaquero.com/2010/10/keynote-20-de-octubre/</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-20-de-octubre-2/">Resumen keynote 20 de octubre</a></p>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/10/keynote-20-de-octubre/</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-20-de-octubre-2/">Resumen keynote 20 de octubre</a></p>
 <p>La keynote del 20 de octubre acaba de finalizar y la verdad es que tenemos algunas sorpresas, pero que ya se sabían.</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-keynote-20-de-octubre-2/">Resumen keynote 20 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -103,9 +99,7 @@
 		<category><![CDATA[One More Hobbie]]></category>
 		<category><![CDATA[One More Thing]]></category>
 		<category><![CDATA[Steve Jobs]]></category>
-		<guid isPermaLink="false">http://aticomaquero.com/2010/09/nuevo-apple-tv/</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-apple-tv/">Nuevo Apple TV</a></p>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/09/nuevo-apple-tv/</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-apple-tv/">Nuevo Apple TV</a></p>
 <p>Hoy Steve Jobs ha hecho la gracia del One more thing hobbie anunciando que iba a presentar el nuevo Apple TV en</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-apple-tv/">Nuevo Apple TV</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

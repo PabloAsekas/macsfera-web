@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>tvOS &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/tvos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -44,9 +42,7 @@
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC19]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
 <p>Hace justo una semana se celebró la keynote de inauguración de la WWDC19, el evento anual de desarrolladores donde Apple presenta las</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -92,9 +88,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-app-Fotos.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-Mapas-de-Apple.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-mapas.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" /></div>
 <p>Ya sabéis que soy un fan empedernido del esfuerzo que Apple hace para garantizar la seguridad de sus usuarios, <strong>y iOS 13 sigue con esa premisa un poco más.</strong> Se añade la posibilidad de compartir la ubicación con apps <strong>sólo una vez,</strong> de modo que la siguiente vez que usemos la app nos pedirá de nuevo permiso para usar la localización. <strong>Se acabó espiar a la gente con procesos en segundo plano.</strong> <strong>Se acabó usar los recursos de las antenas Wi-Fi y Bluetooth para localizar a las personas.</strong></p>
 <p>Y, dando la sorpresa, <strong>Apple ha creado su propio botón para <em>“Iniciar sesión con Apple”</em> en servicios de terceros.</strong> Con este nuevo método podremos usar aplicaciones sabiendo que se respeta nuestra privacidad. Además, en caso de que el servicio necesite tener nuestro email, <strong>Apple ofrece la posibilidad de crear emails aleatorios que van a ser redirigidos a nuestro email particular de Apple,</strong> de modo que el servicio nunca conoce nuestro email y nosotros podemos seguir usándolo sin problemas. La guinda al pastel viene en que este nuevo mecanismo de login es de <strong>uso obligatorio para todas las apps que quieran poner botones de otros servicios,</strong> y a mí no me pueden doler más las manos de aplaudir.</p>
 <p>Siguiendo con la privacidad y la seguridad, <strong>se han presentado nuevos mecanismos de seguridad para dispositivos compatibles con HomeKit,</strong> sobre todo las cámaras, ofreciendo almacenar las imágenes en la nube privada de Apple de forma temporal con cifrado punto a punto y sin consumir espacio del plan que tenemos contratado en iCloud. Además, se van a empezar a fabricar routers compatibles con HomeKit que sirvan como punto de protección extra para los dispositivos que hay en nuestra casa.</p>
@@ -163,9 +157,7 @@
 		<category><![CDATA[watchOS 5]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC18]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16862</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16862</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a></p>
 <p>Esta semana se celebró la keynote de la WWDC18, la presentación inaugural de la Worldwide Developers Conference de Apple en la que</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -189,9 +181,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Fotos-en-iOS-12.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Notificaciones-agrupadas-en-iOS-12.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Shortcuts-en-iOS-12.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/App-de-seguimiento-en-iOS-12.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/App-de-seguimiento-en-iOS-12.jpg" title="" alt="" /></div>
 <p>En iOS 12 se han rediseñado las aplicaciones de noticias, bolsa, notas de voz y iBooks, que ahora pasa a llamarse Apple Books. También se permite el uso de aplicaciones de terceros de navegación como Google Maps o Waze en Car Play. Y se han introducido cuatro animojis nuevos más la opción de crear los nuestros propios basados en personas.</p>
 <p>Un punto importante al que se hizo referencia fue al uso que hacemos de nuestros dispositivos y a la adicción que estos pueden crear. Por ello Apple ha integrado en iOS 12 algunas mejoras para reducir esos problemas. </p>
 <ol>
@@ -202,9 +192,7 @@
 <div class="galerias medio" data-layout="3" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Bloquear-cookies-en-iOS-12.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Bolsa-en-iOS-12.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Juegos-en-iOS-12.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Juegos-en-iOS-12.jpg" title="" alt="" /></div>
 <p>Por último, el servicio FaceTime ha recibido una actualización que permite llamadas grupales de hasta 32 miembros a la vez. Al igual que hace Google Hangouts, destacará a las personas que estén hablando en ese momento y se permitirá aplicar filtros y emojis en directo para darle un toque más gracioso a la llamada.</p>
 <h2 class="review">Nuevo watchOS 5</h2>
 <p class="grande"><a href="https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5.jpg" alt="" width="2460" height="1241" class="aligncenter size-full wp-image-16883" srcset="https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5.jpg 2460w, https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5-300x151.jpg 300w, https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5-1024x517.jpg 1024w" sizes="(max-width: 2460px) 100vw, 2460px" /></a></p>
@@ -239,9 +227,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-FaceTime-llamada-multigrupo.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-apuntar.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-Calendario.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-App-Store.jpg"/>
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-App-Store.jpg"/></div>
 <p>Y continuando con la privacidad, Safari va a deshabilitar por defecto las cajas de comentarios, plugins de compartición de contenido y rastreo de cookies de páginas que no son la principal. Además, <strong>añadirá más ruido a la información digital que se recolecta sobre nosotros, para que sea más difícil identificar nuestro dispositivo con fines publicitarios y de rastreo.</strong> Hay que añadir que estas medidas de seguridad también llegan a iOS.</p>
 <p>Lo siguiente que pudimos ver fue <strong>el rediseño de la Mac App Store,</strong> la tienda de aplicaciones del Mac, que aparte del modo oscuro antes mencionado, <strong>se adapta al estilo que está teniendo tanto éxito en iOS.</strong> Mismos patrones de diseño, más protagonismo del contenido, categorías más diferenciadas, historias sobre las aplicaciones, etc. En iOS el cambio vino muy bien, aumentando las visitas semanales de la plataforma, así que el nuevo diseño no solo aporta homogeneidad y continuidad al Mac, sino que también espera aumentar el tráfico y la popularización de la tienda.</p>
 <p>Con la llegada de Metal hace cuatro años, Apple estaba plantando una semilla para prescindir de los motores gráficos de terceros, y <strong>parece que con macOS Mojave esto se empieza a definir al considerar estas tecnologías como obsoletas en el desarrollo de aplicaciones para el nuevo sistema operativo.</strong> Seguirán siendo compatibles y podrán ejecutarse, pero es el aviso que Apple da para que los desarrolladores empiecen a migrar de motor. Además, Metal 2 incluye mejoras de velocidad y cualidades nuevas para el machine learning.</p>
@@ -294,9 +280,7 @@
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC17]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
 <p>Esta semana ha sido la keynote de la WWDC, el anual evento de desarrolladores que organiza Apple en el que presenta el</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -421,9 +405,7 @@
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC17]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16359</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16359</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a></p>
 <p>Apple acaba de anunciar que la WWDC17, la conferencia de desarrolladores anual de la empresa, se celebrará del 5 al 9 de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc17-se-celebrara-del-5-al-9-junio-san-jose/">La WWDC17 se celebrará del 5 al 9 de junio en San José</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -462,9 +444,7 @@ La tecnología debe ser la intersección de las artes liberales y humanidades, p
 		<category><![CDATA[TV]]></category>
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[Twitter]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15672</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-apple-tv-busca-unificar-la-experiencia-de-la-television/">El Apple TV busca unificar la experiencia de la televisión</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15672</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-apple-tv-busca-unificar-la-experiencia-de-la-television/">El Apple TV busca unificar la experiencia de la televisión</a></p>
 <p>El 9 de septiembre de 2015 Apple introdujo un nuevo Apple TV y marcó el futuro que ellos tienen de la televisión:</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-apple-tv-busca-unificar-la-experiencia-de-la-television/">El Apple TV busca unificar la experiencia de la televisión</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -512,9 +492,7 @@ La tecnología debe ser la intersección de las artes liberales y humanidades, p
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC16]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14979</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/">Resumen y opinión de la keynote de la WWDC16</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14979</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/">Resumen y opinión de la keynote de la WWDC16</a></p>
 <p>Un año más, las novedades de la WWDC ya se saben y aquí traigo un breve resumen con mi opinión de la</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc16/">Resumen y opinión de la keynote de la WWDC16</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -591,9 +569,7 @@ La tecnología debe ser la intersección de las artes liberales y humanidades, p
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[WWDC16]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14951</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/adios-hfs-hola-apple-file-system/">Adiós HFS+, hola Apple File System</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14951</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/adios-hfs-hola-apple-file-system/">Adiós HFS+, hola Apple File System</a></p>
 <p>Fue una novedad que pasó muy desapercibida en la WWDC16 pero que es de vital importancia: Apple File System (APFS) será el próximo</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/adios-hfs-hola-apple-file-system/">Adiós HFS+, hola Apple File System</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -628,9 +604,7 @@ La tecnología debe ser la intersección de las artes liberales y humanidades, p
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC16]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14904</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14904</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a></p>
 <p>Continuando con las novedades de la WWDC, Apple presentó la siguiente versión del sistema operativo del Apple TV, tvOS. Esta versión no</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -693,9 +667,7 @@ La tecnología debe ser la intersección de las artes liberales y humanidades, p
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC16]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14599</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc-de-2016-se-celebrara-del-13-al-17-de-junio-confirmado/">La WWDC de 2016 se celebrará del 13 al 17 de junio. Confirmado</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14599</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc-de-2016-se-celebrara-del-13-al-17-de-junio-confirmado/">La WWDC de 2016 se celebrará del 13 al 17 de junio. Confirmado</a></p>
 <p>Apple ha confirmado que la conferencia de desarrolladores se celebrará del 13 al 17 de junio de 2016 en San Francisco tal</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc-de-2016-se-celebrara-del-13-al-17-de-junio-confirmado/">La WWDC de 2016 se celebrará del 13 al 17 de junio. Confirmado</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -734,9 +706,7 @@ La tecnología debe ser la intersección de las artes liberales y humanidades, p
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[WWDC]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14581</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/siri-se-chiva-nos-revela-la-wwdc-2016-sera-del-13-al-17-junio/">Siri se chiva y nos revela que la WWDC de 2016 será del 13 al 17 de junio</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14581</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/siri-se-chiva-nos-revela-la-wwdc-2016-sera-del-13-al-17-junio/">Siri se chiva y nos revela que la WWDC de 2016 será del 13 al 17 de junio</a></p>
 <p>«¿Cuándo es la WWDC?» Esa pregunta basta para que Siri nos diga que la conferencia de desarrolladores de Apple se celebrará del</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/siri-se-chiva-nos-revela-la-wwdc-2016-sera-del-13-al-17-junio/">Siri se chiva y nos revela que la WWDC de 2016 será del 13 al 17 de junio</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -781,9 +751,7 @@ La tecnología debe ser la intersección de las artes liberales y humanidades, p
 		<category><![CDATA[Resumen]]></category>
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[watchOS]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14297</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/">Resumen y opinión de la keynote “Let us loop you in”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14297</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/">Resumen y opinión de la keynote “Let us loop you in”</a></p>
 <p>Han pasado ya unos días desde que se celebró la keynote “Let us loop you in” y aquí está el resumen de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-let-us-loop-you-in/">Resumen y opinión de la keynote “Let us loop you in”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -864,9 +832,7 @@ La tecnología debe ser la intersección de las artes liberales y humanidades, p
 		<category><![CDATA[OS X El Capitan]]></category>
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[watchOS]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14262</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14262</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</a></p>
 <p>Entre las novedades de la keynote de ayer, Apple ha lanzado actualizaciones de todos sus sistemas operativos. Algunas de las novedades ya</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

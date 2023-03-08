@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>iOS &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/category/ios/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -44,9 +42,7 @@
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC19]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
 <p>Hace justo una semana se celebró la keynote de inauguración de la WWDC19, el evento anual de desarrolladores donde Apple presenta las</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -92,9 +88,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-app-Fotos.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-Mapas-de-Apple.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-mapas.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" /></div>
 <p>Ya sabéis que soy un fan empedernido del esfuerzo que Apple hace para garantizar la seguridad de sus usuarios, <strong>y iOS 13 sigue con esa premisa un poco más.</strong> Se añade la posibilidad de compartir la ubicación con apps <strong>sólo una vez,</strong> de modo que la siguiente vez que usemos la app nos pedirá de nuevo permiso para usar la localización. <strong>Se acabó espiar a la gente con procesos en segundo plano.</strong> <strong>Se acabó usar los recursos de las antenas Wi-Fi y Bluetooth para localizar a las personas.</strong></p>
 <p>Y, dando la sorpresa, <strong>Apple ha creado su propio botón para <em>“Iniciar sesión con Apple”</em> en servicios de terceros.</strong> Con este nuevo método podremos usar aplicaciones sabiendo que se respeta nuestra privacidad. Además, en caso de que el servicio necesite tener nuestro email, <strong>Apple ofrece la posibilidad de crear emails aleatorios que van a ser redirigidos a nuestro email particular de Apple,</strong> de modo que el servicio nunca conoce nuestro email y nosotros podemos seguir usándolo sin problemas. La guinda al pastel viene en que este nuevo mecanismo de login es de <strong>uso obligatorio para todas las apps que quieran poner botones de otros servicios,</strong> y a mí no me pueden doler más las manos de aplaudir.</p>
 <p>Siguiendo con la privacidad y la seguridad, <strong>se han presentado nuevos mecanismos de seguridad para dispositivos compatibles con HomeKit,</strong> sobre todo las cámaras, ofreciendo almacenar las imágenes en la nube privada de Apple de forma temporal con cifrado punto a punto y sin consumir espacio del plan que tenemos contratado en iCloud. Además, se van a empezar a fabricar routers compatibles con HomeKit que sirvan como punto de protección extra para los dispositivos que hay en nuestra casa.</p>
@@ -163,9 +157,7 @@
 		<category><![CDATA[watchOS 5]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC18]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16862</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16862</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a></p>
 <p>Esta semana se celebró la keynote de la WWDC18, la presentación inaugural de la Worldwide Developers Conference de Apple en la que</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc18/">Resumen y opinión de la keynote de la WWDC18</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -189,9 +181,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Fotos-en-iOS-12.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Notificaciones-agrupadas-en-iOS-12.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Shortcuts-en-iOS-12.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/App-de-seguimiento-en-iOS-12.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/App-de-seguimiento-en-iOS-12.jpg" title="" alt="" /></div>
 <p>En iOS 12 se han rediseñado las aplicaciones de noticias, bolsa, notas de voz y iBooks, que ahora pasa a llamarse Apple Books. También se permite el uso de aplicaciones de terceros de navegación como Google Maps o Waze en Car Play. Y se han introducido cuatro animojis nuevos más la opción de crear los nuestros propios basados en personas.</p>
 <p>Un punto importante al que se hizo referencia fue al uso que hacemos de nuestros dispositivos y a la adicción que estos pueden crear. Por ello Apple ha integrado en iOS 12 algunas mejoras para reducir esos problemas. </p>
 <ol>
@@ -202,9 +192,7 @@
 <div class="galerias medio" data-layout="3" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Bloquear-cookies-en-iOS-12.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Bolsa-en-iOS-12.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Juegos-en-iOS-12.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/Juegos-en-iOS-12.jpg" title="" alt="" /></div>
 <p>Por último, el servicio FaceTime ha recibido una actualización que permite llamadas grupales de hasta 32 miembros a la vez. Al igual que hace Google Hangouts, destacará a las personas que estén hablando en ese momento y se permitirá aplicar filtros y emojis en directo para darle un toque más gracioso a la llamada.</p>
 <h2 class="review">Nuevo watchOS 5</h2>
 <p class="grande"><a href="https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5.jpg"><img style=' display: block; margin-right: auto; margin-left: auto;'  src="https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5.jpg" alt="" width="2460" height="1241" class="aligncenter size-full wp-image-16883" srcset="https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5.jpg 2460w, https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5-300x151.jpg 300w, https://www.MacSfera.com/wp-content/uploads/2018/06/watchOS-5-1024x517.jpg 1024w" sizes="(max-width: 2460px) 100vw, 2460px" /></a></p>
@@ -239,9 +227,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-FaceTime-llamada-multigrupo.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-apuntar.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-Calendario.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-App-Store.jpg"/>
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/06/macOS-Mojave-App-Store.jpg"/></div>
 <p>Y continuando con la privacidad, Safari va a deshabilitar por defecto las cajas de comentarios, plugins de compartición de contenido y rastreo de cookies de páginas que no son la principal. Además, <strong>añadirá más ruido a la información digital que se recolecta sobre nosotros, para que sea más difícil identificar nuestro dispositivo con fines publicitarios y de rastreo.</strong> Hay que añadir que estas medidas de seguridad también llegan a iOS.</p>
 <p>Lo siguiente que pudimos ver fue <strong>el rediseño de la Mac App Store,</strong> la tienda de aplicaciones del Mac, que aparte del modo oscuro antes mencionado, <strong>se adapta al estilo que está teniendo tanto éxito en iOS.</strong> Mismos patrones de diseño, más protagonismo del contenido, categorías más diferenciadas, historias sobre las aplicaciones, etc. En iOS el cambio vino muy bien, aumentando las visitas semanales de la plataforma, así que el nuevo diseño no solo aporta homogeneidad y continuidad al Mac, sino que también espera aumentar el tráfico y la popularización de la tienda.</p>
 <p>Con la llegada de Metal hace cuatro años, Apple estaba plantando una semilla para prescindir de los motores gráficos de terceros, y <strong>parece que con macOS Mojave esto se empieza a definir al considerar estas tecnologías como obsoletas en el desarrollo de aplicaciones para el nuevo sistema operativo.</strong> Seguirán siendo compatibles y podrán ejecutarse, pero es el aviso que Apple da para que los desarrolladores empiecen a migrar de motor. Además, Metal 2 incluye mejoras de velocidad y cualidades nuevas para el machine learning.</p>
@@ -283,9 +269,7 @@
 		<category><![CDATA[Noticias de macOS]]></category>
 		<category><![CDATA[Reseñas]]></category>
 		<category><![CDATA[The Loop]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16282</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16282</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a></p>
 <p>Ayer Apple lanzó una nueva beta para macOS y para iOS con varios cambios. Entre ellos se encontraba una nueva API para</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-api-para-resenas-apps-ios-y-macos/">Nueva API para reseñas en las apps de iOS y macOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -323,9 +307,7 @@
 		<category><![CDATA[iPad]]></category>
 		<category><![CDATA[iPhone]]></category>
 		<category><![CDATA[VLC]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15883</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/pasar-videos-al-iphone-ipad-sin-itunes-vlc/">Cómo pasar vídeos al iPhone y iPad sin iTunes con VLC</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15883</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/pasar-videos-al-iphone-ipad-sin-itunes-vlc/">Cómo pasar vídeos al iPhone y iPad sin iTunes con VLC</a></p>
 <p>En la batalla entre cuál es el mejor sistema operativo del mundo, sale un argumento siempre en contra de iOS que afirma</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/pasar-videos-al-iphone-ipad-sin-itunes-vlc/">Cómo pasar vídeos al iPhone y iPad sin iTunes con VLC</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -387,9 +369,7 @@
 		<category><![CDATA[See you on the 7th]]></category>
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[watchOS 3]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15327</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/">iOS 10 y watchOS 3 disponibles el 13 de septiembre</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15327</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/">iOS 10 y watchOS 3 disponibles el 13 de septiembre</a></p>
 <p>En la keynote “See you on the 7th” nos revelaron que las nuevas versiones de iOS 10 y watchOS 3 estarán disponibles</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/">iOS 10 y watchOS 3 disponibles el 13 de septiembre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -425,9 +405,7 @@
 		<category><![CDATA[Siri]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC16]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14934</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ios-10/">Nuevo iOS 10</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14934</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ios-10/">Nuevo iOS 10</a></p>
 <p>Llegando al final de la keynote de la WWDC16, le tocó el turno a iOS, el sistema operativo estrella de Apple que</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-ios-10/">Nuevo iOS 10</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -540,9 +518,7 @@
 		<category><![CDATA[Desarrollo]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Tim Cook]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14754</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-abrira-una-aceleradora-diseno-desarrollo-ios-india/">Apple abrirá una aceleradora de diseño y desarrollo iOS en India</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14754</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-abrira-una-aceleradora-diseno-desarrollo-ios-india/">Apple abrirá una aceleradora de diseño y desarrollo iOS en India</a></p>
 <p>Apple ha anunciado recientemente que va a abrir una aceleradora de diseño y desarrollo iOS en Bengaluru, India. El objetivo es ofrecer</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-abrira-una-aceleradora-diseno-desarrollo-ios-india/">Apple abrirá una aceleradora de diseño y desarrollo iOS en India</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -579,9 +555,7 @@
 		<category><![CDATA[iOS 10]]></category>
 		<category><![CDATA[MacStories]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14643</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/lista-deseos-ios-10/">Lista de deseos de iOS 10</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14643</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/lista-deseos-ios-10/">Lista de deseos de iOS 10</a></p>
 <p>Cada año, Federico Viticci suele publicar una lista de deseos sobre el futuro de iOS. Esta vez, lejos de escribir todas sus</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/lista-deseos-ios-10/">Lista de deseos de iOS 10</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -619,9 +593,7 @@
 		<category><![CDATA[Cámara]]></category>
 		<category><![CDATA[Cámara lenta]]></category>
 		<category><![CDATA[iPad Pro]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14528</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/grabar-4k-camara-lenta-ipad-pro/">Cómo grabar 4K y cámara lenta con el iPad Pro</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14528</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/grabar-4k-camara-lenta-ipad-pro/">Cómo grabar 4K y cámara lenta con el iPad Pro</a></p>
 <p>El iPad Pro de 9,7 pulgadas tiene la misma cámara que el iPhone 6s y por ello es capaz de grabar en</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/grabar-4k-camara-lenta-ipad-pro/">Cómo grabar 4K y cámara lenta con el iPad Pro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -681,9 +653,7 @@
 		<category><![CDATA[OS X El Capitan]]></category>
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[watchOS]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14262</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14262</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</a></p>
 <p>Entre las novedades de la keynote de ayer, Apple ha lanzado actualizaciones de todos sus sistemas operativos. Algunas de las novedades ya</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevas-actualizaciones-ios-os-x-tvos-watchos/">Nuevas actualizaciones de iOS, OS X, tvOS y watchOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -735,9 +705,7 @@
 		<category><![CDATA[Let us loop you in]]></category>
 		<category><![CDATA[ResearchKit]]></category>
 		<category><![CDATA[Salud]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14221</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-carekit-complemento-researchkit/">Nuevo CareKit como complemento a ResearchKit</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14221</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-carekit-complemento-researchkit/">Nuevo CareKit como complemento a ResearchKit</a></p>
 <p>Hace un año, Apple presentó ResearchKit, un framework que permitía a investigadores y médicos hacer aplicaciones que aprovechasen las ventajas de Apple</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-carekit-complemento-researchkit/">Nuevo CareKit como complemento a ResearchKit</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -769,9 +737,7 @@
 		<category><![CDATA[Federico Viticci]]></category>
 		<category><![CDATA[iOS 9]]></category>
 		<category><![CDATA[iPad Pro]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=13025</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/trabajando-ipad-ano-despues-sigue-siendo-ordenador-favorito/">Trabajando en el iPad: Un año después, sigue siendo mi ordenador favorito</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=13025</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/trabajando-ipad-ano-despues-sigue-siendo-ordenador-favorito/">Trabajando en el iPad: Un año después, sigue siendo mi ordenador favorito</a></p>
 <p>Hace un año, Federico Viticci publicó un artículo hablando sobre como había conseguido que su iPad Air 2 fuese su ordenador principal.</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/trabajando-ipad-ano-despues-sigue-siendo-ordenador-favorito/">Trabajando en el iPad: Un año después, sigue siendo mi ordenador favorito</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Centro de datos &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/centro-de-datos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -30,9 +28,7 @@
 		<category><![CDATA[Centro de datos]]></category>
 		<category><![CDATA[iCloud]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
-		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2349</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-prepara-otro-data-center-en-santa-clara/">Apple prepara otro data center en Santa Clara</a></p>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=2349</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-prepara-otro-data-center-en-santa-clara/">Apple prepara otro data center en Santa Clara</a></p>
 <p>Apple ha contratado otro centro de datos pero esta vez en Santa Clara, una ciudad situada en Silicon Valley, California. Esta jugada</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-prepara-otro-data-center-en-santa-clara/">Apple prepara otro data center en Santa Clara</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

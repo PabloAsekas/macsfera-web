@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Mac Pro &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/mac-pro/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -44,9 +42,7 @@
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC19]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
 <p>Hace justo una semana se celebró la keynote de inauguración de la WWDC19, el evento anual de desarrolladores donde Apple presenta las</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -92,9 +88,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-app-Fotos.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-Mapas-de-Apple.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-mapas.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" /></div>
 <p>Ya sabéis que soy un fan empedernido del esfuerzo que Apple hace para garantizar la seguridad de sus usuarios, <strong>y iOS 13 sigue con esa premisa un poco más.</strong> Se añade la posibilidad de compartir la ubicación con apps <strong>sólo una vez,</strong> de modo que la siguiente vez que usemos la app nos pedirá de nuevo permiso para usar la localización. <strong>Se acabó espiar a la gente con procesos en segundo plano.</strong> <strong>Se acabó usar los recursos de las antenas Wi-Fi y Bluetooth para localizar a las personas.</strong></p>
 <p>Y, dando la sorpresa, <strong>Apple ha creado su propio botón para <em>“Iniciar sesión con Apple”</em> en servicios de terceros.</strong> Con este nuevo método podremos usar aplicaciones sabiendo que se respeta nuestra privacidad. Además, en caso de que el servicio necesite tener nuestro email, <strong>Apple ofrece la posibilidad de crear emails aleatorios que van a ser redirigidos a nuestro email particular de Apple,</strong> de modo que el servicio nunca conoce nuestro email y nosotros podemos seguir usándolo sin problemas. La guinda al pastel viene en que este nuevo mecanismo de login es de <strong>uso obligatorio para todas las apps que quieran poner botones de otros servicios,</strong> y a mí no me pueden doler más las manos de aplaudir.</p>
 <p>Siguiendo con la privacidad y la seguridad, <strong>se han presentado nuevos mecanismos de seguridad para dispositivos compatibles con HomeKit,</strong> sobre todo las cámaras, ofreciendo almacenar las imágenes en la nube privada de Apple de forma temporal con cifrado punto a punto y sin consumir espacio del plan que tenemos contratado en iCloud. Además, se van a empezar a fabricar routers compatibles con HomeKit que sirvan como punto de protección extra para los dispositivos que hay en nuestra casa.</p>
@@ -162,9 +156,7 @@
 		<category><![CDATA[Mac Pro]]></category>
 		<category><![CDATA[Noticias de Mac]]></category>
 		<category><![CDATA[Phil Schiller]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16515</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/">El futuro del Mac Pro, el iMac y las pantallas de Apple</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16515</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/">El futuro del Mac Pro, el iMac y las pantallas de Apple</a></p>
 <p>Ayer, Apple celebró una pequeña reunión privada con cinco periodistas tecnológicos en su campus (el antiguo). Uno de los asistentes fue John</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/">El futuro del Mac Pro, el iMac y las pantallas de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -262,9 +254,7 @@
 		<category><![CDATA[Mac Pro]]></category>
 		<category><![CDATA[MacBook Pro]]></category>
 		<category><![CDATA[Thunderbolt Display]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16413</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/notas-interes-la-reunion-accionistas-apple-2017/">Notas de interés sobre la reunión de accionistas de Apple de 2017</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16413</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/notas-interes-la-reunion-accionistas-apple-2017/">Notas de interés sobre la reunión de accionistas de Apple de 2017</a></p>
 <p>Apple ha realizado una reunión de accionistas donde se proponen cambios por parte de la empresa y por parte de los accionistas,</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/notas-interes-la-reunion-accionistas-apple-2017/">Notas de interés sobre la reunión de accionistas de Apple de 2017</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -306,9 +296,7 @@
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Promoción]]></category>
 		<category><![CDATA[Vuelta a Clase]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14838</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/asi-es-la-promocion-vuelta-a-clase-en-eeuu-este-ano/">Así es la promoción Vuelta a clase en EEUU este año</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14838</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/asi-es-la-promocion-vuelta-a-clase-en-eeuu-este-ano/">Así es la promoción Vuelta a clase en EEUU este año</a></p>
 <p>Todos los años, Apple lanza una promoción en verano llamada Vuelta a clase con algún descuento o regalo para los estudiantes, este</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/asi-es-la-promocion-vuelta-a-clase-en-eeuu-este-ano/">Así es la promoción Vuelta a clase en EEUU este año</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -365,9 +353,7 @@
 		<category><![CDATA[Pages]]></category>
 		<category><![CDATA[Phil Schiller]]></category>
 		<category><![CDATA[Tim Cook]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=10093</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10093</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a></p>
 <p>Ayer se celebró la keynote del 22 de octubre en San Francisco y estuvo repleta de presentaciones, aquí tenéis un breve resumen</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-de-la-keynote-del-22-de-octubre/">Resumen de la keynote del 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -403,9 +389,7 @@
 		<category><![CDATA[Mac Pro]]></category>
 		<category><![CDATA[Noticias de Mac]]></category>
 		<category><![CDATA[Precio]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=10058</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/los-mac-pro-disponibles-en-diciembre-empezando-en-2999-dolares/">Los Mac Pro disponibles en diciembre empezando en 2999 dólares (3.049 euros)</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10058</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/los-mac-pro-disponibles-en-diciembre-empezando-en-2999-dolares/">Los Mac Pro disponibles en diciembre empezando en 2999 dólares (3.049 euros)</a></p>
 <p>Apple ha anunciado que el nuevo Mac Pro que presentaron en la keynote de la WWDC estará disponible en diciembre con un</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/los-mac-pro-disponibles-en-diciembre-empezando-en-2999-dolares/">Los Mac Pro disponibles en diciembre empezando en 2999 dólares (3.049 euros)</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -437,9 +421,7 @@
 		<category><![CDATA[Keynote]]></category>
 		<category><![CDATA[Mac Pro]]></category>
 		<category><![CDATA[Octubre]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=10028</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-apple-el-22-de-octubre/">Keynote de Apple el 22 de octubre</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10028</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-apple-el-22-de-octubre/">Keynote de Apple el 22 de octubre</a></p>
 <p>Apple ha convocado a la prensa para dar una keynote el 22 de octubre bajo el lema «todavía tenemos mucho que cubrir».</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keynote-de-apple-el-22-de-octubre/">Keynote de Apple el 22 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -475,9 +457,7 @@
 		<category><![CDATA[Mavericks]]></category>
 		<category><![CDATA[Modelos compatibles]]></category>
 		<category><![CDATA[OS X Mavericks]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=9708</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/modelos-de-mac-compatibles-con-os-x-mavericks/">Modelos de Mac compatibles con OS X Mavericks</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9708</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/modelos-de-mac-compatibles-con-os-x-mavericks/">Modelos de Mac compatibles con OS X Mavericks</a></p>
 <p>Ya sabemos que con la llegada de nuevo software, algunos equipos antiguos pueden quedar obsoletos y por eso Apple decide no darles</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/modelos-de-mac-compatibles-con-os-x-mavericks/">Modelos de Mac compatibles con OS X Mavericks</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -529,9 +509,7 @@
 		<category><![CDATA[Thunderbolt]]></category>
 		<category><![CDATA[Thunderbolt 2]]></category>
 		<category><![CDATA[USB 3.0]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=9649</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-mac-pro-con-un-renovado-diseno-y-potentes-caracteristicas/">Nuevo Mac Pro con un renovado diseño y potentes características</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9649</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-mac-pro-con-un-renovado-diseno-y-potentes-caracteristicas/">Nuevo Mac Pro con un renovado diseño y potentes características</a></p>
 <p>Apple presentó ayer el nuevo Mac Pro en la keynote de la WWDC, un potente ordenador que ha reducido su tamaño, ha</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-mac-pro-con-un-renovado-diseno-y-potentes-caracteristicas/">Nuevo Mac Pro con un renovado diseño y potentes características</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -590,9 +568,7 @@
 		<category><![CDATA[Unión Europea]]></category>
 		<category><![CDATA[Vender]]></category>
 		<category><![CDATA[Ventiladores]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=8314</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-detendra-las-ventas-del-mac-pro-en-europa-a-partir-del-1-de-marzo/">Apple detendrá las ventas del Mac Pro en Europa a partir del 1 de marzo</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8314</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-detendra-las-ventas-del-mac-pro-en-europa-a-partir-del-1-de-marzo/">Apple detendrá las ventas del Mac Pro en Europa a partir del 1 de marzo</a></p>
 <p>Apple ha enviado un comunicado a los distribuidores europeos en el que les indica que a partir del 1 de marzo dejarán</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-detendra-las-ventas-del-mac-pro-en-europa-a-partir-del-1-de-marzo/">Apple detendrá las ventas del Mac Pro en Europa a partir del 1 de marzo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -641,9 +617,7 @@ Imagen | <a href="http://9to5mac.com/2013/01/31/apple-to-discontinue-mac-pro-in-
 		<category><![CDATA[Noticias de macOS]]></category>
 		<category><![CDATA[OS X Mountain Lion]]></category>
 		<category><![CDATA[Power Nap]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6977</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/modelos-compatibles-y-caracteristicas-minimas-para-actualizar-a-mountain-lion/">Modelos compatibles y características mínimas para actualizar a Mountain Lion</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6977</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/modelos-compatibles-y-caracteristicas-minimas-para-actualizar-a-mountain-lion/">Modelos compatibles y características mínimas para actualizar a Mountain Lion</a></p>
 <p>El lanzamiento oficial de OS X Mountain Lion está cada vez más cerca y Apple ha publicado en su web los modelos</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/modelos-compatibles-y-caracteristicas-minimas-para-actualizar-a-mountain-lion/">Modelos compatibles y características mínimas para actualizar a Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -719,9 +693,7 @@ Imagen | <a href="http://9to5mac.com/2013/01/31/apple-to-discontinue-mac-pro-in-
 		<category><![CDATA[Mejoras]]></category>
 		<category><![CDATA[Procesador]]></category>
 		<category><![CDATA[RAM]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6854</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-mac-pro-aumenta-su-memoria-ram-procesador-y-disminuye-el-precio/">El Mac Pro aumenta su memoria RAM, procesador y disminuye el precio</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6854</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-mac-pro-aumenta-su-memoria-ram-procesador-y-disminuye-el-precio/">El Mac Pro aumenta su memoria RAM, procesador y disminuye el precio</a></p>
 <p>Apple ha actualizado los Mac Pro pero de forma bastante moderada basada en un aumento de memoria RAM, una mejora de procesador</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-mac-pro-aumenta-su-memoria-ram-procesador-y-disminuye-el-precio/">El Mac Pro aumenta su memoria RAM, procesador y disminuye el precio</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

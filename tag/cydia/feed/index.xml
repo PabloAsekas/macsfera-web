@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Cydia &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/cydia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -36,9 +34,7 @@
 		<category><![CDATA[Noticias de apps]]></category>
 		<category><![CDATA[Noticias de macOS]]></category>
 		<category><![CDATA[Rumores]]></category>
-		<guid isPermaLink="false">http://aticomaquero.com/2010/12/cydia-en-mac-os-x/</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/cydia-en-os-x/">Cydia en OS X</a></p>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/12/cydia-en-mac-os-x/</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/cydia-en-os-x/">Cydia en OS X</a></p>
 <p>Con el anuncio de que OS X tendrá una Mac App Store (cuyo lanzamiento está preparado para finales de Enero) se deducía</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/cydia-en-os-x/">Cydia en OS X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

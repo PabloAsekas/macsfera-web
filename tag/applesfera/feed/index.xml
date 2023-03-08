@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Applesfera &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/applesfera/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[iPod]]></category>
 		<category><![CDATA[iPod Nano]]></category>
 		<category><![CDATA[iPod Shuffle]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16630</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/adios-al-ipod-nano-al-ipod-shuffle/">Adiós al iPod nano y al iPod shuffle</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16630</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/adios-al-ipod-nano-al-ipod-shuffle/">Adiós al iPod nano y al iPod shuffle</a></p>
 <p>Apple ha eliminado el iPod nano y el iPod shuffle de su web, el único superviviente ha sido el iPod touch .</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/adios-al-ipod-nano-al-ipod-shuffle/">Adiós al iPod nano y al iPod shuffle</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -69,9 +65,7 @@
 		<category><![CDATA[Applesfera]]></category>
 		<category><![CDATA[Eduardo Archanco]]></category>
 		<category><![CDATA[WWDC16]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16300</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/vistazo-apfs-paso-hacia-la-unificacion-los-equipos-sistemas-apple/">Un vistazo a APFS, otro paso hacia la unificación de los equipos y sistemas de Apple</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16300</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/vistazo-apfs-paso-hacia-la-unificacion-los-equipos-sistemas-apple/">Un vistazo a APFS, otro paso hacia la unificación de los equipos y sistemas de Apple</a></p>
 <p>En la WWDC DE 2016, Apple introdujo su nuevo sistema de archivos llamado Apple File System (APFS) que se implantaría tanto en</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/vistazo-apfs-paso-hacia-la-unificacion-los-equipos-sistemas-apple/">Un vistazo a APFS, otro paso hacia la unificación de los equipos y sistemas de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

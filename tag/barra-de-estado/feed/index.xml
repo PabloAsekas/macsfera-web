@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Barra de Estado &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/barra-de-estado/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Plugins]]></category>
 		<category><![CDATA[Safari]]></category>
 		<category><![CDATA[Ultimate Status Bar]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=4398</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ultimate-status-bar-barra-informativa-de-enlaces-para-safari/">Ultimate Status Bar, barra informativa de enlaces para Safari</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4398</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ultimate-status-bar-barra-informativa-de-enlaces-para-safari/">Ultimate Status Bar, barra informativa de enlaces para Safari</a></p>
 <p>Ultimate Status Bar es un plugin para Safari que muestra información de los enlaces sobre los que está tu cursor. En Safari</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ultimate-status-bar-barra-informativa-de-enlaces-para-safari/">Ultimate Status Bar, barra informativa de enlaces para Safari</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

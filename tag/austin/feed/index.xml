@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Austin &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/austin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Rick Perry]]></category>
 		<category><![CDATA[Texas]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6506</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-construira-un-nuevo-campus-en-texas/">Apple construirá un nuevo campus en Texas</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6506</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-construira-un-nuevo-campus-en-texas/">Apple construirá un nuevo campus en Texas</a></p>
 <p>El gobernador Rick Perry ha lanzado un anuncio en el que afirmaba que Apple construirá un campus en Austin, Texas. El proyecto</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-construira-un-nuevo-campus-en-texas/">Apple construirá un nuevo campus en Texas</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

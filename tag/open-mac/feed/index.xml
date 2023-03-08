@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Open Mac &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/open-mac/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[Open Computer]]></category>
 		<category><![CDATA[Open Mac]]></category>
 		<category><![CDATA[Psystar]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5051</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-juicio-acaba-psystar-pierde-por-la-venta-de-ordenadores-hackintosh/">El juicio acaba, Psystar pierde por la venta de ordenadores Hackintosh</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5051</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-juicio-acaba-psystar-pierde-por-la-venta-de-ordenadores-hackintosh/">El juicio acaba, Psystar pierde por la venta de ordenadores Hackintosh</a></p>
 <p>Psystar era una empresa que se encargaba de vender ordenadores de su propia marca con OS X instalado de serie, proceso conocido</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-juicio-acaba-psystar-pierde-por-la-venta-de-ordenadores-hackintosh/">El juicio acaba, Psystar pierde por la venta de ordenadores Hackintosh</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>AES 256 &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/aes-256/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Encriptación]]></category>
 		<category><![CDATA[Encrypto]]></category>
 		<category><![CDATA[MacPaw]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=12849</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/encrypto-sencilla-herramienta-encriptar-archivos/">Encrypto: Sencilla herramienta para encriptar archivos</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12849</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/encrypto-sencilla-herramienta-encriptar-archivos/">Encrypto: Sencilla herramienta para encriptar archivos</a></p>
 <p>Hoy os voy a hablar de Encrypto, una sencilla herramienta de los creadores de CleanMyMac, capaz de encriptar cualquier documento para que</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/encrypto-sencilla-herramienta-encriptar-archivos/">Encrypto: Sencilla herramienta para encriptar archivos</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

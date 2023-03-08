@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Fábricas &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/fabricas/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -37,9 +35,7 @@
 		<category><![CDATA[Suicidio]]></category>
 		<category><![CDATA[Tim Cook]]></category>
 		<category><![CDATA[Trabajo]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6342</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/comienzan-las-inspecciones-de-foxconn-por-parte-de-fair-labor-association/">Comienzan las inspecciones de Foxconn por parte de Fair Labor Association</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6342</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/comienzan-las-inspecciones-de-foxconn-por-parte-de-fair-labor-association/">Comienzan las inspecciones de Foxconn por parte de Fair Labor Association</a></p>
 <p>La empresa de Fair Labor Association comenzó en el día de ayer las inspecciones de trabajo a las fábricas de producción subcontratadas</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/comienzan-las-inspecciones-de-foxconn-por-parte-de-fair-labor-association/">Comienzan las inspecciones de Foxconn por parte de Fair Labor Association</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

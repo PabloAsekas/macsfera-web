@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>FastedTube &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/fastedtube/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -38,9 +36,7 @@
 		<category><![CDATA[Plugin]]></category>
 		<category><![CDATA[Safari]]></category>
 		<category><![CDATA[YouTube]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=4839</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fastedtube-descarga-videos-de-youtube-desde-cualquier-navegador/">FastedTube, descarga vídeos de YouTube desde cualquier navegador</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4839</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fastedtube-descarga-videos-de-youtube-desde-cualquier-navegador/">FastedTube, descarga vídeos de YouTube desde cualquier navegador</a></p>
 <p>FastedTube es un plugin con el que podrás descargar vídeos de YouTube desde el navegador sin necesidad de programas externos. FastedTube se</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fastedtube-descarga-videos-de-youtube-desde-cualquier-navegador/">FastedTube, descarga vídeos de YouTube desde cualquier navegador</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

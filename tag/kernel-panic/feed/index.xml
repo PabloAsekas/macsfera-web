@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Kernel Panic &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/kernel-panic/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -37,9 +35,7 @@
 		<category><![CDATA[Safari]]></category>
 		<category><![CDATA[Servidores SMB]]></category>
 		<category><![CDATA[Volver a mi Mac]]></category>
-		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1530</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-snow-leopard-se-actualiza-a-la-version-10-6-7/">OS X Snow Leopard se actualiza a la version 10.6.7</a></p>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1530</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-snow-leopard-se-actualiza-a-la-version-10-6-7/">OS X Snow Leopard se actualiza a la version 10.6.7</a></p>
 <p>El actual sistema operativo de Apple se ha actualizado a la versión 10.6.7 corrigiendo algunos errores: Mejora de fiabilidad de «Volver a</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-snow-leopard-se-actualiza-a-la-version-10-6-7/">OS X Snow Leopard se actualiza a la version 10.6.7</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

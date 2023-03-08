@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Interfaz Gráfica &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/interfaz-grafica/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -36,9 +34,7 @@
 		<category><![CDATA[OS X Snow Leopard]]></category>
 		<category><![CDATA[Pages]]></category>
 		<category><![CDATA[Software]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5006</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/9-motivos-por-los-cuales-prefiero-os-x-ante-cualquier-otro/">9 motivos por los cuales prefiero OS X ante cualquier otro</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5006</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/9-motivos-por-los-cuales-prefiero-os-x-ante-cualquier-otro/">9 motivos por los cuales prefiero OS X ante cualquier otro</a></p>
 <p>Mucha gente tiene miedo a pasarse a Mac por varios motivos como el precio o la compatibilidad, pero hay unas cuantas cosillas</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/9-motivos-por-los-cuales-prefiero-os-x-ante-cualquier-otro/">9 motivos por los cuales prefiero OS X ante cualquier otro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

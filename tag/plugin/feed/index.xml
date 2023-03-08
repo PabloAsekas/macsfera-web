@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Plugin &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/plugin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Java]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Plugin]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=8484</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/hackers-logran-atacar-a-apple-pero-sin-robar-informacion/">Hackers logran atacar a Apple pero sin robar información</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8484</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/hackers-logran-atacar-a-apple-pero-sin-robar-informacion/">Hackers logran atacar a Apple pero sin robar información</a></p>
 <p>Apple ha confirmado que ha sido víctima de un ataque organizado informático que ha afectado a varios equipos pero que no han</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/hackers-logran-atacar-a-apple-pero-sin-robar-informacion/">Hackers logran atacar a Apple pero sin robar información</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -73,9 +69,7 @@ Imagen | <a href="http://www.thesleuthjournal.com/a-call-to-hackers-everywhere/"
 		<category><![CDATA[Plugin]]></category>
 		<category><![CDATA[Safari]]></category>
 		<category><![CDATA[YouTube]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=4839</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fastedtube-descarga-videos-de-youtube-desde-cualquier-navegador/">FastedTube, descarga vídeos de YouTube desde cualquier navegador</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4839</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/fastedtube-descarga-videos-de-youtube-desde-cualquier-navegador/">FastedTube, descarga vídeos de YouTube desde cualquier navegador</a></p>
 <p>FastedTube es un plugin con el que podrás descargar vídeos de YouTube desde el navegador sin necesidad de programas externos. FastedTube se</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/fastedtube-descarga-videos-de-youtube-desde-cualquier-navegador/">FastedTube, descarga vídeos de YouTube desde cualquier navegador</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

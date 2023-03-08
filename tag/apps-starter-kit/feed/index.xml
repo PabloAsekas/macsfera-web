@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Apps Starter Kit &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/apps-starter-kit/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[Apps Starter Kit]]></category>
 		<category><![CDATA[Noticias de apps]]></category>
 		<category><![CDATA[Productividad]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6026</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apps-starter-kit-nueva-categoria-de-aplicaciones-de-productividad/">Apps Starter Kit: Nueva categoría de aplicaciones de productividad</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6026</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apps-starter-kit-nueva-categoria-de-aplicaciones-de-productividad/">Apps Starter Kit: Nueva categoría de aplicaciones de productividad</a></p>
 <p>Apps Starter Kit es la nueva categoría de la Mac App Store en la que se juntan un conjunto de aplicaciones que</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apps-starter-kit-nueva-categoria-de-aplicaciones-de-productividad/">Apps Starter Kit: Nueva categoría de aplicaciones de productividad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

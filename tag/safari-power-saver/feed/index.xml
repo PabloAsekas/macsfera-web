@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Safari Power Saver &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/safari-power-saver/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[Rendimiento]]></category>
 		<category><![CDATA[Safari Power Saver]]></category>
 		<category><![CDATA[Timer Coalescing]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=9687</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/todas-las-mejoras-de-eficiencia-y-rendimiento-de-os-x-mavericks/">Todas las mejoras de eficiencia y rendimiento de OS X Mavericks</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=9687</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/todas-las-mejoras-de-eficiencia-y-rendimiento-de-os-x-mavericks/">Todas las mejoras de eficiencia y rendimiento de OS X Mavericks</a></p>
 <p>El pasado 10 de junio, supimos que Apple estaba preparando una nueva versión del sistema operativo OS X, dicha versión se llama</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/todas-las-mejoras-de-eficiencia-y-rendimiento-de-os-x-mavericks/">Todas las mejoras de eficiencia y rendimiento de OS X Mavericks</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

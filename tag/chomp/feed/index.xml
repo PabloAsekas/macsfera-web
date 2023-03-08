@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Chomp &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/chomp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -30,9 +28,7 @@
 		<category><![CDATA[App Store]]></category>
 		<category><![CDATA[Chomp]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6431</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-compra-chomp-un-buscador-de-aplicaciones-mejorado/">Apple compra Chomp, un buscador de aplicaciones mejorado</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6431</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-compra-chomp-un-buscador-de-aplicaciones-mejorado/">Apple compra Chomp, un buscador de aplicaciones mejorado</a></p>
 <p>Apple ha comprado el buscador de aplicaciones Chomp que destaca por ser potente a la hora de buscar y por sus distintas</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-compra-chomp-un-buscador-de-aplicaciones-mejorado/">Apple compra Chomp, un buscador de aplicaciones mejorado</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

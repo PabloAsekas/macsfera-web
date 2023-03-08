@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Experiencia &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/experiencia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[MacBook Pro]]></category>
 		<category><![CDATA[Virtualización]]></category>
 		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17069</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17069</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
 <p>En 2012 empecé mis estudios universitarios, Ingeniería del software para ser exactos. Por aquella época yo ya usaba Mac, y no me</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -96,9 +92,7 @@
 <div class="galerias medio" data-layout="3" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Maldito-Windows.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Maldito-pantallazo-azul-de-Windows.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Ubuntu-virtualizado-en-Mac.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Ubuntu-virtualizado-en-Mac.jpg" title="" alt="" /></div>
 <p>La virtualización es uno de esos inventos que ha cambiado la forma de trabajar con los ordenadores. De tener un ordenador ejecutando un solo sistema, a tener un ordenador ejecutando infinitos sistemas. Cada uno aislado, cada uno con su propio entorno y su propia naturaleza.</p>
 <p>Gracias a los sistemas de virtualización, <strong>podemos usar nuestro Mac para ejecutar todo lo que sea compatible, y a la vez, virtualizar otros sistemas operativos para ejecutar todo aquello que no es compatible de entrada.</strong></p>
 <p>En Mac, además, hay varias soluciones, gratuitas y de pago, con las que podemos virtualizar sistemas operativos:</p>

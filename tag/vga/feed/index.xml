@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>VGA &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/vga/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -36,9 +34,7 @@
 		<category><![CDATA[USB 3.0]]></category>
 		<category><![CDATA[USB C]]></category>
 		<category><![CDATA[VGA]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=10399</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/todos-los-nuevos-accesorios-para-el-macbook/">Todos los nuevos accesorios para el MacBook</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10399</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/todos-los-nuevos-accesorios-para-el-macbook/">Todos los nuevos accesorios para el MacBook</a></p>
 <p>Con la presentación del nuevo MacBook, Apple introdujo una serie de accesorios oficiales para poder aprovechar toda la funcionalidad del nuevo puerto</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/todos-los-nuevos-accesorios-para-el-macbook/">Todos los nuevos accesorios para el MacBook</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>SoHo &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/soho/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[State Island]]></category>
 		<category><![CDATA[Upper West Side]]></category>
 		<category><![CDATA[West 14th Street]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=4655</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-cierra-las-apple-store-de-nueva-york-por-el-huracan-irene/">Apple cierra las Apple Store de Nueva York por el huracán Irene</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4655</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-cierra-las-apple-store-de-nueva-york-por-el-huracan-irene/">Apple cierra las Apple Store de Nueva York por el huracán Irene</a></p>
 <p>El huracán Irene, que está pasando ahora mismo por Nueva York, ha hecho que Apple tenga que cerrar sus Apple Store de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-cierra-las-apple-store-de-nueva-york-por-el-huracan-irene/">Apple cierra las Apple Store de Nueva York por el huracán Irene</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

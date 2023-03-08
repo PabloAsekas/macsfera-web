@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Ataque &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/ataque/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[Facebook]]></category>
 		<category><![CDATA[iTunes]]></category>
 		<category><![CDATA[Java]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=8494</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/actualizacion-de-java-para-os-x-y-de-itunes/">Actualización de Java para OS X y de iTunes</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8494</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/actualizacion-de-java-para-os-x-y-de-itunes/">Actualización de Java para OS X y de iTunes</a></p>
 <p>Apple ha lanzado una actualización para Java y una menor actualización para iTunes que implementa algunas funciones nuevas. La actualización de Java</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/actualizacion-de-java-para-os-x-y-de-itunes/">Actualización de Java para OS X y de iTunes</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

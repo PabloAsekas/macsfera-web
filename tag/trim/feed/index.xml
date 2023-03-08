@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>TRIM &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/trim/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[SSD]]></category>
 		<category><![CDATA[TRIM]]></category>
 		<category><![CDATA[Trim enabler]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=11054</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=11054</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a></p>
 <p>En las dos primeras betas de OS X El Capitan se ha descubierto un comando de terminal que habilitaría el soporte TRIM</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-el-capitan-podria-tener-soporte-trim-para-ssds-de-terceros/">OS X El Capitan podría tener soporte TRIM para SSDs de terceros</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -73,9 +69,7 @@
 		<category><![CDATA[TRIM]]></category>
 		<category><![CDATA[Trim enabler]]></category>
 		<category><![CDATA[Yosemite]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=10242</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/">Habilita la orden TRIM si has instalado un SSD</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10242</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/">Habilita la orden TRIM si has instalado un SSD</a></p>
 <p>Con la salida de OS X Yosemite puede que te hayas planteado cambiar el disco duro de tu Mac por un SSD.</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/habilita-la-orden-trim-si-has-instalado-un-ssd/">Habilita la orden TRIM si has instalado un SSD</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

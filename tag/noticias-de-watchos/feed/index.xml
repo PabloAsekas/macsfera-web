@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Noticias de watchOS &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/noticias-de-watchos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[See you on the 7th]]></category>
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[watchOS 3]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15327</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/">iOS 10 y watchOS 3 disponibles el 13 de septiembre</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15327</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/">iOS 10 y watchOS 3 disponibles el 13 de septiembre</a></p>
 <p>En la keynote “See you on the 7th” nos revelaron que las nuevas versiones de iOS 10 y watchOS 3 estarán disponibles</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ios-10-watchos-3-disponibles-13-septiembre/">iOS 10 y watchOS 3 disponibles el 13 de septiembre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -67,9 +63,7 @@
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC16]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14888</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-watchos-3/">Nuevo watchOS 3</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14888</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-watchos-3/">Nuevo watchOS 3</a></p>
 <p>Ayer fue la keynote de la WWDC de 2016 y, tal y como estaba previsto, Apple presentó la siguiente versión del sistema</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-watchos-3/">Nuevo watchOS 3</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

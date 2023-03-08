@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>iDisk &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/idisk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[iDisk]]></category>
 		<category><![CDATA[iWeb]]></category>
 		<category><![CDATA[MobileMe]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6800</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-avisa-30-de-junio-mobileme-cierra/">Apple avisa: 30 de Junio MobileMe cierra</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6800</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-avisa-30-de-junio-mobileme-cierra/">Apple avisa: 30 de Junio MobileMe cierra</a></p>
 <p>Apple ha enviado lo que son los últimos avisos a todos los usuarios de MobileMe para que retiren su contenido antes del</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-avisa-30-de-junio-mobileme-cierra/">Apple avisa: 30 de Junio MobileMe cierra</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -71,9 +67,7 @@
 		<category><![CDATA[Migración]]></category>
 		<category><![CDATA[MobileMe]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=4325</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-permite-a-los-desarrolladores-migrar-de-mobileme-a-icloud/">Apple permite a los desarrolladores migrar de MobileMe a iCloud</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4325</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-permite-a-los-desarrolladores-migrar-de-mobileme-a-icloud/">Apple permite a los desarrolladores migrar de MobileMe a iCloud</a></p>
 <p>Apple ha abierto un apartado en su web me.com/move para desarrolladores que permite migrar toda la información de MobileMe a iCloud. Según</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-permite-a-los-desarrolladores-migrar-de-mobileme-a-icloud/">Apple permite a los desarrolladores migrar de MobileMe a iCloud</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

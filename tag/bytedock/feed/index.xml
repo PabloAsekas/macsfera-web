@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>ByteDock &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/bytedock/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -36,9 +34,7 @@
 		<category><![CDATA[Mini DisplayPort]]></category>
 		<category><![CDATA[Thunderbolt]]></category>
 		<category><![CDATA[USB]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=4880</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bytedock-una-estacion-base-para-tu-mac-mas-accesible/">ByteDock, una estación base para tu Mac más accesible</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4880</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/bytedock-una-estacion-base-para-tu-mac-mas-accesible/">ByteDock, una estación base para tu Mac más accesible</a></p>
 <p>ByteDock es una nueva estación base con forma de dock para tu MacBook Pro de 13, 15 o 17 pulgadas en el</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/bytedock-una-estacion-base-para-tu-mac-mas-accesible/">ByteDock, una estación base para tu Mac más accesible</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

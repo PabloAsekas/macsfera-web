@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Marc Gurman &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/marc-gurman/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Noticias de Mac]]></category>
 		<category><![CDATA[Procesadores]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16818</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16818</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a></p>
 <p>Agarrémonos bien fuerte porque vienen curvas. Mark Gurman e Ian King han publicado un adelanto de los planes de futuro de Apple</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

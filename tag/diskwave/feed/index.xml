@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Diskwave &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/diskwave/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Diskwave]]></category>
 		<category><![CDATA[Faq-mac]]></category>
 		<category><![CDATA[Faq-mac Academy]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14624</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/curso-gratis-diskwave-controla-espacio-ocupado-disco-duro-mac/">¡Curso Gratis! &#8211; Diskwave, controla el espacio ocupado en tu disco duro de tu Mac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14624</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/curso-gratis-diskwave-controla-espacio-ocupado-disco-duro-mac/">¡Curso Gratis! &#8211; Diskwave, controla el espacio ocupado en tu disco duro de tu Mac</a></p>
 <p>Ayer, faq-mac estrenó faq-mac Academy, un portal donde encontraremos cursos sobre distintas aplicaciones que Carlos Burges conoce perfectamente para que el resto</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/curso-gratis-diskwave-controla-espacio-ocupado-disco-duro-mac/">¡Curso Gratis! &#8211; Diskwave, controla el espacio ocupado en tu disco duro de tu Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

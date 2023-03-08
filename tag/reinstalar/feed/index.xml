@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Reinstalar &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/reinstalar/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[OS X Mountain Lion]]></category>
 		<category><![CDATA[Recovery]]></category>
 		<category><![CDATA[Reinstalar]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=8535</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/algunos-mac-del-2012-no-pueden-reinstalar-os-x-mountain-lion/">Algunos Mac del 2012 no pueden reinstalar OS X Mountain Lion</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=8535</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/algunos-mac-del-2012-no-pueden-reinstalar-os-x-mountain-lion/">Algunos Mac del 2012 no pueden reinstalar OS X Mountain Lion</a></p>
 <p>Se han reportado varios casos por los que algunos modelo de Mac posteriores al 2012 no pueden reinstalar Mountain Lion. Estos casos</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/algunos-mac-del-2012-no-pueden-reinstalar-os-x-mountain-lion/">Algunos Mac del 2012 no pueden reinstalar OS X Mountain Lion</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

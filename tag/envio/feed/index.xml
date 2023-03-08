@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Envío &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/envio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[Envío]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[San Francisco]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5393</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/compra-en-la-apple-store-on-line-y-recogelo-en-una-tienda-fisica/">Compra en la Apple Store Online y recógelo en una tienda física</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5393</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/compra-en-la-apple-store-on-line-y-recogelo-en-una-tienda-fisica/">Compra en la Apple Store Online y recógelo en una tienda física</a></p>
 <p>Apple lanza un nuevo método de compra y envío a través de su tienda online. Compras por Internet pero lo recoges en</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/compra-en-la-apple-store-on-line-y-recogelo-en-una-tienda-fisica/">Compra en la Apple Store Online y recógelo en una tienda física</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

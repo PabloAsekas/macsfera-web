@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Noticias de tvOS &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/noticias-de-tvos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC16]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14904</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14904</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a></p>
 <p>Continuando con las novedades de la WWDC, Apple presentó la siguiente versión del sistema operativo del Apple TV, tvOS. Esta versión no</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nueva-version-tvos/">Nueva versión de tvOS</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

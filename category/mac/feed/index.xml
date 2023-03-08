@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Mac &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/category/mac/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -44,9 +42,7 @@
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC19]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
 <p>Hace justo una semana se celebró la keynote de inauguración de la WWDC19, el evento anual de desarrolladores donde Apple presenta las</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -92,9 +88,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-app-Fotos.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-Mapas-de-Apple.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-mapas.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" /></div>
 <p>Ya sabéis que soy un fan empedernido del esfuerzo que Apple hace para garantizar la seguridad de sus usuarios, <strong>y iOS 13 sigue con esa premisa un poco más.</strong> Se añade la posibilidad de compartir la ubicación con apps <strong>sólo una vez,</strong> de modo que la siguiente vez que usemos la app nos pedirá de nuevo permiso para usar la localización. <strong>Se acabó espiar a la gente con procesos en segundo plano.</strong> <strong>Se acabó usar los recursos de las antenas Wi-Fi y Bluetooth para localizar a las personas.</strong></p>
 <p>Y, dando la sorpresa, <strong>Apple ha creado su propio botón para <em>“Iniciar sesión con Apple”</em> en servicios de terceros.</strong> Con este nuevo método podremos usar aplicaciones sabiendo que se respeta nuestra privacidad. Además, en caso de que el servicio necesite tener nuestro email, <strong>Apple ofrece la posibilidad de crear emails aleatorios que van a ser redirigidos a nuestro email particular de Apple,</strong> de modo que el servicio nunca conoce nuestro email y nosotros podemos seguir usándolo sin problemas. La guinda al pastel viene en que este nuevo mecanismo de login es de <strong>uso obligatorio para todas las apps que quieran poner botones de otros servicios,</strong> y a mí no me pueden doler más las manos de aplaudir.</p>
 <p>Siguiendo con la privacidad y la seguridad, <strong>se han presentado nuevos mecanismos de seguridad para dispositivos compatibles con HomeKit,</strong> sobre todo las cámaras, ofreciendo almacenar las imágenes en la nube privada de Apple de forma temporal con cifrado punto a punto y sin consumir espacio del plan que tenemos contratado en iCloud. Además, se van a empezar a fabricar routers compatibles con HomeKit que sirvan como punto de protección extra para los dispositivos que hay en nuestra casa.</p>
@@ -158,9 +152,7 @@
 		<category><![CDATA[MacBook Pro]]></category>
 		<category><![CDATA[Virtualización]]></category>
 		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17069</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17069</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
 <p>En 2012 empecé mis estudios universitarios, Ingeniería del software para ser exactos. Por aquella época yo ya usaba Mac, y no me</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -220,9 +212,7 @@
 <div class="galerias medio" data-layout="3" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Maldito-Windows.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Maldito-pantallazo-azul-de-Windows.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Ubuntu-virtualizado-en-Mac.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Ubuntu-virtualizado-en-Mac.jpg" title="" alt="" /></div>
 <p>La virtualización es uno de esos inventos que ha cambiado la forma de trabajar con los ordenadores. De tener un ordenador ejecutando un solo sistema, a tener un ordenador ejecutando infinitos sistemas. Cada uno aislado, cada uno con su propio entorno y su propia naturaleza.</p>
 <p>Gracias a los sistemas de virtualización, <strong>podemos usar nuestro Mac para ejecutar todo lo que sea compatible, y a la vez, virtualizar otros sistemas operativos para ejecutar todo aquello que no es compatible de entrada.</strong></p>
 <p>En Mac, además, hay varias soluciones, gratuitas y de pago, con las que podemos virtualizar sistemas operativos:</p>
@@ -261,9 +251,7 @@
 		<category><![CDATA[iMac]]></category>
 		<category><![CDATA[Memoria RAM]]></category>
 		<category><![CDATA[Timetec]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17051</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17051</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a></p>
 <p>En 2012 el iMac llegó a mi vida, y antes de comprarlo tuve que hacer una pequeña elección: más memoria RAM o</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -324,9 +312,7 @@
 		<category><![CDATA[Nueva York]]></category>
 		<category><![CDATA[There’s more in the making]]></category>
 		<category><![CDATA[USB C]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16976</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16976</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a></p>
 <p>Ayer se celebró la keynote “There’s more in the making”, el evento en el que esperábamos ver novedades acerca de los Mac</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -390,9 +376,7 @@
 		<category><![CDATA[Migración]]></category>
 		<category><![CDATA[Ráfagas de fotos]]></category>
 		<category><![CDATA[Recuerdos]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16936</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16936</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a></p>
 <p>Desde su lanzamiento en 2015, Fotos.app ha sido mi sistema de almacenamiento principal para las fotos que he sacado, tanto con el</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -666,9 +650,7 @@
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Noticias de Mac]]></category>
 		<category><![CDATA[Procesadores]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16818</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16818</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a></p>
 <p>Agarrémonos bien fuerte porque vienen curvas. Mark Gurman e Ian King han publicado un adelanto de los planes de futuro de Apple</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -708,9 +690,7 @@
 		<category><![CDATA[Mac Pro]]></category>
 		<category><![CDATA[Noticias de Mac]]></category>
 		<category><![CDATA[Phil Schiller]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16515</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/">El futuro del Mac Pro, el iMac y las pantallas de Apple</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16515</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/">El futuro del Mac Pro, el iMac y las pantallas de Apple</a></p>
 <p>Ayer, Apple celebró una pequeña reunión privada con cinco periodistas tecnológicos en su campus (el antiguo). Uno de los asistentes fue John</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/">El futuro del Mac Pro, el iMac y las pantallas de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -807,9 +787,7 @@
 		<category><![CDATA[macOS]]></category>
 		<category><![CDATA[MX Master]]></category>
 		<category><![CDATA[Ratones]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16155</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/logitech-mx-master-el-mejor-raton-para-mac/">Logitech MX Master: el mejor ratón para el Mac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16155</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/logitech-mx-master-el-mejor-raton-para-mac/">Logitech MX Master: el mejor ratón para el Mac</a></p>
 <p>El año pasado, por estas fechas, recibí de regalo el Logitech MX Master, la nueva versión de los ratones MX que tan</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/logitech-mx-master-el-mejor-raton-para-mac/">Logitech MX Master: el mejor ratón para el Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -829,9 +807,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/01/Diseno-del-MX-Master-2.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/01/Diseno-del-MX-Master-1.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/01/Diseno-del-MX-Master-4.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2017/01/Diseno-del-MX-Master-3.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2017/01/Diseno-del-MX-Master-3.jpg" title="" alt="" /></div>
 <p>Antes de entrar en materia y explicaros porqué el MX Master es un rival honorable que incluso derrota a la propuesta de Apple, <strong>voy a proceder a describiros de forma general cómo es el dispositivo:</strong></p>
 <p>En total <strong>cuenta con siete botones y dos ruedas</strong> en un cuerpo de plástico que es ergonómico a más no poder. El ratón se adapta a la palma de la mano sin problemas y es muy cómodo de usar. Aunque eso sí, sólo está hecho para aquellas personas que usan el ratón con la mano derecha, si no, es imposible.</p>
 <p>De las dos ruedas, una de ellas –la del scroll– <strong>cuenta con un sistema llamado SmartShift.</strong> Este sistema controla el comportamiento de la rueda cuando lo usamos con más o menos intensidad:</p>
@@ -880,9 +856,7 @@
 <div class="galerias medio" data-layout="12" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/01/MX-Master-con-MacBook-Pro.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/01/MX-Master-funciona-en-cristal.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2017/01/MX-Master.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2017/01/MX-Master.jpg" title="" alt="" /></div>
 <p>En general, <strong>no hay gesto, acción o tarea que no quede cubierta por el MX Master</strong> y dependerá de cada uno de vosotros el encontrarle un uso. Por eso tardé tanto a la hora de encontrar la combinación perfecta, porque es algo que hay que pensar bastante bien y adaptarlo para que sea cómodo en todos los cascos.</p>
 <p>Como consejo os diría que busquéis una asignación general de las características del sistema que funcionen en todas las aplicaciones y procuréis no alterar esos botones entre aplicaciones para no liaros <sup class="modern-footnotes-footnote ">3</sup>, cuando esas características del sistema estén cubiertas, será hora de utilizar los botones que no habéis configurado para cada aplicación en particular.</p>
 <p>De esta forma conseguiréis una experiencia unificada entre todas las aplicaciones, las propiedades del sistema quedarán cubiertas y el uso del ratón será homogéneo.</p>
@@ -955,9 +929,7 @@
 		<category><![CDATA[Think Different]]></category>
 		<category><![CDATA[Touch Bar]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15849</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-anuncio-del-macbook-pro-herramienta-las-ideas/">Nuevo anuncio del MacBook Pro como herramienta para las ideas</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15849</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-anuncio-del-macbook-pro-herramienta-las-ideas/">Nuevo anuncio del MacBook Pro como herramienta para las ideas</a></p>
 <p>Ayer, Apple presentó un anuncio del nuevo MacBook Pro con Touch Bar presentándolo como una herramienta para realizar tus ideas. El vídeo,</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-anuncio-del-macbook-pro-herramienta-las-ideas/">Nuevo anuncio del MacBook Pro como herramienta para las ideas</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -993,9 +965,7 @@
 		<category><![CDATA[Faq-mac]]></category>
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Sal Soghoian]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15836</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/sal-soghoian-deja-apple-preocupante/">Sal Soghoian deja Apple y esto sí que es preocupante</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15836</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/sal-soghoian-deja-apple-preocupante/">Sal Soghoian deja Apple y esto sí que es preocupante</a></p>
 <p>Una pieza clave de Apple en cuanto a la automatización en macOS ha decidido irse de Apple dejando algo más que su</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/sal-soghoian-deja-apple-preocupante/">Sal Soghoian deja Apple y esto sí que es preocupante</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -1030,9 +1000,7 @@
 		<category><![CDATA[MacBook Pro]]></category>
 		<category><![CDATA[Noticias de Mac]]></category>
 		<category><![CDATA[USB C]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15747</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-rebaja-los-accesorios-usb-c-por-el-lanzamiento-del-macbook-pro-temporalmente/">Apple rebaja los accesorios USB C por el lanzamiento del MacBook Pro</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15747</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-rebaja-los-accesorios-usb-c-por-el-lanzamiento-del-macbook-pro-temporalmente/">Apple rebaja los accesorios USB C por el lanzamiento del MacBook Pro</a></p>
 <p>El nuevo MacBook Pro cuenta con dos o cuatro puertos USB C (según el modelo) y con él vinieron unos cuantos adaptadores</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-rebaja-los-accesorios-usb-c-por-el-lanzamiento-del-macbook-pro-temporalmente/">Apple rebaja los accesorios USB C por el lanzamiento del MacBook Pro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -1092,9 +1060,7 @@
 		<category><![CDATA[Phil Schiller]]></category>
 		<category><![CDATA[Siri]]></category>
 		<category><![CDATA[Touch Bar]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15741</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/phil-schiller-habla-sobre-ordenadores-pantallas-tactiles-y-control-por-voz-en-el-nuevo-macbook-pro/">Phil Schiller habla sobre ordenadores, pantallas táctiles y control por voz en el nuevo MacBook Pro</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15741</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/phil-schiller-habla-sobre-ordenadores-pantallas-tactiles-y-control-por-voz-en-el-nuevo-macbook-pro/">Phil Schiller habla sobre ordenadores, pantallas táctiles y control por voz en el nuevo MacBook Pro</a></p>
 <p>Independent de Reino Unido ha podido entrevistar a Phil Schiller sobre el nuevo MacBook Pro presentado hace una semana en la keynote</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/phil-schiller-habla-sobre-ordenadores-pantallas-tactiles-y-control-por-voz-en-el-nuevo-macbook-pro/">Phil Schiller habla sobre ordenadores, pantallas táctiles y control por voz en el nuevo MacBook Pro</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

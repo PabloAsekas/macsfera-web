@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Escritura &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/escritura/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[Precisión]]></category>
 		<category><![CDATA[Stylus]]></category>
 		<category><![CDATA[Stylus sin Bluetooth]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14199</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/adonit-switch-pensamientos-generales/">Adonit Switch: pensamientos generales</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14199</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/adonit-switch-pensamientos-generales/">Adonit Switch: pensamientos generales</a></p>
 <p>A raíz de mi review sobre el Adonit Jot Pro, Adonit me envió su nuevo modelo, el Adonit Switch. Este stylus busca</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/adonit-switch-pensamientos-generales/">Adonit Switch: pensamientos generales</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

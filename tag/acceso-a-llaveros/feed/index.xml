@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Acceso a Llaveros &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/acceso-a-llaveros/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -31,9 +29,7 @@
 		<category><![CDATA[Tutoriales]]></category>
 		<category><![CDATA[Acceso a Llaveros]]></category>
 		<category><![CDATA[Utilidades]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=4194</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-la-mac-app-store-vaya-mas-rapido/">Cómo hacer que la Mac App Store vaya más rápido</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4194</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-la-mac-app-store-vaya-mas-rapido/">Cómo hacer que la Mac App Store vaya más rápido</a></p>
 <p>Cabe la posibilidad de que al cargar la Mac App Store esta vaya un poco más lenta. Es normal, es como iTunes,</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-hacer-que-la-mac-app-store-vaya-mas-rapido/">Cómo hacer que la Mac App Store vaya más rápido</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

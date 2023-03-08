@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Fútbol &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/futbol/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Publicidad]]></category>
 		<category><![CDATA[Shot on iPhone]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14875</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/futbol-asi-bonito/">El fútbol es así de bonito</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14875</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/futbol-asi-bonito/">El fútbol es así de bonito</a></p>
 <p>Empieza la Eurocopa 2016 y Apple ha publicado un nuevo vídeo en su canal español de un anuncio de 30 segundos en</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/futbol-asi-bonito/">El fútbol es así de bonito</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

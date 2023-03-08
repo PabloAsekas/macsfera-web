@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Mac OS &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/mac-os/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[Navegador]]></category>
 		<category><![CDATA[Virtual Viagra]]></category>
 		<category><![CDATA[Web]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=6247</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/emulador-de-un-macintosh-performa-6116cd-con-mac-os-7/">Emulador de un Macintosh Performa 6116CD con Mac OS 7</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=6247</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/emulador-de-un-macintosh-performa-6116cd-con-mac-os-7/">Emulador de un Macintosh Performa 6116CD con Mac OS 7</a></p>
 <p>Hoy os queremos presentar esta web que hemos encontrado en la que se emula al mítico Macintosh Performa 6116CD corriendo Mac OS</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/emulador-de-un-macintosh-performa-6116cd-con-mac-os-7/">Emulador de un Macintosh Performa 6116CD con Mac OS 7</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

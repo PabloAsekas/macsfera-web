@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>MacBoo kAir &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/macboo-kair/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[Pantalla Retina]]></category>
 		<category><![CDATA[Touch Bar]]></category>
 		<category><![CDATA[Touch ID]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15685</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-macbook-pro-con-touch-bar-y-touch-id/">Nuevo MacBook Pro con Touch Bar y Touch ID</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15685</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/nuevo-macbook-pro-con-touch-bar-y-touch-id/">Nuevo MacBook Pro con Touch Bar y Touch ID</a></p>
 <p>Hoy ha sido la keynote “Hello again” en la que Apple ha presentado el nuevo modelo de Mac, el MacBook Pro con</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/nuevo-macbook-pro-con-touch-bar-y-touch-id/">Nuevo MacBook Pro con Touch Bar y Touch ID</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

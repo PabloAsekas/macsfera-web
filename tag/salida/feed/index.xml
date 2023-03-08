@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Salida &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/salida/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -32,9 +30,7 @@
 		<category><![CDATA[Noticias de macOS]]></category>
 		<category><![CDATA[OS X Mountain Lion]]></category>
 		<category><![CDATA[Salida]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=7076</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-mountain-lion-llegara-manana-a-la-mac-app-store/">OS X Mountain Lion llegará mañana a la Mac App Store</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7076</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/os-x-mountain-lion-llegara-manana-a-la-mac-app-store/">OS X Mountain Lion llegará mañana a la Mac App Store</a></p>
 <p>En la rueda de prensa de la Q3 de Apple, han anunciado que OS X Mountain Lion estará disponible mañana 25 de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/os-x-mountain-lion-llegara-manana-a-la-mac-app-store/">OS X Mountain Lion llegará mañana a la Mac App Store</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

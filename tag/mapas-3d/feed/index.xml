@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Mapas 3D &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/mapas-3d/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Placebase]]></category>
 		<category><![CDATA[Poly9]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5417</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-ha-comprado-c3-technologies-una-empresa-de-mapas-en-3d/">Apple ha comprado C3 Technologies, una empresa de mapas en 3D</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5417</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-ha-comprado-c3-technologies-una-empresa-de-mapas-en-3d/">Apple ha comprado C3 Technologies, una empresa de mapas en 3D</a></p>
 <p>Apple ha decidido comprar la empresa C3 Technologies cuyo fin es el de crear mapas en 3D para sustituir a Google Maps</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-ha-comprado-c3-technologies-una-empresa-de-mapas-en-3d/">Apple ha comprado C3 Technologies, una empresa de mapas en 3D</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

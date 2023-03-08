@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Personalizado &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/personalizado/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[Personalizado]]></category>
 		<category><![CDATA[Servidor de correo entrante]]></category>
 		<category><![CDATA[Servidor de correo saliente]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=4821</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-configurar-tu-email-personalizado-en-mail/">Cómo configurar tu email personalizado en Mail</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=4821</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-configurar-tu-email-personalizado-en-mail/">Cómo configurar tu email personalizado en Mail</a></p>
 <p>Mail, como cliente de email, tiene la posibilidad de configurar diferentes cuentas de correo sin tener que ver con Gmail o Yahoo.</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-configurar-tu-email-personalizado-en-mail/">Cómo configurar tu email personalizado en Mail</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

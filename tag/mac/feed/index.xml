@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Mac &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/mac/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -44,9 +42,7 @@
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC19]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
 <p>Hace justo una semana se celebró la keynote de inauguración de la WWDC19, el evento anual de desarrolladores donde Apple presenta las</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -92,9 +88,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-app-Fotos.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-Mapas-de-Apple.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-mapas.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" /></div>
 <p>Ya sabéis que soy un fan empedernido del esfuerzo que Apple hace para garantizar la seguridad de sus usuarios, <strong>y iOS 13 sigue con esa premisa un poco más.</strong> Se añade la posibilidad de compartir la ubicación con apps <strong>sólo una vez,</strong> de modo que la siguiente vez que usemos la app nos pedirá de nuevo permiso para usar la localización. <strong>Se acabó espiar a la gente con procesos en segundo plano.</strong> <strong>Se acabó usar los recursos de las antenas Wi-Fi y Bluetooth para localizar a las personas.</strong></p>
 <p>Y, dando la sorpresa, <strong>Apple ha creado su propio botón para <em>“Iniciar sesión con Apple”</em> en servicios de terceros.</strong> Con este nuevo método podremos usar aplicaciones sabiendo que se respeta nuestra privacidad. Además, en caso de que el servicio necesite tener nuestro email, <strong>Apple ofrece la posibilidad de crear emails aleatorios que van a ser redirigidos a nuestro email particular de Apple,</strong> de modo que el servicio nunca conoce nuestro email y nosotros podemos seguir usándolo sin problemas. La guinda al pastel viene en que este nuevo mecanismo de login es de <strong>uso obligatorio para todas las apps que quieran poner botones de otros servicios,</strong> y a mí no me pueden doler más las manos de aplaudir.</p>
 <p>Siguiendo con la privacidad y la seguridad, <strong>se han presentado nuevos mecanismos de seguridad para dispositivos compatibles con HomeKit,</strong> sobre todo las cámaras, ofreciendo almacenar las imágenes en la nube privada de Apple de forma temporal con cifrado punto a punto y sin consumir espacio del plan que tenemos contratado en iCloud. Además, se van a empezar a fabricar routers compatibles con HomeKit que sirvan como punto de protección extra para los dispositivos que hay en nuestra casa.</p>
@@ -158,9 +152,7 @@
 		<category><![CDATA[MacBook Pro]]></category>
 		<category><![CDATA[Virtualización]]></category>
 		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17069</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17069</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
 <p>En 2012 empecé mis estudios universitarios, Ingeniería del software para ser exactos. Por aquella época yo ya usaba Mac, y no me</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -220,9 +212,7 @@
 <div class="galerias medio" data-layout="3" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Maldito-Windows.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Maldito-pantallazo-azul-de-Windows.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Ubuntu-virtualizado-en-Mac.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Ubuntu-virtualizado-en-Mac.jpg" title="" alt="" /></div>
 <p>La virtualización es uno de esos inventos que ha cambiado la forma de trabajar con los ordenadores. De tener un ordenador ejecutando un solo sistema, a tener un ordenador ejecutando infinitos sistemas. Cada uno aislado, cada uno con su propio entorno y su propia naturaleza.</p>
 <p>Gracias a los sistemas de virtualización, <strong>podemos usar nuestro Mac para ejecutar todo lo que sea compatible, y a la vez, virtualizar otros sistemas operativos para ejecutar todo aquello que no es compatible de entrada.</strong></p>
 <p>En Mac, además, hay varias soluciones, gratuitas y de pago, con las que podemos virtualizar sistemas operativos:</p>
@@ -261,9 +251,7 @@
 		<category><![CDATA[iMac]]></category>
 		<category><![CDATA[Memoria RAM]]></category>
 		<category><![CDATA[Timetec]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17051</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17051</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a></p>
 <p>En 2012 el iMac llegó a mi vida, y antes de comprarlo tuve que hacer una pequeña elección: más memoria RAM o</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -324,9 +312,7 @@
 		<category><![CDATA[Nueva York]]></category>
 		<category><![CDATA[There’s more in the making]]></category>
 		<category><![CDATA[USB C]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16976</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16976</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a></p>
 <p>Ayer se celebró la keynote “There’s more in the making”, el evento en el que esperábamos ver novedades acerca de los Mac</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -387,9 +373,7 @@
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Nueva York]]></category>
 		<category><![CDATA[There’s more in the making]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16968</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-theres-more-in-the-making-el-30-de-octubre/">Keynote “There’s more in the making” el 30 de octubre</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16968</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/keynote-theres-more-in-the-making-el-30-de-octubre/">Keynote “There’s more in the making” el 30 de octubre</a></p>
 <p>Apple ha mandado hoy las invitaciones para la keynote “There’s more in the making” que se celebrará el 30 de octubre. En</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/keynote-theres-more-in-the-making-el-30-de-octubre/">Keynote “There’s more in the making” el 30 de octubre</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -427,9 +411,7 @@
 		<category><![CDATA[Migración]]></category>
 		<category><![CDATA[Ráfagas de fotos]]></category>
 		<category><![CDATA[Recuerdos]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16936</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16936</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a></p>
 <p>Desde su lanzamiento en 2015, Fotos.app ha sido mi sistema de almacenamiento principal para las fotos que he sacado, tanto con el</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/guia-almacenar-fotos-digitales-y-abandonar-fotos-app/">Guía para almacenar tus fotos digitales y abandonar Fotos.app</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -703,9 +685,7 @@
 		<category><![CDATA[Noticias de Apple]]></category>
 		<category><![CDATA[Noticias de Mac]]></category>
 		<category><![CDATA[Procesadores]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16818</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16818</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a></p>
 <p>Agarrémonos bien fuerte porque vienen curvas. Mark Gurman e Ian King han publicado un adelanto de los planes de futuro de Apple</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-planea-usar-sus-propios-procesadores-en-el-mac-para-2020-reemplazando-a-intel/">Apple planea usar sus propios procesadores  en el Mac para 2020, reemplazando a Intel</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -750,9 +730,7 @@
 		<category><![CDATA[Panic]]></category>
 		<category><![CDATA[Servidores]]></category>
 		<category><![CDATA[SSH]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16780</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/">Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16780</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/">Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</a></p>
 <p>Hace años me topé con una aplicación con la que pude crear pequeñas páginas web desde mi Mac, pero nunca he hablado</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/coda-fantastico-editor-multilenguaje-para-mac-iphone-y-ipad/">Coda: fantástico editor multilenguaje para Mac, iPhone y iPad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -783,9 +761,7 @@
 <h2>3. Herramientas de ayuda al desarrollador</h2>
 <div class="galerias medio" data-layout="2" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/01/Sistema-de-ficheros-Coda1.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/01/Conexion-SSH-de-Coda.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/01/Conexion-SSH-de-Coda.jpg" title="" alt="" /></div>
 <p>Además de los plugins que se pueden instalar, Coda tiene algunas funciones internas ya pensadas para ayudar al desarrollador en su cometido.</p>
 <p>Estas son algunas de esas herramientas:</p>
 <ul>
@@ -854,9 +830,7 @@
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC17]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
 <p>Esta semana ha sido la keynote de la WWDC, el anual evento de desarrolladores que organiza Apple en el que presenta el</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -983,9 +957,7 @@
 		<category><![CDATA[TouchChat]]></category>
 		<category><![CDATA[Vídeos]]></category>
 		<category><![CDATA[VoiceOver]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16595</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/disenado-para-todo-el-mundo/">Diseñado para todo el mundo</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16595</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/disenado-para-todo-el-mundo/">Diseñado para todo el mundo</a></p>
 <p>No es nuevo ver cómo Apple presume de la accesibilidad de sus productos, es algo de lo que están muy orgullosos en</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/disenado-para-todo-el-mundo/">Diseñado para todo el mundo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -1039,9 +1011,7 @@
 		<category><![CDATA[Mac Pro]]></category>
 		<category><![CDATA[Noticias de Mac]]></category>
 		<category><![CDATA[Phil Schiller]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16515</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/">El futuro del Mac Pro, el iMac y las pantallas de Apple</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16515</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/">El futuro del Mac Pro, el iMac y las pantallas de Apple</a></p>
 <p>Ayer, Apple celebró una pequeña reunión privada con cinco periodistas tecnológicos en su campus (el antiguo). Uno de los asistentes fue John</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/el-futuro-del-mac-pro-el-imac-y-las-pantallas-de-apple/">El futuro del Mac Pro, el iMac y las pantallas de Apple</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -1136,9 +1106,7 @@
 		<category><![CDATA[Email]]></category>
 		<category><![CDATA[Mac]]></category>
 		<category><![CDATA[Spark]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16435</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/spark-para-mac-se-actualiza-con-etiquetas-y-carpetas-inteligentes/">Spark para Mac se actualiza con etiquetas y carpetas inteligentes</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16435</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/spark-para-mac-se-actualiza-con-etiquetas-y-carpetas-inteligentes/">Spark para Mac se actualiza con etiquetas y carpetas inteligentes</a></p>
 <p>Desde su lanzamiento para Mac, Spark ha sido mi cliente de email principal en iOS y Mac. Hoy ha sido actualizado con</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/spark-para-mac-se-actualiza-con-etiquetas-y-carpetas-inteligentes/">Spark para Mac se actualiza con etiquetas y carpetas inteligentes</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Paragón NTFS for Mac OS X &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/paragon-ntfs-for-mac-os-x/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[NTFS]]></category>
 		<category><![CDATA[Paragón NTFS for Mac OS X]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">http://aticomaquero.com/2010/08/como-leer-y-escribir-un-disco-duro-en-mac/</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/paragon-ntfs-como-leer-y-escribir-un-disco-duro-en-mac-con-formato-fat-32/">Paragón NTFS, cómo leer y escribir un disco duro en Mac con formato FAT 32</a></p>
+		<guid isPermaLink="false">http://aticomaquero.com/2010/08/como-leer-y-escribir-un-disco-duro-en-mac/</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/paragon-ntfs-como-leer-y-escribir-un-disco-duro-en-mac-con-formato-fat-32/">Paragón NTFS, cómo leer y escribir un disco duro en Mac con formato FAT 32</a></p>
 <p>Normalmente cuando adquirimos un disco duro externo no podemos utilizarlo al 100% en Mac, esto se debe al formato que tiene ese</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/paragon-ntfs-como-leer-y-escribir-un-disco-duro-en-mac-con-formato-fat-32/">Paragón NTFS, cómo leer y escribir un disco duro en Mac con formato FAT 32</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

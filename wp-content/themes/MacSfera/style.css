@@ -185,13 +185,9 @@ header.cabecera nav.navegacion div.menus div.cabecera-categorias ul.menu {
 	display: inline-block;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-header.cabecera nav.navegacion div.menus div.cabecera-categorias ul li a img {
+}header.cabecera nav.navegacion div.menus div.cabecera-categorias ul li a img {
 	display: none;
-}
-
-header.cabecera nav.navegacion div.menus ul li ul {
+}header.cabecera nav.navegacion div.menus ul li ul {
 	display: none;
 }
 header.cabecera nav.navegacion div.menus div ul li:hover ul {
@@ -237,16 +233,12 @@ header.cabecera nav.navegacion div.menus ul li ul li a{
 }
 .lupa a img {
 	display: block !important;
-}
-
-/*Última hora*/
+}/*Última hora*/
 div.fondo div.ultima-hora div.textwidget p {
 	text-align: center;
 	padding: 9px 0;
 	color: #5A5A5A;
-}
-
-/*Publicidad*/
+}/*Publicidad*/
 section.publicidad {
 	width: 100%;
 	padding-top: 40px;
@@ -264,9 +256,7 @@ section.publicidad div.pequeno {
 	width: 300px;
 	display: none;
 	z-index: 0;
-}
-
-/*Artículos*/
+}/*Artículos*/
 div.fondo {
     background: #F6F6F6;
     padding-bottom: 40px;
@@ -1234,9 +1224,7 @@ section.autor div ul li a {
 	header.cabecera nav.top div.menus div.menu-derecho {
 		margin-right: 20px;
 	}
-}
-
-@media all and (max-width: 1140px) {
+}@media all and (max-width: 1140px) {
 	div.fondo, div.contenido {
 		width: 100%;
 	}
@@ -1256,9 +1244,7 @@ section.autor div ul li a {
 		width: 100%;
 		height: auto !important;
 	}
-}
-
-@media all and (max-width: 1024px) {
+}@media all and (max-width: 1024px) {
 	footer.pie-de-pagina>div {
 		width: 95%;
 		margin-left: auto;
@@ -1268,9 +1254,7 @@ section.autor div ul li a {
 		margin-right: 0;
 		width: 190px;
 	}
-}
-
-@media all and (max-width: 860px) {
+}@media all and (max-width: 860px) {
 	section.articulos article header, section.articulos article .contenido h2.review, section.articulos article .contenido p.medio, section.articulos article .contenido div.medio, section.articulos article .contenido div.medio p, section.articulos article .contenido div.grande p, section.articulos article .contenido blockquote, section div.newsletter, section.autor, section.autor div {
 		width: 100% !important;
 	}
@@ -1292,9 +1276,7 @@ section.autor div ul li a {
 		margin-right: 0;
 		text-align: left;
 	}
-}
-
-@media all and (max-width: 768px) {
+}@media all and (max-width: 768px) {
 	section.articulos article .contenido blockquote.medio:before {
 		display: none;
 	}
@@ -1344,9 +1326,7 @@ section.autor div ul li a {
 	footer.pie-de-pagina div div.social ul li {
 		margin-right: 20px;
 	}
-}
-
-@media all and (max-width: 710px) {
+}@media all and (max-width: 710px) {
 	/*Menu pagina estatica*/
 	.cabecera-paginas ul.menu {
 		display: none !important;
@@ -1432,9 +1412,7 @@ section.autor div ul li a {
 	.cabecera-social .responsive li.facebook {
 		background: #4964a1 !important;
 	}
-	/*Menu categorias*/
-
-	.cabecera-categorias ul.menu {
+	/*Menu categorias*/	.cabecera-categorias ul.menu {
 		display: none !important;
 	}
 	.cabecera-categorias ul.responsive li ul {
@@ -1490,9 +1468,7 @@ section.autor div ul li a {
 	form.buscador {
 		width: 90%;
 	}
-}
-
-@media all and (max-width: 728px) {
+}@media all and (max-width: 728px) {
 	section.publicidad div.grande {
 		display: none;
 	}
@@ -1507,9 +1483,7 @@ section.autor div ul li a {
 		min-height: 124px;
 		max-height: 250px;
 	}
-}
-
-@media all and (max-width: 700px) {
+}@media all and (max-width: 700px) {
 	section.articulos article footer, section.articulos article footer .social-articulo, section section.publicidad-medio div, section.publicidad-medio>div, footer.pie-de-pagina div {
 		width: 100%;
 	}
@@ -1533,9 +1507,7 @@ section.autor div ul li a {
 	section section.publicidad-medio div div.derecha, section.publicidad-medio>div div.derecha {
 		margin-top: 40px;
 	}
-}
-
-@media all and (max-width: 620px) {
+}@media all and (max-width: 620px) {
 	section.articulos article footer .categorias, section.articulos article footer .fecha {
 		width: 95%;
 		margin-left: auto;
@@ -1549,9 +1521,7 @@ section.autor div ul li a {
 		float: none;
 		margin: 20px auto 0 auto;
 	}
-}
-
-@media all and (max-width: 515px) {
+}@media all and (max-width: 515px) {
 	section.articulos article .contenido p iframe, section.articulos article .contenido p object, .section.articulos article .contenido p embed {
 	   height: 350px;
 	}
@@ -1582,9 +1552,7 @@ section.autor div ul li a {
 	.mas .fila div ul {
 		text-align: center;
 	}
-}
-
-@media all and (max-width: 694px) {
+}@media all and (max-width: 694px) {
 	footer.pie-de-pagina div div.columnas {
 		margin-top: 20px;
 	}
@@ -1599,9 +1567,7 @@ section.autor div ul li a {
 	footer.pie-de-pagina div div.derecha {
 		margin-top: 20px;
 	}
-}
-
-@media all and (max-width: 465px) {
+}@media all and (max-width: 465px) {
 	section.articulos-relacionados div.columnas div.columna, section.articulos-grandes div.columnas article.columna {
 		float: none;
 		width: 90%;
@@ -1614,9 +1580,7 @@ section.autor div ul li a {
 	section.articulos-relacionados div.columnas div.columna h3, section.articulos-grandes div.columnas article.columna h3 {
 		text-align: left;
 	}
-}
-
-@media all and (max-width: 450px) {
+}@media all and (max-width: 450px) {
 	section.articulos article header h2, section.articulos article header h1 {
 		font-size: 2.1em;
 	}
@@ -1650,9 +1614,7 @@ section.autor div ul li a {
 	section div.newsletter form input[type="submit"] {
 		width: 100%;
 	}
-}
-
-@media all and (max-width: 414px) {
+}@media all and (max-width: 414px) {
 	section.articulos article header h2, section.articulos article header h1, section.articulos-relacionados h2, section.comentarios h2, section.articulos article .contenido blockquote.medio p {
 		font-size: 1.8em;
 	}
@@ -1705,9 +1667,7 @@ section.autor div ul li a {
 	footer.pie-de-pagina div div.social ul li {
 		margin-right: 19px;
 	}
-}
-
-@media all and (max-width: 375px) {
+}@media all and (max-width: 375px) {
 	section.articulos article .contenido h2.review::before, section.articulos article .contenido h2.review::after{
 		display: none;
 	}
@@ -1720,9 +1680,7 @@ section.autor div ul li a {
 	footer.pie-de-pagina div div.social ul li {
 		margin-right: 10px;
 	}
-}
-
-@media all and (max-width: 320px) {
+}@media all and (max-width: 320px) {
 	header.cabecera h1, header.cabecera h2 {
 		width: 100%;
 		background-size: 100%;
@@ -1753,9 +1711,7 @@ section.autor div ul li a {
 	section div.newsletter form input[type="submit"] {
 		width: 99.6%;
 	}
-}
-
-/*
+}/*
     ColorBox Core Style:
     The following CSS is consistent between example themes and should not be altered.
 */
@@ -1769,17 +1725,11 @@ section.autor div ul li a {
 #cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
 .cboxPhoto{float:left; margin:auto; border:0; display:block; max-width:none;}
 .cboxIframe{width:100%; height:100%; display:block; border:0;}
-#colorbox, #cboxContent, #cboxLoadedContent{box-sizing:content-box; -moz-box-sizing:content-box; -webkit-box-sizing:content-box;}
-
-/* 
+#colorbox, #cboxContent, #cboxLoadedContent{box-sizing:content-box; -moz-box-sizing:content-box; -webkit-box-sizing:content-box;}/* 
     User Style:
     Change the following styles to modify the appearance of ColorBox.  They are
     ordered & tabbed in a way that represents the nesting of the generated HTML.
-*/
-
-
-
-#cboxOverlay{background:#000000;}
+*/#cboxOverlay{background:#000000;}
 #colorbox{outline:0;}
 #cboxContent{margin-top:32px; overflow:visible;}
 #cboxError{padding:50px; border:1px solid #ccc;}
@@ -1787,15 +1737,9 @@ section.autor div ul li a {
 #cboxLoadingGraphic{background:url(http://static.tumblr.com/fftf9xi/rkklqu1ni/loading.gif) no-repeat center center;}
 #cboxLoadingOverlay{background:#000000;}
 #cboxTitle{position:absolute; top:-22px; left:0; color:#ffffff; text-shadow:none;}
-#cboxCurrent{position:absolute; top:-22px; right:205px; text-indent:-9999px;}
-
-/* these elements are buttons, and may need to have additional styles reset to avoid unwanted base styles */
-#cboxPrevious, #cboxNext, #cboxSlideshow, #cboxClose {border:0; padding:0; margin:0; overflow:visible; width:auto; background:none; }
-
-/* avoid outlines on :active (mouseclick), but preserve outlines on :focus (tabbed navigating) */
-#cboxPrevious:active, #cboxNext:active, #cboxSlideshow:active, #cboxClose:active {outline:0;}
-
-#cboxSlideshow, #cboxPrevious, #cboxNext, #cboxClose{text-indent:-9999px; width:20px; height:20px; position:absolute; top:-20px; background:url(http://static.tumblr.com/fftf9xi/1dslqu1o1/controls.png) no-repeat 0 0;}
+#cboxCurrent{position:absolute; top:-22px; right:205px; text-indent:-9999px;}/* these elements are buttons, and may need to have additional styles reset to avoid unwanted base styles */
+#cboxPrevious, #cboxNext, #cboxSlideshow, #cboxClose {border:0; padding:0; margin:0; overflow:visible; width:auto; background:none; }/* avoid outlines on :active (mouseclick), but preserve outlines on :focus (tabbed navigating) */
+#cboxPrevious:active, #cboxNext:active, #cboxSlideshow:active, #cboxClose:active {outline:0;}#cboxSlideshow, #cboxPrevious, #cboxNext, #cboxClose{text-indent:-9999px; width:20px; height:20px; position:absolute; top:-20px; background:url(http://static.tumblr.com/fftf9xi/1dslqu1o1/controls.png) no-repeat 0 0;}
 #cboxPrevious{background-position:0px 0px; right:44px;}
 #cboxPrevious.hover{background-position:0px -25px;}
 #cboxNext{background-position:-25px 0px; right:22px;}

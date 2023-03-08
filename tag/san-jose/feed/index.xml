@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>San José &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/san-jose/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[San José]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC18]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16796</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc18-se-celebrara-del-4-al-8-de-junio-en-san-jose/">La WWDC18 se celebrará del 4 al 8 de junio en San José</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16796</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc18-se-celebrara-del-4-al-8-de-junio-en-san-jose/">La WWDC18 se celebrará del 4 al 8 de junio en San José</a></p>
 <p>Apple ha hecho pública hoy la fecha de su famosa WWDC, la conferencia de desarrolladores anual. Será del 4 al 8 de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/la-wwdc18-se-celebrara-del-4-al-8-de-junio-en-san-jose/">La WWDC18 se celebrará del 4 al 8 de junio en San José</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

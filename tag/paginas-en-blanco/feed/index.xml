@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Páginas en Blanco &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/paginas-en-blanco/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -37,9 +35,7 @@
 		<category><![CDATA[PDF]]></category>
 		<category><![CDATA[Safari]]></category>
 		<category><![CDATA[Seguridad]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5712</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5712</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a></p>
 <p>Apple acaba de lanzar una nueva actualización de Safari que corrige algunos errores. Por lo general son soluciones a problemas y ajustes</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/safari-se-actualiza-a-la-version-5-1-2/">Safari se actualiza a la versión 5.1.2</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

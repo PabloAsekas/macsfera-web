@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Policía &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/policia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -30,9 +28,7 @@
 		<category><![CDATA[Nueva York]]></category>
 		<category><![CDATA[Policía]]></category>
 		<category><![CDATA[Productos Apple]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5218</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/descubierta-red-que-compraba-y-vendia-productos-de-apple-con-tarjetas-robadas/">Descubierta red que compraba y vendía productos de Apple con tarjetas robadas</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5218</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/descubierta-red-que-compraba-y-vendia-productos-de-apple-con-tarjetas-robadas/">Descubierta red que compraba y vendía productos de Apple con tarjetas robadas</a></p>
 <p>La policia de Nueva York ha desmantelado una red criminal que robaba los números de las tarjetas de crédito con los que</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/descubierta-red-que-compraba-y-vendia-productos-de-apple-con-tarjetas-robadas/">Descubierta red que compraba y vendía productos de Apple con tarjetas robadas</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

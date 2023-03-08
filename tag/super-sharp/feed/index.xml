@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Super Sharp &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/super-sharp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -36,9 +34,7 @@
 		<category><![CDATA[Super Sharp]]></category>
 		<category><![CDATA[Tayasui Sketches]]></category>
 		<category><![CDATA[Windy]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=13038</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ano-bisiesto/">¡Año bisiesto!</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=13038</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ano-bisiesto/">¡Año bisiesto!</a></p>
 <p>Hoy es 29 de febrero. Un día peculiar que sólo se da cada 4 años. Por ello, Apple ha creado una sección</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ano-bisiesto/">¡Año bisiesto!</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

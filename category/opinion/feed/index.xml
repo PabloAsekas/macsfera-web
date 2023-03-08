@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Opinión &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/category/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -44,9 +42,7 @@
 		<category><![CDATA[tvOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC19]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17105</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a></p>
 <p>Hace justo una semana se celebró la keynote de inauguración de la WWDC19, el evento anual de desarrolladores donde Apple presenta las</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc19/">Resumen y opinión de la keynote de la WWDC19</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -92,9 +88,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-app-Fotos.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-Mapas-de-Apple.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-mapas.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/06/iOS-13-calendario.jpg" title="" alt="" /></div>
 <p>Ya sabéis que soy un fan empedernido del esfuerzo que Apple hace para garantizar la seguridad de sus usuarios, <strong>y iOS 13 sigue con esa premisa un poco más.</strong> Se añade la posibilidad de compartir la ubicación con apps <strong>sólo una vez,</strong> de modo que la siguiente vez que usemos la app nos pedirá de nuevo permiso para usar la localización. <strong>Se acabó espiar a la gente con procesos en segundo plano.</strong> <strong>Se acabó usar los recursos de las antenas Wi-Fi y Bluetooth para localizar a las personas.</strong></p>
 <p>Y, dando la sorpresa, <strong>Apple ha creado su propio botón para <em>“Iniciar sesión con Apple”</em> en servicios de terceros.</strong> Con este nuevo método podremos usar aplicaciones sabiendo que se respeta nuestra privacidad. Además, en caso de que el servicio necesite tener nuestro email, <strong>Apple ofrece la posibilidad de crear emails aleatorios que van a ser redirigidos a nuestro email particular de Apple,</strong> de modo que el servicio nunca conoce nuestro email y nosotros podemos seguir usándolo sin problemas. La guinda al pastel viene en que este nuevo mecanismo de login es de <strong>uso obligatorio para todas las apps que quieran poner botones de otros servicios,</strong> y a mí no me pueden doler más las manos de aplaudir.</p>
 <p>Siguiendo con la privacidad y la seguridad, <strong>se han presentado nuevos mecanismos de seguridad para dispositivos compatibles con HomeKit,</strong> sobre todo las cámaras, ofreciendo almacenar las imágenes en la nube privada de Apple de forma temporal con cifrado punto a punto y sin consumir espacio del plan que tenemos contratado en iCloud. Además, se van a empezar a fabricar routers compatibles con HomeKit que sirvan como punto de protección extra para los dispositivos que hay en nuestra casa.</p>
@@ -159,9 +153,7 @@
 		<category><![CDATA[Apple TV]]></category>
 		<category><![CDATA[It’s show time]]></category>
 		<category><![CDATA[Keynote]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17093</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-its-show-time/">Resumen y opinión de la keynote “It’s show time”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17093</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-its-show-time/">Resumen y opinión de la keynote “It’s show time”</a></p>
 <p>Ayer se celebró la keynote “It’s show time” desde el Steve Jobs Theater y hoy os traigo el resumen de lo presentado.</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-its-show-time/">Resumen y opinión de la keynote “It’s show time”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -229,9 +221,7 @@
 		<category><![CDATA[MacBook Pro]]></category>
 		<category><![CDATA[Virtualización]]></category>
 		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17069</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17069</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a></p>
 <p>En 2012 empecé mis estudios universitarios, Ingeniería del software para ser exactos. Por aquella época yo ya usaba Mac, y no me</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mi-experiencia-estudiando-ingenieria-del-software-con-un-mac/">Mi experiencia estudiando Ingeniería del software con un Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -291,9 +281,7 @@
 <div class="galerias medio" data-layout="3" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Maldito-Windows.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Maldito-pantallazo-azul-de-Windows.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Ubuntu-virtualizado-en-Mac.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2019/02/Ubuntu-virtualizado-en-Mac.jpg" title="" alt="" /></div>
 <p>La virtualización es uno de esos inventos que ha cambiado la forma de trabajar con los ordenadores. De tener un ordenador ejecutando un solo sistema, a tener un ordenador ejecutando infinitos sistemas. Cada uno aislado, cada uno con su propio entorno y su propia naturaleza.</p>
 <p>Gracias a los sistemas de virtualización, <strong>podemos usar nuestro Mac para ejecutar todo lo que sea compatible, y a la vez, virtualizar otros sistemas operativos para ejecutar todo aquello que no es compatible de entrada.</strong></p>
 <p>En Mac, además, hay varias soluciones, gratuitas y de pago, con las que podemos virtualizar sistemas operativos:</p>
@@ -332,9 +320,7 @@
 		<category><![CDATA[iMac]]></category>
 		<category><![CDATA[Memoria RAM]]></category>
 		<category><![CDATA[Timetec]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=17051</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=17051</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a></p>
 <p>En 2012 el iMac llegó a mi vida, y antes de comprarlo tuve que hacer una pequeña elección: más memoria RAM o</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/ampliando-la-memoria-ram-de-mi-imac/">Ampliando la memoria RAM de mi iMac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -394,9 +380,7 @@
 		<category><![CDATA[iPhone XS Max]]></category>
 		<category><![CDATA[Keynote]]></category>
 		<category><![CDATA[Steve Jobs Theater]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16916</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-gather-round/">Resumen y opinión de la keynote “Gather Round”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16916</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-gather-round/">Resumen y opinión de la keynote “Gather Round”</a></p>
 <p>Ayer fue la keynote más esperada del año, el evento en el que Apple presenta los futuros iPhones que nos acompañarán durante</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-gather-round/">Resumen y opinión de la keynote “Gather Round”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -415,9 +399,7 @@
 <div class="galerias medio" data-layout="3" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/Apple-Watch-Series-4-fuego.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/Nuevo-Apple-Watch-Series-4.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/Apple-Watch-Series-4-electrocardiograma.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/Apple-Watch-Series-4-electrocardiograma.jpg" title="" alt="" /></div>
 <p><strong>Jeff Williams salió al escenario para presentar Apple Watch Series 4, el futuro reloj de Apple.</strong></p>
 <p>Con un nuevo diseño que aporta más pantalla, el Apple Watch Series 4 da un paso más en la dirección deportiva y de salud, <strong>plantándose en el mercado como casi la única solución completa en cuanto a relojes inteligentes se trata.</strong></p>
 <p>De 38mm y 42mm hemos pasado a 40mm y 44mm, aumentando la pantalla significativamente **y rediseñando el sistema para aprovechar ese espacio extra. **Se sigue sin poder elegir y diseñar esferas propias, pero es verdad que esta versión incluye un poco más de personalización.</p>
@@ -440,18 +422,14 @@
 <div class="galerias medio" data-layout="33" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-rojo.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Coral.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Amarillo.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Amarillo.jpg" title="" alt="" /></div>
 <p>Un nuevo modelo de iPhone ha llegado y su nombre es <strong>el iPhone XR.</strong> Es la primera vez que Apple lanza un modelo distinto al principal pero con características recién presentadas.</p>
 <p><strong>Mismo procesador A12 Bionic, misma versión de Face ID mejorada, mismo diseño  aunque en un tamaño que se encuentra entre el iPhone XS y el XS Max</strong> <sup class="modern-footnotes-footnote ">3</sup><strong>, misma cámara gran angular que una de las dos que equipa el iPhone XS y mismo tipo de cristal.</strong></p>
 <p>El único problema que se encuentra este teléfono es la pantalla. Si bien es un logro conseguir el diseño que han implementado con la tecnología LCD,<strong> su resolución es un poco baja considerando el tamaño de 6,1 pulgadas que tiene.</strong> Además, no equipa 3D Touch aunque sí True Tone.</p>
 <div class="galerias medio" data-layout="33" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Azul.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Blanco.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Space-Gray.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2018/09/iPhone-XR-Space-Gray.jpg" title="" alt="" /></div>
 <p>Disponible en 6 acabados (azul, gris espacial, coral, blanco, amarillo y rojo), el iPhone XR es un gran terminal con un tremendo potencial: <strong>su precio.</strong> En España se puede encontrar por 860€ la versión de 64GB. <strong>Sin duda es el punto más fuerte de una gran teléfono que equipa mucha de la última tecnología y se convierte en un modelo de entrada muy curioso.</strong></p>
 <p>El iPhone XR se podrá reservar el 19 de octubre y se podrá comprar a partir del 26 de ese mismo mes.</p>
 <p><span class="source">Más info</span> <span class="via"><a href="https://www.apple.com/es/iphone-xr/" rel="noopener noreferrer" target="_blank">Apple</a></span></p>
@@ -476,9 +454,7 @@
 		<category><![CDATA[Opinión]]></category>
 		<category><![CDATA[iPhone X]]></category>
 		<category><![CDATA[Primeras impresiones]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16739</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/probando-el-iphone-x/">Probando el iPhone X</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16739</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/probando-el-iphone-x/">Probando el iPhone X</a></p>
 <p>Esto no es un análisis del iPhone X. Lo dejo claro desde el principio porque llevamos 72 horas con él y es</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/probando-el-iphone-x/">Probando el iPhone X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -508,9 +484,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-Hola.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-Negro.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-Desbloqueado.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-Opinion.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-Opinion.jpg" title="" alt="" /></div>
 <p>De modo, que hay un pequeño espacio temporal en el cuál el iPhone X no sabe mucho sobre su legítimo dueño, y yo, que me parezco a mi hermano, <strong>he podido forzar que me reconozca como si fuese él.</strong></p>
 <p>¿Cómo lo he conseguido? Cada vez que he intentado desbloquear el teléfono con Face ID y no me ha dejado, he metido el código. En ese momento, <strong>Face ID ha visto que mi cara es similar a la de mi hermano y,</strong> como no me ha reconocido pero aún así he desbloqueado el teléfono, <strong>ha asumido que yo soy mi hermano y ha empezado a aprender sobre mi cara,</strong> permitiéndome tras varios intentos desbloquear el teléfono con mi cara.</p>
 <p>En el vídeo de ejemplo, los dos hermanos dicen haber estado más tiempo (4 horas en concreto), para que Face ID identifique al hermano malo como el bueno. A mí no me ha llevado más de 10 minutos porque mi hermano y yo tenemos una misma estructura facial: barba, gafas, cejas parecidas, pelo del mismo estilo <sup class="modern-footnotes-footnote ">2</sup>.</p>
@@ -528,9 +502,7 @@
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/11/El-iPhone-X.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-actualziando.jpg" title="" alt="" />
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/11/Notch-del-iPhone-x.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-x-pantalla-de-inicio-bloqueada.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-x-pantalla-de-inicio-bloqueada.jpg" title="" alt="" /></div>
 <p>El iPhone X es una mezcla de ambos conceptos: <strong>pantalla grande, cuerpo pequeño.</strong> Y eso lo convierte en uno de los mejores dispositivos relación pantalla-cuerpo entre los iPhones disponibles que hará que la gran mayoría de usuarios queden contentos. Aunque ya hay gente soñando con un modelo plus que aumente, aún más, el tamaño de la pantalla.</p>
 <p>En cuanto a la pantalla en sí, han eliminado el marco exterior que había en el resto de iPhones y literalmente va hasta el borde. Eso, junto al poco espacio que hay entre el cristal y los píxeles, hace que parezca que estás tocando los iconos en todo momento.</p>
 <p>Es un poco raro, los vídeos y las fotos no hacen justicia, pero si ya habían conseguido un gran avance en el pasado, en esta ocasión se han superado.</p>
@@ -554,9 +526,7 @@
 </ul>
 <div class="galerias medio" data-layout="2" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/11/Pantalla-del-iPhone-X.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-gris-espacial.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-gris-espacial.jpg" title="" alt="" /></div>
 <ul>
 <li><strong>Acceso a la linterna:</strong> tener acceso directo desde la pantalla de bloqueo a la linterna está muy bien</li>
 <li><strong>Acceso a la cámara:</strong> tener que hacer una pulsación fuerte con 3D Touch para acceder a la cámara en vez de deslizar hacia un lado <sup class="modern-footnotes-footnote ">10</sup> como se ha asimilado desde que se puso el acceso directo está muy mal</li>
@@ -574,9 +544,7 @@
 <div class="galerias grande" data-layout="3" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-cargando-Twelvesouth.jpg"/>
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-Gris-espacial-cargando-Twelvesouth.jpg"/>
-<img src="https://www.MacSfera.com/wp-content/uploads/2017/11/Primeras-impresiones-iPhone-x.jpg"/>
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2017/11/Primeras-impresiones-iPhone-x.jpg"/></div>
 <div>1&nbsp;&nbsp;&nbsp;&nbsp;Porque a mí no me reconocía la cara inicialmente.</div><div>2&nbsp;&nbsp;&nbsp;&nbsp;Y los dos somos preciosos &#x1f602;</div><div>3&nbsp;&nbsp;&nbsp;&nbsp;Esa franja negra que incluye todos los sensores y cámaras frontales</div><div>4&nbsp;&nbsp;&nbsp;&nbsp;En Apple han tardado un poco más en apreciarlo.</div><div>5&nbsp;&nbsp;&nbsp;&nbsp;El cristal se puede rayar igualmente, pero no se nota tanto como se nota en el acero pulido del iPhone 7.</div><div>6&nbsp;&nbsp;&nbsp;&nbsp;Y no sabéis lo que agradezco la <a href="https://www.MacSfera.com/wp-content/uploads/2017/11/iPhone-X-iPhone-7.jpg" title="iPhone X y iPhone 7" rel="noopener" target="_blank">reducción de los iconos e impresiones de la parte trasera</a>.</div><div>7&nbsp;&nbsp;&nbsp;&nbsp;Aunque en la pantalla de inicio debería bastar con deslizar hacia arriba.</div><div>8&nbsp;&nbsp;&nbsp;&nbsp;O deslizar hacia arriba.</div><div>9&nbsp;&nbsp;&nbsp;&nbsp;Si deslizamos hacia arriba una app hace el movimiento de que la vas a cerrar, pero no pasa nada. En serio, ¿por qué esto es así? &#x1f615;</div><div>10&nbsp;&nbsp;&nbsp;&nbsp;Me da igual que sea hacia arriba o hacia la izquerda.</div><div>11&nbsp;&nbsp;&nbsp;&nbsp;Ya sabéis lo que dicen, el que no se consuela es porque no quiere &#x1f605;</div><p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/probando-el-iphone-x/">Probando el iPhone X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></content:encoded>
 					
@@ -604,9 +572,7 @@
 		<category><![CDATA[Resumen]]></category>
 		<category><![CDATA[Steve Jobs]]></category>
 		<category><![CDATA[Tim Cook]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16689</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-lets-meet-at-our-place-del-iphone-x/">Resumen y opinión de la keynote «Let&#8217;s meet at our place» del iPhone X</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16689</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-lets-meet-at-our-place-del-iphone-x/">Resumen y opinión de la keynote «Let&#8217;s meet at our place» del iPhone X</a></p>
 <p>Han pasado dos días desde que se celebró la keynote. Como cada septiembre, Apple nos cita para que conozcamos el futuro de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-opinion-la-keynote-lets-meet-at-our-place-del-iphone-x/">Resumen y opinión de la keynote «Let&#8217;s meet at our place» del iPhone X</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -712,9 +678,7 @@
 		<category><![CDATA[Beats Solo2]]></category>
 		<category><![CDATA[Calidad]]></category>
 		<category><![CDATA[Productos de Apple]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16623</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/los-defectos-de-los-beats-solo2-tras-2-anos-de-uso/">Los defectos de los Beats Solo2 tras 2 años de uso</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16623</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/los-defectos-de-los-beats-solo2-tras-2-anos-de-uso/">Los defectos de los Beats Solo2 tras 2 años de uso</a></p>
 <p>Hace 2 años, Apple introdujo una promoción de vuelta a clase por la cual, con la compra de un Mac te obsequiaban</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/los-defectos-de-los-beats-solo2-tras-2-anos-de-uso/">Los defectos de los Beats Solo2 tras 2 años de uso</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -775,9 +739,7 @@
 		<category><![CDATA[watchOS]]></category>
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC17]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16607</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a></p>
 <p>Esta semana ha sido la keynote de la WWDC, el anual evento de desarrolladores que organiza Apple en el que presenta el</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-de-la-wwdc17/">Resumen y opinión de la keynote de la WWDC17</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -895,9 +857,7 @@
 				<category><![CDATA[iPad]]></category>
 		<category><![CDATA[Opinión]]></category>
 		<category><![CDATA[iPad Air 2]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16505</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/aclarando-conceptos-sobre-el-nuevo-ipad-tras-probarlo/">Aclarando conceptos sobre el nuevo iPad tras probarlo</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16505</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/aclarando-conceptos-sobre-el-nuevo-ipad-tras-probarlo/">Aclarando conceptos sobre el nuevo iPad tras probarlo</a></p>
 <p>Mi primera reacción tras ver el anuncio del nuevo iPad fue bastante positiva por el precio y el potencial, aunque perdiese terreno</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/aclarando-conceptos-sobre-el-nuevo-ipad-tras-probarlo/">Aclarando conceptos sobre el nuevo iPad tras probarlo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -915,9 +875,7 @@
 <h2>Pantalla del nuevo iPad</h2>
 <div class="galerias medio" data-layout="2" style="visibility: hidden;">
 <img src="https://www.MacSfera.com/wp-content/uploads/2017/04/Espacio-pantalla-nuevo-iPad.jpg" title="" alt="" />
-<img src="https://www.MacSfera.com/wp-content/uploads/2017/04/Espacio-pantalla-iPad-Air-2.jpg" title="" alt="" />
-
-</div>
+<img src="https://www.MacSfera.com/wp-content/uploads/2017/04/Espacio-pantalla-iPad-Air-2.jpg" title="" alt="" /></div>
 <p>Al igual que pensaba que el diseño del iPad Air marcaba la diferencia respecto a los modelos anteriores y que el iPad Air 2 sólo lo mejoraba superficialmente, creía que en la pantalla pasaría lo mismo. <strong>Me equivocaba.</strong></p>
 <p>En efecto, y aquí es donde realmente creo que reside la bajada de precio, <strong>la pantalla del nuevo iPad es la del Air</strong> <sup class="modern-footnotes-footnote ">1</sup><strong>, y es una mala noticia porque la del Air 2 era muy buena pantalla.</strong></p>
 <p>Como he comentado, este fue uno de los aspectos más criticados en los comentarios del artículo de pensamientos generales sobre este nuevo iPad y hoy he podido ver en mis propias carnes que la diferencia sí se nota.</p>
@@ -946,9 +904,7 @@
 		<pubDate>Thu, 23 Mar 2017 16:24:59 +0000</pubDate>
 				<category><![CDATA[iPad]]></category>
 		<category><![CDATA[Opinión]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16493</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/pensamientos-sobre-el-nuevo-ipad/">Pensamientos sobre el nuevo iPad</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16493</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/pensamientos-sobre-el-nuevo-ipad/">Pensamientos sobre el nuevo iPad</a></p>
 <p>Hace dos días, Apple presentó un nuevo iPad, y debido a las cualidades del dispositivo, ha traído un cierto revuelo entre los</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/pensamientos-sobre-el-nuevo-ipad/">Pensamientos sobre el nuevo iPad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>
@@ -1014,9 +970,7 @@
 		<category><![CDATA[3d Touch]]></category>
 		<category><![CDATA[Chip A10 Fusion]]></category>
 		<category><![CDATA[iPhone 7]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16417</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/las-tres-caracteristicas-unicas-que-mas-me-gustan-del-iphone-7/">Las tres características únicas que más me gustan del iPhone 7</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16417</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/las-tres-caracteristicas-unicas-que-mas-me-gustan-del-iphone-7/">Las tres características únicas que más me gustan del iPhone 7</a></p>
 <p>Han pasado más de 5 meses desde que se empezó a vender el iPhone 7 y me ha parecido una buena idea</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/las-tres-caracteristicas-unicas-que-mas-me-gustan-del-iphone-7/">Las tres características únicas que más me gustan del iPhone 7</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

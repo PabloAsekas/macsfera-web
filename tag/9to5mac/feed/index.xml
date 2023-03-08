@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>9To5Mac &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/9to5mac/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -29,9 +27,7 @@
 		<category><![CDATA[Curiosidades]]></category>
 		<category><![CDATA[Enlaces]]></category>
 		<category><![CDATA[9To5Mac]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=15616</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/las-propiedades-especiales-que-permiten-a-apple-eliminar-los-cables-de-seguridad-de-los-dispositivos-expuestos/">Las propiedades especiales que permiten a Apple eliminar los cables de seguridad</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=15616</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/las-propiedades-especiales-que-permiten-a-apple-eliminar-los-cables-de-seguridad-de-los-dispositivos-expuestos/">Las propiedades especiales que permiten a Apple eliminar los cables de seguridad</a></p>
 <p>La semana pasada hubo un reporte que anunciaba que Apple había empezado a retirar de algunas Apple Store los cables de seguridad</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/las-propiedades-especiales-que-permiten-a-apple-eliminar-los-cables-de-seguridad-de-los-dispositivos-expuestos/">Las propiedades especiales que permiten a Apple eliminar los cables de seguridad</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

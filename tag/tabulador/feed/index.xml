@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Tabulador &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/tabulador/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[Tabulador]]></category>
 		<category><![CDATA[Teclado]]></category>
 		<category><![CDATA[Todos los controles]]></category>
-		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1096</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/activa-la-opcion-de-tab-de-windows-en-mac/">Activa la opción de TAB de Windows en Mac</a></p>
+		<guid isPermaLink="false">http://www.aticomaquero.com/?p=1096</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/activa-la-opcion-de-tab-de-windows-en-mac/">Activa la opción de TAB de Windows en Mac</a></p>
 <p>Si eres nuevo en Mac y vienes de Windows estarás acostumbrado a que cuando aparecen varias opciones a elegir poder cambiar de</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/activa-la-opcion-de-tab-de-windows-en-mac/">Activa la opción de TAB de Windows en Mac</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

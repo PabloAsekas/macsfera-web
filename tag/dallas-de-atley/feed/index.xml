@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Dallas de Atley &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/dallas-de-atley/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[iOS]]></category>
 		<category><![CDATA[Las Vegas]]></category>
 		<category><![CDATA[Seguridad]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=7069</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-se-presentara-a-la-conferencia-de-seguridad-black-hat-por-primera-vez/">Apple se presentará a la conferencia de seguridad Black Hat por primera vez</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=7069</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-se-presentara-a-la-conferencia-de-seguridad-black-hat-por-primera-vez/">Apple se presentará a la conferencia de seguridad Black Hat por primera vez</a></p>
 <p>Black Hat es un evento que se celebra en Las Vegas donde se hacen presentaciones de seguridad de sistemas y se permite</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-se-presentara-a-la-conferencia-de-seguridad-black-hat-por-primera-vez/">Apple se presentará a la conferencia de seguridad Black Hat por primera vez</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

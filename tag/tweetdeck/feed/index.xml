@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>TweetDeck &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/tweetdeck/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -35,9 +33,7 @@
 		<category><![CDATA[TweetDeck]]></category>
 		<category><![CDATA[TweetDeck for Mac]]></category>
 		<category><![CDATA[Twitter]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5908</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/tweetdeck-aterriza-en-la-mac-app-store-analisis-de-la-aplicacion/">TweetDeck aterriza en la Mac App Store. Análisis de la aplicación</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5908</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/tweetdeck-aterriza-en-la-mac-app-store-analisis-de-la-aplicacion/">TweetDeck aterriza en la Mac App Store. Análisis de la aplicación</a></p>
 <p>El cliente más que conocido TweetDeck ha llegado hoy a la Mac App Store planteándose como buena alternativa a la aplicación oficial</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/tweetdeck-aterriza-en-la-mac-app-store-analisis-de-la-aplicacion/">TweetDeck aterriza en la Mac App Store. Análisis de la aplicación</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

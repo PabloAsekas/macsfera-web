@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Apple Today &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/apple-today/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -38,9 +36,7 @@
 		<category><![CDATA[Nueva York]]></category>
 		<category><![CDATA[There’s more in the making]]></category>
 		<category><![CDATA[USB C]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16976</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16976</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a></p>
 <p>Ayer se celebró la keynote “There’s more in the making”, el evento en el que esperábamos ver novedades acerca de los Mac</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/resumen-y-opinion-de-la-keynote-theres-more-in-the-making/">Resumen y opinión de la keynote “There’s more in the making”</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

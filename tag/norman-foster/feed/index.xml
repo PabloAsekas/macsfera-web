@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Norman Foster &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/norman-foster/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -34,9 +32,7 @@
 		<category><![CDATA[Norman Foster]]></category>
 		<category><![CDATA[Steve Jobs]]></category>
 		<category><![CDATA[Vídeos]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=10163</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mas-detalles-del-nuevo-campus-de-apple-a-traves-de-un-video/">Más detalles del nuevo campus de Apple a través de un vídeo</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=10163</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/mas-detalles-del-nuevo-campus-de-apple-a-traves-de-un-video/">Más detalles del nuevo campus de Apple a través de un vídeo</a></p>
 <p>Apple ha publicado un vídeo en el que muestran pequeños detalles del nuevo campus que tienen pensado construir en el antiguo terreno</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/mas-detalles-del-nuevo-campus-de-apple-a-traves-de-un-video/">Más detalles del nuevo campus de Apple a través de un vídeo</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

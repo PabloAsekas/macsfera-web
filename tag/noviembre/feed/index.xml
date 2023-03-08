@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Noviembre &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/noviembre/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -41,9 +39,7 @@
 		<category><![CDATA[Noviembre]]></category>
 		<category><![CDATA[Smart Cover]]></category>
 		<category><![CDATA[Teclado de Apple]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5686</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/asi-seran-los-descuentos-del-black-friday/">Así serán los descuentos del Black Friday</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5686</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/asi-seran-los-descuentos-del-black-friday/">Así serán los descuentos del Black Friday</a></p>
 <p>Se han filtrado los descuentos que se efectuarán en el Black Friday del 25 de noviembre de 2011. Los precios afectan a</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/asi-seran-los-descuentos-del-black-friday/">Así serán los descuentos del Black Friday</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

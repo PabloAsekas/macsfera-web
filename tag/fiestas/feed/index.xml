@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Fiestas &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/fiestas/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[Mail]]></category>
 		<category><![CDATA[Script]]></category>
 		<category><![CDATA[Texto loco]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=5895</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-crear-e-mails-graciosos-con-crazy-text/">Cómo crear e-mails graciosos con Crazy Text</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=5895</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/como-crear-e-mails-graciosos-con-crazy-text/">Cómo crear e-mails graciosos con Crazy Text</a></p>
 <p>En este tutorial os enseñaremos a crear e-mails graciosos usando el script Crazy Text que simulan muchas fuentes distintas con tamaños, colores</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/como-crear-e-mails-graciosos-con-crazy-text/">Cómo crear e-mails graciosos con Crazy Text</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

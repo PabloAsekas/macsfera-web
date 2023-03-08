@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>Apple HealthKit &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/apple-healthkit/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -33,9 +31,7 @@
 		<category><![CDATA[Pebble Classic]]></category>
 		<category><![CDATA[Pebble Health]]></category>
 		<category><![CDATA[Pebble Time]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=12673</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/regalo-pebbler-introduciendo-pebble-health-firmware-3-8/">Un regalo para cada Pebbler: Introduciendo Pebble Health y el Firmware 3.8</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=12673</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/regalo-pebbler-introduciendo-pebble-health-firmware-3-8/">Un regalo para cada Pebbler: Introduciendo Pebble Health y el Firmware 3.8</a></p>
 <p>Pebble ha anunciado recientemente que ha introducido Pebble Health y su nueva versión compatible con el Pebble Classic. Pebble Health traquea tu</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/regalo-pebbler-introduciendo-pebble-health-firmware-3-8/">Un regalo para cada Pebbler: Introduciendo Pebble Health y el Firmware 3.8</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
-<channel>
+	><channel>
 	<title>djay Pro &#8211; MacSfera</title>
 	<atom:link href="https://www.MacSfera.com/tag/djay-pro/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.MacSfera.com/</link>
@@ -42,9 +40,7 @@
 		<category><![CDATA[WWDC]]></category>
 		<category><![CDATA[WWDC16]]></category>
 		<category><![CDATA[Zova]]></category>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=14962</guid>
-
-					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-design-awards-la-wwdc16/">Apple Design Awards de la WWDC16</a></p>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=14962</guid>					<description><![CDATA[<p>Puedes leer perfectamente el artículo aquí, pero si quieres disfrutar al 100% de la experiencia al completo, lo mejor es leerlo en MacSfera: <a rel="nofollow" href="https://www.MacSfera.com/apple-design-awards-la-wwdc16/">Apple Design Awards de la WWDC16</a></p>
 <p>Se celebró el primer día de la WWDC16, los Apple Design Awards son unos premios que entrega Apple a distintos desarrolladores por</p>
 <p>La entrada <a rel="nofollow" href="https://www.MacSfera.com/apple-design-awards-la-wwdc16/">Apple Design Awards de la WWDC16</a> aparece primero en <a rel="nofollow" href="https://www.MacSfera.com/">MacSfera</a>.</p>
 ]]></description>

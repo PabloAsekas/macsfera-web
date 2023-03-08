@@ -20,53 +20,9 @@
 	<item>
 		<title>
 		Por: PabloAsekas		</title>
-		<link>https://www.MacSfera.com/apple-compra-app-de-automatizacion-workflow/?#comment-1082</link>
-
-		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
+		<link>https://www.MacSfera.com/apple-compra-app-de-automatizacion-workflow/?#comment-1082</link>		<dc:creator><![CDATA[PabloAsekas]]></dc:creator>
 		<pubDate>Thu, 23 Mar 2017 07:55:00 +0000</pubDate>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16487#comment-1082</guid>
-
-					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/apple-compra-app-de-automatizacion-workflow/?#comment-1081&quot;&gt;Daniel Doctor-López&lt;/a&gt;.
-
-Buenas Daniel,
-
-Depende un poco del uso que le des a tu dispositivo iOS. Yo lo uso mucho para tareas repetitivas del blog, te voy a poner mis ejemplos:
-
-&lt;strong&gt;Enlaces a la App Store:&lt;/strong&gt; me permite buscar una app en la App Store o Mac App Store, al link que obtiene le añade la etiqueta global y mi código de afiliado
-
-&lt;strong&gt;Live Photo a GiIF:&lt;/strong&gt; convierte la Live Photo seleccionada en un GIF. Es un buen método para &lt;a href=&quot;www.macsfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/&quot; title=&quot;Cómo enviar nuestras Live Photos por WhatsApp o Telegram&quot;&gt;enviar Live Photos por WhatsApp&lt;/a&gt;
-
-&lt;strong&gt;Live Photo a vídeo:&lt;/strong&gt; lo mismo que el anterior pero el resultado es un vídeo
-
-&lt;strong&gt;Shortcuts:&lt;/strong&gt; para el blog necesito insertar ciertos códigos de diversa complejidad y longitud que, ni me apetece memorizar, ni me apetece escribir, así que este Workflow me permite elegir lo que quiero insertar y me lo copia al portapapeles
-
-&lt;strong&gt;Abrir en Tweetbot:&lt;/strong&gt; hay veces que veo por Safari un perfil en Twitter o un tweet particular pero se abre en la web, si quiero abrirlo en Tweetbot este flujo lo hace automáticamente sin que tenga que buscar nada por mi cuenta
-
-&lt;strong&gt;Imagen a Twitter:&lt;/strong&gt; si quiero compartir una foto en Twitter sacada con el móvil, este workflow elimina los metadatos, reduce su tamaño y comprime un poco la foto
-
-&lt;strong&gt;YouTube iframe:&lt;strong&gt; genera un código de inserción de un vídeo de YouTube pasándole la URL del mismo
-
-&lt;strong&gt;Descarga YouTube:&lt;/strong&gt; descarga un vídeo de YouTube para que pueda verlo offline
-
-&lt;strong&gt;Abrir en YouTube:&lt;/strong&gt; antes de que la app lo forzara, podías abrir vídeos de YouTube desde el navegador, en el navegador. Si quería que estos se abriesen en la app de YouTube sin buscar nada, bastaba con invocar este flujo
-
-&lt;strong&gt;Imagen a MacSfera:&lt;/strong&gt; este flujo coge una imagen, la comprime varias veces, me deja elegir la que mejor está en relación Calidad-Peso, la renombra y la sube al blog para que pueda insertarla en cualquier entrada
-
-&lt;strong&gt;Publicar MacSfera:&lt;/strong&gt; coge un documento Markdown, analiza todos los elementos y automáticamente lo guarda como borrador en Wordpress con toda la información colocada en su sitio. Este es el flujo de trabajo que más utilizo y que más tiempo me ha ahorrado. Es increíble, en serio. Ojalá pueda enseñaros su potencial en este campo (aunque soy consciente de que no a todo el mundo le sirve)
-
-&lt;strong&gt;Tradedoubler:&lt;/strong&gt; cuando necesito un enlace de afiliado de Tradedoubler, invoco este Workflow y automáticamente me lo genera
-
-&lt;strong&gt;Quitar metadatos:&lt;/strong&gt; coge una imagen y le quita los metadatos, sin reducir tamaño ni calidad
-
-&lt;strong&gt;Limpiar enlace:&lt;/strong&gt; Dado un enlace, elimina todas las querys innecesarias dejando un enlace limpio. Las querys son esta pequeña información que va en algunas URLS que empieza siempre por &quot;?&quot; y tiene información a su derecha
-
-&lt;strong&gt;Calculador de descuento:&lt;/strong&gt; me calcula el precio definitivo de un producto en base a su precio y a su descuento
-
-Tengo un par más, pero están en pruebas, estaría muy bien que funcionasen porque ahorran muchísimo tiempo.
-
-Lo mejor de Workflow es que tienen una comunidad detrás que te sugiere flujos de trabajo y tú puedes usarlos gratuitamente, te dan ideas para tus casos personales, etc. etc.
-
-Espero que este sea un buen ejemplo de adquisición por parte de Apple y que la aplicación siga por el buen camino por el que iba y mejore muchísimo.]]></description>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16487#comment-1082</guid>					<description><![CDATA[En respuesta a &lt;a href=&quot;https://www.MacSfera.com/apple-compra-app-de-automatizacion-workflow/?#comment-1081&quot;&gt;Daniel Doctor-López&lt;/a&gt;.Buenas Daniel,Depende un poco del uso que le des a tu dispositivo iOS. Yo lo uso mucho para tareas repetitivas del blog, te voy a poner mis ejemplos:&lt;strong&gt;Enlaces a la App Store:&lt;/strong&gt; me permite buscar una app en la App Store o Mac App Store, al link que obtiene le añade la etiqueta global y mi código de afiliado&lt;strong&gt;Live Photo a GiIF:&lt;/strong&gt; convierte la Live Photo seleccionada en un GIF. Es un buen método para &lt;a href=&quot;www.macsfera.com/como-enviar-nuestras-live-photos-por-whatsapp-o-telegram/&quot; title=&quot;Cómo enviar nuestras Live Photos por WhatsApp o Telegram&quot;&gt;enviar Live Photos por WhatsApp&lt;/a&gt;&lt;strong&gt;Live Photo a vídeo:&lt;/strong&gt; lo mismo que el anterior pero el resultado es un vídeo&lt;strong&gt;Shortcuts:&lt;/strong&gt; para el blog necesito insertar ciertos códigos de diversa complejidad y longitud que, ni me apetece memorizar, ni me apetece escribir, así que este Workflow me permite elegir lo que quiero insertar y me lo copia al portapapeles&lt;strong&gt;Abrir en Tweetbot:&lt;/strong&gt; hay veces que veo por Safari un perfil en Twitter o un tweet particular pero se abre en la web, si quiero abrirlo en Tweetbot este flujo lo hace automáticamente sin que tenga que buscar nada por mi cuenta&lt;strong&gt;Imagen a Twitter:&lt;/strong&gt; si quiero compartir una foto en Twitter sacada con el móvil, este workflow elimina los metadatos, reduce su tamaño y comprime un poco la foto&lt;strong&gt;YouTube iframe:&lt;strong&gt; genera un código de inserción de un vídeo de YouTube pasándole la URL del mismo&lt;strong&gt;Descarga YouTube:&lt;/strong&gt; descarga un vídeo de YouTube para que pueda verlo offline&lt;strong&gt;Abrir en YouTube:&lt;/strong&gt; antes de que la app lo forzara, podías abrir vídeos de YouTube desde el navegador, en el navegador. Si quería que estos se abriesen en la app de YouTube sin buscar nada, bastaba con invocar este flujo&lt;strong&gt;Imagen a MacSfera:&lt;/strong&gt; este flujo coge una imagen, la comprime varias veces, me deja elegir la que mejor está en relación Calidad-Peso, la renombra y la sube al blog para que pueda insertarla en cualquier entrada&lt;strong&gt;Publicar MacSfera:&lt;/strong&gt; coge un documento Markdown, analiza todos los elementos y automáticamente lo guarda como borrador en Wordpress con toda la información colocada en su sitio. Este es el flujo de trabajo que más utilizo y que más tiempo me ha ahorrado. Es increíble, en serio. Ojalá pueda enseñaros su potencial en este campo (aunque soy consciente de que no a todo el mundo le sirve)&lt;strong&gt;Tradedoubler:&lt;/strong&gt; cuando necesito un enlace de afiliado de Tradedoubler, invoco este Workflow y automáticamente me lo genera&lt;strong&gt;Quitar metadatos:&lt;/strong&gt; coge una imagen y le quita los metadatos, sin reducir tamaño ni calidad&lt;strong&gt;Limpiar enlace:&lt;/strong&gt; Dado un enlace, elimina todas las querys innecesarias dejando un enlace limpio. Las querys son esta pequeña información que va en algunas URLS que empieza siempre por &quot;?&quot; y tiene información a su derecha&lt;strong&gt;Calculador de descuento:&lt;/strong&gt; me calcula el precio definitivo de un producto en base a su precio y a su descuentoTengo un par más, pero están en pruebas, estaría muy bien que funcionasen porque ahorran muchísimo tiempo.Lo mejor de Workflow es que tienen una comunidad detrás que te sugiere flujos de trabajo y tú puedes usarlos gratuitamente, te dan ideas para tus casos personales, etc. etc.Espero que este sea un buen ejemplo de adquisición por parte de Apple y que la aplicación siga por el buen camino por el que iba y mejore muchísimo.]]></description>
 			<content:encoded><![CDATA[<p>En respuesta a <a href="https://www.MacSfera.com/apple-compra-app-de-automatizacion-workflow/?#comment-1081">Daniel Doctor-López</a>.</p>
 <p>Buenas Daniel,</p>
 <p>Depende un poco del uso que le des a tu dispositivo iOS. Yo lo uso mucho para tareas repetitivas del blog, te voy a poner mis ejemplos:</p>
@@ -94,15 +50,9 @@ Espero que este sea un buen ejemplo de adquisición por parte de Apple y que la 
 		<item>
 		<title>
 		Por: Daniel Doctor-López		</title>
-		<link>https://www.MacSfera.com/apple-compra-app-de-automatizacion-workflow/?#comment-1081</link>
-
-		<dc:creator><![CDATA[Daniel Doctor-López]]></dc:creator>
+		<link>https://www.MacSfera.com/apple-compra-app-de-automatizacion-workflow/?#comment-1081</link>		<dc:creator><![CDATA[Daniel Doctor-López]]></dc:creator>
 		<pubDate>Thu, 23 Mar 2017 07:16:00 +0000</pubDate>
-		<guid isPermaLink="false">https://www.MacSfera.com/?p=16487#comment-1081</guid>
-
-					<description><![CDATA[Buenas, Pablo.
-
-¿Algún ejemplo chulo de lo que se puede hacer esta aplicación?]]></description>
+		<guid isPermaLink="false">https://www.MacSfera.com/?p=16487#comment-1081</guid>					<description><![CDATA[Buenas, Pablo.¿Algún ejemplo chulo de lo que se puede hacer esta aplicación?]]></description>
 			<content:encoded><![CDATA[<p>Buenas, Pablo.</p>
 <p>¿Algún ejemplo chulo de lo que se puede hacer esta aplicación?</p>
 ]]></content:encoded>
